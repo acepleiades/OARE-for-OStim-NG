@@ -22,4 +22,6 @@ OSA 2.023-SE and all its requirements:
 
 https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=54568&game_id=1704
 
-OStim is recommended but not necessary.
+OStim is recommended but not necessary. Join the OStim Discord to see new developments...
+
+discord.gg/RECvhVaRcU
