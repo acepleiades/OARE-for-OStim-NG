@@ -1,0 +1,74 @@
+<module id="0Sex" name="OpenSex" creator="OpenSex Community" v="0.1" actors="2">
+
+<init cmd="sortactors" bygender="1"/>
+<modify cmd="bodyScale" actor="0" bodyscale0="1.03" bodyscale1="1.03"/>
+<modify cmd="ogentleman" actor="0" shaft0="1.25" shaft1="1.25" scrotum0="1.25" scrotum1="1.25"/>
+<modify cmd="bodyScale" actor="1" bodyscale0="1.0" bodyscale1="1.0" />
+<boot dataMenu="full" dataStart="0"/>
+
+<suite>
+<gentleman>
+	<bj scrotum="1.25" shaft="1.25"/>
+	<bj scrotum="1.25" shaft="1.25"/>
+	<less scrotum="1.25" shaft="1.25"/>
+	<less scrotum="1.25" shaft="1.25"/>
+</gentleman>
+<mouth>
+	<bj><adj ty="ph" sy="0" am="100"/><adj ty="ph" sy="1" am="40"/><adj ty="ph" sy="5" am="100"/></bj>
+    <bj><adj ty="ph" sy="0" am="100"/><adj ty="ph" sy="1" am="40"/><adj ty="ph" sy="5" am="100"/></bj>	
+    <sj><adj ty="ph" sy="0" am="100"/><adj ty="ph" sy="1" am="40"/><adj ty="ph" sy="5" am="100"/></sj>
+    <sj><adj ty="ph" sy="0" am="100"/><adj ty="ph" sy="1" am="40"/><adj ty="ph" sy="5" am="100"/></sj>	
+</mouth>
+</suite>
+
+<role name="maleRole" gen="0" npc="npc">
+<gfx signet="sgo_dom_ic" color="19c4bd" namehue="19c4bd" gfxhue="19c4bd" itarg="omu_male"/>
+<scale bodyscale="1.03" gmstyle="ogentleman" scrotum="1.25" shaft="1.25"/>
+<scale bodyscale="1.03" gmstyle="ogentleman" scrotum="1.25" shaft="1.25"/>
+<esg post="1"/>	
+</role>
+
+<role name="femaleRole" gen="1" npc="npc">	
+<gfx signet="sgo_sub_op" color="e86570" bakhue="00FF18" namehue="E86570" gfxhue="E86570" itarg="omu_female"/>	
+<scale bodyscale="1.0" gmstyle="ogentleman" scrotum="ao" shaft="ao"/>
+<scale bodyscale="1.0" gmstyle="ogentleman" scrotum="ao" shaft="ao"/>
+<esg post="1"/>	
+</role>
+
+
+<visitor name="femaleVisitant" gen="1" npc="npc">		
+<gfx signet="sgo_sub_op" color="DEBEDB" namehue="DEBEDB" gfxhue="DEBEDB" itarg="omu_female"/>	
+<scale bodyscale="1.0" cockstyle="ao" scrotum="ao" shaft="ao"/>
+<scale bodyscale="1.0" cockstyle="ao" scrotum="ao" shaft="ao"/>
+<esg post="1"/>	
+<modify cmd="bodyScale" bodyscale0="1.0" bodyscale1="1.0"/>
+</visitor>
+
+<visitor name="maleVisitant" gen="1" npc="npc">	
+<gfx signet="sgo_dom_ic" color="E2BA59" namehue="E2BA59" gfxhue="E2BA59" itarg="omu_male"/>	
+<scale bodyscale="1.0" gmstyle="ogentleman" scrotum="1.25" shaft="1.25"/>
+<scale bodyscale="1.0" gmstyle="ogentleman" scrotum="1.25" shaft="1.25"/>
+<esg post="1"/>	
+<modify cmd="bodyScale" bodyscale0="1.0" bodyscale1="1.0" />
+<modify cmd="ogentleman" scrotum0="1.25" shaft0="1.25" scrotum1="1.25" shaft1="1.25"/>
+</visitor>
+
+
+<observer allow="1" signet="sgo_obs_cs">
+<navexit t="A" b="oba_a_bw" h="h_sma_cs" i="osy_observer"/>	
+</observer>
+
+<dfx></dfx>
+<dfx i="1">
+<fx0 cmd="EYE_DEST" eyedir="primary"/>
+<fx1 cmd="EYE_DEST" eyedir="primary"/>
+</dfx>
+<autoscene id="0MF|Sy6!Sy9|Ho|St9Adore"/>
+
+<nav>
+<np2>
+<onav page="" pagebar="" tabbar="" grid="" option="" brass="" base="oba_a_xw"/> 
+</np2>	
+</nav>	
+</module>    
+ 

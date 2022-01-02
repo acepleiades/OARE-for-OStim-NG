@@ -1,0 +1,29 @@
+<scene id="OpS|Kne!AFo!Kne|Sx|GoToAce3PKneelingSexKissing" actors="2" style="OScene">
+<info name="Transition into Kneeling Sex Kissing" animator="Ace"/>
+<anim id="0SxOpS_Sx-Ace3PKneelingSexKissing_S2" t="T" l="1" dest="OpS|Kne!AFo!Kne|Sx|Ace3PKneelingSexKissing">
+<mfx a= "0">
+<fx0 ti="0" cmd="EVNT">
+	<evnt cmd="actor" type="kiss" subtype="KissEnter" drive="intimate">
+	<eyes><look v="-95" h="-90" vpan="5" hpan="10"/></eyes>
+	</evnt>
+</fx0>
+<fx1 ti="0" cmd="EVNT">
+	<evnt cmd="actor" type="kiss" subtype="KissEnter" drive="intimate">
+	<eyes><look v="-95" h="-90" vpan="5" hpan="10"/></eyes>
+	</evnt>
+</fx1>
+</mfx>
+<mfx a= "2">
+<fx0 ti="0" cmd="EVNT">
+	<evnt cmd="actor" type="kiss" subtype="KissEnter" drive="intimate">
+	<eyes><look v="-95" h="-90" vpan="5" hpan="10"/></eyes>
+	</evnt>
+</fx0>
+<fx1 ti="0" cmd="EVNT">
+	<evnt cmd="actor" type="kiss" subtype="KissEnter" drive="intimate">
+	<eyes><look v="-95" h="-90" vpan="5" hpan="10"/></eyes>
+	</evnt>
+</fx1>
+</mfx>
+</anim>
+</scene>

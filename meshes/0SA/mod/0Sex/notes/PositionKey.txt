@@ -1,0 +1,9 @@
+POSITION:
+
+Sta = Standing
+Kne = Kneeling
+AFo = All fours
+LyB = Lying on one's back
+LyF = Lying on one's front
+LyS = Lying on one's side
+Sit = Sitting

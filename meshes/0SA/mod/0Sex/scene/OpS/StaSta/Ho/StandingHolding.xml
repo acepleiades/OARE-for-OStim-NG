@@ -1,0 +1,91 @@
+<scene id="OpS|Sta!Sta|Ho|StandingHolding" actors="2">
+<info name="Standing" animator="Ace"/>
+<region om="A" maj="S" min="S" stage="" step="" story=""/>
+<animation>
+	<animrole type="solo">
+		<animplan>
+			<anim id="0SxOpS_Ho-StandingHolding_0" t="L" l="2.0"/>
+		</animplan>
+	</animrole>
+	<animrole type="solo">
+		<animplan>
+			<anim id="0SxOpS_Ho-StandingHolding_1" t="L" l="2.0"/>
+		</animplan>
+	</animrole>
+</animation>
+<nav>
+	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="obustT180_f" go="OpS|Sta!Sta|Ho|StandingHoldingFromBehind" text="Turn your partner around." t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="oknlbdn_f" go="0MF|KNy6!KNy6|Ho|KnLap" text="Lead your partner down with you (Very WIP)." t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="obigx" go="0MF|Sy6!Sy9|Ho|St9Adore" text="Let go of your partner." t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hheartdt" icon="opowkiss_mf" go="OpS|Sta!Sta|Ho|GoToStandingKiss" text="Kiss your partner." t0="1">
+			<enhance a="0"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+			</option>
+		</page>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceCarryingFrontalSex" text="Lift your partner and put it inside.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
+	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="osqtlbbdn_f" go="OpS|Sta!Kne|Ho|MaleStandingFemaleKneeling" text="Kneel.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="obigx" go="0MF|Sy6!Sy9|Ho|St9Adore" text="Let go of your partner.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+		<page icon="mheart"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="htender" icon="opowkiss_mf" go="OpS|Sta!Sta|Ho|GoToStandingKiss" text="Kiss your partner." t0="0">
+			<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" n="sk0" v="0"/><ihue cmd="body" n="sk1" v="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Sta|HJ|AceStandingHandjob" text="Stroke your partner.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!Sta|HJ|AceStandingFootjob" text="Step on him.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
+	<tab icon="splus" text="^invite" empty="2"><hue n="hu" cmd="vg" a="0"/><bnhue cmd="vn" a="0"/>
+		<page icon="mgensignf"><hue n="hu" cmd="vg" a="0"/>
+			<option halo="h_plus_rbo" icon="" go="$InviteScan" text="^inviteSomeoneToJoinFemale" t0="0">
+			<ihue n="hu" cmd="vn" a="0"/>
+			<cmd dest="OpS|Sta!Sta!Sta|Ho|Ace3PStanding" rolename="^femaleVisitant" sceneName="^joinFFM" npc="npc"/>
+			</option>
+		</page>
+	</tab>
+<defaults/>
+</nav>
+<eyes a="0" facerel="0" actionrel="2" bodyrel="1">
+<primary v="0" h="0" vpan="10" hpan="10"/>
+<face v="0" h="0" vpan="10" hpan="10"/>
+<body v="0" h="0" vpan="10" hpan="10"/>
+<action v="0" h="0" vpan="10" hpan="10"/>
+<away v="0" h="0" vpan="10" hpan="10"/>
+</eyes>	
+<eyes a="1" facerel="0" actionrel="2" bodyrel="1">
+<primary v="0" h="0" vpan="10" hpan="10" />
+<face v="0" h="0" vpan="10" hpan="10" />
+<body v="0" h="0" vpan="10" hpan="10" />
+<action v="0" h="0" vpan="10" hpan="10" />
+<away v="0" h="0" vpan="10" hpan="10" />
+</eyes>
+<motif drive="intimate" theme="Affection"/>
+<motif drive="intimate" theme="Affection"/>
+<autonav>
+</autonav>
+</scene>

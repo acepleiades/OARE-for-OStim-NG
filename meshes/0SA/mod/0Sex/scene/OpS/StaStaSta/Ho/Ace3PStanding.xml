@@ -1,0 +1,52 @@
+<scene id="OpS|Sta!Sta!Sta|Ho|Ace3PStanding" actors="3" style="OScene">
+<info name="Suggestive Girls" animator="Ace"/>
+<region om="A" maj="D" min="D" stage="" step="" story=""/>
+<anim id="0SxOpS_Ho-Ace3PStanding" t="L" l="2"/>
+<nav>
+	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta!Sta|Ho|Ace3PStandingHolding" text="Hold your partners." t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="oknlbdn_f" go="OpS|LyB!Kne!Kne|Ho|SuggestiveGirls" text="Lie down." t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
+	<tab icon="splus" text="^dismiss" empty="2"><hue n="hu" cmd="vg" a="1"/><bnhue cmd="vn" a="1"/>
+		<page icon="mgensignm"><hue n="hu" cmd="vg" a="1"/>
+			<option halo="h_plus_rbo" icon="obigx" go="$RemoveActor" text="^HaveNLeave" t0="2">
+			<cmd dest="OpS|Sta!Sta|Ho|StandingHolding" actor="2"/>
+			</option>
+		</page>
+	</tab>
+</nav>
+<eyes a="0" facerel="2" actionrel="0" bodyrel="1">
+<primary v="-80" h="0" vpan="10" hpan="10"/>
+<face v="-80" h="0" vpan="10" hpan="10"/>
+<body v="-80" h="0" vpan="10" hpan="10"/>
+<action v="-80" h="0" vpan="10" hpan="10"/>
+<away v="-80" h="0" vpan="40" hpan="90"/>
+</eyes>
+<eyes a="1" facerel="2" actionrel="1" bodyrel="0">
+<primary v="50" h="0" vpan="0" hpan="0"/>
+<face v="50" h="0" vpan="0" hpan="0"/>
+<body v="50" h="0" vpan="0" hpan="0"/>
+<action v="50" h="0" vpan="0" hpan="0"/>
+<away v="50" h="0" vpan="0" hpan="0"/>
+</eyes>
+<eyes a="2" facerel="2" actionrel="1" bodyrel="0">
+<primary v="90" h="10" vpan="0" hpan="0"/>
+<face v="90" h="10" vpan="0" hpan="0"/>
+<body v="90" h="10" vpan="0" hpan="0"/>
+<action v="90" h="10" vpan="0" hpan="0"/>
+<away v="90" h="10" vpan="0" hpan="0"/>
+</eyes>
+<motif drive="intimate" theme="Affection"/>
+<motif drive="intimate" theme="Affection"/>
+<motif drive="intimate" theme="Affection"/>
+<autonav>
+</autonav>
+<visitor ix="1" a="2"/>
+</scene>

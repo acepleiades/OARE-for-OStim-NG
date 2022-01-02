@@ -1,0 +1,20 @@
+<scene id="OpS|Sta!Sta|Ho|StandingSpank" actors="2" style="OScene">
+<info name="Standing Spank" animator="Ace"/>
+<anim id="0SxOpS_Ho-StandingSpank" t="T" l="2.666" dest="OpS|Sta!Sta|Ho|StandingSpankIdle">
+<dfx a= "0">
+</dfx>
+<mfx a= "1">
+<fx0 ti="1.166" cmd="EVNT">
+	<evnt cmd="actor" type="spank" subtype="Spank" drive="intimate" whodid="0" side="L" force="2" sound="slap" soundpow="2" crit="25">
+	<eyes><look v="-95" h="-90" vpan="5" hpan="10"/></eyes>
+	</evnt>
+</fx0>
+<fx1 ti="1.166" cmd="EVNT">
+	<evnt cmd="actor" type="spank" subtype="Spank" drive="intimate" whodid="0" side="L" force="2" sound="slap" soundpow="2" crit="25">
+	<eyes><look v="-95" h="90" vpan="5" hpan="10"/></eyes>
+	</evnt>
+</fx1>
+</mfx>
+<out cmd="leadIntoAnim" id="OpS|Sta!Sta|Ho|StandingSpankIdle"/>
+</anim>
+</scene>
