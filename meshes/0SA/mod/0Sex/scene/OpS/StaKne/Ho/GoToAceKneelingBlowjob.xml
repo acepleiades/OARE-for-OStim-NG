@@ -1,0 +1,11 @@
+<scene id="OpS|Sta!Kne|Ho|GoToAceKneelingBlowjob" actors="2" style="OScene">
+<info name="Transition into Standing Blowjob" animator="Ace"/>
+<anim id="0SxOpS_BJ-AceKneelingBlowjob_S1" t="T" l="1" dest="OpS|Sta!Kne|BJ|AceKneelingBlowjob">
+<mfx a= "1">
+<fx0 ti="0" cmd="BLS_MOUTH" suite="bj" suitecmd=""/>
+<fx1 ti="0" cmd="BLS_MOUTH" suite="bj" suitecmd=""/>
+</mfx>
+<dfx a="0" fx="1"/>
+<dfx a="1" fx="1"/>
+</anim>
+</scene>
