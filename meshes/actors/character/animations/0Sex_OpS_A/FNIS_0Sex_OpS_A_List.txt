@@ -88,12 +88,14 @@ b -Tn 0SxOpS_BJ-AceKneelingBlowjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne
 b -Tn 0SxOpS_BJ-AceKneelingBlowjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjob_S4_1.hkx
 b -Tn 0SxOpS_BJ-AceKneelingBlowjob_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjob_S5_0.hkx
 b -Tn 0SxOpS_BJ-AceKneelingBlowjob_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjob_S5_1.hkx
-b -Tn 0SxOpS_BJ-KneelingBlowjobSplayed_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-KneelingBlowjobSplayed_S1_0.hkx
-b -Tn 0SxOpS_BJ-KneelingBlowjobSplayed_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-KneelingBlowjobSplayed_S1_1.hkx
-b -Tn 0SxOpS_BJ-KneelingBlowjobSplayed_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-KneelingBlowjobSplayed_S2_0.hkx
-b -Tn 0SxOpS_BJ-KneelingBlowjobSplayed_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-KneelingBlowjobSplayed_S2_1.hkx
-b -Tn 0SxOpS_BJ-KneelingBlowjobSplayed_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-KneelingBlowjobSplayed_S3_0.hkx
-b -Tn 0SxOpS_BJ-KneelingBlowjobSplayed_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-KneelingBlowjobSplayed_S3_1.hkx
+b -Tn 0SxOpS_BJ-AceKneelingBlowjobSplayed_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjobSplayed_S1_0.hkx
+b -Tn 0SxOpS_BJ-AceKneelingBlowjobSplayed_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjobSplayed_S1_1.hkx
+b -Tn 0SxOpS_BJ-AceKneelingBlowjobSplayed_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjobSplayed_S2_0.hkx
+b -Tn 0SxOpS_BJ-AceKneelingBlowjobSplayed_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjobSplayed_S2_1.hkx
+b -Tn 0SxOpS_BJ-AceKneelingBlowjobSplayed_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjobSplayed_S3_0.hkx
+b -Tn 0SxOpS_BJ-AceKneelingBlowjobSplayed_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjobSplayed_S3_1.hkx
+b -Tn 0SxOpS_BJ-AceKneelingBlowjobSplayed_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjobSplayed_S4_0.hkx
+b -Tn 0SxOpS_BJ-AceKneelingBlowjobSplayed_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjobSplayed_S4_1.hkx
 
 b -Tn 0SxOpS_Ho-KneelingHolding_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_0.hkx
 b -Tn 0SxOpS_Ho-KneelingHolding_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_1.hkx

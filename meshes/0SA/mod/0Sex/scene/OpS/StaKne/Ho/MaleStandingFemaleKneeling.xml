@@ -13,7 +13,7 @@
 			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Kne|HJ|AceKneelingHandjob" text="Stroke your partner.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="objbf_f" go="OpS|Sta!Kne|BJ|AceKneelingBlowjob" text="Suck your partner.">
+			<option halo="hgentle" icon="objbf_f" go="OpS|Sta!Kne|Ho|GoToAceKneelingBlowjob" text="Suck your partner.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
