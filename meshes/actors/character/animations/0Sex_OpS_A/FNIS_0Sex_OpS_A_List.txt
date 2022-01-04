@@ -86,6 +86,7 @@ b -Tn 0SxOpS_HJ-AceKneelingHandjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne
 b -Tn 0SxOpS_HJ-AceKneelingHandjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\HJ\AceKneelingHandjob\0SxOpS_HJ-AceKneelingHandjob_S4_0.hkx
 b -Tn 0SxOpS_HJ-AceKneelingHandjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\HJ\AceKneelingHandjob\0SxOpS_HJ-AceKneelingHandjob_S4_1.hkx
 b -Tn 0SxOpS_HJ-AceKneelingHandjob_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\HJ\AceKneelingHandjob\0SxOpS_HJ-AceKneelingHandjob_S5_0.hkx
+b -Tn 0SxOpS_HJ-AceKneelingHandjob_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\HJ\AceKneelingHandjob\0SxOpS_HJ-AceKneelingHandjob_S5_1.hkx
 b -Tn 0SxOpS_BJ-AceKneelingBlowjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjob_S1_0.hkx
 b -Tn 0SxOpS_BJ-AceKneelingBlowjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjob_S1_1.hkx
 b -Tn 0SxOpS_BJ-AceKneelingBlowjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjob_S2_0.hkx
