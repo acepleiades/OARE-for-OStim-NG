@@ -69,6 +69,14 @@ b -Tn 0SxOpS_Sx-AceStandingSex_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\
 
 b -Tn 0SxOpS_Ho-MaleStandingFemaleKneeling_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ho\MaleStandingFemaleKneeling\0SxOpS_Ho-MaleStandingFemaleKneeling_0.hkx
 b -Tn 0SxOpS_Ho-MaleStandingFemaleKneeling_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ho\MaleStandingFemaleKneeling\0SxOpS_Ho-MaleStandingFemaleKneeling_1.hkx
+b -Tn 0SxOpS_Po-AceRubbingPenisAgainstFace_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Po\AceRubbingPenisAgainstFace\0SxOpS_Po-AceRubbingPenisAgainstFace_S1_0.hkx
+b -Tn 0SxOpS_Po-AceRubbingPenisAgainstFace_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Po\AceRubbingPenisAgainstFace\0SxOpS_Po-AceRubbingPenisAgainstFace_S1_1.hkx
+b -Tn 0SxOpS_Po-AceRubbingPenisAgainstFace_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Po\AceRubbingPenisAgainstFace\0SxOpS_Po-AceRubbingPenisAgainstFace_S2_0.hkx
+b -Tn 0SxOpS_Po-AceRubbingPenisAgainstFace_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Po\AceRubbingPenisAgainstFace\0SxOpS_Po-AceRubbingPenisAgainstFace_S2_1.hkx
+b -Tn 0SxOpS_Po-AceRubbingPenisAgainstFace_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Po\AceRubbingPenisAgainstFace\0SxOpS_Po-AceRubbingPenisAgainstFace_S3_0.hkx
+b -Tn 0SxOpS_Po-AceRubbingPenisAgainstFace_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Po\AceRubbingPenisAgainstFace\0SxOpS_Po-AceRubbingPenisAgainstFace_S3_1.hkx
+b -Tn 0SxOpS_Po-AceRubbingPenisAgainstFace_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Po\AceRubbingPenisAgainstFace\0SxOpS_Po-AceRubbingPenisAgainstFace_S4_0.hkx
+b -Tn 0SxOpS_Po-AceRubbingPenisAgainstFace_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Po\AceRubbingPenisAgainstFace\0SxOpS_Po-AceRubbingPenisAgainstFace_S4_1.hkx
 b -Tn 0SxOpS_HJ-AceKneelingHandjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\HJ\AceKneelingHandjob\0SxOpS_HJ-AceKneelingHandjob_S1_0.hkx
 b -Tn 0SxOpS_HJ-AceKneelingHandjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\HJ\AceKneelingHandjob\0SxOpS_HJ-AceKneelingHandjob_S1_1.hkx
 b -Tn 0SxOpS_HJ-AceKneelingHandjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\HJ\AceKneelingHandjob\0SxOpS_HJ-AceKneelingHandjob_S2_0.hkx
