@@ -2,7 +2,7 @@
 <info name="Standing Thighfuck" animator="Ace"/>
 <region om="A" maj="K" min="K" stage="" step="" story=""/>
 <anim id="0SxOpS_HJ-AceStandingThighfuck_S1" t="L" l="2"/>
-<speed a="1" min="1" max="5" name="thrusts">	
+<speed a="0" min="1" max="5" name="thrusts">	
 	<sp mtx="^thrustsPerSec" qnt=".25">
 		<anim id="0SxOpS_HJ-AceStandingThighfuck_S1" t="L" l="2" i0="1" i1="1"/></sp>
 	<sp mtx="^thrustsPerSec" qnt=".5">
