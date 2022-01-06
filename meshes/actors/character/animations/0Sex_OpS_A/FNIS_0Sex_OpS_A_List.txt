@@ -178,17 +178,6 @@ b -Tn 0SxOpS_Sx-MatingPress_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\Mat
 b -Tn 0SxOpS_Sx-MatingPress_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MatingPress\0SxOpS_Sx-MatingPress_S5_0.hkx
 b -Tn 0SxOpS_Sx-MatingPress_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MatingPress\0SxOpS_Sx-MatingPress_S5_1.hkx
 
-b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S0_0.hkx
-b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S0_1.hkx
-b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S1_0.hkx
-b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S1_1.hkx
-b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S2_0.hkx
-b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S2_1.hkx
-b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S3_0.hkx
-b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S3_1.hkx
-b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S4_0.hkx
-b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S4_1.hkx
-
 b -Tn 0SxOpS_Sx-SplayedLegsDoggy_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\SplayedLegsDoggy\0SxOpS_Sx-SplayedLegsDoggy_S1_0.hkx
 b -Tn 0SxOpS_Sx-SplayedLegsDoggy_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\SplayedLegsDoggy\0SxOpS_Sx-SplayedLegsDoggy_S1_1.hkx
 b -Tn 0SxOpS_Sx-SplayedLegsDoggy_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\SplayedLegsDoggy\0SxOpS_Sx-SplayedLegsDoggy_S2_0.hkx
@@ -282,6 +271,27 @@ b -Tn 0SxOpS_Sx-Ace3PKneelingSexKissing_S3_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\K
 b -Tn 0SxOpS_Sx-Ace3PKneelingSexKissing_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFoKne\Sx\Ace3PKneelingSexKissing\0SxOpS_Sx-Ace3PKneelingSexKissing_S4_0.hkx
 b -Tn 0SxOpS_Sx-Ace3PKneelingSexKissing_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFoKne\Sx\Ace3PKneelingSexKissing\0SxOpS_Sx-Ace3PKneelingSexKissing_S4_1.hkx
 b -Tn 0SxOpS_Sx-Ace3PKneelingSexKissing_S4_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFoKne\Sx\Ace3PKneelingSexKissing\0SxOpS_Sx-Ace3PKneelingSexKissing_S4_2.hkx
+
+b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S0_0.hkx
+b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S0_1.hkx
+b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S1_0.hkx
+b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S1_1.hkx
+b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S2_0.hkx
+b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S2_1.hkx
+b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S3_0.hkx
+b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S3_1.hkx
+b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S4_0.hkx
+b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S4_1.hkx
+b -Tn 0SxOpS_VHJ-AceLesbian69Fingering_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\VHJ\AceLesbian69Fingering\0SxOpS_VHJ-AceLesbian69Fingering_S1_0.hkx
+b -Tn 0SxOpS_VHJ-AceLesbian69Fingering_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\VHJ\AceLesbian69Fingering\0SxOpS_VHJ-AceLesbian69Fingering_S1_1.hkx
+b -Tn 0SxOpS_VHJ-AceLesbian69Fingering_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\VHJ\AceLesbian69Fingering\0SxOpS_VHJ-AceLesbian69Fingering_S2_0.hkx
+b -Tn 0SxOpS_VHJ-AceLesbian69Fingering_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\VHJ\AceLesbian69Fingering\0SxOpS_VHJ-AceLesbian69Fingering_S2_1.hkx
+b -Tn 0SxOpS_VHJ-AceLesbian69Fingering_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\VHJ\AceLesbian69Fingering\0SxOpS_VHJ-AceLesbian69Fingering_S3_0.hkx
+b -Tn 0SxOpS_VHJ-AceLesbian69Fingering_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\VHJ\AceLesbian69Fingering\0SxOpS_VHJ-AceLesbian69Fingering_S3_1.hkx
+b -Tn 0SxOpS_VHJ-AceLesbian69Fingering_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\VHJ\AceLesbian69Fingering\0SxOpS_VHJ-AceLesbian69Fingering_S4_0.hkx
+b -Tn 0SxOpS_VHJ-AceLesbian69Fingering_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\VHJ\AceLesbian69Fingering\0SxOpS_VHJ-AceLesbian69Fingering_S4_1.hkx
+b -Tn 0SxOpS_VHJ-AceLesbian69Fingering_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\VHJ\AceLesbian69Fingering\0SxOpS_VHJ-AceLesbian69Fingering_S5_0.hkx
+b -Tn 0SxOpS_VHJ-AceLesbian69Fingering_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\VHJ\AceLesbian69Fingering\0SxOpS_VHJ-AceLesbian69Fingering_S5_1.hkx
 
 b -Tn 0SxOpS_Sx-RevCowgirlFP_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LybAFo\Sx\RevCowgirlFP\0SxOpS_Sx-RevCowgirlFP_S0_0.hkx
 b -Tn 0SxOpS_Sx-RevCowgirlFP_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LybAFo\Sx\RevCowgirlFP\0SxOpS_Sx-RevCowgirlFP_S0_1.hkx
