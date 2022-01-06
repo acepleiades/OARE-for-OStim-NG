@@ -2,7 +2,7 @@
 <info name="Lying | Reverse cowgirl" animator="Ace"/>
 <region om="A" maj="C" min="C" stage="" step="" story=""/>
 <anim id="0SxOpS_Sx-RevCowgirlFP_S1" t="L" l="2"/>
-<speed a="0" min="0" max="3" name="thrusts">	
+<speed a="1" min="0" max="3" name="thrusts">	
 	<sp mtx="^idle" tar="1" type="">
 		<anim id="0SxOpS_Sx-RevCowgirlFP_S0" t="L" l="2" i0="0" i1="0"/></sp>
 	<sp mtx="^bouncesPerSec" qnt=".5">
