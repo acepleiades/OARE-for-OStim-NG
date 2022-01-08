@@ -6,6 +6,14 @@ b -Tn 0SxOpS_Ho-StandingHandHolding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\H
 b -Tn 0SxOpS_Ho-StandingHandHolding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHandHolding\0SxOpS_Ho-StandingHandHolding_1.hkx
 b -Tn 0SxOpS_Ho-StandingTwoHandsHolding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingTwoHandsHolding\0SxOpS_Ho-StandingTwoHandsHolding_0.hkx
 b -Tn 0SxOpS_Ho-StandingTwoHandsHolding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingTwoHandsHolding\0SxOpS_Ho-StandingTwoHandsHolding_1.hkx
+b -Tn 0SxOpS_Ho-AceHeadpat_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\AceHeadpat\0SxOpS_Ho-AceHeadpat_S1_0.hkx
+b -Tn 0SxOpS_Ho-AceHeadpat_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\AceHeadpat\0SxOpS_Ho-AceHeadpat_S1_1.hkx
+b -Tn 0SxOpS_Ho-AceHeadpat_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\AceHeadpat\0SxOpS_Ho-AceHeadpat_S2_0.hkx
+b -Tn 0SxOpS_Ho-AceHeadpat_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\AceHeadpat\0SxOpS_Ho-AceHeadpat_S2_1.hkx
+b -Tn 0SxOpS_Ho-AceHeadpat_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\AceHeadpat\0SxOpS_Ho-AceHeadpat_S3_0.hkx
+b -Tn 0SxOpS_Ho-AceHeadpat_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\AceHeadpat\0SxOpS_Ho-AceHeadpat_S3_1.hkx
+b -Tn 0SxOpS_Ho-AceHeadpat_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\AceHeadpat\0SxOpS_Ho-AceHeadpat_S4_0.hkx
+b -Tn 0SxOpS_Ho-AceHeadpat_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\AceHeadpat\0SxOpS_Ho-AceHeadpat_S4_1.hkx
 
 b -Tn 0SxOpS_Ho-StandingHolding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHolding\0SxOpS_Ho-StandingHolding_0.hkx
 b -Tn 0SxOpS_Ho-StandingHolding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHolding\0SxOpS_Ho-StandingHolding_1.hkx
