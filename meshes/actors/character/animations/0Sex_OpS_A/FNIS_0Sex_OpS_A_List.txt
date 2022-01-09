@@ -121,8 +121,12 @@ b -Tn 0SxOpS_BJ-AceKneelingBlowjobSplayed_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS
 b -Tn 0SxOpS_Ho-KneelingHolding_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_0.hkx
 b -Tn 0SxOpS_Ho-KneelingHolding_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_1.hkx
 
-b -Tn 0SxOpS_Ho-SleepingIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\SleepingIdle\0SxOpS_Ho-SleepingIdle_0.hkx
-b -Tn 0SxOpS_Ho-SleepingIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\SleepingIdle\0SxOpS_Ho-SleepingIdle_1.hkx
+b -Tn 0SxOpS_Ho-SpooningIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\0SxOpS_Ho-SpooningIdle_0.hkx
+b -Tn 0SxOpS_Ho-SpooningIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\0SxOpS_Ho-SpooningIdle_1.hkx
+b -Tn 0SxOpS_Ho-SpooningKissing_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningKissing\0SxOpS_Ho-SpooningKissing_0.hkx
+b -Tn 0SxOpS_Ho-SpooningKissing_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningKissing\0SxOpS_Ho-SpooningKissing_1.hkx
+b -Tn 0SxOpS_Ho-SleepingIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SleepingIdle\0SxOpS_Ho-SleepingIdle_0.hkx
+b -Tn 0SxOpS_Ho-SleepingIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SleepingIdle\0SxOpS_Ho-SleepingIdle_1.hkx
 
 b -Tn 0SxOpS_Ho-KneelingHoldingSubFromBehind_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHoldingSubFromBehind\0SxOpS_Ho-KneelingHoldingSubFromBehind_S0_0.hkx
 b -Tn 0SxOpS_Ho-KneelingHoldingSubFromBehind_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHoldingSubFromBehind\0SxOpS_Ho-KneelingHoldingSubFromBehind_S0_1.hkx

@@ -4,35 +4,31 @@
 <anim id="0SxOpS_Ho-KneelingHolding_S0" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="obustT180_f" go="OpS|Kne!Kne|Ho|KneelingHoldingSubFromBehind" text="Turn your partner around." t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-			<option halo="hgentle" icon="osx_layside_f" go="OpS|Kne!LyB|Ho|KneelingSubLyingDown" text="Lay your partner down." t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="osx_layside_f" go="OpS|LyS!LyS|Ho|SpooningIdle" text="Lie down with your partner." t0="1">
+			<enhance a="1"/><enhance a="0"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
 			</option>
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!Kne|Ho|LyingDownSubKneeling" text="Lie down." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHolding" text="Stand up together." t0="1">
+			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHolding" text="Stand up with your partner." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-		</page>
-		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hheartdt" icon="osx_layside_f" go="OpS|LyS!LyS|Ho|SleepingIdle" text="Go to sleep with your partner." t0="1">
-			<enhance a="0"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
 			</option>
 		</page>
 	</tab>
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHolding" text="Stand up together.">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-		</page>
-		<page icon="mheart"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="htender" icon="osx_layside_f" go="OpS|LyS!LyS|Ho|SleepingIdle" text="Go to sleep with your partner." t0="0">
+			<option halo="hgentle" icon="osx_layside_f" go="OpS|LyS!LyS|Ho|SpooningIdle" text="Lie down with your partner." t0="0">
 			<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" n="sk0" v="0"/><ihue cmd="body" n="sk1" v="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="osx_layside_f" go="OpS|Kne!LyB|Ho|KneelingSubLyingDown" text="Lie down." t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="obustT180_f" go="OpS|Kne!Kne|Ho|KneelingHoldingSubFromBehind" text="Turn around." t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHolding" text="Stand up with your partner.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
