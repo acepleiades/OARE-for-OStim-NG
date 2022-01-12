@@ -121,6 +121,9 @@ b -Tn 0SxOpS_BJ-AceKneelingBlowjobSplayed_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS
 b -Tn 0SxOpS_Ho-Sitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-Sitting_0.hkx
 b -Tn 0SxOpS_Ho-Sitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-Sitting_1.hkx
 
+b -Tn 0SxOpS_Ho-SittingFemaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproach\0SxOpS_Ho-SittingFemaleApproach_0.hkx
+b -Tn 0SxOpS_Ho-SittingFemaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproach\0SxOpS_Ho-SittingFemaleApproach_1.hkx
+
 b -Tn 0SxOpS_Ho-KneelingHolding_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_0.hkx
 b -Tn 0SxOpS_Ho-KneelingHolding_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_1.hkx
 
