@@ -19,6 +19,9 @@
 			<option halo="hgentle" icon="oholdbody_8_mf" go="OpS|Sta!Sta|Ho|GoToStandingHolding" text="Hold your partner." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+			<option halo="hgentle" icon="osx_kn_m" go="0MF|KNy6!KNy6|Ho|KnLap" text="Sit down with your partner." t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 		</page>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
 			<option halo="hheartdt" icon="oholdbody_8_mf" go="OpS|Sta!Sta|Ho|StandingHandHolding" text="Hold your partner's hand." t0="1">
@@ -39,6 +42,9 @@
 			<option halo="hgentle" icon="oholdbody_8_mf" go="OpS|Sta!Sta|Ho|GoToStandingHolding" text="Hold your partner." t0="1>
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+			<option halo="hgentle" icon="osx_kn_m" go="0MF|KNy6!KNy6|Ho|KnLap" text="Sit down with your partner." t0="1>
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 		</page>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="htender" icon="oholdbody_8_mf" go="OpS|Sta!Sta|Ho|StandingHandHolding" text="Hold your partner's hand." t0="0">
@@ -48,6 +54,14 @@
 		<page icon="morif"><hue n="hu" cmd="rg" a="1"/>
 			<option halo="htender" icon="" c0="1" go="OpS|Sta!Sta|Ho|LesbianAnimationHub" text="(Access Lesbian positions...)" t0="1">
 			<enhance><enh a="0"/><enh a="1"/></enhance><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+			</option>
+		</page>
+	</tab>
+	<tab icon="splus" text="^invite" empty="2"><hue n="hu" cmd="vg" a="0"/><bnhue cmd="vn" a="0"/>
+		<page icon="mgensignf"><hue n="hu" cmd="vg" a="0"/>
+			<option halo="h_plus_rbo" icon="" go="$InviteScan" text="^inviteSomeoneToJoinFemale" t0="0">
+			<ihue n="hu" cmd="vn" a="0"/>
+			<cmd dest="OpS|Sta!Sta!Sta|Ho|Ace3PStanding" rolename="^femaleVisitant" sceneName="^joinFFM" npc="npc"/>
 			</option>
 		</page>
 	</tab>
