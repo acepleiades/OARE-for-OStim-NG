@@ -122,6 +122,8 @@ b -Tn 0SxOpS_Ho-Sitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0S
 b -Tn 0SxOpS_Ho-Sitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-Sitting_1.hkx
 b -a,Tn 0SxOpS_Ho-GoToSittingFemaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\GoToSittingFemaleApproach\0SxOpS_Ho-GoToSittingFemaleApproach_0.hkx
 b -a,Tn 0SxOpS_Ho-GoToSittingFemaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\GoToSittingFemaleApproach\0SxOpS_Ho-GoToSittingFemaleApproach_1.hkx
+b -Tn 0SxOpS_Po-AceSittingMasturbationMale_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Po\AceSittingMasturbationMale\0SxOpS_Po-AceSittingMasturbationMale_S1_0.hkx
+b -Tn 0SxOpS_Po-AceSittingMasturbationMale_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Po\AceSittingMasturbationMale\0SxOpS_Po-AceSittingMasturbationMale_S1_1.hkx
 
 b -Tn 0SxOpS_Ho-SittingFemaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproach\0SxOpS_Ho-SittingFemaleApproach_0.hkx
 b -Tn 0SxOpS_Ho-SittingFemaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproach\0SxOpS_Ho-SittingFemaleApproach_1.hkx
