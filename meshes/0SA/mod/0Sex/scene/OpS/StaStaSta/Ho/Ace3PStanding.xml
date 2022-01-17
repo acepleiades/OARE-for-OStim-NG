@@ -17,7 +17,7 @@
 	<tab icon="splus" text="^dismiss" empty="2"><hue n="hu" cmd="vg" a="1"/><bnhue cmd="vn" a="1"/>
 		<page icon="mgensignm"><hue n="hu" cmd="vg" a="1"/>
 			<option halo="h_plus_rbo" icon="obigx" go="$RemoveActor" text="^HaveNLeave" t0="2">
-			<cmd dest="OpS|Sta!Sta|Ho|StandingHolding" actor="2"/>
+			<cmd dest="0MF|Sy6!Sy9|Ho|St9Adore" actor="2"/>
 			</option>
 		</page>
 	</tab>
