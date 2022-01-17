@@ -1,7 +1,7 @@
 # OpenSex
 OpenSex is the open/libre alternative to OSex.
+
 Currently, all animations were made by me (acepleiades).
-If you know me from somewhere else seeing this must be weird. lol
 
 Support me on Patreon: https://www.patreon.com/skyrimaceanimations
 
@@ -16,12 +16,12 @@ This work is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-# Requirements
+# Installation and more info
 
-OSA 2.023-SE and all its requirements:
+Nexus page
 
-https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=54568&game_id=1704
+https://www.nexusmods.com/skyrimspecialedition/mods/58640
 
-OStim is recommended but not necessary. Join the OStim Discord to see new developments...
+Join the OStim Discord to see new developments...
 
 discord.gg/RECvhVaRcU
