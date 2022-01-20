@@ -1,21 +1,16 @@
-<scene id="OpS|Sit!Kne|Ho|SittingFemaleApproach" actors="2" style="OScene">
-<info name="Sitting Female Approach" animator="Ace"/>
+<scene id="OpS|Sit!Sit|Ho|AceSittingAfterSex" actors="2" style="OScene">
+<info name="Sitting Sex - After Sex" animator="Ace"/>
 <region om="A" maj="K" min="Ksi" stage="" step="" story=""/>
-<anim id="0SxOpS_Ho-SittingFemaleApproach" t="L" l="2"/>
+<anim id="0SxOpS_Ho-AceSittingSexAfterSex" t="L" l="2"/>
 <nav>
 	<tab actor="1" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="obigx" go="0MF|KNy6!KNy6|Ho|KnLap" text="Sit back." t0="1">
+			<option halo="hgentle" icon="obigx" go="OpS|Sit!Kne|Ho|SittingFemaleApproach" text="Return to a kneeling position." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
-		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="htender" icon="opowkiss_mf" go="OpS|Sit!Kne|Ho|GoToSittingFemaleApproachKiss" text="Kiss your partner." t0="0">
-			<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" n="sk0" v="0"/><ihue cmd="body" n="sk1" v="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sit!Sit|Sx|AceSittingSex" text="Take your partner inside you.">
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sit!Sit|Sx|AceSittingSex" text="Take your partner inside you again.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>

@@ -165,6 +165,22 @@ b -Tn 0SxOpS_VJ-AceSittingCunnilingus_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyF
 
 b -Tn 0SxOpS_Ho-SittingFemaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproach\0SxOpS_Ho-SittingFemaleApproach_0.hkx
 b -Tn 0SxOpS_Ho-SittingFemaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproach\0SxOpS_Ho-SittingFemaleApproach_1.hkx
+b -Tn 0SxOpS_Ho-SittingFemaleApproachKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproachKiss\0SxOpS_Ho-SittingFemaleApproachKiss_0.hkx
+b -Tn 0SxOpS_Ho-SittingFemaleApproachKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproachKiss\0SxOpS_Ho-SittingFemaleApproachKiss_1.hkx
+b -Tn 0SxOpS_Sx-AceSittingSex_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Sx\AceSittingSex\0SxOpS_Sx-AceSittingSex_S1_0.hkx
+b -Tn 0SxOpS_Sx-AceSittingSex_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Sx\AceSittingSex\0SxOpS_Sx-AceSittingSex_S1_1.hkx
+b -Tn 0SxOpS_Sx-AceSittingSex_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Sx\AceSittingSex\0SxOpS_Sx-AceSittingSex_S2_0.hkx
+b -Tn 0SxOpS_Sx-AceSittingSex_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Sx\AceSittingSex\0SxOpS_Sx-AceSittingSex_S2_1.hkx
+b -Tn 0SxOpS_Sx-AceSittingSex_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Sx\AceSittingSex\0SxOpS_Sx-AceSittingSex_S3_0.hkx
+b -Tn 0SxOpS_Sx-AceSittingSex_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Sx\AceSittingSex\0SxOpS_Sx-AceSittingSex_S3_1.hkx
+b -Tn 0SxOpS_Sx-AceSittingSex_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Sx\AceSittingSex\0SxOpS_Sx-AceSittingSex_S4_0.hkx
+b -Tn 0SxOpS_Sx-AceSittingSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Sx\AceSittingSex\0SxOpS_Sx-AceSittingSex_S4_1.hkx
+b -Tn 0SxOpS_Sx-AceSittingSex_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Sx\AceSittingSex\0SxOpS_Sx-AceSittingSex_S5_0.hkx
+b -Tn 0SxOpS_Sx-AceSittingSex_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Sx\AceSittingSex\0SxOpS_Sx-AceSittingSex_S5_1.hkx
+b -a,Tn 0SxOpS_Sx-AceSittingSexClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Sx\AceSittingSex\0SxOpS_Sx-AceSittingSexClimax_0.hkx
+b -a,Tn 0SxOpS_Sx-AceSittingSexClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Sx\AceSittingSex\0SxOpS_Sx-AceSittingSexClimax_1.hkx
+b -Tn 0SxOpS_Ho-AceSittingSexAfterSex_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\AceSittingSexAfterSex\0SxOpS_Ho-AceSittingSexAfterSex_0.hkx
+b -Tn 0SxOpS_Ho-AceSittingSexAfterSex_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\AceSittingSexAfterSex\0SxOpS_Ho-AceSittingSexAfterSex_1.hkx
 
 b -Tn 0SxOpS_Ho-KneelingHolding_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_0.hkx
 b -Tn 0SxOpS_Ho-KneelingHolding_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_1.hkx
