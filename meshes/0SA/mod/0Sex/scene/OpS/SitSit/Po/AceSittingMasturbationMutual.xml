@@ -16,7 +16,7 @@
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="Faster" minustext="Slower" t0="0"/>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="obigx" go="OpS|Sit!Sit|Po|AceSittingMasturbationFemale" text="Stop masturbating." t0="0">
+			<option halo="hgentle" icon="obigx" go="OpS|Sit!Sit|Pf2|AceSittingMasturbationFemale" text="Stop masturbating." t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
 			</option>
 		</page>
