@@ -20,7 +20,7 @@ This work is licensed under a
 
 Nexus page
 
-https://www.nexusmods.com/skyrimspecialedition/mods/58640
+https://www.nexusmods.com/skyrimspecialedition/mods/61167/
 
 Join the OStim Discord to see new developments...
 
