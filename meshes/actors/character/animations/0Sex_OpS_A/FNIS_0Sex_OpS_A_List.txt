@@ -181,6 +181,26 @@ b -a,Tn 0SxOpS_Sx-AceSittingSexClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit
 b -a,Tn 0SxOpS_Sx-AceSittingSexClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Sx\AceSittingSex\0SxOpS_Sx-AceSittingSexClimax_1.hkx
 b -Tn 0SxOpS_Ho-AceSittingSexAfterSex_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\AceSittingSexAfterSex\0SxOpS_Ho-AceSittingSexAfterSex_0.hkx
 b -Tn 0SxOpS_Ho-AceSittingSexAfterSex_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\AceSittingSexAfterSex\0SxOpS_Ho-AceSittingSexAfterSex_1.hkx
+b -Tn 0SxOpS_BJ-AceLyingBlowjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\BJ\AceLyingBlowjob\0SxOpS_BJ-AceLyingBlowjob_S1_0.hkx
+b -Tn 0SxOpS_BJ-AceLyingBlowjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\BJ\AceLyingBlowjob\0SxOpS_BJ-AceLyingBlowjob_S1_1.hkx
+b -Tn 0SxOpS_BJ-AceLyingBlowjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\BJ\AceLyingBlowjob\0SxOpS_BJ-AceLyingBlowjob_S2_0.hkx
+b -Tn 0SxOpS_BJ-AceLyingBlowjob_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\BJ\AceLyingBlowjob\0SxOpS_BJ-AceLyingBlowjob_S2_1.hkx
+b -Tn 0SxOpS_BJ-AceLyingBlowjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\BJ\AceLyingBlowjob\0SxOpS_BJ-AceLyingBlowjob_S3_0.hkx
+b -Tn 0SxOpS_BJ-AceLyingBlowjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\BJ\AceLyingBlowjob\0SxOpS_BJ-AceLyingBlowjob_S3_1.hkx
+b -Tn 0SxOpS_BJ-AceLyingBlowjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\BJ\AceLyingBlowjob\0SxOpS_BJ-AceLyingBlowjob_S4_0.hkx
+b -Tn 0SxOpS_BJ-AceLyingBlowjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\BJ\AceLyingBlowjob\0SxOpS_BJ-AceLyingBlowjob_S4_1.hkx
+b -Tn 0SxOpS_BJ-AceLyingBlowjob_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\BJ\AceLyingBlowjob\0SxOpS_BJ-AceLyingBlowjob_S5_0.hkx
+b -Tn 0SxOpS_BJ-AceLyingBlowjob_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\BJ\AceLyingBlowjob\0SxOpS_BJ-AceLyingBlowjob_S5_1.hkx
+b -a,Tn 0SxOpS_BJ-AceLyingBlowjob_Climax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\BJ\AceLyingBlowjob\0SxOpS_BJ-AceLyingBlowjob_Climax_0.hkx
+b -a,Tn 0SxOpS_BJ-AceLyingBlowjob_Climax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\BJ\AceLyingBlowjob\0SxOpS_BJ-AceLyingBlowjob_Climax_1.hkx
+b -Tn 0SxOpS_Ho-AceLyingBlowjob_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceLyingBlowjob\0SxOpS_Ho-AceLyingBlowjob_AfterClimax_0.hkx
+b -Tn 0SxOpS_Ho-AceLyingBlowjob_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceLyingBlowjob\0SxOpS_Ho-AceLyingBlowjob_AfterClimax_1.hkx
+b -Tn 0SxOpS_Ho-AceLyingBlowjob_AfterClimax2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceLyingBlowjob\0SxOpS_Ho-AceLyingBlowjob_AfterClimax2_0.hkx
+b -Tn 0SxOpS_Ho-AceLyingBlowjob_AfterClimax2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceLyingBlowjob\0SxOpS_Ho-AceLyingBlowjob_AfterClimax2_1.hkx
+b -a,Tn 0SxOpS_Ho-AceLyingBlowjob_ClimaxSpitOut_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceLyingBlowjob\0SxOpS_Ho-AceLyingBlowjob_ClimaxSpitOut_0.hkx
+b -a,Tn 0SxOpS_Ho-AceLyingBlowjob_ClimaxSpitOut_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceLyingBlowjob\0SxOpS_Ho-AceLyingBlowjob_ClimaxSpitOut_1.hkx
+b -a,Tn 0SxOpS_Ho-AceLyingBlowjob_ClimaxSwallow_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceLyingBlowjob\0SxOpS_Ho-AceLyingBlowjob_ClimaxSwallow_0.hkx
+b -a,Tn 0SxOpS_Ho-AceLyingBlowjob_ClimaxSwallow_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceLyingBlowjob\0SxOpS_Ho-AceLyingBlowjob_ClimaxSwallow_1.hkx
 
 b -Tn 0SxOpS_Ho-KneelingHolding_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_0.hkx
 b -Tn 0SxOpS_Ho-KneelingHolding_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_1.hkx

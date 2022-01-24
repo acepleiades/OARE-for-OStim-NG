@@ -15,7 +15,10 @@
 			</option>
 		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sit!Sit|Sx|AceSittingSex" text="Take your partner inside you.">
+			<option halo="hgentle" icon="objbf_f" go="OpS|Sit!Kne|Ho|GoToAceLyingBlowjob" text="Take it inside your mouth.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sit!Sit|Sx|AceSittingSex" text="Take it inside you.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>

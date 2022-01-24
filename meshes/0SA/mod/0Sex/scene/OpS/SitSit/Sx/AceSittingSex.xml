@@ -33,7 +33,7 @@
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="Faster" minustext="Slower" t0="1"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sit!Sit|Sx|AceSittingSexClimax" text="Finish inside." t0="1">
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sit!Sit|Sx|AceSittingSexClimax" text="Climax." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
 			</option>
 			<option halo="hgentle" icon="obigx" go="OpS|Sit!Kne|Ho|SittingFemaleApproach" text="Let go of your partner." t0="1">
