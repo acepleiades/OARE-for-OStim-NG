@@ -2,17 +2,17 @@
 <info name="Standing Thighfuck" animator="Ace"/>
 <region om="A" maj="K" min="K" stage="" step="" story=""/>
 <anim id="0SxOpS_HJ-AceStandingThighfuck_S1" t="L" l="2"/>
-<speed a="0" min="1" max="5" name="thrusts">	
+<speed a="0" min="0" max="4" name="thrusts">	
 	<sp mtx="^thrustsPerSec" qnt=".25">
-		<anim id="0SxOpS_HJ-AceStandingThighfuck_S1" t="L" l="2" i0="1" i1="1"/></sp>
+		<anim id="0SxOpS_HJ-AceStandingThighfuck_S1" t="L" l="2" i0="0" i1="0"/></sp>
 	<sp mtx="^thrustsPerSec" qnt=".5">
-		<anim id="0SxOpS_HJ-AceStandingThighfuck_S2" t="L" l="2" i0="2" i1="2"/></sp>
+		<anim id="0SxOpS_HJ-AceStandingThighfuck_S2" t="L" l="2" i0="1" i1="1"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="1">
-		<anim id="0SxOpS_HJ-AceStandingThighfuck_S3" t="L" l="2" i0="3" i1="3"/></sp>
+		<anim id="0SxOpS_HJ-AceStandingThighfuck_S3" t="L" l="2" i0="2" i1="2"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="1.5">
-		<anim id="0SxOpS_HJ-AceStandingThighfuck_S4" t="L" l="2" i0="4" i1="4"/></sp>
+		<anim id="0SxOpS_HJ-AceStandingThighfuck_S4" t="L" l="2" i0="3" i1="3"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="2">
-		<anim id="0SxOpS_HJ-AceStandingThighfuck_S5" t="L" l="2" i0="5" i1="5"/></sp>
+		<anim id="0SxOpS_HJ-AceStandingThighfuck_S5" t="L" l="2" i0="4" i1="4"/></sp>
 </speed>
 <nav>
 	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>

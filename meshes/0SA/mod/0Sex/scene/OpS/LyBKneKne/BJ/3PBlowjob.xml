@@ -2,13 +2,13 @@
 <info name="3P Handjob" animator="Ace"/>
 <region om="A" maj="K" min="K" stage="" step="" story=""/>
 <anim id="0SxOpS_HJ-3PBlowjob_S1" t="L" l="2"/>
-<speed a="1" min="1" max="3" name="thrusts">
+<speed a="1" min="0" max="2" name="thrusts">
+	<sp mtx="^sucksPerSec" qnt=".25">
+		<anim id="0SxOpS_HJ-3PBlowjob_S1" t="L" l="2" i0="0" i1="0"/></sp>
 	<sp mtx="^sucksPerSec" qnt=".25">
 		<anim id="0SxOpS_HJ-3PBlowjob_S1" t="L" l="2" i0="1" i1="1"/></sp>
 	<sp mtx="^sucksPerSec" qnt=".25">
-		<anim id="0SxOpS_HJ-3PBlowjob_S1" t="L" l="2" i0="2" i1="2"/></sp>
-	<sp mtx="^sucksPerSec" qnt=".25">
-		<anim id="0SxOpS_HJ-3PBlowjob_S2" t="L" l="2" i0="3" i1="3"/></sp>
+		<anim id="0SxOpS_HJ-3PBlowjob_S2" t="L" l="2" i0="2" i1="2"/></sp>
 </speed>
 <nav>
 	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>

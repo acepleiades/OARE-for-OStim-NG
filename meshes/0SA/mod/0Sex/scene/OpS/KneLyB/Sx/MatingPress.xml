@@ -2,7 +2,7 @@
 <info name="Mating Press" animator="Ace"/>
 <region om="A" maj="C" min="C" stage="" step="" story=""/>
 <anim id="0SxOpS_Sx-MatingPress_S1" t="L" l="2"/>
-<speed a="0" min="1" max="5" name="thrusts">	
+<speed a="0" min="0" max="5" name="thrusts">	
 	<sp mtx="^idle" tar="1" type="">
 		<anim id="0SxOpS_Sx-MatingPress_S0" t="L" l="2" i0="0" i1="0">
 		<ae evty="sexThrustR" whodid="0" tar="1" ori="pussy" thrust="cock" sound="assimpact" soundpow="0" imp="ass" impside="R" impforce="2" impdmg=".01" thrustforce="2" oridmg=".01" oriopen=".01"/>
