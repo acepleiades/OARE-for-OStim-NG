@@ -6,7 +6,7 @@
 	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="ohandsoffbody_$G0$G1" go="OpS|Sta!Sta!Sta|Ho|GoBackTripleKiss" text="Stop kissing." t0="1">
+			<option halo="hgentle" icon="ohandsoffbody_$G0$G1" go="OpS|Sta!Sta!Sta|Ho|GoBackTripleSmooch" text="Stop kissing." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
