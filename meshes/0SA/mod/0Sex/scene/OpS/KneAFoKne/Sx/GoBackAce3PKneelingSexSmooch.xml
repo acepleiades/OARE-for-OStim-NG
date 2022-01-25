@@ -1,6 +1,6 @@
-<scene id="OpS|Sta!Sta|Ho|GoBackStandingKiss" actors="2" style="OScene">
-<info name="Transition back from Standing Kiss" animator="Ace"/>
-<anim id="0SxOpS_Ho-StandingHolding" t="T" l="1" dest="OpS|Sta!Sta|Ho|StandingHolding">
+<scene id="OpS|Kne!AFo!Kne|Sx|GoBackAce3PKneelingSexSmooch" actors="2" style="OScene">
+<info name="Transition back from Kneeling Sex Kissing" animator="Ace"/>
+<anim id="0SxOpS_Sx-GoBackAce3PKneelingSexSmooch" t="T" l="1" dest="OpS|Kne!AFo!Kne|Sx|Ace3PKneelingSex">
 <mfx a= "0">
 <fx0 ti="0" cmd="EVNT">
 	<evnt cmd="actor" type="kiss" subtype="KissExit" drive="intimate">
@@ -13,7 +13,7 @@
 	</evnt>
 </fx1>
 </mfx>
-<mfx a= "1">
+<mfx a= "2">
 <fx0 ti="0" cmd="EVNT">
 	<evnt cmd="actor" type="kiss" subtype="KissExit" drive="intimate">
 	<eyes><look v="-95" h="-90" vpan="5" hpan="10"/></eyes>

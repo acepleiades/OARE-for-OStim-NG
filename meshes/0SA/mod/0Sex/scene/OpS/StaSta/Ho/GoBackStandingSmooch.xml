@@ -1,6 +1,6 @@
-<scene id="OpS|Sta!Sta|HJ|GoBackAceStandingHandjobKissing" actors="2" style="OScene">
-<info name="Transition back from Standing Handjob Kissing" animator="Ace"/>
-<anim id="0SxOpS_HJ-AceStandingHandjob_S1" t="T" l="1" dest="OpS|Sta!Sta|HJ|AceStandingHandjob">
+<scene id="OpS|Sta!Sta|Ho|GoBackStandingSmooch" actors="2" style="OScene">
+<info name="Transition back from Standing Kiss" animator="Ace"/>
+<anim id="0SxOpS_Ho-GoBackStandingSmooch" t="T" l="1" dest="OpS|Sta!Sta|Ho|StandingHolding">
 <mfx a= "0">
 <fx0 ti="0" cmd="EVNT">
 	<evnt cmd="actor" type="kiss" subtype="KissExit" drive="intimate">
