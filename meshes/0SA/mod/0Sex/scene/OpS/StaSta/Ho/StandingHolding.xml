@@ -44,7 +44,7 @@
 			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Sta|HJ|AceStandingHandjob" text="Stroke your partner.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!Sta|HJ|AceStandingFootjob" text="Step on your partner.">
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!Sta|FJ|AceStandingFootjob" text="Step on your partner.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
