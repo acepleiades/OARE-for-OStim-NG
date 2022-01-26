@@ -1,9 +1,8 @@
 # OpenSex
 OpenSex is the open/libre alternative to OSex.
 
-Currently, all animations were made by me (acepleiades).
-
-Support me on Patreon: https://www.patreon.com/skyrimaceanimations
+Currently, all animations were made by ACEPLEIADES.
+XML data has been built by ACEPLEIADES, VersuchDrei and DragoFall.
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
