@@ -204,9 +204,16 @@ b -a,Tn 0SxOpS_Ho-AceLyingBlowjob_ClimaxSwallow_1 ..\..\..\..\0SA\mod\0Sex\anim\
 
 b -Tn 0SxOpS_Ho-SittingMaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\AFoSit\Ho\SittingMaleApproach\0SxOpS_Ho-SittingMaleApproach_0.hkx
 b -Tn 0SxOpS_Ho-SittingMaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\AFoSit\Ho\SittingMaleApproach\0SxOpS_Ho-SittingMaleApproach_1.hkx
-
-b -Tn 0SxOpS_Ho-KneelingHolding_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_0.hkx
-b -Tn 0SxOpS_Ho-KneelingHolding_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_1.hkx
+b -Tn 0SxOpS_Sx-AceMissionary_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_S1_0.hkx
+b -Tn 0SxOpS_Sx-AceMissionary_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_S1_1.hkx
+b -Tn 0SxOpS_Sx-AceMissionary_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_S2_0.hkx
+b -Tn 0SxOpS_Sx-AceMissionary_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_S2_1.hkx
+b -Tn 0SxOpS_Sx-AceMissionary_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_S3_0.hkx
+b -Tn 0SxOpS_Sx-AceMissionary_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_S3_1.hkx
+b -Tn 0SxOpS_Sx-AceMissionary_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_S4_0.hkx
+b -Tn 0SxOpS_Sx-AceMissionary_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_S4_1.hkx
+b -Tn 0SxOpS_Sx-AceMissionary_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_S5_0.hkx
+b -Tn 0SxOpS_Sx-AceMissionary_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_S5_1.hkx
 
 b -Tn 0SxOpS_Ho-SpooningIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\0SxOpS_Ho-SpooningIdle_0.hkx
 b -Tn 0SxOpS_Ho-SpooningIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\0SxOpS_Ho-SpooningIdle_1.hkx
@@ -224,6 +231,9 @@ b -Tn 0SxOpS_Sx-AceSpooningSex_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Sx\
 b -Tn 0SxOpS_Sx-AceSpooningSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Sx\AceSpooningSex\0SxOpS_Sx-AceSpooningSex_S4_1.hkx
 b -Tn 0SxOpS_Sx-AceSpooningSex_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Sx\AceSpooningSex\0SxOpS_Sx-AceSpooningSex_S5_0.hkx
 b -Tn 0SxOpS_Sx-AceSpooningSex_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Sx\AceSpooningSex\0SxOpS_Sx-AceSpooningSex_S5_1.hkx
+
+b -Tn 0SxOpS_Ho-KneelingHolding_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_0.hkx
+b -Tn 0SxOpS_Ho-KneelingHolding_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_1.hkx
 
 b -Tn 0SxOpS_Ho-KneelingHoldingSubFromBehind_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHoldingSubFromBehind\0SxOpS_Ho-KneelingHoldingSubFromBehind_S0_0.hkx
 b -Tn 0SxOpS_Ho-KneelingHoldingSubFromBehind_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHoldingSubFromBehind\0SxOpS_Ho-KneelingHoldingSubFromBehind_S0_1.hkx
