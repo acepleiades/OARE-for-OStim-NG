@@ -214,6 +214,10 @@ b -Tn 0SxOpS_Sx-AceMissionary_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\A
 b -Tn 0SxOpS_Sx-AceMissionary_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_S4_1.hkx
 b -Tn 0SxOpS_Sx-AceMissionary_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_S5_0.hkx
 b -Tn 0SxOpS_Sx-AceMissionary_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_S5_1.hkx
+b -a,Tn 0SxOpS_Sx-AceMissionary_ClimaxCreampie_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_ClimaxCreampie_0.hkx
+b -a,Tn 0SxOpS_Sx-AceMissionary_ClimaxCreampie_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_ClimaxCreampie_1.hkx
+b -Tn 0SxOpS_Ho-AceMissionary_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceMissionary_AfterClimax\0SxOpS_Ho-AceMissionary_AfterClimax_0.hkx
+b -Tn 0SxOpS_Ho-AceMissionary_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceMissionary_AfterClimax\0SxOpS_Ho-AceMissionary_AfterClimax_1.hkx
 
 b -Tn 0SxOpS_Ho-SpooningIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\0SxOpS_Ho-SpooningIdle_0.hkx
 b -Tn 0SxOpS_Ho-SpooningIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\0SxOpS_Ho-SpooningIdle_1.hkx
