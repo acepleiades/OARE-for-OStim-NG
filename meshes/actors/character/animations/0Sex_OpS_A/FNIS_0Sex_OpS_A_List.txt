@@ -216,6 +216,12 @@ b -Tn 0SxOpS_Sx-AceMissionary_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\A
 b -Tn 0SxOpS_Sx-AceMissionary_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_S5_1.hkx
 b -a,Tn 0SxOpS_Sx-AceMissionary_ClimaxCreampie_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_ClimaxCreampie_0.hkx
 b -a,Tn 0SxOpS_Sx-AceMissionary_ClimaxCreampie_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_ClimaxCreampie_1.hkx
+b -a,Tn 0SxOpS_Sx-AceMissionary_ClimaxPullOut_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_ClimaxPullOut_0.hkx
+b -a,Tn 0SxOpS_Sx-AceMissionary_ClimaxPullOut_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_ClimaxPullOut_1.hkx
+b -Tn 0SxOpS_Po-AceMissionary_ClimaxPullOutJO_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\AceMissionary_ClimaxPullOutJO\0SxOpS_Po-AceMissionary_ClimaxPullOutJO_0.hkx
+b -Tn 0SxOpS_Po-AceMissionary_ClimaxPullOutJO_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\AceMissionary_ClimaxPullOutJO\0SxOpS_Po-AceMissionary_ClimaxPullOutJO_1.hkx
+b -a,Tn 0SxOpS_Po-AceMissionary_ClimaxPullOutGoBack_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\AceMissionary_ClimaxPullOutJO\0SxOpS_Po-AceMissionary_ClimaxPullOutGoBack_0.hkx
+b -a,Tn 0SxOpS_Po-AceMissionary_ClimaxPullOutGoBack_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\AceMissionary_ClimaxPullOutJO\0SxOpS_Po-AceMissionary_ClimaxPullOutGoBack_1.hkx
 b -Tn 0SxOpS_Ho-AceMissionary_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceMissionary_AfterClimax\0SxOpS_Ho-AceMissionary_AfterClimax_0.hkx
 b -Tn 0SxOpS_Ho-AceMissionary_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceMissionary_AfterClimax\0SxOpS_Ho-AceMissionary_AfterClimax_1.hkx
 
