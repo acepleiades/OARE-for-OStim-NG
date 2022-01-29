@@ -6,6 +6,14 @@ XML data has been built by ACEPLEIADES, VersuchDrei and DragoFall.
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
+## Donations 
+
+| Artist | Patreon |
+|-|-|
+| ACEPLEIADES |<a href="https://www.patreon.com/skyrimaceanimations"><img alt="Become a patron" src="https://i.ibb.co/GPtxW0M/patron35.png"></a>|
+
+## License
+
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
@@ -17,10 +25,10 @@ This work is licensed under a
 
 # Installation and more info
 
-Nexus page
+## Nexus page
 
 https://www.nexusmods.com/skyrimspecialedition/mods/61167/
 
-Join the OStim Discord to see new developments...
+## Discord
 
-discord.gg/RECvhVaRcU
+Join the OStim Discord to see new developments: discord.gg/RECvhVaRcU
