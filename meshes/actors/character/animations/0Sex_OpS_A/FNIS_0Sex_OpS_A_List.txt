@@ -204,6 +204,20 @@ b -a,Tn 0SxOpS_Ho-AceLyingBlowjob_ClimaxSwallow_1 ..\..\..\..\0SA\mod\0Sex\anim\
 
 b -Tn 0SxOpS_Ho-SittingMaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\AFoSit\Ho\SittingMaleApproach\0SxOpS_Ho-SittingMaleApproach_0.hkx
 b -Tn 0SxOpS_Ho-SittingMaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\AFoSit\Ho\SittingMaleApproach\0SxOpS_Ho-SittingMaleApproach_1.hkx
+b -Tn 0SxOpS_BoJ-AceOnTopTitfuck_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\AceOnTopTitfuck\0SxOpS_BoJ-AceOnTopTitfuck_S1_0.hkx
+b -Tn 0SxOpS_BoJ-AceOnTopTitfuck_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\AceOnTopTitfuck\0SxOpS_BoJ-AceOnTopTitfuck_S1_1.hkx
+b -Tn 0SxOpS_BoJ-AceOnTopTitfuck_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\AceOnTopTitfuck\0SxOpS_BoJ-AceOnTopTitfuck_S2_0.hkx
+b -Tn 0SxOpS_BoJ-AceOnTopTitfuck_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\AceOnTopTitfuck\0SxOpS_BoJ-AceOnTopTitfuck_S2_1.hkx
+b -Tn 0SxOpS_BoJ-AceOnTopTitfuck_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\AceOnTopTitfuck\0SxOpS_BoJ-AceOnTopTitfuck_S3_0.hkx
+b -Tn 0SxOpS_BoJ-AceOnTopTitfuck_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\AceOnTopTitfuck\0SxOpS_BoJ-AceOnTopTitfuck_S3_1.hkx
+b -Tn 0SxOpS_BoJ-AceOnTopTitfuck_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\AceOnTopTitfuck\0SxOpS_BoJ-AceOnTopTitfuck_S4_0.hkx
+b -Tn 0SxOpS_BoJ-AceOnTopTitfuck_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\AceOnTopTitfuck\0SxOpS_BoJ-AceOnTopTitfuck_S4_1.hkx
+b -a,Tn 0SxOpS_BoJ-AceOnTopTitfuck_Climax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\AceOnTopTitfuck\0SxOpS_BoJ-AceOnTopTitfuck_Climax_0.hkx
+b -a,Tn 0SxOpS_BoJ-AceOnTopTitfuck_Climax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\AceOnTopTitfuck\0SxOpS_BoJ-AceOnTopTitfuck_Climax_1.hkx
+b -a,Tn 0SxOpS_Ho-AceOnTopTitfuck_GoToAfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceOnTopTitfuck_AfterClimax\0SxOpS_Ho-AceOnTopTitfuck_GoToAfterClimax_0.hkx
+b -a,Tn 0SxOpS_Ho-AceOnTopTitfuck_GoToAfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceOnTopTitfuck_AfterClimax\0SxOpS_Ho-AceOnTopTitfuck_GoToAfterClimax_1.hkx
+b -Tn 0SxOpS_Ho-AceOnTopTitfuck_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceOnTopTitfuck_AfterClimax\0SxOpS_Ho-AceOnTopTitfuck_AfterClimax_0.hkx
+b -Tn 0SxOpS_Ho-AceOnTopTitfuck_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceOnTopTitfuck_AfterClimax\0SxOpS_Ho-AceOnTopTitfuck_AfterClimax_1.hkx
 b -Tn 0SxOpS_Sx-AceMissionary_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_S1_0.hkx
 b -Tn 0SxOpS_Sx-AceMissionary_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_S1_1.hkx
 b -Tn 0SxOpS_Sx-AceMissionary_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionary\0SxOpS_Sx-AceMissionary_S2_0.hkx
