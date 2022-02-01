@@ -204,6 +204,16 @@ b -a,Tn 0SxOpS_Ho-AceLyingBlowjob_ClimaxSwallow_1 ..\..\..\..\0SA\mod\0Sex\anim\
 
 b -Tn 0SxOpS_Ho-MountedFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\MountedFemale\0SxOpS_Ho-MountedFemale_0.hkx
 b -Tn 0SxOpS_Ho-MountedFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\MountedFemale\0SxOpS_Ho-MountedFemale_1.hkx
+b -Tn 0SxOpS_Sx-AceCowgirl_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirl\0SxOpS_Sx-AceCowgirl_S1_0.hkx
+b -Tn 0SxOpS_Sx-AceCowgirl_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirl\0SxOpS_Sx-AceCowgirl_S1_1.hkx
+b -Tn 0SxOpS_Sx-AceCowgirl_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirl\0SxOpS_Sx-AceCowgirl_S2_0.hkx
+b -Tn 0SxOpS_Sx-AceCowgirl_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirl\0SxOpS_Sx-AceCowgirl_S2_1.hkx
+b -Tn 0SxOpS_Sx-AceCowgirl_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirl\0SxOpS_Sx-AceCowgirl_S3_0.hkx
+b -Tn 0SxOpS_Sx-AceCowgirl_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirl\0SxOpS_Sx-AceCowgirl_S3_1.hkx
+b -Tn 0SxOpS_Sx-AceCowgirl_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirl\0SxOpS_Sx-AceCowgirl_S4_0.hkx
+b -Tn 0SxOpS_Sx-AceCowgirl_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirl\0SxOpS_Sx-AceCowgirl_S4_1.hkx
+b -Tn 0SxOpS_Sx-AceCowgirl_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirl\0SxOpS_Sx-AceCowgirl_S5_0.hkx
+b -Tn 0SxOpS_Sx-AceCowgirl_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirl\0SxOpS_Sx-AceCowgirl_S5_1.hkx
 
 b -Tn 0SxOpS_Ho-SittingMaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\AFoSit\Ho\SittingMaleApproach\0SxOpS_Ho-SittingMaleApproach_0.hkx
 b -Tn 0SxOpS_Ho-SittingMaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\AFoSit\Ho\SittingMaleApproach\0SxOpS_Ho-SittingMaleApproach_1.hkx
