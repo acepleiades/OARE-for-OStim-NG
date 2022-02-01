@@ -202,6 +202,9 @@ b -a,Tn 0SxOpS_Ho-AceLyingBlowjob_ClimaxSpitOut_1 ..\..\..\..\0SA\mod\0Sex\anim\
 b -a,Tn 0SxOpS_Ho-AceLyingBlowjob_ClimaxSwallow_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceLyingBlowjob\0SxOpS_Ho-AceLyingBlowjob_ClimaxSwallow_0.hkx
 b -a,Tn 0SxOpS_Ho-AceLyingBlowjob_ClimaxSwallow_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceLyingBlowjob\0SxOpS_Ho-AceLyingBlowjob_ClimaxSwallow_1.hkx
 
+b -Tn 0SxOpS_Ho-MountedFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\MountedFemale\0SxOpS_Ho-MountedFemale_0.hkx
+b -Tn 0SxOpS_Ho-MountedFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\MountedFemale\0SxOpS_Ho-MountedFemale_1.hkx
+
 b -Tn 0SxOpS_Ho-SittingMaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\AFoSit\Ho\SittingMaleApproach\0SxOpS_Ho-SittingMaleApproach_0.hkx
 b -Tn 0SxOpS_Ho-SittingMaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\AFoSit\Ho\SittingMaleApproach\0SxOpS_Ho-SittingMaleApproach_1.hkx
 b -Tn 0SxOpS_BoJ-AceOnTopTitfuck_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\AceOnTopTitfuck\0SxOpS_BoJ-AceOnTopTitfuck_S1_0.hkx
