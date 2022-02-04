@@ -17,6 +17,9 @@
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="Faster" minustext="Slower" t0="0"/>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!Kne|HJ|AceLyingHandjob_Climax" text="Climax." t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
+			</option>
 			<option halo="hgentle" icon="obigx" go="OpS|LyB!Kne|Ho|MountedFemale" text="Stop stroking him." t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
 			</option>
@@ -24,18 +27,18 @@
 	</tab>
 </nav>
 <eyes a="0" facerel="0" actionrel="2" bodyrel="1">
-<primary v="60" h="0" vpan="10" hpan="10"/>
-<face v="60" h="0" vpan="10" hpan="10"/>
-<body v="60" h="0" vpan="10" hpan="10"/>
-<action v="60" h="0" vpan="10" hpan="10"/>
-<away v="60" h="0" vpan="10" hpan="90"/>
+<primary v="80" h="-50" vpan="10" hpan="10"/>
+<face v="80" h="-50" vpan="10" hpan="10"/>
+<body v="80" h="-50" vpan="10" hpan="10"/>
+<action v="80" h="-50" vpan="10" hpan="10"/>
+<away v="80" h="-50" vpan="10" hpan="90"/>
 </eyes>	
 <eyes a="1" facerel="0" actionrel="2" bodyrel="1">
-<primary v="60" h="-10" vpan="10" hpan="10" />
-<face v="60" h="-10" vpan="10" hpan="10" />
-<body v="60" h="-10" vpan="10" hpan="10" />
-<action v="60" h="-10" vpan="10" hpan="10" />
-<away v="60" h="-10" vpan="40" hpan="80" />
+<primary v="80" h="20" vpan="10" hpan="10" />
+<face v="80" h="20" vpan="10" hpan="10" />
+<body v="80" h="20" vpan="10" hpan="10" />
+<action v="80" h="-20" vpan="10" hpan="10" />
+<away v="80" h="20" vpan="40" hpan="80" />
 </eyes>
 <motif drive="intimate" theme="R_Handjob"/>
 <motif drive="intimate" theme="G_Handjob"/>
