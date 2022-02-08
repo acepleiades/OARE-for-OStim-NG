@@ -269,6 +269,20 @@ b -a,Tn 0SxOpS_Po-AceMissionary_ClimaxPullOutGoBack_0 ..\..\..\..\0SA\mod\0Sex\a
 b -a,Tn 0SxOpS_Po-AceMissionary_ClimaxPullOutGoBack_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\AceMissionary_ClimaxPullOutJO\0SxOpS_Po-AceMissionary_ClimaxPullOutGoBack_1.hkx
 b -Tn 0SxOpS_Ho-AceMissionary_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceMissionary_AfterClimax\0SxOpS_Ho-AceMissionary_AfterClimax_0.hkx
 b -Tn 0SxOpS_Ho-AceMissionary_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceMissionary_AfterClimax\0SxOpS_Ho-AceMissionary_AfterClimax_1.hkx
+b -Tn 0SxOpS_An-AceAnalMissionary_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\An\AceAnalMissionary\0SxOpS_An-AceAnalMissionary_S1_0.hkx
+b -Tn 0SxOpS_An-AceAnalMissionary_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\An\AceAnalMissionary\0SxOpS_An-AceAnalMissionary_S1_1.hkx
+b -Tn 0SxOpS_An-AceAnalMissionary_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\An\AceAnalMissionary\0SxOpS_An-AceAnalMissionary_S2_0.hkx
+b -Tn 0SxOpS_An-AceAnalMissionary_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\An\AceAnalMissionary\0SxOpS_An-AceAnalMissionary_S2_1.hkx
+b -Tn 0SxOpS_An-AceAnalMissionary_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\An\AceAnalMissionary\0SxOpS_An-AceAnalMissionary_S3_0.hkx
+b -Tn 0SxOpS_An-AceAnalMissionary_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\An\AceAnalMissionary\0SxOpS_An-AceAnalMissionary_S3_1.hkx
+b -Tn 0SxOpS_An-AceAnalMissionary_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\An\AceAnalMissionary\0SxOpS_An-AceAnalMissionary_S4_0.hkx
+b -Tn 0SxOpS_An-AceAnalMissionary_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\An\AceAnalMissionary\0SxOpS_An-AceAnalMissionary_S4_1.hkx
+b -Tn 0SxOpS_An-AceAnalMissionary_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\An\AceAnalMissionary\0SxOpS_An-AceAnalMissionary_S5_0.hkx
+b -Tn 0SxOpS_An-AceAnalMissionary_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\An\AceAnalMissionary\0SxOpS_An-AceAnalMissionary_S5_1.hkx
+b -a,Tn 0SxOpS_An-AceAnalMissionary_Climax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\An\AceAnalMissionary\0SxOpS_An-AceAnalMissionary_Climax_0.hkx
+b -a,Tn 0SxOpS_An-AceAnalMissionary_Climax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\An\AceAnalMissionary\0SxOpS_An-AceAnalMissionary_Climax_1.hkx
+b -Tn 0SxOpS_Ho-AceAnalMissionary_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceAnalMissionary_AfterClimax\0SxOpS_Ho-AceAnalMissionary_AfterClimax_0.hkx
+b -Tn 0SxOpS_Ho-AceAnalMissionary_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceAnalMissionary_AfterClimax\0SxOpS_Ho-AceAnalMissionary_AfterClimax_1.hkx
 
 b -Tn 0SxOpS_Ho-SpooningIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\0SxOpS_Ho-SpooningIdle_0.hkx
 b -Tn 0SxOpS_Ho-SpooningIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\0SxOpS_Ho-SpooningIdle_1.hkx
