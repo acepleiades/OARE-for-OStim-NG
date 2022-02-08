@@ -33,6 +33,9 @@
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^thrustFaster" minustext="^thrustSlower"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="" go="OpS|Kne!LyB|An|AceAnalMissionary_Climax" text="Climax (internal)." t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
+			</option>
 			<option halo="hgentle" icon="obigx" go="OpS|AFo!Sit|Ho|SittingMaleApproach" text="Let go of your partner." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
 			</option>
