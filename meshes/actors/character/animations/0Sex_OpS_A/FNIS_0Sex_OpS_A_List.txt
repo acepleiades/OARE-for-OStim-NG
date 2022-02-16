@@ -304,6 +304,16 @@ b -Tn 0SxOpS_Ho-SpooningKissing_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\Sp
 b -Tn 0SxOpS_Ho-SpooningKissing_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningKissing\0SxOpS_Ho-SpooningKissing_1.hkx
 b -Tn 0SxOpS_Ho-SleepingIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SleepingIdle\0SxOpS_Ho-SleepingIdle_0.hkx
 b -Tn 0SxOpS_Ho-SleepingIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SleepingIdle\0SxOpS_Ho-SleepingIdle_1.hkx
+b -Tn 0SxOpS_Pf2-AceLyingFingering_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyB\Pf2\AceLyingFingering\0SxOpS_Pf2-AceLyingFingering_S1_0.hkx
+b -Tn 0SxOpS_Pf2-AceLyingFingering_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyB\Pf2\AceLyingFingering\0SxOpS_Pf2-AceLyingFingering_S1_1.hkx
+b -Tn 0SxOpS_Pf2-AceLyingFingering_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyB\Pf2\AceLyingFingering\0SxOpS_Pf2-AceLyingFingering_S2_0.hkx
+b -Tn 0SxOpS_Pf2-AceLyingFingering_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyB\Pf2\AceLyingFingering\0SxOpS_Pf2-AceLyingFingering_S2_1.hkx
+b -Tn 0SxOpS_Pf2-AceLyingFingering_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyB\Pf2\AceLyingFingering\0SxOpS_Pf2-AceLyingFingering_S3_0.hkx
+b -Tn 0SxOpS_Pf2-AceLyingFingering_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyB\Pf2\AceLyingFingering\0SxOpS_Pf2-AceLyingFingering_S3_1.hkx
+b -Tn 0SxOpS_Pf2-AceLyingFingering_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyB\Pf2\AceLyingFingering\0SxOpS_Pf2-AceLyingFingering_S4_0.hkx
+b -Tn 0SxOpS_Pf2-AceLyingFingering_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyB\Pf2\AceLyingFingering\0SxOpS_Pf2-AceLyingFingering_S4_1.hkx
+b -Tn 0SxOpS_Pf2-AceLyingFingering_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyB\Pf2\AceLyingFingering\0SxOpS_Pf2-AceLyingFingering_S5_0.hkx
+b -Tn 0SxOpS_Pf2-AceLyingFingering_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyB\Pf2\AceLyingFingering\0SxOpS_Pf2-AceLyingFingering_S5_1.hkx
 b -Tn 0SxOpS_Sx-AceSpooningSex_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Sx\AceSpooningSex\0SxOpS_Sx-AceSpooningSex_S1_0.hkx
 b -Tn 0SxOpS_Sx-AceSpooningSex_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Sx\AceSpooningSex\0SxOpS_Sx-AceSpooningSex_S1_1.hkx
 b -Tn 0SxOpS_Sx-AceSpooningSex_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Sx\AceSpooningSex\0SxOpS_Sx-AceSpooningSex_S2_0.hkx
