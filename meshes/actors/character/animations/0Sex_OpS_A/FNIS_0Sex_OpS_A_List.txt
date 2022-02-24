@@ -297,6 +297,9 @@ b -a,Tn 0SxOpS_Sx-AceMissionaryLegsUp_Climax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS
 b -a,Tn 0SxOpS_Sx-AceMissionaryLegsUp_Climax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsUp\0SxOpS_Sx-AceMissionaryLegsUp_Climax_1.hkx
 b -Tn 0SxOpS_Ho-AceMissionaryLegsUp_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceMissionaryLegsUp_AfterClimax\0SxOpS_Ho-AceMissionaryLegsUp_AfterClimax_0.hkx
 b -Tn 0SxOpS_Ho-AceMissionaryLegsUp_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceMissionaryLegsUp_AfterClimax\0SxOpS_Ho-AceMissionaryLegsUp_AfterClimax_1.hkx
+
+b -Tn 0SxOpS_Ho-BentOverFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ho\BentOverFemale\0SxOpS_Ho-BentOverFemale_0.hkx
+b -Tn 0SxOpS_Ho-BentOverFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ho\BentOverFemale\0SxOpS_Ho-BentOverFemale_1.hkx
 b -Tn 0SxOpS_Sx-AceDoggystyle_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceDoggystyle\0SxOpS_Sx-AceDoggystyle_S1_0.hkx
 b -Tn 0SxOpS_Sx-AceDoggystyle_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceDoggystyle\0SxOpS_Sx-AceDoggystyle_S1_1.hkx
 b -Tn 0SxOpS_Sx-AceDoggystyle_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceDoggystyle\0SxOpS_Sx-AceDoggystyle_S2_0.hkx
@@ -315,6 +318,14 @@ b -Tn 0SxOpS_Sx-AceBackItUp_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\Ace
 b -Tn 0SxOpS_Sx-AceBackItUp_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceBackItUp\0SxOpS_Sx-AceBackItUp_S3_1.hkx
 b -Tn 0SxOpS_Sx-AceBackItUp_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceBackItUp\0SxOpS_Sx-AceBackItUp_S4_0.hkx
 b -Tn 0SxOpS_Sx-AceBackItUp_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceBackItUp\0SxOpS_Sx-AceBackItUp_S4_1.hkx
+b -Tn 0SxOpS_Sx-AceNeckHoldingSex_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceNeckHoldingSex\0SxOpS_Sx-AceNeckHoldingSex_S1_0.hkx
+b -Tn 0SxOpS_Sx-AceNeckHoldingSex_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceNeckHoldingSex\0SxOpS_Sx-AceNeckHoldingSex_S1_1.hkx
+b -Tn 0SxOpS_Sx-AceNeckHoldingSex_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceNeckHoldingSex\0SxOpS_Sx-AceNeckHoldingSex_S2_0.hkx
+b -Tn 0SxOpS_Sx-AceNeckHoldingSex_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceNeckHoldingSex\0SxOpS_Sx-AceNeckHoldingSex_S2_1.hkx
+b -Tn 0SxOpS_Sx-AceNeckHoldingSex_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceNeckHoldingSex\0SxOpS_Sx-AceNeckHoldingSex_S3_0.hkx
+b -Tn 0SxOpS_Sx-AceNeckHoldingSex_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceNeckHoldingSex\0SxOpS_Sx-AceNeckHoldingSex_S3_1.hkx
+b -Tn 0SxOpS_Sx-AceNeckHoldingSex_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceNeckHoldingSex\0SxOpS_Sx-AceNeckHoldingSex_S4_0.hkx
+b -Tn 0SxOpS_Sx-AceNeckHoldingSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceNeckHoldingSex\0SxOpS_Sx-AceNeckHoldingSex_S4_1.hkx
 
 b -Tn 0SxOpS_Ho-SpooningIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\0SxOpS_Ho-SpooningIdle_0.hkx
 b -Tn 0SxOpS_Ho-SpooningIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\0SxOpS_Ho-SpooningIdle_1.hkx

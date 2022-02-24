@@ -8,6 +8,9 @@
 			<option halo="hgentle" icon="obustT180_f" go="OpS|Sta!Sta|Ho|StandingHoldingFromBehind" text="Turn your partner around." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+			<option halo="hgentle" icon="osx_kn_m" go="OpS|AFo!Sit|Ho|SittingMaleApproach" text="Lead your partner down with you.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 			<option halo="hgentle" icon="obigx" go="0MF|Sy6!Sy9|Ho|St9Adore" text="Let go of your partner." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
