@@ -2,6 +2,8 @@ b -Tn 0SxOpS_Ho-Standing_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\
 b -Tn 0SxOpS_Ho-Standing_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\0SxOpS_Ho-Standing_1.hkx
 b -a,Tn 0SxOpS_Ho-GoToStandingHolding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\0SxOpS_Ho-GoToStandingHolding_0.hkx
 b -a,Tn 0SxOpS_Ho-GoToStandingHolding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\0SxOpS_Ho-GoToStandingHolding_1.hkx
+b -a,Tn 0SxOpS_Ho-StandingGoToSitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\0SxOpS_Ho-StandingGoToSitting_0.hkx
+b -a,Tn 0SxOpS_Ho-StandingGoToSitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\0SxOpS_Ho-StandingGoToSitting_1.hkx
 b -Tn 0SxOpS_Ho-StandingHandHolding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHandHolding\0SxOpS_Ho-StandingHandHolding_0.hkx
 b -Tn 0SxOpS_Ho-StandingHandHolding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHandHolding\0SxOpS_Ho-StandingHandHolding_1.hkx
 b -Tn 0SxOpS_Ho-StandingTwoHandsHolding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingTwoHandsHolding\0SxOpS_Ho-StandingTwoHandsHolding_0.hkx
