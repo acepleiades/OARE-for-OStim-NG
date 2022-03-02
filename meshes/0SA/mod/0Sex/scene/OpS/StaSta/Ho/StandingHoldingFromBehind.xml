@@ -1,5 +1,5 @@
 <scene id="OpS|Sta!Sta|Ho|StandingHoldingFromBehind" actors="2" style="OScene">
-<info name="Standing | Embrace" animator="Ace"/>
+<info name="Standing Holding from Behind" animator="Ace"/>
 <region om="A" maj="K" min="Ksi" stage="" step="" story=""/>
 <anim id="0SxOpS_Ho-StandingHoldingFromBehind" t="L" l="2"/>
 <nav>
@@ -15,6 +15,9 @@
 			</option>
 		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="" go="OpS|Sta!Sta|Pf2|AceFingeringFromBehind" text="Finger your partner.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 			<option halo="hgentle" icon="omgsholds2_$G0" go="OpS|Sta!Sta|Po|AceRubbingPenis" text="Rub your penis against your partner's ass.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
