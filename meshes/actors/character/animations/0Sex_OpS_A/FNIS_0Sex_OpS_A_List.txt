@@ -49,6 +49,12 @@ b -Tn 0SxOpS_Sx-AceCarryingFrontalSex_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\Sta
 b -Tn 0SxOpS_Sx-AceCarryingFrontalSex_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceCarryingFrontalSex\0SxOpS_Sx-AceCarryingFrontalSex_S5_1.hkx
 b -Tn 0SxOpS_Sx-AceCarryingArmsWrapped_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceCarryingArmsWrapped\0SxOpS_Sx-AceCarryingArmsWrapped_S1_0.hkx
 b -Tn 0SxOpS_Sx-AceCarryingArmsWrapped_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceCarryingArmsWrapped\0SxOpS_Sx-AceCarryingArmsWrapped_S1_1.hkx
+b -Tn 0SxOpS_Sx-AceCarryingArmsWrapped_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceCarryingArmsWrapped\0SxOpS_Sx-AceCarryingArmsWrapped_S2_0.hkx
+b -Tn 0SxOpS_Sx-AceCarryingArmsWrapped_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceCarryingArmsWrapped\0SxOpS_Sx-AceCarryingArmsWrapped_S2_1.hkx
+b -Tn 0SxOpS_Sx-AceCarryingArmsWrapped_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceCarryingArmsWrapped\0SxOpS_Sx-AceCarryingArmsWrapped_S3_0.hkx
+b -Tn 0SxOpS_Sx-AceCarryingArmsWrapped_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceCarryingArmsWrapped\0SxOpS_Sx-AceCarryingArmsWrapped_S3_1.hkx
+b -Tn 0SxOpS_Sx-AceCarryingArmsWrapped_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceCarryingArmsWrapped\0SxOpS_Sx-AceCarryingArmsWrapped_S4_0.hkx
+b -Tn 0SxOpS_Sx-AceCarryingArmsWrapped_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceCarryingArmsWrapped\0SxOpS_Sx-AceCarryingArmsWrapped_S4_1.hkx
 
 b -Tn 0SxOpS_Ho-StandingHoldingFromBehind_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHoldingFromBehind\0SxOpS_Ho-StandingHoldingFromBehind_0.hkx
 b -Tn 0SxOpS_Ho-StandingHoldingFromBehind_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHoldingFromBehind\0SxOpS_Ho-StandingHoldingFromBehind_1.hkx
