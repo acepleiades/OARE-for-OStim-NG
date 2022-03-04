@@ -21,7 +21,10 @@
 			</option>
 		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceCarryingFrontalSex" text="Lift your partner and put it inside.">
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceCarryingArmsWrapped" text="Put is inside your partner (carrying, arms wrapped).">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceCarryingFrontalSex" text="Put is inside your partner (carrying).">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
