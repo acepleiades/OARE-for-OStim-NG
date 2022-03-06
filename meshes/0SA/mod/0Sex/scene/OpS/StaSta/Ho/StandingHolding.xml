@@ -1,5 +1,5 @@
 <scene id="OpS|Sta!Sta|Ho|StandingHolding" actors="2" style="OScene">
-<info name="Standing" animator="Ace"/>
+<info name="Standing, Holding" animator="Ace"/>
 <region om="A" maj="S" min="S" stage="" step="" story=""/>
 <anim id="0SxOpS_Ho-StandingHolding" t="L" l="2"/>
 <nav>
