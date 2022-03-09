@@ -21,6 +21,9 @@
 			</option>
 		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Sta|HJ|GoToAceStandingMutualMasturbation" text="Masturbate your partner and vice-versa.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceCarryingArmsWrapped" text="Put is inside your partner (carrying, arms wrapped).">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
@@ -48,6 +51,9 @@
 		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Sta|HJ|AceStandingHandjob" text="Stroke your partner.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Sta|HJ|GoToAceStandingMutualMasturbation" text="Masturbate your partner and vice-versa.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!Sta|FJ|AceStandingFootjob" text="Step on your partner.">
