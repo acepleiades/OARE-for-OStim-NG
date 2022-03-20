@@ -23,6 +23,9 @@
 			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!AFo|Sx|AceBackItUp" text="Take your partner inside you (back it up).">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|AceReverseCowgirl" text="Take it inside you (reverse cowgirl).">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 		</page>
 	</tab>
 </nav>
