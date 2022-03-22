@@ -102,8 +102,6 @@ b -Tn 0SxOpS_Sx-AceStandingSex_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\
 b -Tn 0SxOpS_Sx-AceStandingSex_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingSex\0SxOpS_Sx-AceStandingSex_S3_1.hkx
 b -Tn 0SxOpS_Sx-AceStandingSex_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingSex\0SxOpS_Sx-AceStandingSex_S4_0.hkx
 b -Tn 0SxOpS_Sx-AceStandingSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingSex\0SxOpS_Sx-AceStandingSex_S4_1.hkx
-b -Tn 0SxOpS_Sx-AceStandingSex_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingSex\0SxOpS_Sx-AceStandingSex_S5_0.hkx
-b -Tn 0SxOpS_Sx-AceStandingSex_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingSex\0SxOpS_Sx-AceStandingSex_S5_1.hkx
 b -Tn 0SxOpS_Sx-AceStandingWheelbarrow_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingWheelbarrow\0SxOpS_Sx-AceStandingWheelbarrow_S1_0.hkx
 b -Tn 0SxOpS_Sx-AceStandingWheelbarrow_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingWheelbarrow\0SxOpS_Sx-AceStandingWheelbarrow_S1_1.hkx
 b -Tn 0SxOpS_Sx-AceStandingWheelbarrow_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingWheelbarrow\0SxOpS_Sx-AceStandingWheelbarrow_S2_0.hkx
