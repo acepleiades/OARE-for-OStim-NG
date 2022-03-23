@@ -15,7 +15,7 @@
 			</option>
 		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="" go="OpS|Sta!Sta|Pf2|AceFingeringFromBehind" text="Finger your partner.">
+			<option halo="hgentle" icon="o2fpufr_mf" go="OpS|Sta!Sta|Pf2|AceFingeringFromBehind" text="Finger your partner.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="omgsholds2_$G0" go="OpS|Sta!Sta|Po|AceRubbingPenis" text="Rub your penis against your partner's ass.">
@@ -25,6 +25,9 @@
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceStandingSex" text="Put it inside your partner (standing).">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceStandingSexForwardBend" text="Put it inside your partner (standing, bending foward).">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceStandingWheelbarrow" text="Put it inside your partner (standing wheelbarrow).">
