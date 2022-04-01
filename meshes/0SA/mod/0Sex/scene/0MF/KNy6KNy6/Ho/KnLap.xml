@@ -5,7 +5,7 @@
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="osx_layonback_f" go="OpS|AFo!Sit|Ho|SittingMaleApproach" text="Approach your partner." t0="1">
+			<option halo="hgentle" icon="osx_layonback_f" go="OpS|Sit!Sit|Ho|GoToSittingMaleApproach" text="Approach your partner." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!Kne|Ho|LyingDownSubKneeling" text="Lie down. (WIP)" t0="1">
