@@ -180,8 +180,10 @@ b -Tn 0SxOpS_BJ-AceKneelingBlowjobSplayed_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS
 
 b -Tn 0SxOpS_Ho-Sitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-Sitting_0.hkx
 b -Tn 0SxOpS_Ho-Sitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-Sitting_1.hkx
-b -a,Tn 0SxOpS_Ho-GoToSittingFemaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\GoToSittingFemaleApproach\0SxOpS_Ho-GoToSittingFemaleApproach_0.hkx
-b -a,Tn 0SxOpS_Ho-GoToSittingFemaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\GoToSittingFemaleApproach\0SxOpS_Ho-GoToSittingFemaleApproach_1.hkx
+b -a,Tn 0SxOpS_Ho-GoToSittingFemaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-GoToSittingFemaleApproach_0.hkx
+b -a,Tn 0SxOpS_Ho-GoToSittingFemaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-GoToSittingFemaleApproach_1.hkx
+b -a,Tn 0SxOpS_Ho-GoToSittingMaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-GoToSittingMaleApproach_0.hkx
+b -a,Tn 0SxOpS_Ho-GoToSittingMaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-GoToSittingMaleApproach_1.hkx
 b -Tn 0SxOpS_Pf2-AceSittingMasturbationFemale_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Pf2\AceSittingMasturbationFemale\0SxOpS_Pf2-AceSittingMasturbationFemale_S1_0.hkx
 b -Tn 0SxOpS_Pf2-AceSittingMasturbationFemale_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Pf2\AceSittingMasturbationFemale\0SxOpS_Pf2-AceSittingMasturbationFemale_S1_1.hkx
 b -Tn 0SxOpS_Pf2-AceSittingMasturbationFemale_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Pf2\AceSittingMasturbationFemale\0SxOpS_Pf2-AceSittingMasturbationFemale_S2_0.hkx
