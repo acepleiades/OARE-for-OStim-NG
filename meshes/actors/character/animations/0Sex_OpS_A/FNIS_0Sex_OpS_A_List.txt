@@ -296,6 +296,14 @@ b -Tn 0SxOpS_Sx-AceCowgirl_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceC
 b -Tn 0SxOpS_Sx-AceCowgirl_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirl\0SxOpS_Sx-AceCowgirl_S4_1.hkx
 b -Tn 0SxOpS_Sx-AceCowgirl_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirl\0SxOpS_Sx-AceCowgirl_S5_0.hkx
 b -Tn 0SxOpS_Sx-AceCowgirl_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirl\0SxOpS_Sx-AceCowgirl_S5_1.hkx
+b -Tn 0SxOpS_Sx-AceReverseCowgirlMounted_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\0SxOpS_Sx-AceReverseCowgirlMounted_S1_0.hkx
+b -Tn 0SxOpS_Sx-AceReverseCowgirlMounted_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\0SxOpS_Sx-AceReverseCowgirlMounted_S1_1.hkx
+b -Tn 0SxOpS_Sx-AceReverseCowgirlMounted_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\0SxOpS_Sx-AceReverseCowgirlMounted_S2_0.hkx
+b -Tn 0SxOpS_Sx-AceReverseCowgirlMounted_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\0SxOpS_Sx-AceReverseCowgirlMounted_S2_1.hkx
+b -Tn 0SxOpS_Sx-AceReverseCowgirlMounted_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\0SxOpS_Sx-AceReverseCowgirlMounted_S3_0.hkx
+b -Tn 0SxOpS_Sx-AceReverseCowgirlMounted_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\0SxOpS_Sx-AceReverseCowgirlMounted_S3_1.hkx
+b -Tn 0SxOpS_Sx-AceReverseCowgirlMounted_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\0SxOpS_Sx-AceReverseCowgirlMounted_S4_0.hkx
+b -Tn 0SxOpS_Sx-AceReverseCowgirlMounted_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\0SxOpS_Sx-AceReverseCowgirlMounted_S4_1.hkx
 b -a,Tn 0SxOpS_Sx-AceCowgirl_Climax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirl\0SxOpS_Sx-AceCowgirl_Climax_0.hkx
 b -a,Tn 0SxOpS_Sx-AceCowgirl_Climax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirl\0SxOpS_Sx-AceCowgirl_Climax_1.hkx
 b -a,Tn 0SxOpS_Ho-AceCowgirl_GoToAfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceCowgirl_AfterClimax\0SxOpS_Ho-AceCowgirl_GoToAfterClimax_0.hkx
