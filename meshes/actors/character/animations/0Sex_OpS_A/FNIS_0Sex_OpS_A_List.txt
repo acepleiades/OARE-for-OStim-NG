@@ -392,6 +392,9 @@ b -a,Tn 0SxOpS_Sx-AceMissionaryLegsUp_Climax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS
 b -Tn 0SxOpS_Ho-AceMissionaryLegsUp_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceMissionaryLegsUp_AfterClimax\0SxOpS_Ho-AceMissionaryLegsUp_AfterClimax_0.hkx
 b -Tn 0SxOpS_Ho-AceMissionaryLegsUp_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceMissionaryLegsUp_AfterClimax\0SxOpS_Ho-AceMissionaryLegsUp_AfterClimax_1.hkx
 
+b -Tn 0SxOpS_Ho-FemaleLyingToTheSide_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Ho\FemaleLyingToTheSide\0SxOpS_Ho-FemaleLyingToTheSide_0.hkx
+b -Tn 0SxOpS_Ho-FemaleLyingToTheSide_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Ho\FemaleLyingToTheSide\0SxOpS_Ho-FemaleLyingToTheSide_1.hkx
+
 b -Tn 0SxOpS_Ho-BentOverFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ho\BentOverFemale\0SxOpS_Ho-BentOverFemale_0.hkx
 b -Tn 0SxOpS_Ho-BentOverFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ho\BentOverFemale\0SxOpS_Ho-BentOverFemale_1.hkx
 b -Tn 0SxOpS_Sx-AceDoggystyle_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceDoggystyle\0SxOpS_Sx-AceDoggystyle_S1_0.hkx
