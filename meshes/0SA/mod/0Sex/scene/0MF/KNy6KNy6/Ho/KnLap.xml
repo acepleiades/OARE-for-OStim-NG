@@ -19,9 +19,6 @@
 			<option halo="hgentle" icon="omgsholds2_$G0" go="OpS|Sit!Sit|Po|AceSittingMasturbationMale" text="Masturbate in front of your partner.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="omu_lipspucker" go="OpS|LyF!Sit|VJ|AceSittingCunnilingus" text="Lick your partner.">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
 		</page>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!Kne|Ho|LyingDownSubKneeling" text="Lie down. (Legacy animations)" t0="1">
