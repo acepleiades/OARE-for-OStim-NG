@@ -1,4 +1,4 @@
-<scene id="OpS|Sta!Sta|Ho|StandingKiss" actors="2">
+<scene id="OpS|Sta!Sta|Ho|StandingKiss" actors="2" style="OScene">
 <info name="Standing Kiss" animator="Ace"/>
 <region om="A" maj="K" min="Ksi" stage="" step="" story=""/>
 <anim id="0SxOpS_Ho-StandingKiss" t="L" l="2"/>
