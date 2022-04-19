@@ -232,6 +232,10 @@ b -Tn 0SxOpS_BJ-AceHandjobPlusLicking_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyB
 b -Tn 0SxOpS_BJ-AceHandjobPlusLicking_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\BJ\AceHandjobPlusLicking\0SxOpS_BJ-AceHandjobPlusLicking_S3_1.hkx
 b -Tn 0SxOpS_BJ-AceHandjobPlusLicking_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\BJ\AceHandjobPlusLicking\0SxOpS_BJ-AceHandjobPlusLicking_S4_0.hkx
 b -Tn 0SxOpS_BJ-AceHandjobPlusLicking_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\BJ\AceHandjobPlusLicking\0SxOpS_BJ-AceHandjobPlusLicking_S4_1.hkx
+b -a,Tn 0SxOpS_BJ-AceHandjobPlusLicking_Climax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\BJ\AceHandjobPlusLicking\0SxOpS_BJ-AceHandjobPlusLicking_Climax_0.hkx
+b -a,Tn 0SxOpS_BJ-AceHandjobPlusLicking_Climax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\BJ\AceHandjobPlusLicking\0SxOpS_BJ-AceHandjobPlusLicking_Climax_1.hkx
+b -Tn 0SxOpS_Ho-AceHandjobPlusLicking_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\Ho\AceHandjobPlusLicking_AfterClimax\0SxOpS_Ho-AceHandjobPlusLicking_AfterClimax_0.hkx
+b -Tn 0SxOpS_Ho-AceHandjobPlusLicking_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\Ho\AceHandjobPlusLicking_AfterClimax\0SxOpS_Ho-AceHandjobPlusLicking_AfterClimax_1.hkx
 b -Tn 0SxOpS_HJ-AceHandjobPlusRimming_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\HJ\AceHandjobPlusRimming\0SxOpS_HJ-AceHandjobPlusRimming_S1_0.hkx
 b -Tn 0SxOpS_HJ-AceHandjobPlusRimming_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\HJ\AceHandjobPlusRimming\0SxOpS_HJ-AceHandjobPlusRimming_S1_1.hkx
 b -Tn 0SxOpS_HJ-AceHandjobPlusRimming_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\HJ\AceHandjobPlusRimming\0SxOpS_HJ-AceHandjobPlusRimming_S2_0.hkx
