@@ -179,6 +179,14 @@ b -Tn 0SxOpS_BJ-AceKneelingBlowjobSplayed_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS
 b -Tn 0SxOpS_BJ-AceKneelingBlowjobSplayed_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjobSplayed_S3_1.hkx
 b -Tn 0SxOpS_BJ-AceKneelingBlowjobSplayed_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjobSplayed_S4_0.hkx
 b -Tn 0SxOpS_BJ-AceKneelingBlowjobSplayed_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjobSplayed_S4_1.hkx
+b -Tn 0SxOpS_BJ-AceKneelingFacefuck_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceKneelingFacefuck\0SxOpS_BJ-AceKneelingFacefuck_S1_0.hkx
+b -Tn 0SxOpS_BJ-AceKneelingFacefuck_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceKneelingFacefuck\0SxOpS_BJ-AceKneelingFacefuck_S1_1.hkx
+b -Tn 0SxOpS_BJ-AceKneelingFacefuck_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceKneelingFacefuck\0SxOpS_BJ-AceKneelingFacefuck_S2_0.hkx
+b -Tn 0SxOpS_BJ-AceKneelingFacefuck_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceKneelingFacefuck\0SxOpS_BJ-AceKneelingFacefuck_S2_1.hkx
+b -Tn 0SxOpS_BJ-AceKneelingFacefuck_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceKneelingFacefuck\0SxOpS_BJ-AceKneelingFacefuck_S3_0.hkx
+b -Tn 0SxOpS_BJ-AceKneelingFacefuck_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceKneelingFacefuck\0SxOpS_BJ-AceKneelingFacefuck_S3_1.hkx
+b -Tn 0SxOpS_BJ-AceKneelingFacefuck_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceKneelingFacefuck\0SxOpS_BJ-AceKneelingFacefuck_S4_0.hkx
+b -Tn 0SxOpS_BJ-AceKneelingFacefuck_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceKneelingFacefuck\0SxOpS_BJ-AceKneelingFacefuck_S4_1.hkx
 
 b -Tn 0SxOpS_Ho-Sitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-Sitting_0.hkx
 b -Tn 0SxOpS_Ho-Sitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-Sitting_1.hkx
