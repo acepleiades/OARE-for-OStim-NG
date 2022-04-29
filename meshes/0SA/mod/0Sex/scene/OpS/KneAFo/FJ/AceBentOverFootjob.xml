@@ -30,7 +30,7 @@
 <action v="-50" h="0" vpan="10" hpan="10"/>
 <away v="-50" h="0" vpan="80" hpan="100"/>
 </eyes>	 
-<eyes a="1" facerel="100" actionrel="2" bodyrel="1">
+<eyes a="0" facerel="0" actionrel="2" bodyrel="1">
 <primary v="-50" h="100" vpan="10" hpan="10" />
 <face v="-50" h="100" vpan="10" hpan="10" />
 <body v="-50" h="100" vpan="10" hpan="10" />
