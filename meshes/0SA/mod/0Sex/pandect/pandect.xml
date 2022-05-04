@@ -17,7 +17,15 @@
 <warp text="warpToScene"/>
 <travel text="travelToScene"/>
 </cmdtext>
-<l0 text="standingHolding" subtext="staSta" icon="" fn="anav" warp="0MF|Sy6!Sy9|Ho|St9Adore" travel="0MF|Sy6!Sy9|Ho|St9Adore">
+<l0 text="standing" subtext="staSta" icon="obbstup_f" fn="anav" warp="0MF|Sy6!Sy9|Ho|St9Adore" travel="0MF|Sy6!Sy9|Ho|St9Adore">
+<titlePlus text="staSta" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
+<titlePlus text="standingSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
+<ex text="standingEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
+<titleGfx id="omu_nav"><prop id="_x" am="-4"/><prop id="_y" am="9"/><prop id="_xscale" am="-50"/><prop id="_yscale" am="-50"/></titleGfx>
+<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+<dynamicIcon />
+</l0>
+<l0 text="standingHolding" subtext="staSta" icon="oholdbody_8_mf" fn="anav" warp="OpS|Sta!Sta|Ho|StandingHolding" travel="OpS|Sta!Sta|Ho|StandingHolding">
 <titlePlus text="staSta" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
 <titlePlus text="standingHoldingSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
 <ex text="standingHoldingEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
@@ -25,74 +33,82 @@
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 <dynamicIcon />
 </l0>
-<l0 text="standingEmbrace" subtext="staSta" icon="" fn="anav" warp="OpS|Sta!Sta|Ho|StandingEmbrace" travel="OpS|Sta!Sta|Ho|StandingEmbrace">
+<l0 text="standingHoldingFromBehind" subtext="staSta" icon="oholdbody_8_mf" fn="anav" warp="OpS|Sta!Sta|Ho|StandingHoldingFromBehind" travel="OpS|Sta!Sta|Ho|StandingHoldingFromBehind">
 <titlePlus text="staSta" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
-<titlePlus text="standingEmbraceSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
-<ex text="standingEmbraceEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
+<titlePlus text="standingHoldingFromBehindSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
+<ex text="standingHoldingFromBehindEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
 <titleGfx id="omu_nav"><prop id="_x" am="-4"/><prop id="_y" am="9"/><prop id="_xscale" am="-50"/><prop id="_yscale" am="-50"/></titleGfx>
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 <dynamicIcon />
 </l0>
-<l0 text="partnerKneeling" subtext="staKne" icon="" fn="anav" warp="OpS|Sta!Kne|Ho|DomStandingSubKneeling" travel="OpS|Sta!Kne|Ho|DomStandingSubKneeling">
+<l0 text="standingKneeling" subtext="staKne" icon="osqtlbbdn_f" fn="anav" warp="OpS|Sta!Kne|Ho|MaleStandingFemaleKneeling" travel="OpS|Sta!Kne|Ho|MaleStandingFemaleKneeling">
 <titlePlus text="staKne" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
-<titlePlus text="partnerKneelingSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
-<ex text="partnerKneelingEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
+<titlePlus text="standingKneelingSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
+<ex text="standingKneelingEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
 <titleGfx id="omu_nav"><prop id="_x" am="-4"/><prop id="_y" am="9"/><prop id="_xscale" am="-50"/><prop id="_yscale" am="-50"/></titleGfx>
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 <dynamicIcon />
 </l0>
-<l0 text="kneelingHolding" subtext="kneKne" icon="" fn="anav" warp="0MF|KNy6!KNy6|Ho|KnLap" travel="0MF|KNy6!KNy6|Ho|KnLap">
-<titlePlus text="kneKne" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
-<titlePlus text="kneelingHoldingSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
-<ex text="kneelingHoldingEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
+<l0 text="sitting" subtext="sitSit" icon="osx_kn_m" fn="anav" warp="0MF|KNy6!KNy6|Ho|KnLap" travel="0MF|KNy6!KNy6|Ho|KnLap">
+<titlePlus text="sitSit" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
+<titlePlus text="sittingSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
+<ex text="sittingEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
 <titleGfx id="omu_nav"><prop id="_x" am="-4"/><prop id="_y" am="9"/><prop id="_xscale" am="-50"/><prop id="_yscale" am="-50"/></titleGfx>
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 <dynamicIcon />
 </l0>
-<l0 text="kneelingHoldingB" subtext="staKne" icon="" fn="anav" warp="OpS|Kne!Kne|Ho|KneelingHoldingSubFromBehind" travel="OpS|Kne!Kne|Ho|KneelingHoldingSubFromBehind">
-<titlePlus text="staKne" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
-<titlePlus text="kneelingHoldingBSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
-<ex text="kneelingHoldingBEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
+<l0 text="spooning" subtext="lySLyS" icon="osx_layside_f" fn="anav" warp="OpS|LyS!LyS|Ho|SpooningIdle" travel="OpS|LyS!LyS|Ho|SpooningIdle">
+<titlePlus text="lySLyS" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
+<titlePlus text="spooningSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
+<ex text="spooningEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
 <titleGfx id="omu_nav"><prop id="_x" am="-4"/><prop id="_y" am="9"/><prop id="_xscale" am="-50"/><prop id="_yscale" am="-50"/></titleGfx>
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 <dynamicIcon />
 </l0>
-<l0 text="kneelingLying" subtext="kneLyb" icon="" fn="anav" warp="OpS|Kne!Lyb|Ho|KneelingSubLyingDown" travel="OpS|Kne!Lyb|Ho|KneelingSubLyingDown">
-<titlePlus text="kneLyb" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
-<titlePlus text="kneelingLyingSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
-<ex text="kneelingLyingEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
+<l0 text="sittingMaleApproach" subtext="aFoSit" icon="osx_kn_m" fn="anav" warp="OpS|AFo!Sit|Ho|SittingMaleApproach" travel="OpS|AFo!Sit|Ho|SittingMaleApproach">
+<titlePlus text="afoSit" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
+<titlePlus text="sittingMaleApproachSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
+<ex text="sittingMaleApproachEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
 <titleGfx id="omu_nav"><prop id="_x" am="-4"/><prop id="_y" am="9"/><prop id="_xscale" am="-50"/><prop id="_yscale" am="-50"/></titleGfx>
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 <dynamicIcon />
 </l0>
-<l0 text="lyingKneeling" subtext="lybKne" icon="" fn="anav" warp="OpS|Lyb!Kne|Ho|LyingDownSubKneeling" travel="OpS|Lyb!Kne|Ho|LyingDownSubKneeling">
-<titlePlus text="lybKne" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
-<titlePlus text="lyingKneelingSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
-<ex text="lyingKneelingEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
+<l0 text="spreadLegsFemale" subtext="kneLyB" icon="oplumpf180_f" fn="anav" warp="OpS|Kne!LyB|Ho|SpreadLegsFemale" travel="OpS|Kne!LyB|Ho|SpreadLegsFemale">
+<titlePlus text="kneLyB" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
+<titlePlus text="spreadLegsFemaleSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
+<ex text="spreadLegsFemaleEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
 <titleGfx id="omu_nav"><prop id="_x" am="-4"/><prop id="_y" am="9"/><prop id="_xscale" am="-50"/><prop id="_yscale" am="-50"/></titleGfx>
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 <dynamicIcon />
 </l0>
-<l0 text="kneelingAFo" subtext="kneAfo" icon="" iRevX="1" fn="anav" warp="OpS|Kne!AFo|Ho|KneelingSubBentOverBackward" travel="OpS|Kne!AFo|Ho|KneelingSubBentOverBackward">
-<titlePlus text="kneAfo" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
-<titlePlus text="kneelingAFoSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
-<ex text="kneelingAFoEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
+<l0 text="femaleLyingToTheSide" subtext="kneLyS" icon="osx_layside_f" fn="anav" warp="OpS|Kne!LyS|Ho|FemaleLyingToTheSide" travel="OpS|Kne!LyS|Ho|FemaleLyingToTheSide">
+<titlePlus text="kneLyS" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
+<titlePlus text="femaleLyingToTheSideSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
+<ex text="femaleLyingToTheSideEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
 <titleGfx id="omu_nav"><prop id="_x" am="-4"/><prop id="_y" am="9"/><prop id="_xscale" am="-50"/><prop id="_yscale" am="-50"/></titleGfx>
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 <dynamicIcon />
 </l0>
-<l0 text="kneelingSpread" subtext="kneLyb" icon="" fn="anav" warp="OpS|Kne!LyB|Ho|KneelingSubSpreadLegs" travel="OpS|Kne!LyB|Ho|KneelingSubSpreadLegs">
-<titlePlus text="kneLyb" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
-<titlePlus text="kneelingSpreadSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
-<ex text="kneelingSpreadEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
+<l0 text="femaleBentOver" subtext="kneAFo" icon="obododn_f" fn="anav" warp="OpS|Kne!AFo|Ho|BentOverFemale" travel="OpS|Kne!AFo|Ho|BentOverFemale">
+<titlePlus text="kneAFo" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
+<titlePlus text="femaleBentOverSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
+<ex text="femaleBentOverEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
 <titleGfx id="omu_nav"><prop id="_x" am="-4"/><prop id="_y" am="9"/><prop id="_xscale" am="-50"/><prop id="_yscale" am="-50"/></titleGfx>
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 <dynamicIcon />
 </l0>
-<l0 text="straddling" subtext="lybKne" icon="" iRevX="1" fn="anav" warp="OpS|Lyb!Kne|Ho|LyingDownStraddling" travel="OpS|Lyb!Kne|Ho|LyingDownStraddling">
-<titlePlus text="lybKne" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
-<titlePlus text="straddlingSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
-<ex text="straddlingEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
+<l0 text="sittingFemaleApproach" subtext="sitKne" icon="okalbdn_f" fn="anav" warp="OpS|Sit!Kne|Ho|SittingFemaleApproach" travel="OpS|Sit!Kne|Ho|SittingFemaleApproach">
+<titlePlus text="sitKne" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
+<titlePlus text="sittingFemaleApproachSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
+<ex text="sittingFemaleApproachEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
+<titleGfx id="omu_nav"><prop id="_x" am="-4"/><prop id="_y" am="9"/><prop id="_xscale" am="-50"/><prop id="_yscale" am="-50"/></titleGfx>
+<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+<dynamicIcon />
+</l0>
+<l0 text="mountedFemale" subtext="lyBKne" icon="okalbdn_f" fn="anav" warp="OpS|LyB!Kne|Ho|MountedFemale" travel="OpS|LyB!Kne|Ho|MountedFemale">
+<titlePlus text="lyBKne" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
+<titlePlus text="mountedFemaleSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
+<ex text="mountedFemaleEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>
 <titleGfx id="omu_nav"><prop id="_x" am="-4"/><prop id="_y" am="9"/><prop id="_xscale" am="-50"/><prop id="_yscale" am="-50"/></titleGfx>
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 <dynamicIcon />
