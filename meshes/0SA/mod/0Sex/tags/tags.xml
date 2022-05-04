@@ -7,15 +7,17 @@
 </c_all>
 
 <affection id="0MF|Sy6!Sy9|Ho|St9Adore"/>
-<affection id="OpS|Sta!Sta|Ho|StandingEmbrace"/>
-<affection id="OpS|Sta!Kne|Ho|DomStandingSubKneeling"/>
+<affection id="OpS|Sta!Sta|Ho|StandingHolding"/>
+<affection id="OpS|Sta!Sta|Ho|StandingHoldingFromBehind"/>
+<affection id="OpS|Sta!Kne|Ho|MaleStandingFemaleKneeling"/>
 <affection id="0MF|KNy6!KNy6|Ho|KnLap"/>
-<affection id="OpS|Kne!Kne|Ho|KneelingHoldingSubFromBehind"/>
-<affection id="OpS|Kne!Lyb|Ho|KneelingSubLyingDown"/>
-<affection id="OpS|Lyb!Kne|Ho|LyingDownSubKneeling"/>
-<affection id="OpS|Kne!AFo|Ho|KneelingSubBentOverBackward"/>
-<affection id="OpS|Kne!LyB|Ho|KneelingSubSpreadLegs"/>
-<affection id="OpS|Lyb!Kne|Ho|LyingDownStraddling"/>
+<affection id="OpS|LyS!LyS|Ho|SpooningIdle"/>
+<affection id="OpS|AFo!Sit|Ho|SittingMaleApproach"/>
+<affection id="OpS|Kne!LyB|Ho|SpreadLegsFemale"/>
+<affection id="OpS|Kne!LyS|Ho|FemaleLyingToTheSide"/>
+<affection id="OpS|Kne!AFo|Ho|BentOverFemale"/>
+<affection id="OpS|Sit!Kne|Ho|SittingFemaleApproach"/>
+<affection id="OpS|Sit!Kne|Ho|SittingFemaleApproach"/>
 
 </tags>   
  
