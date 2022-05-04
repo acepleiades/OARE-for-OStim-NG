@@ -3,6 +3,13 @@
 <region om="A" maj="K" min="Ksi" stage="" step="" story=""/>
 <anim id="0SxOpS_Ho-SittingFemaleApproach" t="L" l="2"/>
 <nav>
+	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!Sit|BoJ|AceLyingTitfuck" text="Fuck your partner's tits.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
 	<tab actor="1" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
 			<option halo="hgentle" icon="osqtlbbdn_f" go="OpS|LyB!Kne|Ho|MountedFemale" text="Mount your partner." t0="1">
