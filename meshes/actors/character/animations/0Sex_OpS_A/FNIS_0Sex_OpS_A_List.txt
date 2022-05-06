@@ -349,6 +349,14 @@ b -a,Tn 0SxOpS_Ho-AceCowgirl_GoToAfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS
 b -a,Tn 0SxOpS_Ho-AceCowgirl_GoToAfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceCowgirl_AfterClimax\0SxOpS_Ho-AceCowgirl_GoToAfterClimax_1.hkx
 b -Tn 0SxOpS_Ho-AceCowgirl_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceCowgirl_AfterClimax\0SxOpS_Ho-AceCowgirl_AfterClimax_0.hkx
 b -Tn 0SxOpS_Ho-AceCowgirl_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceCowgirl_AfterClimax\0SxOpS_Ho-AceCowgirl_AfterClimax_1.hkx
+b -Tn 0SxOpS_Sx-AceSquattingCowgirl_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\AceSquattingCowgirl\0SxOpS_Sx-AceSquattingCowgirl_S1_0.hkx
+b -Tn 0SxOpS_Sx-AceSquattingCowgirl_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\AceSquattingCowgirl\0SxOpS_Sx-AceSquattingCowgirl_S1_1.hkx
+b -Tn 0SxOpS_Sx-AceSquattingCowgirl_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\AceSquattingCowgirl\0SxOpS_Sx-AceSquattingCowgirl_S2_0.hkx
+b -Tn 0SxOpS_Sx-AceSquattingCowgirl_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\AceSquattingCowgirl\0SxOpS_Sx-AceSquattingCowgirl_S2_1.hkx
+b -Tn 0SxOpS_Sx-AceSquattingCowgirl_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\AceSquattingCowgirl\0SxOpS_Sx-AceSquattingCowgirl_S3_0.hkx
+b -Tn 0SxOpS_Sx-AceSquattingCowgirl_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\AceSquattingCowgirl\0SxOpS_Sx-AceSquattingCowgirl_S3_1.hkx
+b -Tn 0SxOpS_Sx-AceSquattingCowgirl_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\AceSquattingCowgirl\0SxOpS_Sx-AceSquattingCowgirl_S4_0.hkx
+b -Tn 0SxOpS_Sx-AceSquattingCowgirl_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\AceSquattingCowgirl\0SxOpS_Sx-AceSquattingCowgirl_S4_1.hkx
 b -Tn 0SxOpS_An-AceAnalCowgirl_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\An\AceAnalCowgirl\0SxOpS_An-AceAnalCowgirl_S1_0.hkx
 b -Tn 0SxOpS_An-AceAnalCowgirl_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\An\AceAnalCowgirl\0SxOpS_An-AceAnalCowgirl_S1_1.hkx
 b -Tn 0SxOpS_An-AceAnalCowgirl_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\An\AceAnalCowgirl\0SxOpS_An-AceAnalCowgirl_S2_0.hkx
