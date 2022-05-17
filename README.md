@@ -27,12 +27,12 @@ This work is licensed under a
 
 # Installation and more info
 
-1) First of all, this mod requires OSA and OStim to work. Follow the OStim installation guide: https://www.nexusmods.com/skyrimspecialedition/articles/3751
+1) First of all, this MOD requires OSA and OStim to work. Follow the OStim installation guide: https://www.nexusmods.com/skyrimspecialedition/articles/3751
 2) Download the MOD by clicking Code -> Download ZIP.
 3) Move the zipped file into your mod manager's Downloads folder and install it.
 4) Run Nemesis/FNIS.
 5) In game, in OStim's MCM, click "rebuild animation database" located at the bottom.
-6) Run Nemesis and rebuild OStim's animation database every time you update this mod.
+6) Run Nemesis and rebuild OStim's animation database every time you update this MOD.
 
 ## Nexus page
 
