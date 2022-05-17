@@ -463,6 +463,14 @@ b -Tn 0SxOpS_Ho-AceAnalMissionary_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\Op
 
 b -Tn 0SxOpS_Ho-FemaleLyingToTheSide_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Ho\FemaleLyingToTheSide\0SxOpS_Ho-FemaleLyingToTheSide_0.hkx
 b -Tn 0SxOpS_Ho-FemaleLyingToTheSide_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Ho\FemaleLyingToTheSide\0SxOpS_Ho-FemaleLyingToTheSide_1.hkx
+b -Tn 0SxOpS_Sx-FemaleLyingOnSideSex_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\FemaleLyingOnSideSex\0SxOpS_Sx-FemaleLyingOnSideSex_S1_0.hkx
+b -Tn 0SxOpS_Sx-FemaleLyingOnSideSex_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\FemaleLyingOnSideSex\0SxOpS_Sx-FemaleLyingOnSideSex_S1_1.hkx
+b -Tn 0SxOpS_Sx-FemaleLyingOnSideSex_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\FemaleLyingOnSideSex\0SxOpS_Sx-FemaleLyingOnSideSex_S2_0.hkx
+b -Tn 0SxOpS_Sx-FemaleLyingOnSideSex_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\FemaleLyingOnSideSex\0SxOpS_Sx-FemaleLyingOnSideSex_S2_1.hkx
+b -Tn 0SxOpS_Sx-FemaleLyingOnSideSex_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\FemaleLyingOnSideSex\0SxOpS_Sx-FemaleLyingOnSideSex_S3_0.hkx
+b -Tn 0SxOpS_Sx-FemaleLyingOnSideSex_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\FemaleLyingOnSideSex\0SxOpS_Sx-FemaleLyingOnSideSex_S3_1.hkx
+b -Tn 0SxOpS_Sx-FemaleLyingOnSideSex_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\FemaleLyingOnSideSex\0SxOpS_Sx-FemaleLyingOnSideSex_S4_0.hkx
+b -Tn 0SxOpS_Sx-FemaleLyingOnSideSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\FemaleLyingOnSideSex\0SxOpS_Sx-FemaleLyingOnSideSex_S4_1.hkx
 
 b -Tn 0SxOpS_Ho-BentOverFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ho\BentOverFemale\0SxOpS_Ho-BentOverFemale_0.hkx
 b -Tn 0SxOpS_Ho-BentOverFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ho\BentOverFemale\0SxOpS_Ho-BentOverFemale_1.hkx
