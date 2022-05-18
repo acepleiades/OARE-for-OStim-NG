@@ -22,7 +22,10 @@
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|Kne!LyB|BoJ|AceOnTopTitfuck" text="Fuck your partner's tits.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="omu_lipspucker" go="OpS|LyF!Sit|VJ|AceSittingCunnilingus" text="Lick your partner.">
+			<option halo="hgentle" icon="omu_lipspucker" go="OpS|LyF!Sit|VJ|AceLyingCunnilingusLegsLocked" text="Lick your partner (lying, legs locked).">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="omu_lipspucker" go="OpS|LyF!Sit|VJ|AceSittingCunnilingus" text="Lick your partner (sitting).">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
