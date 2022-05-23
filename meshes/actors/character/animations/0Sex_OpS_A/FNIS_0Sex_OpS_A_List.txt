@@ -785,3 +785,6 @@ b -a,Tn 0SxOpS_Ho-GoBackSittingFemaleApproachSmooch_1 ..\..\..\..\0SA\mod\0Sex\a
 b -a,Tn 0SxOpS_Sx-GoBackAce3PKneelingSexSmooch_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFoKne\Sx\Ace3PKneelingSex\0SxOpS_Sx-GoBackAce3PKneelingSexSmooch_0.hkx
 b -a,Tn 0SxOpS_Sx-GoBackAce3PKneelingSexSmooch_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFoKne\Sx\Ace3PKneelingSex\0SxOpS_Sx-GoBackAce3PKneelingSexSmooch_1.hkx
 b -a,Tn 0SxOpS_Sx-GoBackAce3PKneelingSexSmooch_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFoKne\Sx\Ace3PKneelingSex\0SxOpS_Sx-GoBackAce3PKneelingSexSmooch_2.hkx
+
+b -Tn 0SxOpS_Ap-AceDefMaleStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSit\Ap\AceDefMaleStanding\0SxOpS_Ap-AceDefMaleStanding_0.hkx
+b -Tn 0SxOpS_Ap-AceDefMaleStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSit\Ap\AceDefMaleStanding\0SxOpS_Ap-AceDefMaleStanding_1.hkx
