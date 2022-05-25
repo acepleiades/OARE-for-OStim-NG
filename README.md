@@ -41,4 +41,4 @@ https://www.nexusmods.com/skyrimspecialedition/mods/61167/
 
 ## Discord
 
-Join the OStim Discord to see new developments: discord.gg/RECvhVaRcU
+Join the OStim Discord to see new developments: https://discord.gg/RECvhVaRcU
