@@ -357,10 +357,6 @@ b -Tn 0SxOpS_Sx-AceCowgirlPressingDown_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\Ly
 b -Tn 0SxOpS_Sx-AceCowgirlPressingDown_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirlPressingDown\0SxOpS_Sx-AceCowgirlPressingDown_S3_1.hkx
 b -Tn 0SxOpS_Sx-AceCowgirlPressingDown_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirlPressingDown\0SxOpS_Sx-AceCowgirlPressingDown_S4_0.hkx
 b -Tn 0SxOpS_Sx-AceCowgirlPressingDown_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirlPressingDown\0SxOpS_Sx-AceCowgirlPressingDown_S4_1.hkx
-b -Tn 0SxOpS_Sx-AceCowgirlPressingDown_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirlPressingDown\0SxOpS_Sx-AceCowgirlPressingDown_S5_0.hkx
-b -Tn 0SxOpS_Sx-AceCowgirlPressingDown_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirlPressingDown\0SxOpS_Sx-AceCowgirlPressingDown_S5_1.hkx
-b -a,Tn 0SxOpS_Sx-AceCowgirlPressingDown_Climax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirlPressingDown\0SxOpS_Sx-AceCowgirlPressingDown_Climax_0.hkx
-b -a,Tn 0SxOpS_Sx-AceCowgirlPressingDown_Climax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirlPressingDown\0SxOpS_Sx-AceCowgirlPressingDown_Climax_1.hkx
 b -a,Tn 0SxOpS_Ho-AceCowgirlPressingDown_GoToAfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceCowgirlPressingDown_AfterClimax\0SxOpS_Ho-AceCowgirlPressingDown_GoToAfterClimax_0.hkx
 b -a,Tn 0SxOpS_Ho-AceCowgirlPressingDown_GoToAfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceCowgirlPressingDown_AfterClimax\0SxOpS_Ho-AceCowgirlPressingDown_GoToAfterClimax_1.hkx
 b -Tn 0SxOpS_Ho-AceCowgirlPressingDown_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceCowgirlPressingDown_AfterClimax\0SxOpS_Ho-AceCowgirlPressingDown_AfterClimax_0.hkx
