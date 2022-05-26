@@ -2,7 +2,7 @@
 <info name="Cowgirl, Pressing Down" animator="Ace"/>
 <region om="A" maj="C" min="C" stage="" step="" story=""/>
 <anim id="0SxOpS_Sx-AceCowgirlPressingDown_S1" t="L" l="2"/>
-<speed a="1" min="0" max="4" name="thrusts">	
+<speed a="1" min="0" max="3" name="thrusts">	
 	<sp mtx="^bouncesPerSec" qnt=".5">
 		<anim id="0SxOpS_Sx-AceCowgirlPressingDown_S1" t="L" l="2" i0="0" i1="0"/>
 		</sp>
@@ -15,18 +15,12 @@
 	<sp mtx="^bouncesPerSec" qnt="2">
 		<anim id="0SxOpS_Sx-AceCowgirlPressingDown_S4" t="L" l="2" i0="3" i1="3"/>
 		</sp>
-	<sp mtx="^bouncesPerSec" qnt="2.5">
-		<anim id="0SxOpS_Sx-AceCowgirlPressingDown_S5" t="L" l="2" i0="4" i1="4"/>
-		</sp>
 </speed>
 <nav>
 	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
 	<tab actor="1" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^bounceWFaster" minustext="^bounceWSlower" t0="1"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|AceCowgirlPressingDown_Climax" text="Climax (internal)." t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
-			</option>
 			<option halo="hgentle" icon="obigx" go="OpS|LyB!Kne|Sx|AceCowgirl" text="Return..." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
 			</option>
