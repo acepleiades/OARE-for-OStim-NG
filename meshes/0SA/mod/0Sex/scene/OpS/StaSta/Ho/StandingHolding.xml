@@ -16,6 +16,9 @@
 			</option>
 		</page>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hheartdt" icon="opowkiss_mf" go="OpS|Sta!Sta|Em|GentleEmbrace" text="Embrace your partner gently." t0="1">
+			<enhance a="0"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+			</option>
 			<option halo="hheartdt" icon="opowkiss_mf" go="OpS|Sta!Sta|Ho|GoToStandingKiss" text="Kiss your partner." t0="1">
 			<enhance a="0"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
 			</option>
@@ -48,6 +51,9 @@
 			</option>
 		</page>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="htender" icon="opowkiss_mf" go="OpS|Sta!Sta|Em|GentleEmbrace" text="Embrace your partner gently." t0="1">
+			<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" n="sk0" v="0"/><ihue cmd="body" n="sk1" v="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 			<option halo="htender" icon="opowkiss_mf" go="OpS|Sta!Sta|Ho|GoToStandingKiss" text="Kiss your partner." t0="0">
 			<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" n="sk0" v="0"/><ihue cmd="body" n="sk1" v="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
