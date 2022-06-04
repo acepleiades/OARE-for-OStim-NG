@@ -1,13 +1,10 @@
-<scene id="OpS|Sta!Sta|Em|GentleEmbrace" actors="2" style="OScene">
+<scene id="OpS|Sta!Sta|Em|HoldingChin" actors="2" style="OScene">
 <info name="Gentle Embrace" animator="Frolique"/>
 <region om="A" maj="K" min="Ksi" stage="" step="" story=""/>
-<anim id="0SxOpS_Em-GentleEmbrace" t="L" l="2"/>
+<anim id="0SxOpS_Em-HoldingChin" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hheartdt" icon="opowkiss_mf" go="OpS|Sta!Sta|Ho|GoToStandingKiss" text="Kiss your partner." t0="1">
-			<enhance a="0"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
-			</option>
 			<option halo="hheartdt" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHolding" text="Return..." t0="1">
 			<enhance a="0"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
 			</option>
@@ -15,9 +12,6 @@
 	</tab>
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="htender" icon="opowkiss_mf" go="OpS|Sta!Sta|Ho|GoToStandingKiss" text="Kiss your partner." t0="0">
-			<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" n="sk0" v="0"/><ihue cmd="body" n="sk1" v="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
 			<option halo="htender" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHolding" text="Return..." t0="0">
 			<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" n="sk0" v="0"/><ihue cmd="body" n="sk1" v="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
