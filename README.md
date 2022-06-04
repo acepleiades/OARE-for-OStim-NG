@@ -1,7 +1,8 @@
 # OpenSex
 OpenSex is the open/libre alternative to OSex.
 
-Currently, all animations were made by ACEPLEIADES.
+Currently, most animations were made by ACEPLEIADES. Additional idles were made by Frolique.
+
 XML data has been built by ACEPLEIADES, VersuchDrei and DragoFall.
 
 Work files (.max): https://drive.google.com/drive/folders/1-A4pRMkvOFldBcEZ8lMogyX2PulDrqEg?usp=sharing
@@ -13,6 +14,7 @@ Work files (.max): https://drive.google.com/drive/folders/1-A4pRMkvOFldBcEZ8lMog
 | Artist | Patreon |
 |-|-|
 | ACEPLEIADES |<a href="https://www.patreon.com/skyrimaceanimations"><img alt="Become a patron" src="https://i.ibb.co/GPtxW0M/patron35.png"></a>|
+| | |
 
 ## License
 
