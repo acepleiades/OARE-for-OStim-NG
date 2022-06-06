@@ -822,3 +822,5 @@ b -a,Tn 0SxOpS_Ap-GoToColiseumMaleStandingFemaleKneeling_0 ..\..\..\..\0SA\mod\0
 b -a,Tn 0SxOpS_Ap-GoToColiseumMaleStandingFemaleKneeling_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSit\Ap\ColiseumMaleStart\0SxOpS_Ap-GoToColiseumMaleStandingFemaleKneeling_1.hkx
 b -Tn 0SxOpS_Ap-ColiseumMaleStandingFemaleKneeling_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\ColiseumMaleStandingFemaleKneeling\0SxOpS_Ap-ColiseumMaleStandingFemaleKneeling_0.hkx
 b -Tn 0SxOpS_Ap-ColiseumMaleStandingFemaleKneeling_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\ColiseumMaleStandingFemaleKneeling\0SxOpS_Ap-ColiseumMaleStandingFemaleKneeling_1.hkx
+b -Tn 0SxOpS_Ap-ColiseumMaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SquSit\Ap\ColiseumMaleApproach\0SxOpS_Ap-ColiseumMaleApproach_0.hkx
+b -Tn 0SxOpS_Ap-ColiseumMaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SquSit\Ap\ColiseumMaleApproach\0SxOpS_Ap-ColiseumMaleApproach_1.hkx
