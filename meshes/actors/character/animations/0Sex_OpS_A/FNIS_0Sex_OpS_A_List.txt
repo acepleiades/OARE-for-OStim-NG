@@ -278,6 +278,10 @@ b -Tn 0SxOpS_BoJ-AceLyingBoobjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\B
 b -Tn 0SxOpS_BoJ-AceLyingBoobjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\BoJ\AceLyingBoobjob\0SxOpS_BoJ-AceLyingBoobjob_S3_1.hkx
 b -Tn 0SxOpS_BoJ-AceLyingBoobjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\BoJ\AceLyingBoobjob\0SxOpS_BoJ-AceLyingBoobjob_S4_0.hkx
 b -Tn 0SxOpS_BoJ-AceLyingBoobjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\BoJ\AceLyingBoobjob\0SxOpS_BoJ-AceLyingBoobjob_S4_1.hkx
+b -a,Tn 0SxOpS_BoJ-AceLyingBoobjob_Climax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\BoJ\AceLyingBoobjob\0SxOpS_BoJ-AceLyingBoobjob_Climax_0.hkx
+b -a,Tn 0SxOpS_BoJ-AceLyingBoobjob_Climax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\BoJ\AceLyingBoobjob\0SxOpS_BoJ-AceLyingBoobjob_Climax_1.hkx
+b -Tn 0SxOpS_Ho-AceLyingBoobjob_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Ho\AceLyingBoobjob_AfterClimax\0SxOpS_Ho-AceLyingBoobjob_AfterClimax_0.hkx
+b -Tn 0SxOpS_Ho-AceLyingBoobjob_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Ho\AceLyingBoobjob_AfterClimax\0SxOpS_Ho-AceLyingBoobjob_AfterClimax_1.hkx
 b -Tn 0SxOpS_BoJ-AceLyingTitfuck_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\BoJ\AceLyingTitfuck\0SxOpS_BoJ-AceLyingTitfuck_S1_0.hkx
 b -Tn 0SxOpS_BoJ-AceLyingTitfuck_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\BoJ\AceLyingTitfuck\0SxOpS_BoJ-AceLyingTitfuck_S1_1.hkx
 b -Tn 0SxOpS_BoJ-AceLyingTitfuck_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\BoJ\AceLyingTitfuck\0SxOpS_BoJ-AceLyingTitfuck_S2_0.hkx
