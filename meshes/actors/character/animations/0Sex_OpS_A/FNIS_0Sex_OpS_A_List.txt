@@ -244,7 +244,14 @@ b -Tn 0SxOpS_FJ-AceSittingFootjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\
 b -Tn 0SxOpS_FJ-AceSittingFootjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\FJ\AceSittingFootjob\0SxOpS_FJ-AceSittingFootjob_S3_1.hkx
 b -Tn 0SxOpS_FJ-AceSittingFootjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\FJ\AceSittingFootjob\0SxOpS_FJ-AceSittingFootjob_S4_0.hkx
 b -Tn 0SxOpS_FJ-AceSittingFootjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\FJ\AceSittingFootjob\0SxOpS_FJ-AceSittingFootjob_S4_1.hkx
-b -Tn 0SxOpS_VJ-AceSittingCunnilingus_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceSittingCunnilingus\0SxOpS_VJ-AceSittingCunnilingus_S1_0.hkx
+b -Tn 0SxOpS_FJ-AceSittingFootjobFromBehind_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\FJ\AceSittingFootjobFromBehind\0SxOpS_FJ-AceSittingFootjobFromBehind_S1_0.hkx
+b -Tn 0SxOpS_FJ-AceSittingFootjobFromBehind_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\FJ\AceSittingFootjobFromBehind\0SxOpS_FJ-AceSittingFootjobFromBehind_S1_1.hkx
+b -Tn 0SxOpS_FJ-AceSittingFootjobFromBehind_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\FJ\AceSittingFootjobFromBehind\0SxOpS_FJ-AceSittingFootjobFromBehind_S2_0.hkx
+b -Tn 0SxOpS_FJ-AceSittingFootjobFromBehind_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\FJ\AceSittingFootjobFromBehind\0SxOpS_FJ-AceSittingFootjobFromBehind_S2_1.hkx
+b -Tn 0SxOpS_FJ-AceSittingFootjobFromBehind_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\FJ\AceSittingFootjobFromBehind\0SxOpS_FJ-AceSittingFootjobFromBehind_S3_0.hkx
+b -Tn 0SxOpS_FJ-AceSittingFootjobFromBehind_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\FJ\AceSittingFootjobFromBehind\0SxOpS_FJ-AceSittingFootjobFromBehind_S3_1.hkx
+b -Tn 0SxOpS_FJ-AceSittingFootjobFromBehind_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\FJ\AceSittingFootjobFromBehind\0SxOpS_FJ-AceSittingFootjobFromBehind_S4_0.hkx
+b -Tn 0SxOpS_FJ-AceSittingFootjobFromBehind_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\FJ\AceSittingFootjobFromBehind\0SxOpS_FJ-AceSittingFootjobFromBehind_S4_1.hkx
 
 b -Tn 0SxOpS_Ho-SittingFemaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproach\0SxOpS_Ho-SittingFemaleApproach_0.hkx
 b -Tn 0SxOpS_Ho-SittingFemaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproach\0SxOpS_Ho-SittingFemaleApproach_1.hkx
@@ -434,6 +441,7 @@ b -Tn 0SxOpS_VJ-AceLyingCunnilingusLegsLocked_S3_0 ..\..\..\..\0SA\mod\0Sex\anim
 b -Tn 0SxOpS_VJ-AceLyingCunnilingusLegsLocked_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceLyingCunnilingusLegsLocked\0SxOpS_VJ-AceLyingCunnilingusLegsLocked_S3_1.hkx
 b -Tn 0SxOpS_VJ-AceLyingCunnilingusLegsLocked_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceLyingCunnilingusLegsLocked\0SxOpS_VJ-AceLyingCunnilingusLegsLocked_S4_0.hkx
 b -Tn 0SxOpS_VJ-AceLyingCunnilingusLegsLocked_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceLyingCunnilingusLegsLocked\0SxOpS_VJ-AceLyingCunnilingusLegsLocked_S4_1.hkx
+b -Tn 0SxOpS_VJ-AceSittingCunnilingus_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceSittingCunnilingus\0SxOpS_VJ-AceSittingCunnilingus_S1_0.hkx
 b -Tn 0SxOpS_VJ-AceSittingCunnilingus_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceSittingCunnilingus\0SxOpS_VJ-AceSittingCunnilingus_S1_1.hkx
 b -Tn 0SxOpS_VJ-AceSittingCunnilingus_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceSittingCunnilingus\0SxOpS_VJ-AceSittingCunnilingus_S2_0.hkx
 b -Tn 0SxOpS_VJ-AceSittingCunnilingus_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceSittingCunnilingus\0SxOpS_VJ-AceSittingCunnilingus_S2_1.hkx
