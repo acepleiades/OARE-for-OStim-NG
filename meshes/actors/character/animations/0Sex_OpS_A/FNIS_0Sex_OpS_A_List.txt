@@ -29,6 +29,12 @@ b -Tn 0SxOpS_Em-GentleEmbrace_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\Gent
 b -Tn 0SxOpS_Em-GentleEmbrace_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\GentleEmbrace\0SxOpS_Em-GentleEmbrace_1.hkx
 b -Tn 0SxOpS_Em-HoldingChin_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\HoldingChin\0SxOpS_Em-HoldingChin_0.hkx
 b -Tn 0SxOpS_Em-HoldingChin_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\HoldingChin\0SxOpS_Em-HoldingChin_1.hkx
+b -a,Tn 0SxOpS_Em-GoToHoldingChinHug_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\HoldingChin\0SxOpS_Em-GoToHoldingChinHug_0.hkx
+b -a,Tn 0SxOpS_Em-GoToHoldingChinHug_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\HoldingChin\0SxOpS_Em-GoToHoldingChinHug_1.hkx
+b -Tn 0SxOpS_Em-HoldingChinHug_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\HoldingChin\0SxOpS_Em-HoldingChinHug_0.hkx
+b -Tn 0SxOpS_Em-HoldingChinHug_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\HoldingChin\0SxOpS_Em-HoldingChinHug_1.hkx
+b -Tn 0SxOpS_Em-HoldingChinKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\HoldingChin\0SxOpS_Em-HoldingChinKiss_0.hkx
+b -Tn 0SxOpS_Em-HoldingChinKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\HoldingChin\0SxOpS_Em-HoldingChinKiss_1.hkx
 b -Tn 0SxOpS_Ho-StandingKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingKiss\0SxOpS_Ho-StandingKiss_0.hkx
 b -Tn 0SxOpS_Ho-StandingKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingKiss\0SxOpS_Ho-StandingKiss_1.hkx
 b -Tn 0SxOpS_HJ-AceStandingHandjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceStandingHandjob\0SxOpS_HJ-AceStandingHandjob_S1_0.hkx
