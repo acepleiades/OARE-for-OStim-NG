@@ -26,10 +26,10 @@
 			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Sit|Sx|AceSquattingCowgirl" text="Vary into squatting cowgirl.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Sit|Sx|AceCowgirlLegsCrossed" text="Vary into cowgirl, legs crossed.">
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|GoToAceCowgirlLegsCrossed" text="Vary into cowgirl, legs crossed.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obigx" go="OpS|Kne!LyB|Ho|SpreadLegsFemale" text="Let go of your partner." t0="1">
+			<option halo="hgentle" icon="obigx" go="OpS|LyB!Kne|Ho|MountedFemale" text="Return..." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
 			</option>
 		</page>
