@@ -871,3 +871,10 @@ b -Tn 0SxOpS_Ho-ColiseumFemaleLyingToTheSide_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS
 b -Tn 0SxOpS_Ho-ColiseumFemaleLyingToTheSide_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Ho\ColiseumFemaleLyingToTheSide\0SxOpS_Ho-ColiseumFemaleLyingToTheSide_1.hkx
 b -Tn 0SxOpS_Ho-ColiseumBentOverFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ho\ColiseumBentOverFemale\0SxOpS_Ho-ColiseumBentOverFemale_0.hkx
 b -Tn 0SxOpS_Ho-ColiseumBentOverFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ho\ColiseumBentOverFemale\0SxOpS_Ho-ColiseumBentOverFemale_1.hkx
+
+b -Tn 0SxOpS_Ap-ColiseumFemaleStart_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSta\Ap\ColiseumFemaleStart\0SxOpS_Ap-ColiseumFemaleStart_0.hkx
+b -Tn 0SxOpS_Ap-ColiseumFemaleStart_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSta\Ap\ColiseumFemaleStart\0SxOpS_Ap-ColiseumFemaleStart_1.hkx
+b -Tn 0SxOpS_Ap-ColiseumFemaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSqu\Ap\ColiseumFemaleApproach\0SxOpS_Ap-ColiseumFemaleApproach_0.hkx
+b -Tn 0SxOpS_Ap-ColiseumFemaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSqu\Ap\ColiseumFemaleApproach\0SxOpS_Ap-ColiseumFemaleApproach_1.hkx
+b -Tn 0SxOpS_Ap-ColiseumMountedFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Ap\ColiseumMountedFemale\0SxOpS_Ap-ColiseumMountedFemale_0.hkx
+b -Tn 0SxOpS_Ap-ColiseumMountedFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Ap\ColiseumMountedFemale\0SxOpS_Ap-ColiseumMountedFemale_1.hkx
