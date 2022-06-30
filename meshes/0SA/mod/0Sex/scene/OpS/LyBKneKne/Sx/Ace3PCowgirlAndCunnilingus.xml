@@ -1,0 +1,52 @@
+<scene id="OpS|LyB!Kne!Kne|Sx|Ace3PCowgirlAndCunnilingus" actors="3" style="OScene">
+<info name="3P Cowgirl and Cunnilingus" animator="Ace"/>
+<region om="A" maj="K" min="K" stage="" step="" story=""/>
+<anim id="0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S1" t="L" l="2"/>
+<speed a="0" min="0" max="3" name="thrusts">
+	<sp mtx="^thrustsPerSec" qnt=".5">
+		<anim id="0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S1" t="L" l="2" i0="0" i1="0"/></sp>
+	<sp mtx="^thrustsPerSec" qnt="1">
+		<anim id="0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S2" t="L" l="2" i0="1" i1="1"/></sp>
+	<sp mtx="^thrustsPerSec" qnt="1.5">
+		<anim id="0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S3" t="L" l="2" i0="2" i1="2"/></sp>
+	<sp mtx="^thrustsPerSec" qnt="2">
+		<anim id="0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S4" t="L" l="2" i0="3" i1="3"/></sp>
+</speed>
+<nav>
+	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<xmenu id="speed" plus="cplus" minus="cminus" plustext="Faster" minustext="Slower" t0="0"/>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="obigx" go="OpS|Kne!LyB!AFo|Ho|StackedGirls" text="Return..." t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
+			</option>
+		</page>
+	</tab>
+</nav>
+<eyes a="2" facerel="0" actionrel="1" bodyrel="2">
+<primary v="-75" h="0" vpan="0" hpan="0"/>
+<face v="-75" h="0" vpan="15" hpan="15"/>
+<body v="-75" h="0" vpan="15" hpan="15"/>
+<action v="-75" h="0" vpan="15" hpan="15"/>
+<away v="-75" h="0" vpan="15" hpan="15"/>
+</eyes>
+<eyes a="1" facerel="2" actionrel="1" bodyrel="0">
+<primary v="-10" h="0" vpan="0" hpan="0"/>
+<face v="-10" h="0" vpan="15" hpan="15"/>
+<body v="-10" h="0" vpan="15" hpan="15"/>
+<action v="-10" h="0" vpan="15" hpan="15"/>
+<away v="-10" h="0" vpan="15" hpan="15"/>
+</eyes>
+<eyes a="2" facerel="0" actionrel="1" bodyrel="2">
+<primary v="-30" h="0" vpan="0" hpan="0"/>
+<face v="-30" h="0" vpan="15" hpan="15"/>
+<body v="-30" h="0" vpan="15" hpan="15"/>
+<action v="-30" h="0" vpan="15" hpan="15"/>
+<away v="-30" h="0" vpan="15" hpan="15"/>
+</eyes>
+<motif drive="intimate" theme="G_SexPhysRear"/>
+<motif drive="intimate" theme="R_SexPhysRear"/>
+<motif drive="intimate" theme="Affection"/>
+<autonav>
+</autonav>
+</scene>

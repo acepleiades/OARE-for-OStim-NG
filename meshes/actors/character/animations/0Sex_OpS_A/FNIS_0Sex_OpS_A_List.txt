@@ -709,6 +709,18 @@ b -Tn 0SxOpS_Sx-AceStackedGirlsSexTop_S3_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\Kne
 b -Tn 0SxOpS_Sx-AceStackedGirlsSexTop_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBAFo\Sx\AceStackedGirlsSexTop\0SxOpS_Sx-AceStackedGirlsSexTop_S4_0.hkx
 b -Tn 0SxOpS_Sx-AceStackedGirlsSexTop_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBAFo\Sx\AceStackedGirlsSexTop\0SxOpS_Sx-AceStackedGirlsSexTop_S4_1.hkx
 b -Tn 0SxOpS_Sx-AceStackedGirlsSexTop_S4_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBAFo\Sx\AceStackedGirlsSexTop\0SxOpS_Sx-AceStackedGirlsSexTop_S4_2.hkx
+b -Tn 0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Sx\Ace3PCowgirlAndCunnilingus\0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S1_0.hkx
+b -Tn 0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Sx\Ace3PCowgirlAndCunnilingus\0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S1_1.hkx
+b -Tn 0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S1_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Sx\Ace3PCowgirlAndCunnilingus\0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S1_2.hkx
+b -Tn 0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Sx\Ace3PCowgirlAndCunnilingus\0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S2_0.hkx
+b -Tn 0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Sx\Ace3PCowgirlAndCunnilingus\0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S2_1.hkx
+b -Tn 0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S2_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Sx\Ace3PCowgirlAndCunnilingus\0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S2_2.hkx
+b -Tn 0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Sx\Ace3PCowgirlAndCunnilingus\0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S3_0.hkx
+b -Tn 0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Sx\Ace3PCowgirlAndCunnilingus\0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S3_1.hkx
+b -Tn 0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S3_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Sx\Ace3PCowgirlAndCunnilingus\0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S3_2.hkx
+b -Tn 0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Sx\Ace3PCowgirlAndCunnilingus\0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S4_0.hkx
+b -Tn 0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Sx\Ace3PCowgirlAndCunnilingus\0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S4_1.hkx
+b -Tn 0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S4_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Sx\Ace3PCowgirlAndCunnilingus\0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S4_2.hkx
 
 b -Tn 0SxOpS_Ho-KneelingHolding_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_0.hkx
 b -Tn 0SxOpS_Ho-KneelingHolding_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_1.hkx
