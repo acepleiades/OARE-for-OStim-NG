@@ -14,6 +14,9 @@
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|Kne!LyB!AFo|Sx|AceStackedGirlsSexTop" text="Have sex with them (top partner).">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+			<option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!Kne!Kne|Sx|Ace3PCowgirlAndCunnilingus" text="Have sex with them (cowgirl and cunnilingus).">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 		</page>
 	</tab>
 </nav>
