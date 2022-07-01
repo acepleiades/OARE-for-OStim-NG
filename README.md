@@ -5,6 +5,8 @@ Currently, most animations were made by ACEPLEIADES. Additional idles were made 
 
 XML data has been built by ACEPLEIADES, VersuchDrei and DragoFall.
 
+A script by 321mahra has been added that fixes the scaling of the third actor during threesome scenes.
+
 Work files (.max): https://drive.google.com/drive/folders/1-A4pRMkvOFldBcEZ8lMogyX2PulDrqEg?usp=sharing
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
