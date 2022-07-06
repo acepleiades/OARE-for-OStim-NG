@@ -1,7 +1,7 @@
-<scene id="OpS|LyB!Kne!Kne|Ho|SuggestiveGirls" actors="3" style="OScene">
-<info name="Suggestive Girls" animator="Ace"/>
+<scene id="OpS|LyB!Kne!Kne|Ho|3PLyingIdle" actors="3" style="OScene">
+<info name="3P Lying Idle" animator="Ace"/>
 <region om="A" maj="D" min="D" stage="" step="" story=""/>
-<anim id="0SxOpS_Ho-SuggestiveGirls" t="L" l="2"/>
+<anim id="0SxOpS_Ho-3PLyingIdle" t="L" l="2"/>
 <nav>
 	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
@@ -12,9 +12,6 @@
 		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!Kne!Kne|HJ|3PHandjob" text="Have them stroke you.">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-			<option halo="hgentle" icon="objbf_f" go="OpS|LyB!Kne!Kne|Ho|GoTo3PBlowjob" text="Have them suck you.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
