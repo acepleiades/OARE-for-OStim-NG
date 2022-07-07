@@ -9,9 +9,6 @@
 			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta!Sta|Ho|Ace3PStandingHolding" text="Hold your partners." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="osx_kn_m" go="OpS|Kne!LyB!AFo|Ho|StackedGirls" text="Kneel and have your partners lie down." t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
 			<option halo="hgentle" icon="oknlbdn_f" go="OpS|LyB!Kne!Kne|Ho|3PLyingIdle" text="Lie down." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
