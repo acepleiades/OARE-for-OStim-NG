@@ -17,6 +17,9 @@
 			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!Kne!Kne|HJ|3PHandjob" text="Have them stroke you.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+			<option halo="hgentle" icon="objbf_f" go="OpS|LyB!Kne!Kne|Ho|GoTo3PLyingFellatio" text="Have them give you a blowjob.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 		</page>
 	</tab>
 	<tab icon="splus" text="^dismiss" empty="2"><hue n="hu" cmd="vg" a="1"/><bnhue cmd="vn" a="1"/>
