@@ -692,12 +692,18 @@ b -Tn 0SxOpS_HJ-3PHandjob_S3_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\HJ\3P
 b -Tn 0SxOpS_HJ-3PHandjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\HJ\3PHandjob\0SxOpS_HJ-3PHandjob_S4_0.hkx
 b -Tn 0SxOpS_HJ-3PHandjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\HJ\3PHandjob\0SxOpS_HJ-3PHandjob_S4_1.hkx
 b -Tn 0SxOpS_HJ-3PHandjob_S4_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\HJ\3PHandjob\0SxOpS_HJ-3PHandjob_S4_2.hkx
-b -Tn 0SxOpS_HJ-3PBlowjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BJ\3PBlowjob\0SxOpS_HJ-3PBlowjob_S1_0.hkx
-b -Tn 0SxOpS_HJ-3PBlowjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BJ\3PBlowjob\0SxOpS_HJ-3PBlowjob_S1_1.hkx
-b -Tn 0SxOpS_HJ-3PBlowjob_S1_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BJ\3PBlowjob\0SxOpS_HJ-3PBlowjob_S1_2.hkx
-b -Tn 0SxOpS_HJ-3PBlowjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BJ\3PBlowjob\0SxOpS_HJ-3PBlowjob_S2_0.hkx
-b -Tn 0SxOpS_HJ-3PBlowjob_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BJ\3PBlowjob\0SxOpS_HJ-3PBlowjob_S2_1.hkx
-b -Tn 0SxOpS_HJ-3PBlowjob_S2_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BJ\3PBlowjob\0SxOpS_HJ-3PBlowjob_S2_2.hkx
+b -Tn 0SxOpS_BJ-3PLyingFellatio_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BJ\3PLyingFellatio\0SxOpS_BJ-3PLyingFellatio_S1_0.hkx
+b -Tn 0SxOpS_BJ-3PLyingFellatio_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BJ\3PLyingFellatio\0SxOpS_BJ-3PLyingFellatio_S1_1.hkx
+b -Tn 0SxOpS_BJ-3PLyingFellatio_S1_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BJ\3PLyingFellatio\0SxOpS_BJ-3PLyingFellatio_S1_2.hkx
+b -Tn 0SxOpS_BJ-3PLyingFellatio_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BJ\3PLyingFellatio\0SxOpS_BJ-3PLyingFellatio_S2_0.hkx
+b -Tn 0SxOpS_BJ-3PLyingFellatio_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BJ\3PLyingFellatio\0SxOpS_BJ-3PLyingFellatio_S2_1.hkx
+b -Tn 0SxOpS_BJ-3PLyingFellatio_S2_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BJ\3PLyingFellatio\0SxOpS_BJ-3PLyingFellatio_S2_2.hkx
+b -Tn 0SxOpS_BJ-3PLyingFellatio_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BJ\3PLyingFellatio\0SxOpS_BJ-3PLyingFellatio_S3_0.hkx
+b -Tn 0SxOpS_BJ-3PLyingFellatio_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BJ\3PLyingFellatio\0SxOpS_BJ-3PLyingFellatio_S3_1.hkx
+b -Tn 0SxOpS_BJ-3PLyingFellatio_S3_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BJ\3PLyingFellatio\0SxOpS_BJ-3PLyingFellatio_S3_2.hkx
+b -Tn 0SxOpS_BJ-3PLyingFellatio_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BJ\3PLyingFellatio\0SxOpS_BJ-3PLyingFellatio_S4_0.hkx
+b -Tn 0SxOpS_BJ-3PLyingFellatio_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BJ\3PLyingFellatio\0SxOpS_BJ-3PLyingFellatio_S4_1.hkx
+b -Tn 0SxOpS_BJ-3PLyingFellatio_S4_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BJ\3PLyingFellatio\0SxOpS_BJ-3PLyingFellatio_S4_2.hkx
 
 b -Tn 0SxOpS_Ho-StackedGirls_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBAFo\Ho\StackedGirls\0SxOpS_Ho-StackedGirls_0.hkx
 b -Tn 0SxOpS_Ho-StackedGirls_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBAFo\Ho\StackedGirls\0SxOpS_Ho-StackedGirls_1.hkx
