@@ -5,7 +5,7 @@ Currently, most animations were made by ACEPLEIADES. Additional idles were made 
 
 XML data has been built by ACEPLEIADES, VersuchDrei and DragoFall.
 
-321mahra wrote OStimFixThirdScalingMain.psc and OStimHeelsFix.psc, these scripts are used to give the correct scaling to actors in certain circumstances.
+OStimFixThirdScalingMain.psc and OStimHeelsFix.psc were written by 321mahra and Aietos. These scripts are used to give the correct scaling to actors in certain circumstances.
 
 Work files (.max): https://drive.google.com/drive/folders/1-A4pRMkvOFldBcEZ8lMogyX2PulDrqEg?usp=sharing
 
