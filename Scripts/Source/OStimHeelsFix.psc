@@ -1,4 +1,4 @@
-Scriptname OStimHeelsFix extends Quest  
+Scriptname OStimHeelsFix extends Quest
 
 osexintegrationmain ostim
 
@@ -13,7 +13,7 @@ actor sub
 actor third
 
 event oninit()
-	ostim = game.getformfromfile(0x000801, "ostim.esp") as osexintegrationmain
+	ostim = OUtils.GetOStim()
 	registerformodevent("ostim_start", "scenestart")
 	registerformodevent("ostim_end", "sceneend")
 	registerformodevent("ostim_thirdactor_join", "thirdjoin")
@@ -65,3 +65,5 @@ function fixheels(actor a)
 		nioverride.updatenodetransform(a, false, ostim.isfemale(a), skeleton)
 	endif
 endfunction
+
+OsexIntegrationMain property ostim auto
