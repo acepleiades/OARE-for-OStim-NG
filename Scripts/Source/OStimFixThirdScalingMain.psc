@@ -1,9 +1,9 @@
-Scriptname OStimFixThirdScalingMain extends Quest  
+Scriptname OStimFixThirdScalingMain extends Quest
 
 osexintegrationmain ostim
 
 event oninit()
-	ostim = game.getformfromfile(0x000801, "ostim.esp") as osexintegrationmain
+	ostim = OUtils.GetOStim()
 	registerformodevent("ostim_scenechanged", "scenechange")
 endevent
 
@@ -18,3 +18,5 @@ event scenechange(string eventname, string strarg, float numarg, form sender)
 		ostim.scaletostandardheight(third)
 	endif
 endevent
+
+OsexIntegrationMain property ostim auto
