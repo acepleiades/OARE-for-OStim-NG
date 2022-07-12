@@ -3,9 +3,11 @@
 <region om="A" maj="D" min="D" stage="" step="" story=""/>
 <anim id="0SxOpS_Ho-3PLyingIdle" t="L" l="2"/>
 <nav>
-	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="oknlbdn_f" go="OpS|Kne!LyB!LyB|Ho|3PSpreadLegs" text="Kneel and have your partners lie down with spread legs." t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|Kne!LyB!AFo|Ho|StackedGirls" text="Kneel and have your partners lie on each other." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
@@ -29,6 +31,7 @@
 			</option>
 		</page>
 	</tab>
+	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
 </nav>
 <eyes a="0" facerel="2" actionrel="0" bodyrel="1">
 <primary v="-80" h="0" vpan="10" hpan="10"/>
