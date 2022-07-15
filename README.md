@@ -1,5 +1,5 @@
 
-# OpenSex   [![Badge License]][License]
+# OpenSex   [![Badge License]][License]   [![Badge Discord]][Discord]
 
 *Adult animations mod for **Skyrim SE** <br>
 and open source alternative to **OSex**.*
@@ -12,8 +12,7 @@ and open source alternative to **OSex**.*
 
 [![Button Nexus]][Nexus]   
 [![Button Installation]][Installation]   
-[![Button Files]][Files]   
-[![Button Discord]][Discord]
+[![Button Files]][Files]
 
 
 ---
@@ -54,7 +53,6 @@ and open source alternative to **OSex**.*
 - `OStimFixThirdScalingMain.psc`
 - `OStimHeelsFix.psc`
 
-
 - **321mahra**
 - **Aietos**
 
@@ -79,13 +77,13 @@ and open source alternative to **OSex**.*
 
 <!----------------------------------[ Badges ]--------------------------------->
 
-[Badge License]: https://img.shields.io/badge/License-CC_BY_SA-EF9421.svg?style=for-the-badge
+[Badge License]: https://img.shields.io/badge/_-CC_BY_SA-b06e19.svg?style=for-the-badge&logoColor=white&logo=CreativeCommons&labelColor=EF9421
+[Badge Discord]: https://img.shields.io/badge/_-Discord-4751bc?style=for-the-badge&logoColor=white&logo=Discord&labelColor=5865F2
 
 
 <!---------------------------------[ Buttons ]--------------------------------->
 
 [Button Installation]: https://img.shields.io/badge/Installation-5BA745?style=for-the-badge&logoColor=white&logo=DocuSign
-[Button Discord]: https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white&logo=Discord
 [Button Nexus]: https://img.shields.io/badge/Ｎｅｘｕｓ_Mods-8197ec?style=for-the-badge&logoColor=white&logo=Dragonframe
 [Button Files]: https://img.shields.io/badge/MAX_Files-A9225C?style=for-the-badge&logoColor=white&logo=GoogleDrive
 
