@@ -708,6 +708,18 @@ b -Tn 0SxOpS_BJ-3PLyingFellatio_S4_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne
 b -Tn 0SxOpS_Ho-3PSpreadLegs_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Ho\3PSpreadLegs\0SxOpS_Ho-3PSpreadLegs_0.hkx
 b -Tn 0SxOpS_Ho-3PSpreadLegs_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Ho\3PSpreadLegs\0SxOpS_Ho-3PSpreadLegs_1.hkx
 b -Tn 0SxOpS_Ho-3PSpreadLegs_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Ho\3PSpreadLegs\0SxOpS_Ho-3PSpreadLegs_2.hkx
+b -Tn 0SxOpS_Sx-3PMissionary_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Sx\3PMissionary\0SxOpS_Sx-3PMissionary_S1_0.hkx
+b -Tn 0SxOpS_Sx-3PMissionary_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Sx\3PMissionary\0SxOpS_Sx-3PMissionary_S1_1.hkx
+b -Tn 0SxOpS_Sx-3PMissionary_S1_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Sx\3PMissionary\0SxOpS_Sx-3PMissionary_S1_2.hkx
+b -Tn 0SxOpS_Sx-3PMissionary_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Sx\3PMissionary\0SxOpS_Sx-3PMissionary_S2_0.hkx
+b -Tn 0SxOpS_Sx-3PMissionary_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Sx\3PMissionary\0SxOpS_Sx-3PMissionary_S2_1.hkx
+b -Tn 0SxOpS_Sx-3PMissionary_S2_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Sx\3PMissionary\0SxOpS_Sx-3PMissionary_S2_2.hkx
+b -Tn 0SxOpS_Sx-3PMissionary_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Sx\3PMissionary\0SxOpS_Sx-3PMissionary_S3_0.hkx
+b -Tn 0SxOpS_Sx-3PMissionary_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Sx\3PMissionary\0SxOpS_Sx-3PMissionary_S3_1.hkx
+b -Tn 0SxOpS_Sx-3PMissionary_S3_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Sx\3PMissionary\0SxOpS_Sx-3PMissionary_S3_2.hkx
+b -Tn 0SxOpS_Sx-3PMissionary_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Sx\3PMissionary\0SxOpS_Sx-3PMissionary_S4_0.hkx
+b -Tn 0SxOpS_Sx-3PMissionary_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Sx\3PMissionary\0SxOpS_Sx-3PMissionary_S4_1.hkx
+b -Tn 0SxOpS_Sx-3PMissionary_S4_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Sx\3PMissionary\0SxOpS_Sx-3PMissionary_S4_2.hkx
 
 b -Tn 0SxOpS_Ho-StackedGirls_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBAFo\Ho\StackedGirls\0SxOpS_Ho-StackedGirls_0.hkx
 b -Tn 0SxOpS_Ho-StackedGirls_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBAFo\Ho\StackedGirls\0SxOpS_Ho-StackedGirls_1.hkx

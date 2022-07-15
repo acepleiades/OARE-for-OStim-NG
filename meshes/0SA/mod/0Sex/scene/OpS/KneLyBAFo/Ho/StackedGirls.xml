@@ -21,7 +21,6 @@
 			</option>
 		</page>
 	</tab>
-	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
 </nav>
 <eyes a="0" facerel="2" actionrel="0" bodyrel="1">
 <primary v="-50" h="0" vpan="10" hpan="10"/>
