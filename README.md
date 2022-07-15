@@ -30,9 +30,9 @@ and open source alternative to **OSex**.*
 
 *that have contributed animations.*
 
-- [![Button AcePleiades]][Artist AcePleiades]
+[![Button AcePleiades]][Artist AcePleiades]
 
-- **Frolique**
+**Frolique**
 
 <br>
 
