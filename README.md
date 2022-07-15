@@ -1,48 +1,93 @@
-# OpenSex
-OpenSex is the open/libre alternative to OSex.
 
-Currently, most animations were made by ACEPLEIADES. Additional idles were made by Frolique.
+# OpenSex   [![Badge License]][License]
 
-XML data has been built by ACEPLEIADES, VersuchDrei and DragoFall.
+*Adult animations mod for **Skyrim SE** <br>
+and open source alternative to **OSex**.*
 
-OStimFixThirdScalingMain.psc and OStimHeelsFix.psc were written by 321mahra and Aietos. These scripts are used to give the correct scaling to actors in certain circumstances.
+<br>
 
-Work files (.max): https://drive.google.com/drive/folders/1-A4pRMkvOFldBcEZ8lMogyX2PulDrqEg?usp=sharing
+<div align = center>
 
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+---
 
-## Donations 
+[![Button Nexus]][Nexus]   
+[![Button Installation]][Installation]   
+[![Button Files]][Files]   
+[![Button Discord]][Discord]
 
-| Artist | Patreon |
-|-|-|
-| ACEPLEIADES |<a href="https://www.patreon.com/skyrimaceanimations"><img alt="Become a patron" src="https://i.ibb.co/GPtxW0M/patron35.png"></a>|
-| | |
 
-## License
+---
 
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+</div>
 
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+<br>
+<br>
 
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+## Thanks To
 
-# Installation and more info
+<br>
 
-1) First of all, this MOD requires OSA and OStim to work. Follow the OStim installation guide: https://www.nexusmods.com/skyrimspecialedition/articles/3751
-2) Download the MOD by clicking Code -> Download ZIP.
-3) Move the zipped file into your mod manager's Downloads folder and install it.
-4) Run Nemesis/FNIS.
-5) In game, in OStim's MCM, click "rebuild animation database" located at the bottom.
-6) Run Nemesis and rebuild OStim's animation database every time you update this MOD.
+### Artists
 
-## Nexus page
+*Artists that have contributed animations.*
 
-See the Nexus page for the list of animations and more.
-https://www.nexusmods.com/skyrimspecialedition/mods/61167/
+- [![Button AcePleiades]][Artist AcePleiades]
 
-## Discord
+- **Frolique**
 
-Join the OStim Discord to see new developments: https://discord.gg/RECvhVaRcU
+<br>
+
+### XML Data
+
+*Has been built by:*
+
+- **[@acepleiades]**
+- **[@VersuchDrei]**
+- **[@DragoFall]**
+
+<br>
+
+### Animation Fixes
+
+*Scaling fixes for actors.*
+
+- `OStimFixThirdScalingMain.psc`
+- `OStimHeelsFix.psc`
+
+
+- **321mahra**
+- **Aietos**
+
+<br>
+
+
+<!----------------------------------------------------------------------------->
+
+[Artist AcePleiades]: https://www.patreon.com/skyrimaceanimations
+
+[@acepleiades]: https://github.com/acepleiades
+[@VersuchDrei]: https://github.com/VersuchDrei
+[@DragoFall]: https://github.com/DragoFall
+
+[Discord]: https://discord.gg/RECvhVaRcU
+[Files]: https://drive.google.com/drive/folders/1-A4pRMkvOFldBcEZ8lMogyX2PulDrqEg?usp=sharing
+[Nexus]: https://www.nexusmods.com/skyrimspecialedition/mods/61167/
+
+[Installation]: Documentation/Installation.md
+[License]: LICENSE
+
+
+<!----------------------------------[ Badges ]--------------------------------->
+
+[Badge License]: https://img.shields.io/badge/License-CC_BY_SA-EF9421.svg?style=for-the-badge
+
+
+<!---------------------------------[ Buttons ]--------------------------------->
+
+[Button Installation]: https://img.shields.io/badge/Installation-5BA745?style=for-the-badge&logoColor=white&logo=DocuSign
+[Button Discord]: https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white&logo=Discord
+[Button Nexus]: https://img.shields.io/badge/Ｎｅｘｕｓ_Mods-8197ec?style=for-the-badge&logoColor=white&logo=Dragonframe
+[Button Files]: https://img.shields.io/badge/MAX_Files-A9225C?style=for-the-badge&logoColor=white&logo=GoogleDrive
+
+[Button AcePleiades]: https://img.shields.io/badge/AcePleiades-FF424D?style=for-the-badge&logoColor=white&logo=Patreon
+
