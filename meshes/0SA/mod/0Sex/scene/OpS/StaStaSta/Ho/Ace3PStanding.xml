@@ -3,7 +3,6 @@
 <region om="A" maj="D" min="D" stage="" step="" story=""/>
 <anim id="0SxOpS_Ho-Ace3PStanding" t="L" l="2"/>
 <nav>
-	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
 			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta!Sta|Ho|Ace3PStandingHolding" text="Hold your partners." t0="1">
