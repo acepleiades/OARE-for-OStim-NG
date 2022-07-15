@@ -26,7 +26,8 @@ How to install this mod: [Installation]
 
 Most animations were made by **[@acepleiades]** and additional idles were made by **Frolique**. <br>
 XML data has been built by **[@acepleiades]**, **[@VersuchDrei]** and **[@DragoFall]**. <br>
-OStimFixThirdScalingMain.psc and OStimHeelsFix.psc were written by **321mahra** and **Aietos**. These scripts are used to give the correct scaling to actors in certain circumstances.
+OStimFixThirdScalingMain.psc and OStimHeelsFix.psc were written by **321mahra** and **Aietos**. These scripts are used to give the correct scaling to actors under certain circumstances. <br>
+Thanks to **[@ElectronicsArchiver]** for tidying up the repository.
 
 <br>
 
@@ -50,6 +51,7 @@ Join the OStim Discord to see new developments: https://discord.gg/RECvhVaRcU
 [@acepleiades]: https://github.com/acepleiades
 [@VersuchDrei]: https://github.com/VersuchDrei
 [@DragoFall]: https://github.com/DragoFall
+[@ElectronicsArchiver]: https://github.com/ElectronicsArchiver
 
 [Discord]: https://discord.gg/RECvhVaRcU
 [Files]: https://drive.google.com/drive/folders/1-A4pRMkvOFldBcEZ8lMogyX2PulDrqEg?usp=sharing
