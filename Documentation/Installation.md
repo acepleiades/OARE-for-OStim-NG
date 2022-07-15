@@ -9,15 +9,13 @@
 
 <br>
 
-- **Ostim**
-
-- **OSA**
-
-<br>
-
-[*» Follow the **OStim** documentatiton.*][OStim]
+- **OSA** (version 2.023 or 2.0333-STIMMIE) <br>
+- **OStim**
 
 <br>
+
+[*» Follow the **OStim** installation guide.*][OStim]
+
 <br>
 
 ## Steps
