@@ -28,7 +28,7 @@ and open source alternative to **OSex**.*
 
 ### Artists
 
-*Artists that have contributed animations.*
+*that have contributed animations.*
 
 - [![Button AcePleiades]][Artist AcePleiades]
 
@@ -38,7 +38,7 @@ and open source alternative to **OSex**.*
 
 ### XML Data
 
-*Has been built by:*
+*has been built by.*
 
 - **[@acepleiades]**
 - **[@VersuchDrei]**
@@ -48,7 +48,7 @@ and open source alternative to **OSex**.*
 
 ### Animation Fixes
 
-*Scaling fixes for actors.*
+*for scaling to actors.*
 
 - `OStimFixThirdScalingMain.psc`
 - `OStimHeelsFix.psc`
