@@ -1,8 +1,10 @@
 
 # OpenSex   [![Badge License]][License]   [![Badge Discord]][Discord]
 
-*Adult animations mod for **Skyrim SE** <br>
-and open source alternative to **OSex**.*
+<br>
+
+Adult animations mod for **Skyrim SE** and open source alternative to **OSex**. <br>
+How to install this mod: [Installation]
 
 <br>
 
@@ -14,50 +16,32 @@ and open source alternative to **OSex**.*
 [![Button Installation]][Installation]   
 [![Button Files]][Files]
 
-
 ---
 
 </div>
 
 <br>
-<br>
 
-## Thanks To
+## Credits
 
-<br>
-
-### Artists
-
-*that have contributed animations.*
-
-[![Button AcePleiades]][Artist AcePleiades]
-
-**Frolique**
+Most animations were made by **[@acepleiades]** and additional idles were made by **Frolique**. <br>
+XML data has been built by **[@acepleiades]**, **[@VersuchDrei]** and **[@DragoFall]**. <br>
+OStimFixThirdScalingMain.psc and OStimHeelsFix.psc were written by **321mahra** and **Aietos**. These scripts are used to give the correct scaling to actors in certain circumstances.
 
 <br>
 
-### XML Data
+## Donations 
 
-*has been built by.*
-
-- **[@acepleiades]**
-- **[@VersuchDrei]**
-- **[@DragoFall]**
-
-<br>
-
-### Animation Fixes
-
-*for scaling to actors.*
-
-- `OStimFixThirdScalingMain.psc`
-- `OStimHeelsFix.psc`
-
-- **321mahra**
-- **Aietos**
+| Artist | Patreon |
+|-|-|
+| ACEPLEIADES |<a href="https://www.patreon.com/skyrimaceanimations"><img alt="Become a patron" src="https://i.ibb.co/GPtxW0M/patron35.png"></a>|
+| | |
 
 <br>
 
+## Join the community
+
+Join the OStim Discord to see new developments: https://discord.gg/RECvhVaRcU
 
 <!----------------------------------------------------------------------------->
 
