@@ -23,15 +23,15 @@
 <face v="-60" h="0" vpan="10" hpan="10"/>
 <body v="-60" h="0" vpan="10" hpan="10"/>
 <action v="-60" h="0" vpan="10" hpan="10"/>
-<away v="-60" h="0" vpan="80" hpan="100"/>
+<away v="-60" h="0" vpan="10" hpan="10"/>
 </eyes>	
 <eyes a="1" facerel="1" actionrel="0" bodyrel="0">
-<primary v="-95" h="90" vpan="5" hpan="10" />
-<primary v="-60" h="90" vpan="20" hpan="10" />
-<face v="-60" h="90" vpan="20" hpan="10" />
-<body v="-60" h="90" vpan="20" hpan="10" />
-<action v="-100" h="90" vpan="10" hpan="10" />
-<away v="-30" h="100" vpan="50" hpan="0"/>
+<primary v="-80" h="80" vpan="15" hpan="15" />
+<primary v="-80" h="80" vpan="15" hpan="15" />
+<face v="-80" h="80" vpan="15" hpan="15" />
+<body v="-80" h="80" vpan="15" hpan="15" />
+<action v="-80" h="80" vpan="15" hpan="15" />
+<away v="-80" h="80" vpan="15" hpan="15"/>
 </eyes>
 <motif drive="intimate" theme="Affection"/>
 <motif drive="intimate" theme="Affection"/>

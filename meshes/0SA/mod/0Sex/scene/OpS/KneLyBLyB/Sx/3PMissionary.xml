@@ -31,21 +31,21 @@
 <away v="-33" h="0" vpan="40" hpan="90"/>
 </eyes>
 <eyes a="1" facerel="2" actionrel="1" bodyrel="0">
-<primary v="0" h="5" vpan="10" hpan="15"/>
-<face v="0" h="5" vpan="10" hpan="15"/>
-<body v="0" h="5" vpan="10" hpan="15"/>
-<action v="0" h="5" vpan="10" hpan="15"/>
-<away v="0" h="5" vpan="10" hpan="15"/>
+<primary v="50" h="20" vpan="-10" hpan="15"/>
+<face v="60" h="25" vpan="10" hpan="-15"/>
+<body v="50" h="20" vpan="-10" hpan="15"/>
+<action v="60" h="25" vpan="10" hpan="-15"/>
+<away v="50" h="20" vpan="-10" hpan="15"/>
 </eyes>
 <eyes a="2" facerel="2" actionrel="1" bodyrel="0">
-<primary v="-50" h="0" vpan="10" hpan="15"/>
-<face v="-50" h="0" vpan="10" hpan="15"/>
-<body v="-50" h="0" vpan="10" hpan="15"/>
-<action v="-50" h="0" vpan="10" hpan="15"/>
-<away v="-50" h="0" vpan="10" hpan="15"/>
+<primary v="0" h="10" vpan="10" hpan="15"/>
+<face v="10" h="0" vpan="-10" hpan="15"/>
+<body v="0" h="10" vpan="10" hpan="-15"/>
+<action v="10" h="0" vpan="10" hpan="15"/>
+<away v="0" h="10" vpan="-10" hpan="-15"/>
 </eyes>
 <motif drive="intimate" theme="G_SexPhysRear"/>
-<motif drive="intimate" theme="Affection"/>
+<motif drive="intimate" theme="G_Handjob"/>
 <motif drive="intimate" theme="R_SexPhysRear"/>
 <autonav>
 </autonav>
