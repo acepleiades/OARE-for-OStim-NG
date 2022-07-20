@@ -21,7 +21,13 @@
 			</option>
 		</page>
 	</tab>
-	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+            <option halo="hgentle" icon="osx_kn_m" go="OpS|Sta!Kne|BoJ|AceStandingBoobjob" text="Put it between your breasts.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
 </nav>
 <eyes a="0" facerel="0" actionrel="2" bodyrel="1">
 <primary v="0" h="0" vpan="10" hpan="10"/>
