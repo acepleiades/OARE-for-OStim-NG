@@ -651,8 +651,6 @@ b -Tn 0SxOpS_Sx-AceSpooningSex_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Sx\
 b -Tn 0SxOpS_Sx-AceSpooningSex_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Sx\AceSpooningSex\0SxOpS_Sx-AceSpooningSex_S3_1.hkx
 b -Tn 0SxOpS_Sx-AceSpooningSex_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Sx\AceSpooningSex\0SxOpS_Sx-AceSpooningSex_S4_0.hkx
 b -Tn 0SxOpS_Sx-AceSpooningSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Sx\AceSpooningSex\0SxOpS_Sx-AceSpooningSex_S4_1.hkx
-b -Tn 0SxOpS_Sx-AceSpooningSex_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Sx\AceSpooningSex\0SxOpS_Sx-AceSpooningSex_S5_0.hkx
-b -Tn 0SxOpS_Sx-AceSpooningSex_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Sx\AceSpooningSex\0SxOpS_Sx-AceSpooningSex_S5_1.hkx
 
 b -Tn 0SxOpS_Ho-Ace3PStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaStaSta\Ho\Ace3PStanding\0SxOpS_Ho-Ace3PStanding_0.hkx
 b -Tn 0SxOpS_Ho-Ace3PStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaStaSta\Ho\Ace3PStanding\0SxOpS_Ho-Ace3PStanding_1.hkx
