@@ -33,6 +33,8 @@ b -a,Tn 0SxOpS_Ho-GoToStandingHoldingFromBehind_0 ..\..\..\..\0SA\mod\0Sex\anim\
 b -a,Tn 0SxOpS_Ho-GoToStandingHoldingFromBehind_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHolding\0SxOpS_Ho-GoToStandingHoldingFromBehind_1.hkx
 b -a,Tn 0SxOpS_Ho-GoToMaleStandingFemaleKneeling_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHolding\0SxOpS_Ho-GoToMaleStandingFemaleKneeling_0.hkx
 b -a,Tn 0SxOpS_Ho-GoToMaleStandingFemaleKneeling_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHolding\0SxOpS_Ho-GoToMaleStandingFemaleKneeling_1.hkx
+b -Tn 0SxOpS_Em-StandingHug_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\StandingHug\0SxOpS_Em-StandingHug_0.hkx
+b -Tn 0SxOpS_Em-StandingHug_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\StandingHug\0SxOpS_Em-StandingHug_1.hkx
 b -Tn 0SxOpS_Em-GentleEmbrace_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\GentleEmbrace\0SxOpS_Em-GentleEmbrace_0.hkx
 b -Tn 0SxOpS_Em-GentleEmbrace_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\GentleEmbrace\0SxOpS_Em-GentleEmbrace_1.hkx
 b -Tn 0SxOpS_Em-HoldingChin_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\HoldingChin\0SxOpS_Em-HoldingChin_0.hkx
