@@ -47,6 +47,14 @@ b -Tn 0SxOpS_Em-HoldingChinKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\Ho
 b -Tn 0SxOpS_Em-HoldingChinKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\HoldingChin\0SxOpS_Em-HoldingChinKiss_1.hkx
 b -Tn 0SxOpS_Ho-StandingKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingKiss\0SxOpS_Ho-StandingKiss_0.hkx
 b -Tn 0SxOpS_Ho-StandingKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingKiss\0SxOpS_Ho-StandingKiss_1.hkx
+b -Tn 0SxOpS_Cr-StandingGropingBreasts_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingGropingBreasts\0SxOpS_Cr-StandingGropingBreasts_S1_0.hkx
+b -Tn 0SxOpS_Cr-StandingGropingBreasts_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingGropingBreasts\0SxOpS_Cr-StandingGropingBreasts_S1_1.hkx
+b -Tn 0SxOpS_Cr-StandingGropingBreasts_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingGropingBreasts\0SxOpS_Cr-StandingGropingBreasts_S2_0.hkx
+b -Tn 0SxOpS_Cr-StandingGropingBreasts_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingGropingBreasts\0SxOpS_Cr-StandingGropingBreasts_S2_1.hkx
+b -Tn 0SxOpS_Cr-StandingGropingBreasts_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingGropingBreasts\0SxOpS_Cr-StandingGropingBreasts_S3_0.hkx
+b -Tn 0SxOpS_Cr-StandingGropingBreasts_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingGropingBreasts\0SxOpS_Cr-StandingGropingBreasts_S3_1.hkx
+b -Tn 0SxOpS_Cr-StandingGropingBreasts_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingGropingBreasts\0SxOpS_Cr-StandingGropingBreasts_S4_0.hkx
+b -Tn 0SxOpS_Cr-StandingGropingBreasts_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingGropingBreasts\0SxOpS_Cr-StandingGropingBreasts_S4_1.hkx
 b -Tn 0SxOpS_Pf2-StandingKissFingering_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Pf2\StandingKissFingering\0SxOpS_Pf2-StandingKissFingering_S1_0.hkx
 b -Tn 0SxOpS_Pf2-StandingKissFingering_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Pf2\StandingKissFingering\0SxOpS_Pf2-StandingKissFingering_S1_1.hkx
 b -Tn 0SxOpS_Pf2-StandingKissFingering_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Pf2\StandingKissFingering\0SxOpS_Pf2-StandingKissFingering_S2_0.hkx
