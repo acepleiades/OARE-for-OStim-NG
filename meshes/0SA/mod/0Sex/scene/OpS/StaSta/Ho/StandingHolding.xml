@@ -16,7 +16,10 @@
 			</option>
 		</page>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hheartdt" icon="opowkiss_mf" go="OpS|Sta!Sta|Ho|GoToStandingKiss" text="Kiss your partner." t0="1">
+			<option halo="hheartdt" icon="opowkiss_mf" go="OpS|Sta!Sta|Em|StandingHug" text="Hug your partner." t0="1">
+			<enhance a="0"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+			</option>
+            <option halo="hheartdt" icon="opowkiss_mf" go="OpS|Sta!Sta|Ho|GoToStandingKiss" text="Kiss your partner." t0="1">
 			<enhance a="0"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
 			</option>
             <option halo="hheartdt" icon="opowkiss_mf" go="OpS|Sta!Sta|Em|HoldingChin" text="Hold your partner's chin." t0="1">
@@ -27,7 +30,10 @@
 			</option>
 		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Sta|HJ|GoToAceStandingMutualMasturbation" text="Masturbate your partner and vice-versa.">
+			<option halo="hgentle" icon="opowkiss_mf" go="OpS|Sta!Sta|Pf2|StandingKissFingering" text="Kiss and finger your partner.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+            <option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Sta|HJ|GoToAceStandingMutualMasturbation" text="Masturbate your partner and vice-versa.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceStandingHoldingSex" text="Have sex with your partner (standing, holding).">
