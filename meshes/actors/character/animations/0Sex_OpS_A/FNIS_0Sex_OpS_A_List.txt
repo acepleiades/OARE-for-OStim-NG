@@ -604,6 +604,14 @@ b -Tn 0SxOpS_Sx-AceDoggystyle_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\A
 b -Tn 0SxOpS_Sx-AceDoggystyle_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceDoggystyle\0SxOpS_Sx-AceDoggystyle_S3_1.hkx
 b -Tn 0SxOpS_Sx-AceDoggystyle_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceDoggystyle\0SxOpS_Sx-AceDoggystyle_S4_0.hkx
 b -Tn 0SxOpS_Sx-AceDoggystyle_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceDoggystyle\0SxOpS_Sx-AceDoggystyle_S4_1.hkx
+b -Tn 0SxOpS_Sx-DoggyPressingDown_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\DoggyPressingDown\0SxOpS_Sx-DoggyPressingDown_S1_0.hkx
+b -Tn 0SxOpS_Sx-DoggyPressingDown_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\DoggyPressingDown\0SxOpS_Sx-DoggyPressingDown_S1_1.hkx
+b -Tn 0SxOpS_Sx-DoggyPressingDown_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\DoggyPressingDown\0SxOpS_Sx-DoggyPressingDown_S2_0.hkx
+b -Tn 0SxOpS_Sx-DoggyPressingDown_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\DoggyPressingDown\0SxOpS_Sx-DoggyPressingDown_S2_1.hkx
+b -Tn 0SxOpS_Sx-DoggyPressingDown_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\DoggyPressingDown\0SxOpS_Sx-DoggyPressingDown_S3_0.hkx
+b -Tn 0SxOpS_Sx-DoggyPressingDown_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\DoggyPressingDown\0SxOpS_Sx-DoggyPressingDown_S3_1.hkx
+b -Tn 0SxOpS_Sx-DoggyPressingDown_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\DoggyPressingDown\0SxOpS_Sx-DoggyPressingDown_S4_0.hkx
+b -Tn 0SxOpS_Sx-DoggyPressingDown_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\DoggyPressingDown\0SxOpS_Sx-DoggyPressingDown_S4_1.hkx
 b -Tn 0SxOpS_Sx-AceDoggystyleHairPull_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceDoggystyleHairPull\0SxOpS_Sx-AceDoggystyleHairPull_S1_0.hkx
 b -Tn 0SxOpS_Sx-AceDoggystyleHairPull_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceDoggystyleHairPull\0SxOpS_Sx-AceDoggystyleHairPull_S1_1.hkx
 b -Tn 0SxOpS_Sx-AceDoggystyleHairPull_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceDoggystyleHairPull\0SxOpS_Sx-AceDoggystyleHairPull_S2_0.hkx
