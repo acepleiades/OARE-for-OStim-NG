@@ -15,6 +15,11 @@
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
+        <page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hheartdt" icon="oholdbody_8_mf" go="OpS|LyS!Sit|Em|LapPillow" text="Lay on your partner's lap." t0="1">
+			<enhance a="0"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+			</option>
+		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="omgsholds2_$G0" go="OpS|Sit!Sit|Po|AceSittingMasturbationMale" text="Masturbate in front of your partner.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>

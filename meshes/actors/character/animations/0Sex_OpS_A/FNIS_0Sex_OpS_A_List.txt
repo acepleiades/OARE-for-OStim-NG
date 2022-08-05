@@ -308,6 +308,14 @@ b -Tn 0SxOpS_FJ-AceSittingFootjobFromBehind_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\O
 b -Tn 0SxOpS_FJ-AceSittingFootjobFromBehind_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\FJ\AceSittingFootjobFromBehind\0SxOpS_FJ-AceSittingFootjobFromBehind_S3_1.hkx
 b -Tn 0SxOpS_FJ-AceSittingFootjobFromBehind_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\FJ\AceSittingFootjobFromBehind\0SxOpS_FJ-AceSittingFootjobFromBehind_S4_0.hkx
 b -Tn 0SxOpS_FJ-AceSittingFootjobFromBehind_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\FJ\AceSittingFootjobFromBehind\0SxOpS_FJ-AceSittingFootjobFromBehind_S4_1.hkx
+b -Tn 0SxOpS_Em-LapPillow_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySSit\Em\LapPillow\0SxOpS_Em-LapPillow_0.hkx
+b -Tn 0SxOpS_Em-LapPillow_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySSit\Em\LapPillow\0SxOpS_Em-LapPillow_1.hkx
+b -Tn 0SxOpS_Em-LapPillowHeadStroke_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySSit\Em\LapPillowHeadStroke\0SxOpS_Em-LapPillowHeadStroke_S1_0.hkx
+b -Tn 0SxOpS_Em-LapPillowHeadStroke_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySSit\Em\LapPillowHeadStroke\0SxOpS_Em-LapPillowHeadStroke_S1_1.hkx
+b -Tn 0SxOpS_Em-LapPillowHeadStroke_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySSit\Em\LapPillowHeadStroke\0SxOpS_Em-LapPillowHeadStroke_S2_0.hkx
+b -Tn 0SxOpS_Em-LapPillowHeadStroke_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySSit\Em\LapPillowHeadStroke\0SxOpS_Em-LapPillowHeadStroke_S2_1.hkx
+b -Tn 0SxOpS_Em-LapPillowHeadStroke_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySSit\Em\LapPillowHeadStroke\0SxOpS_Em-LapPillowHeadStroke_S3_0.hkx
+b -Tn 0SxOpS_Em-LapPillowHeadStroke_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySSit\Em\LapPillowHeadStroke\0SxOpS_Em-LapPillowHeadStroke_S3_1.hkx
 
 b -Tn 0SxOpS_Ho-SittingFemaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproach\0SxOpS_Ho-SittingFemaleApproach_0.hkx
 b -Tn 0SxOpS_Ho-SittingFemaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproach\0SxOpS_Ho-SittingFemaleApproach_1.hkx
