@@ -20,7 +20,10 @@
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^thrustFaster" minustext="^thrustSlower"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|AceCowgirlPressingDown" text="Vary into cowgirl, pressing down.">
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|CowgirlHandsOnHips" text="Vary into cowgirl, hands on hips.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+            <option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|AceCowgirlPressingDown" text="Vary into cowgirl, pressing down.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Sit|Sx|AceSquattingCowgirl" text="Vary into squatting cowgirl.">

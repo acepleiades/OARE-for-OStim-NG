@@ -442,6 +442,10 @@ b -Tn 0SxOpS_Sx-AceCowgirl_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceC
 b -Tn 0SxOpS_Sx-AceCowgirl_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirl\0SxOpS_Sx-AceCowgirl_S3_1.hkx
 b -Tn 0SxOpS_Sx-AceCowgirl_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirl\0SxOpS_Sx-AceCowgirl_S4_0.hkx
 b -Tn 0SxOpS_Sx-AceCowgirl_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirl\0SxOpS_Sx-AceCowgirl_S4_1.hkx
+
+b -Tn 0SxOpS_Sx-CowgirlHandsOnHips_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlHandsOnHips\0SxOpS_Sx-CowgirlHandsOnHips_S1_0.hkx
+b -Tn 0SxOpS_Sx-CowgirlHandsOnHips_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlHandsOnHips\0SxOpS_Sx-CowgirlHandsOnHips_S1_1.hkx
+
 b -Tn 0SxOpS_Sx-AceCowgirlPressingDown_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirlPressingDown\0SxOpS_Sx-AceCowgirlPressingDown_S1_0.hkx
 b -Tn 0SxOpS_Sx-AceCowgirlPressingDown_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirlPressingDown\0SxOpS_Sx-AceCowgirlPressingDown_S1_1.hkx
 b -Tn 0SxOpS_Sx-AceCowgirlPressingDown_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirlPressingDown\0SxOpS_Sx-AceCowgirlPressingDown_S2_0.hkx
