@@ -6,7 +6,7 @@
 	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="htender" icon="obigx" go="OpS|LyS!Sit|Em|LapPillowHeadStroke" text="Stroke your partner's head." t0="0">
+			<option halo="htender" icon="oholdbody_8_mf" go="OpS|LyS!Sit|Em|LapPillowHeadStroke" text="Stroke your partner's head." t0="0">
 			<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" n="sk0" v="0"/><ihue cmd="body" n="sk1" v="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
             <option halo="htender" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHolding" text="Return..." t0="0">
