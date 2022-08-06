@@ -7,13 +7,13 @@
 		<anim id="0SxOpS_Sx-CowgirlHandsOnHips_S1" t="L" l="2" i0="0" i1="0"/>
 		</sp>
 	<sp mtx="^bouncesPerSec" qnt="1">
-		<anim id="0SxOpS_Sx-CowgirlHandsOnHips_S1" t="L" l="2" i0="1" i1="1"/>
+		<anim id="0SxOpS_Sx-CowgirlHandsOnHips_S2" t="L" l="2" i0="1" i1="1"/>
 		</sp>
 	<sp mtx="^bouncesPerSec" qnt="1.5">
-		<anim id="0SxOpS_Sx-CowgirlHandsOnHips_S1" t="L" l="2" i0="2" i1="2"/>
+		<anim id="0SxOpS_Sx-CowgirlHandsOnHips_S3" t="L" l="2" i0="2" i1="2"/>
 		</sp>
 	<sp mtx="^bouncesPerSec" qnt="2">
-		<anim id="0SxOpS_Sx-CowgirlHandsOnHips_S1" t="L" l="2" i0="3" i1="3"/>
+		<anim id="0SxOpS_Sx-CowgirlHandsOnHips_S4" t="L" l="2" i0="3" i1="3"/>
 		</sp>
 </speed>
 <nav>
