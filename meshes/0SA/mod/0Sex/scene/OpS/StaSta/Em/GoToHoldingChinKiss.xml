@@ -1,6 +1,6 @@
 <scene id="OpS|Sta!Sta|Em|GoToHoldingChinKiss" actors="2" style="OScene">
 <info name="Transition into Holding Chin Kiss" animator="Frolique"/>
-<anim id="0SxOpS_Em-HoldingChinKiss" t="T" l="1" dest="OpS|Sta!Sta|Em|HoldingChinKiss">
+<anim id="0SxOpS_Em-GoToHoldingChinKiss" t="T" l="1" dest="OpS|Sta!Sta|Em|HoldingChinKiss">
 <mfx a= "0">
 <fx0 ti="0" cmd="EVNT">
 	<evnt cmd="actor" type="kiss" subtype="KissEnter" drive="intimate">

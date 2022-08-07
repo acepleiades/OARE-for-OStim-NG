@@ -1,6 +1,6 @@
 <scene id="OpS|Sta!Sta!Sta|Ho|GoToTripleKiss" actors="3" style="OScene">
 <info name="Transition into Triple Kiss" animator="Ace"/>
-<anim id="0SxOpS_Em-AceTripleKiss" t="T" l="1" dest="OpS|Sta!Sta!Sta|Em|AceTripleKiss">
+<anim id="0SxOpS_Em-GoToTripleKiss" t="T" l="1" dest="OpS|Sta!Sta!Sta|Em|AceTripleKiss">
 <mfx a= "0">
 <fx0 ti="0" cmd="EVNT">
 	<evnt cmd="actor" type="kiss" subtype="KissEnter" drive="intimate">

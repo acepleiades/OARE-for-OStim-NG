@@ -1,6 +1,6 @@
 <scene id="OpS|Sta!Sta|HJ|GoToAceStandingHandjobKissing" actors="2" style="OScene">
 <info name="Transition into Standing Handjob Kissing" animator="Ace"/>
-<anim id="0SxOpS_HJ-AceStandingHandjobKissing_S1" t="T" l="1" dest="OpS|Sta!Sta|HJ|AceStandingHandjobKissing">
+<anim id="0SxOpS_HJ-GoToAceStandingHandjobKissing" t="T" l="1" dest="OpS|Sta!Sta|HJ|AceStandingHandjobKissing">
 <mfx a= "0">
 <fx0 ti="0" cmd="EVNT">
 	<evnt cmd="actor" type="kiss" subtype="KissEnter" drive="intimate">

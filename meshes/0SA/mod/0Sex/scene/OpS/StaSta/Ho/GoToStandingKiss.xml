@@ -1,4 +1,4 @@
 <scene id="OpS|Sta!Sta|Ho|GoToStandingKiss" actors="2" style="OScene">
 <info name="Transition into Standing Kiss" animator="Ace"/>
-<anim id="0SxOpS_Ho-StandingKiss" t="T" l="1" dest="OpS|Sta!Sta|Ho|StandingKiss"/>
+<anim id="0SxOpS_Ho-GoToStandingKiss" t="T" l="1" dest="OpS|Sta!Sta|Ho|StandingKiss"/>
 </scene>
