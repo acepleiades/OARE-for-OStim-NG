@@ -40,7 +40,7 @@
 			</option>
 		</page>
         <page icon="mtri"><hue n="hu" cmd="rg" a="1"/>			
-			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Em|DevourVampireBiteMaleStanding" text="(Vampire) Feed on your partner." t0="1">
+			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Em|GoToDevourVampireBiteMaleStanding" text="(Vampire) Feed on your partner." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
