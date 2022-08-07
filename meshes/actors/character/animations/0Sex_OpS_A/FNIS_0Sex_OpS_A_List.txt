@@ -26,10 +26,12 @@ b -Tn 0SxOpS_HJ-AceSimpleStandingHandjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\
 b -Tn 0SxOpS_HJ-AceSimpleStandingHandjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceSimpleStandingHandjob\0SxOpS_HJ-AceSimpleStandingHandjob_S3_1.hkx
 b -Tn 0SxOpS_HJ-AceSimpleStandingHandjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceSimpleStandingHandjob\0SxOpS_HJ-AceSimpleStandingHandjob_S4_0.hkx
 b -Tn 0SxOpS_HJ-AceSimpleStandingHandjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceSimpleStandingHandjob\0SxOpS_HJ-AceSimpleStandingHandjob_S4_1.hkx
-b -Tn 0SxOpS_Em-DevourVampireBiteMaleStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\0SxOpS_Em-DevourVampireBiteMaleStanding_0.hkx
-b -Tn 0SxOpS_Em-DevourVampireBiteMaleStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\0SxOpS_Em-DevourVampireBiteMaleStanding_1.hkx
 b -a,Tn 0SxOpS_Em-GoToDevourVampireBiteMaleStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\0SxOpS_Em-GoToDevourVampireBiteMaleStanding_0.hkx
 b -a,Tn 0SxOpS_Em-GoToDevourVampireBiteMaleStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\0SxOpS_Em-GoToDevourVampireBiteMaleStanding_1.hkx
+b -Tn 0SxOpS_Em-DevourVampireBiteMaleStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\0SxOpS_Em-DevourVampireBiteMaleStanding_0.hkx
+b -Tn 0SxOpS_Em-DevourVampireBiteMaleStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\0SxOpS_Em-DevourVampireBiteMaleStanding_1.hkx
+b -a,Tn 0SxOpS_Em-GoBackDevourVampireBiteMaleStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\0SxOpS_Em-GoBackDevourVampireBiteMaleStanding_0.hkx
+b -a,Tn 0SxOpS_Em-GoBackDevourVampireBiteMaleStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\0SxOpS_Em-GoBackDevourVampireBiteMaleStanding_1.hkx
 b -Tn 0SxOpS_Em-DevourDrainedFemaleStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\0SxOpS_Em-DevourDrainedFemaleStanding_0.hkx
 b -Tn 0SxOpS_Em-DevourDrainedFemaleStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\0SxOpS_Em-DevourDrainedFemaleStanding_1.hkx
 
