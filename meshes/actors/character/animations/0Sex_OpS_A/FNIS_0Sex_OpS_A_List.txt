@@ -30,6 +30,8 @@ b -Tn 0SxOpS_Em-DevourVampireBiteMaleStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\Op
 b -Tn 0SxOpS_Em-DevourVampireBiteMaleStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\0SxOpS_Em-DevourVampireBiteMaleStanding_1.hkx
 b -a,Tn 0SxOpS_Em-GoToDevourVampireBiteMaleStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\0SxOpS_Em-GoToDevourVampireBiteMaleStanding_0.hkx
 b -a,Tn 0SxOpS_Em-GoToDevourVampireBiteMaleStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\0SxOpS_Em-GoToDevourVampireBiteMaleStanding_1.hkx
+b -Tn 0SxOpS_Em-DevourDrainedFemaleStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\0SxOpS_Em-DevourDrainedFemaleStanding_0.hkx
+b -Tn 0SxOpS_Em-DevourDrainedFemaleStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\0SxOpS_Em-DevourDrainedFemaleStanding_1.hkx
 
 b -Tn 0SxOpS_Ho-StandingHolding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHolding\0SxOpS_Ho-StandingHolding_0.hkx
 b -Tn 0SxOpS_Ho-StandingHolding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHolding\0SxOpS_Ho-StandingHolding_1.hkx

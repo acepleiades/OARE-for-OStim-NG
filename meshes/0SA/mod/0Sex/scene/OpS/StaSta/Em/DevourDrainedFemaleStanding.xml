@@ -1,0 +1,34 @@
+<scene id="OpS|Sta!Sta|Em|DevourDrainedFemaleStanding" actors="2" style="OScene">
+<info name="Vampire Bite Male Standing" animator="Ace"/>
+<region om="A" maj="K" min="Ksi" stage="" step="" story=""/>
+<anim id="0SxOpS_Em-DevourDrainedFemaleStanding" t="L" l="2"/>
+<nav>
+	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hheartdt" icon="obigx" go="0MF|Sy6!Sy9|Ho|St9Adore" text="Return..." t0="1">
+			<enhance a="0"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+			</option>
+		</page>
+	</tab>
+	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+</nav>
+<eyes a="0" facerel="0" actionrel="2" bodyrel="1">
+<primary v="0" h="0" vpan="10" hpan="10"/>
+<face v="0" h="0" vpan="10" hpan="10"/>
+<body v="0" h="0" vpan="10" hpan="10"/>
+<action v="0" h="0" vpan="10" hpan="10"/>
+<away v="0" h="0" vpan="80" hpan="100"/>
+</eyes>	
+<eyes a="1" facerel="1" actionrel="0" bodyrel="0">
+<primary v="-75" h="0" vpan="5" hpan="10" />
+<primary v="-75" h="0" vpan="20" hpan="10" />
+<face v="-75" h="0" vpan="20" hpan="10" />
+<body v="-75" h="0" vpan="20" hpan="10" />
+<action v="-75" h="0" vpan="10" hpan="10" />
+<away v="-75" h="0" vpan="50" hpan="0"/>
+</eyes>
+<motif drive="intimate" theme="Domineer"/>
+<motif drive="intimate" theme="Kiss"/>
+<autonav>
+</autonav>
+</scene>
