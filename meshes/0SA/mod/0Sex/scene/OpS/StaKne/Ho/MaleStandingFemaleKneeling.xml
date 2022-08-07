@@ -5,7 +5,16 @@
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Kne|Po|AceKneelingJO" text="Masturbate to your partner's face.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Kne|Ho|GoToAceRubbingPenisAgainstFace" text="Rub your penis against your partner's face.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="osx_kn_m" go="OpS|Sta!Kne|BoJ|AceStandingTittyfuck" text="Fuck your partner's tits.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="objbf_f" go="OpS|Sta!Kne|Ho|GoToAceKneelingFacefuck" text="Fuck your partner's mouth.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
@@ -18,6 +27,9 @@
 		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Kne|HJ|AceKneelingHandjob" text="Stroke your partner.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+            <option halo="hgentle" icon="osx_kn_m" go="OpS|Sta!Kne|BoJ|AceStandingBoobjob" text="Put it between your breasts.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="objbf_f" go="OpS|Sta!Kne|Ho|GoToAceKneelingBlowjob" text="Suck your partner.">
@@ -34,11 +46,11 @@
 <away v="0" h="0" vpan="10" hpan="10"/>
 </eyes>	
 <eyes a="1" facerel="0" actionrel="2" bodyrel="1">
-<primary v="0" h="0" vpan="10" hpan="10" />
-<face v="0" h="0" vpan="10" hpan="10" />
-<body v="0" h="0" vpan="10" hpan="10" />
-<action v="0" h="0" vpan="10" hpan="10" />
-<away v="0" h="0" vpan="10" hpan="10" />
+<primary v="50" h="0" vpan="10" hpan="10" />
+<face v="50" h="0" vpan="10" hpan="10" />
+<body v="50" h="0" vpan="10" hpan="10" />
+<action v="50" h="0" vpan="10" hpan="10" />
+<away v="50" h="0" vpan="10" hpan="10" />
 </eyes>
 <motif drive="intimate" theme="Affection"/>
 <motif drive="intimate" theme="Affection"/>

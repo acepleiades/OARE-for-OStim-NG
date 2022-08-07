@@ -2,16 +2,16 @@
 
 <init cmd="sortactors" bygender="1"/>
 <modify cmd="bodyScale" actor="0" bodyscale0="1.03" bodyscale1="1.03"/>
-<modify cmd="ogentleman" actor="0" shaft0="1.25" shaft1="1.25" scrotum0="1.25" scrotum1="1.25"/>
+<modify cmd="ogentleman" actor="0" shaft0="1.0" shaft1="1.0" scrotum0="1.0" scrotum1="1.0"/>
 <modify cmd="bodyScale" actor="1" bodyscale0="1.0" bodyscale1="1.0" />
 <boot dataMenu="full" dataStart="0"/>
 
 <suite>
 <gentleman>
-	<bj scrotum="1.25" shaft="1.25"/>
-	<bj scrotum="1.25" shaft="1.25"/>
-	<less scrotum="1.25" shaft="1.25"/>
-	<less scrotum="1.25" shaft="1.25"/>
+	<bj scrotum="1.0" shaft="1.0"/>
+	<bj scrotum="1.0" shaft="1.0"/>
+	<less scrotum="1.0" shaft="1.0"/>
+	<less scrotum="1.0" shaft="1.0"/>
 </gentleman>
 <mouth>
 	<bj><adj ty="ph" sy="0" am="100"/><adj ty="ph" sy="1" am="40"/><adj ty="ph" sy="5" am="100"/></bj>
@@ -23,8 +23,8 @@
 
 <role name="maleRole" gen="0" npc="npc">
 <gfx signet="sgo_dom_ic" color="19c4bd" namehue="19c4bd" gfxhue="19c4bd" itarg="omu_male"/>
-<scale bodyscale="1.03" gmstyle="ogentleman" scrotum="1.25" shaft="1.25"/>
-<scale bodyscale="1.03" gmstyle="ogentleman" scrotum="1.25" shaft="1.25"/>
+<scale bodyscale="1.03" gmstyle="ogentleman" scrotum="1.0" shaft="1.0"/>
+<scale bodyscale="1.03" gmstyle="ogentleman" scrotum="1.0" shaft="1.0"/>
 <esg post="1"/>	
 </role>
 
@@ -46,11 +46,11 @@
 
 <visitor name="maleVisitant" gen="1" npc="npc">	
 <gfx signet="sgo_dom_ic" color="E2BA59" namehue="E2BA59" gfxhue="E2BA59" itarg="omu_male"/>	
-<scale bodyscale="1.0" gmstyle="ogentleman" scrotum="1.25" shaft="1.25"/>
-<scale bodyscale="1.0" gmstyle="ogentleman" scrotum="1.25" shaft="1.25"/>
+<scale bodyscale="1.0" gmstyle="ogentleman" scrotum="1.0" shaft="1.0"/>
+<scale bodyscale="1.0" gmstyle="ogentleman" scrotum="1.0" shaft="1.0"/>
 <esg post="1"/>	
 <modify cmd="bodyScale" bodyscale0="1.0" bodyscale1="1.0" />
-<modify cmd="ogentleman" scrotum0="1.25" shaft0="1.25" scrotum1="1.25" shaft1="1.25"/>
+<modify cmd="ogentleman" scrotum0="1.0" shaft0="1.0" scrotum1="1.0" shaft1="1.0"/>
 </visitor>
 
 

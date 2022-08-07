@@ -2,29 +2,29 @@
 <info name="Standing Blowjob" animator="Ace"/>
 <region om="A" maj="K" min="K" stage="" step="" story=""/>
 <anim id="0SxOpS_BJ-AceKneelingBlowjob_S1" t="L" l="2"/>
-<speed a="1" min="1" max="5" name="thrusts">	
+<speed a="1" min="0" max="4" name="thrusts">	
 	<sp mtx="^sucksPerSec" qnt=".5">
-		<anim id="0SxOpS_BJ-AceKneelingBlowjob_S1" t="L" l="2" i0="1" i1="1">
+		<anim id="0SxOpS_BJ-AceKneelingBlowjob_S1" t="L" l="2" i0="0" i1="0">
 		<ae evty="cockSuckG" whocock="0" whodid="1" sound="throat" soundpow="0"/>
 		</anim>
 		</sp>
 	<sp mtx="^sucksPerSec" qnt=".75">
-		<anim id="0SxOpS_BJ-AceKneelingBlowjob_S2" t="L" l="2" i0="2" i1="2">
+		<anim id="0SxOpS_BJ-AceKneelingBlowjob_S2" t="L" l="2" i0="1" i1="1">
 		<ae evty="cockSuckG" whocock="0" whodid="1" sound="throat" soundpow="0"/>
 		</anim>
 		</sp>
 	<sp mtx="^sucksPerSec" qnt="1">
-		<anim id="0SxOpS_BJ-AceKneelingBlowjob_S3" t="L" l="2" i0="3" i1="3">
+		<anim id="0SxOpS_BJ-AceKneelingBlowjob_S3" t="L" l="2" i0="2" i1="2">
 		<ae evty="cockSuckG" whocock="0" whodid="1" sound="throat" soundpow="0"/>
 		</anim>
 		</sp>
 	<sp mtx="^sucksPerSec" qnt="1.5">
-		<anim id="0SxOpS_BJ-AceKneelingBlowjob_S4" t="L" l="2" i0="4" i1="4">
+		<anim id="0SxOpS_BJ-AceKneelingBlowjob_S4" t="L" l="2" i0="3" i1="3">
 		<ae evty="cockSuckG" whocock="0" whodid="1" sound="throat" soundpow="0"/>
 		</anim>
 		</sp>
 	<sp mtx="^sucksPerSec" qnt="2">
-		<anim id="0SxOpS_BJ-AceKneelingBlowjob_S5" t="L" l="2" i0="5" i1="5">
+		<anim id="0SxOpS_BJ-AceKneelingBlowjob_S5" t="L" l="2" i0="4" i1="4">
 		<ae evty="cockSuckG" whocock="0" whodid="1" sound="throat" soundpow="0"/>
 		</anim>
 		</sp>

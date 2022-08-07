@@ -2,22 +2,25 @@
 <info name="Rubbing Penis Against Face" animator="Ace"/>
 <region om="A" maj="K" min="K" stage="" step="" story=""/>
 <anim id="0SxOpS_Po-AceRubbingPenisAgainstFace_S1" t="L" l="2"/>
-<speed a="0" min="1" max="4" name="thrusts">	
+<speed a="0" min="0" max="3" name="thrusts">	
 	<sp mtx="^thrustsPerSec" qnt=".5">
-		<anim id="0SxOpS_Po-AceRubbingPenisAgainstFace_S1" t="L" l="2" i0="1" i1="1"/></sp>
+		<anim id="0SxOpS_Po-AceRubbingPenisAgainstFace_S1" t="L" l="2" i0="0" i1="0"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="1">
-		<anim id="0SxOpS_Po-AceRubbingPenisAgainstFace_S2" t="L" l="2" i0="2" i1="2"/></sp>
+		<anim id="0SxOpS_Po-AceRubbingPenisAgainstFace_S2" t="L" l="2" i0="1" i1="1"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="1.5">
-		<anim id="0SxOpS_Po-AceRubbingPenisAgainstFace_S3" t="L" l="2" i0="3" i1="3"/></sp>
+		<anim id="0SxOpS_Po-AceRubbingPenisAgainstFace_S3" t="L" l="2" i0="2" i1="2"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="2">
-		<anim id="0SxOpS_Po-AceRubbingPenisAgainstFace_S4" t="L" l="2" i0="4" i1="4"/></sp>
+		<anim id="0SxOpS_Po-AceRubbingPenisAgainstFace_S4" t="L" l="2" i0="3" i1="3"/></sp>
 </speed>
 <nav>
 	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
 	<tab actor="0" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="Faster" minustext="Slower" t0="0"/>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHoldingFromBehind" text="Let go of your partner." t0="0">
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Kne|Po|AceKneelingJO" text="Masturbate to your partner's face.">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="obigx" go="OpS|Sta!Kne|Ho|MaleStandingFemaleKneeling" text="Let go of your partner." t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
 			</option>
 		</page>
