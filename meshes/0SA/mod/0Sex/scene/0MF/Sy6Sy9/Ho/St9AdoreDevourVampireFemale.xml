@@ -13,7 +13,7 @@
 			</option>
 		</page>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hheartdt" icon="" go="OpS|Sta!Sta|Ap|AceStandingConversation" text="Speak with your partner." t0="1">
+			<option halo="hheartdt" icon="omu_lipspucker" go="OpS|Sta!Sta|Ap|AceStandingConversation" text="Speak with your partner." t0="1">
 			<enhance a="0"/><enhance a="0"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="0"/></ihue>
 			</option>
 			<option halo="hheartdt" icon="oholdbody_8_mf" go="OpS|Sta!Sta|Ho|StandingHandHolding" text="Hold your partner's hand." t0="1">
@@ -31,9 +31,11 @@
 	</tab>
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="oholdbody_8_mf" go="OpS|Sta!Sta|Em|GoToDevourVampireBiteFemaleStanding" text="(Vampire) Feed on your partner." t0="1">
+			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Em|GoToDevourVampireBiteFemaleStanding" text="(Vampire) Feed on your partner." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+		</page>
+        <page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
             <option halo="hgentle" icon="oholdbody_8_mf" go="OpS|Sta!Sta|Ho|GoToStandingHolding" text="Hold your partner." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
@@ -42,7 +44,7 @@
 			</option>
 		</page>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hheartdt" icon="" go="OpS|Sta!Sta|Ap|AceStandingConversation" text="Speak with your partner." t0="1">
+			<option halo="hheartdt" icon="omu_lipspucker" go="OpS|Sta!Sta|Ap|AceStandingConversation" text="Speak with your partner." t0="1">
 			<enhance a="1"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="1"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="1"/></ihue>
 			</option>
 			<option halo="htender" icon="oholdbody_8_mf" go="OpS|Sta!Sta|Ho|StandingHandHolding" text="Hold your partner's hand." t0="0">
