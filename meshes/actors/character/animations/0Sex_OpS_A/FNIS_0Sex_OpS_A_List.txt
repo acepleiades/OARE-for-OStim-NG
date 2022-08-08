@@ -42,8 +42,12 @@ b -a,Tn 0SxOpS_Em-GoBackDevourVampireBiteMaleStanding_0 ..\..\..\..\0SA\mod\0Sex
 b -a,Tn 0SxOpS_Em-GoBackDevourVampireBiteMaleStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\0SxOpS_Em-GoBackDevourVampireBiteMaleStanding_1.hkx
 b -Tn 0SxOpS_Em-DevourDrainedFemaleStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\0SxOpS_Em-DevourDrainedFemaleStanding_0.hkx
 b -Tn 0SxOpS_Em-DevourDrainedFemaleStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\0SxOpS_Em-DevourDrainedFemaleStanding_1.hkx
+b -a,Tn 0SxOpS_Em-GoToDevourVampireBiteFemaleStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteFemaleStanding\0SxOpS_Em-GoToDevourVampireBiteFemaleStanding_0.hkx
+b -a,Tn 0SxOpS_Em-GoToDevourVampireBiteFemaleStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteFemaleStanding\0SxOpS_Em-GoToDevourVampireBiteFemaleStanding_1.hkx
 b -Tn 0SxOpS_Em-DevourVampireBiteFemaleStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteFemaleStanding\0SxOpS_Em-DevourVampireBiteFemaleStanding_0.hkx
 b -Tn 0SxOpS_Em-DevourVampireBiteFemaleStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteFemaleStanding\0SxOpS_Em-DevourVampireBiteFemaleStanding_1.hkx
+b -a,Tn 0SxOpS_Em-GoBackDevourVampireBiteFemaleStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteFemaleStanding\0SxOpS_Em-GoBackDevourVampireBiteFemaleStanding_0.hkx
+b -a,Tn 0SxOpS_Em-GoBackDevourVampireBiteFemaleStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteFemaleStanding\0SxOpS_Em-GoBackDevourVampireBiteFemaleStanding_1.hkx
 b -Tn 0SxOpS_Em-DevourDrainedMaleStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteFemaleStanding\0SxOpS_Em-DevourDrainedMaleStanding_0.hkx
 b -Tn 0SxOpS_Em-DevourDrainedMaleStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteFemaleStanding\0SxOpS_Em-DevourDrainedMaleStanding_1.hkx
 

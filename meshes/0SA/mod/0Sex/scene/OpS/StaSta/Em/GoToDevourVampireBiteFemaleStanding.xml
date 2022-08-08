@@ -1,0 +1,4 @@
+<scene id="OpS|Sta!Sta|Em|GoToDevourVampireBiteFemaleStanding" actors="2" style="OScene">
+<info name="Transition into Vampire Bite Female Standing" animator="Ace"/>
+<anim id="0SxOpS_Em-GoToDevourVampireBiteFemaleStanding" t="T" l="3" dest="OpS|Sta!Sta|Em|DevourVampireBiteFemaleStanding"/>
+</scene>
