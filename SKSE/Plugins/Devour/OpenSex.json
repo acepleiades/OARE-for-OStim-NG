@@ -1,0 +1,20 @@
+{
+	"baseScenesDouble": [
+		"0MF|Sy6!Sy9|Ho|St9Adore"
+	],
+	"replacerScenesDouble": [
+		"0MF|Sy6!Sy9|Ho|St9AdoreDevourVampireMaleAndFemale"
+	],
+	"baseScenesMale": [
+		"0MF|Sy6!Sy9|Ho|St9Adore"
+	],
+	"replacerScenesMale": [
+		"0MF|Sy6!Sy9|Ho|St9AdoreDevourVampireMale"
+	],
+	"baseScenesFemale": [
+		"0MF|Sy6!Sy9|Ho|St9Adore"
+	],
+	"replacerScenesFemale": [
+		"0MF|Sy6!Sy9|Ho|St9AdoreDevourVampireFemale"
+	]
+}
