@@ -164,6 +164,12 @@ b -Tn 0SxOpS_Ho-StandingSpankIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\
 b -Tn 0SxOpS_Ho-StandingSpankIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingSpankIdle\0SxOpS_Ho-StandingSpankIdle_1.hkx
 b -a,Tn 0SxOpS_Ho-StandingSpank_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingSpank\0SxOpS_Ho-StandingSpank_0.hkx
 b -a,Tn 0SxOpS_Ho-StandingSpank_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingSpank\0SxOpS_Ho-StandingSpank_1.hkx
+b -Tn 0SxOpS_Ho-RubbingAssAgainstCrotch_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\RubbingAssAgainstCrotch\0SxOpS_Ho-RubbingAssAgainstCrotch_S1_0.hkx
+b -Tn 0SxOpS_Ho-RubbingAssAgainstCrotch_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\RubbingAssAgainstCrotch\0SxOpS_Ho-RubbingAssAgainstCrotch_S1_1.hkx
+b -Tn 0SxOpS_Ho-RubbingAssAgainstCrotch_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\RubbingAssAgainstCrotch\0SxOpS_Ho-RubbingAssAgainstCrotch_S2_0.hkx
+b -Tn 0SxOpS_Ho-RubbingAssAgainstCrotch_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\RubbingAssAgainstCrotch\0SxOpS_Ho-RubbingAssAgainstCrotch_S2_1.hkx
+b -Tn 0SxOpS_Ho-RubbingAssAgainstCrotch_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\RubbingAssAgainstCrotch\0SxOpS_Ho-RubbingAssAgainstCrotch_S3_0.hkx
+b -Tn 0SxOpS_Ho-RubbingAssAgainstCrotch_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\RubbingAssAgainstCrotch\0SxOpS_Ho-RubbingAssAgainstCrotch_S3_1.hkx
 b -Tn 0SxOpS_Po-AceRubbingPenis_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Po\AceRubbingPenis\0SxOpS_Po-AceRubbingPenis_S1_0.hkx
 b -Tn 0SxOpS_Po-AceRubbingPenis_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Po\AceRubbingPenis\0SxOpS_Po-AceRubbingPenis_S1_1.hkx
 b -Tn 0SxOpS_Po-AceRubbingPenis_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Po\AceRubbingPenis\0SxOpS_Po-AceRubbingPenis_S2_0.hkx
