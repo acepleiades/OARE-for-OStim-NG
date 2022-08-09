@@ -38,6 +38,13 @@
 			</option>
 		</page>
 	</tab>
+    <tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<page icon="mheart"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="htender" icon="opowkiss_mf" go="OpS|Sta!Sta|Ho|RubbingAssAgainstCrotch" text="Rub your ass against your partner's crotch." t0="1">
+			<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" n="sk0" v="0"/><ihue cmd="body" n="sk1" v="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
 </nav>
 <eyes a="0" facerel="0" actionrel="2" bodyrel="1">
 <primary v="-60" h="0" vpan="10" hpan="10"/>
