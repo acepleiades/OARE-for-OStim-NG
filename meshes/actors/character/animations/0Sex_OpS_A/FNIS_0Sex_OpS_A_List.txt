@@ -281,6 +281,10 @@ b -Tn 0SxOpS_BoJ-AceStandingBoobjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKn
 b -Tn 0SxOpS_BoJ-AceStandingBoobjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BoJ\AceStandingBoobjob\0SxOpS_BoJ-AceStandingBoobjob_S3_1.hkx
 b -Tn 0SxOpS_BoJ-AceStandingBoobjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BoJ\AceStandingBoobjob\0SxOpS_BoJ-AceStandingBoobjob_S4_0.hkx
 b -Tn 0SxOpS_BoJ-AceStandingBoobjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BoJ\AceStandingBoobjob\0SxOpS_BoJ-AceStandingBoobjob_S4_1.hkx
+b -a,Tn 0SxOpS_BoJ-AceStandingBoobjob_Climax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BoJ\AceStandingBoobjob\0SxOpS_BoJ-AceStandingBoobjob_Climax_0.hkx
+b -a,Tn 0SxOpS_BoJ-AceStandingBoobjob_Climax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BoJ\AceStandingBoobjob\0SxOpS_BoJ-AceStandingBoobjob_Climax_1.hkx
+b -Tn 0SxOpS_Ho-AceStandingBoobjob_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ho\AceStandingBoobjob_AfterClimax\0SxOpS_Ho-AceStandingBoobjob_AfterClimax_0.hkx
+b -Tn 0SxOpS_Ho-AceStandingBoobjob_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ho\AceStandingBoobjob_AfterClimax\0SxOpS_Ho-AceStandingBoobjob_AfterClimax_1.hkx
 b -a,Tn 0SxOpS_Ho-GoToAceKneelingBlowjob_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ho\KneelingBlowjob\0SxOpS_Ho-GoToAceKneelingBlowjob_0.hkx
 b -a,Tn 0SxOpS_Ho-GoToAceKneelingBlowjob_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ho\KneelingBlowjob\0SxOpS_Ho-GoToAceKneelingBlowjob_1.hkx
 b -Tn 0SxOpS_BJ-AceKneelingBlowjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjob_S1_0.hkx
