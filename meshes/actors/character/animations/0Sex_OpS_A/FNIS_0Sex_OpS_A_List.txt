@@ -386,6 +386,8 @@ b -Tn 0SxOpS_Em-LapPillowHeadStroke_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySSi
 b -Tn 0SxOpS_Em-LapPillowHeadStroke_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySSit\Em\LapPillowHeadStroke\0SxOpS_Em-LapPillowHeadStroke_S2_1.hkx
 b -Tn 0SxOpS_Em-LapPillowHeadStroke_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySSit\Em\LapPillowHeadStroke\0SxOpS_Em-LapPillowHeadStroke_S3_0.hkx
 b -Tn 0SxOpS_Em-LapPillowHeadStroke_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySSit\Em\LapPillowHeadStroke\0SxOpS_Em-LapPillowHeadStroke_S3_1.hkx
+b -a,Tn 0SxOpS_Em-GoToDevourVampireBiteFemaleSitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Em\DevourVampireBiteFemaleSitting\0SxOpS_Em-GoToDevourVampireBiteFemaleSitting_0.hkx
+b -a,Tn 0SxOpS_Em-GoToDevourVampireBiteFemaleSitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Em\DevourVampireBiteFemaleSitting\0SxOpS_Em-GoToDevourVampireBiteFemaleSitting_1.hkx
 b -Tn 0SxOpS_Em-DevourVampireBiteFemaleSitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Em\DevourVampireBiteFemaleSitting\0SxOpS_Em-DevourVampireBiteFemaleSitting_0.hkx
 b -Tn 0SxOpS_Em-DevourVampireBiteFemaleSitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Em\DevourVampireBiteFemaleSitting\0SxOpS_Em-DevourVampireBiteFemaleSitting_1.hkx
 b -Tn 0SxOpS_Em-DevourDrainedMaleSitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Em\DevourVampireBiteFemaleSitting\0SxOpS_Em-DevourDrainedMaleSitting_0.hkx
