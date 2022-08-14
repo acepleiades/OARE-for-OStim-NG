@@ -1,20 +1,26 @@
 {
 	"baseScenesDouble": [
 		"0MF|Sy6!Sy9|Ho|St9Adore"
+        "0MF|KNy6!KNy6|Ho|KnLap"
 	],
 	"replacerScenesDouble": [
 		"0MF|Sy6!Sy9|Ho|St9AdoreDevourVampireMaleAndFemale"
+        "0MF|KNy6!KNy6|Ho|KnLapVampireMaleAndFemale"
 	],
 	"baseScenesMale": [
 		"0MF|Sy6!Sy9|Ho|St9Adore"
+        "0MF|KNy6!KNy6|Ho|KnLap"
 	],
 	"replacerScenesMale": [
 		"0MF|Sy6!Sy9|Ho|St9AdoreDevourVampireMale"
+        "0MF|KNy6!KNy6|Ho|KnLapVampireMale"
 	],
 	"baseScenesFemale": [
 		"0MF|Sy6!Sy9|Ho|St9Adore"
+        "0MF|KNy6!KNy6|Ho|KnLap"
 	],
 	"replacerScenesFemale": [
 		"0MF|Sy6!Sy9|Ho|St9AdoreDevourVampireFemale"
+        "0MF|KNy6!KNy6|Ho|KnLapVampireFemale"
 	]
 }
