@@ -297,6 +297,14 @@ b -Tn 0SxOpS_BJ-AceKneelingBlowjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne
 b -Tn 0SxOpS_BJ-AceKneelingBlowjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-AceKneelingBlowjob_S4_1.hkx
 b -a,Tn 0SxOpS_BJ-GoBackAceKneelingBlowjob_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-GoBackAceKneelingBlowjob_0.hkx
 b -a,Tn 0SxOpS_BJ-GoBackAceKneelingBlowjob_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingBlowjob\0SxOpS_BJ-GoBackAceKneelingBlowjob_1.hkx
+b -Tn 0SxOpS_BJ-AceSplayedFeetBlowjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceSplayedFeetBlowjob\0SxOpS_BJ-AceSplayedFeetBlowjob_S1_0.hkx
+b -Tn 0SxOpS_BJ-AceSplayedFeetBlowjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceSplayedFeetBlowjob\0SxOpS_BJ-AceSplayedFeetBlowjob_S1_1.hkx
+b -Tn 0SxOpS_BJ-AceSplayedFeetBlowjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceSplayedFeetBlowjob\0SxOpS_BJ-AceSplayedFeetBlowjob_S2_0.hkx
+b -Tn 0SxOpS_BJ-AceSplayedFeetBlowjob_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceSplayedFeetBlowjob\0SxOpS_BJ-AceSplayedFeetBlowjob_S2_1.hkx
+b -Tn 0SxOpS_BJ-AceSplayedFeetBlowjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceSplayedFeetBlowjob\0SxOpS_BJ-AceSplayedFeetBlowjob_S3_0.hkx
+b -Tn 0SxOpS_BJ-AceSplayedFeetBlowjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceSplayedFeetBlowjob\0SxOpS_BJ-AceSplayedFeetBlowjob_S3_1.hkx
+b -Tn 0SxOpS_BJ-AceSplayedFeetBlowjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceSplayedFeetBlowjob\0SxOpS_BJ-AceSplayedFeetBlowjob_S4_0.hkx
+b -Tn 0SxOpS_BJ-AceSplayedFeetBlowjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceSplayedFeetBlowjob\0SxOpS_BJ-AceSplayedFeetBlowjob_S4_1.hkx
 b -a,Tn 0SxOpS_BJ-GoToAceKneelingFacefuck_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceKneelingFacefuck\0SxOpS_BJ-GoToAceKneelingFacefuck_0.hkx
 b -a,Tn 0SxOpS_BJ-GoToAceKneelingFacefuck_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceKneelingFacefuck\0SxOpS_BJ-GoToAceKneelingFacefuck_1.hkx
 b -Tn 0SxOpS_BJ-AceKneelingFacefuck_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceKneelingFacefuck\0SxOpS_BJ-AceKneelingFacefuck_S1_0.hkx
