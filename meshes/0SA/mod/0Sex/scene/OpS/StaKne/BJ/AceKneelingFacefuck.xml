@@ -17,14 +17,15 @@
 		</sp>
 </speed>
 <nav>
-	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="Faster" minustext="Slower" t0="0"/>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="obigx" go="OpS|Sta!Kne|Ho|GoBackAceKneelingFacefuck" text="Let go of your partner." t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
 			</option>
 		</page>
-	</tab>	
+	</tab>
+    <tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
 </nav>
 <eyes a="0" facerel="0" actionrel="0" bodyrel="1">
 <primary v="-100" h="0" vpan="10" hpan="10"/>
