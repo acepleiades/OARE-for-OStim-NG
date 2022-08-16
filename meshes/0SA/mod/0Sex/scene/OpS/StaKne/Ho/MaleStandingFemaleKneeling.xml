@@ -32,7 +32,7 @@
             <option halo="hgentle" icon="osx_kn_m" go="OpS|Sta!Kne|BoJ|AceStandingBoobjob" text="Put it between your breasts.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="objbf_f" go="OpS|Sta!Kne|BJ|GoToAceKneelingBlowjob" text="Suck your partner.">
+			<option halo="hgentle" icon="objbf_f" go="OpS|Sta!Kne|BJ|GoToKneelingBlowjob" text="Suck your partner.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
