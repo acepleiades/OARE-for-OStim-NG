@@ -26,7 +26,7 @@
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|Sta!Kne|BoJ|AceStandingBoobjob_Climax" text="Climax.">
 			<enhance a="0"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="0"/><ihue n="gx" cmd="rg" a="0"/>
 			</option>
-            <option halo="hgentle" icon="obigx" go="OpS|Sta!Kne|Ho|MaleStandingFemaleKneeling" text="Return...">
+            <option halo="hgentle" icon="obigx" go="OpS|Sta!Kne|Ap|MaleStandingFemaleKneeling" text="Return...">
 			<enhance a="0"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="0"/><ihue n="gx" cmd="rg" a="0"/>
 			</option>
 		</page>
