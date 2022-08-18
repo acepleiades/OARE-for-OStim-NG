@@ -76,18 +76,18 @@
 <defaults/>
 </nav>
 <eyes a="0" facerel="0" actionrel="2" bodyrel="1">
-<primary v="0" h="0" vpan="10" hpan="10"/>
-<face v="0" h="0" vpan="10" hpan="10"/>
-<body v="0" h="0" vpan="10" hpan="10"/>
-<action v="0" h="0" vpan="10" hpan="10"/>
-<away v="0" h="0" vpan="10" hpan="10"/>
+<primary v="0" h="0" vpan="10" hpan="10" />
+<face v="0" h="0" vpan="20" hpan="10" />
+<body v="0" h="0" vpan="-10" hpan="10" />
+<action v="0" h="0" vpan="-20" hpan="10" />
+<away v="0" h="0" vpan="10" hpan="20" />
 </eyes>	
 <eyes a="1" facerel="0" actionrel="2" bodyrel="1">
-<primary v="35" h="0" vpan="10" hpan="10" />
-<face v="35" h="0" vpan="10" hpan="10" />
-<body v="35" h="0" vpan="10" hpan="10" />
-<action v="35" h="0" vpan="10" hpan="10" />
-<away v="35" h="0" vpan="10" hpan="10" />
+<primary v="0" h="0" vpan="10" hpan="10" />
+<face v="0" h="0" vpan="20" hpan="10" />
+<body v="0" h="0" vpan="-10" hpan="10" />
+<action v="0" h="0" vpan="-20" hpan="10" />
+<away v="0" h="0" vpan="10" hpan="20" />
 </eyes>
 <motif drive="intimate" theme="Affection"/>
 <motif drive="intimate" theme="Affection"/>

@@ -85,6 +85,8 @@ b -a,Tn 0SxOpS_Ho-GoToStandingKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho
 b -a,Tn 0SxOpS_Ho-GoToStandingKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingKiss\0SxOpS_Ho-GoToStandingKiss_1.hkx
 b -Tn 0SxOpS_Ho-StandingKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingKiss\0SxOpS_Ho-StandingKiss_0.hkx
 b -Tn 0SxOpS_Ho-StandingKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingKiss\0SxOpS_Ho-StandingKiss_1.hkx
+b -a,Tn 0SxOpS_Ho-GoBackStandingSmooch_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingKiss\0SxOpS_Ho-GoBackStandingSmooch_0.hkx
+b -a,Tn 0SxOpS_Ho-GoBackStandingSmooch_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingKiss\0SxOpS_Ho-GoBackStandingSmooch_1.hkx
 b -Tn 0SxOpS_Pf2-StandingKissFingering_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Pf2\StandingKissFingering\0SxOpS_Pf2-StandingKissFingering_S1_0.hkx
 b -Tn 0SxOpS_Pf2-StandingKissFingering_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Pf2\StandingKissFingering\0SxOpS_Pf2-StandingKissFingering_S1_1.hkx
 b -Tn 0SxOpS_Pf2-StandingKissFingering_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Pf2\StandingKissFingering\0SxOpS_Pf2-StandingKissFingering_S2_0.hkx
@@ -1080,8 +1082,6 @@ b -a,Tn 0SxOpS_HJ-GoBackAceStandingHandjobSmooch_1 ..\..\..\..\0SA\mod\0Sex\anim
 b -a,Tn 0SxOpS_Ho-GoBackTripleSmooch_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaStaSta\Ho\Ace3PStandingHolding\0SxOpS_Ho-GoBackTripleSmooch_0.hkx
 b -a,Tn 0SxOpS_Ho-GoBackTripleSmooch_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaStaSta\Ho\Ace3PStandingHolding\0SxOpS_Ho-GoBackTripleSmooch_1.hkx
 b -a,Tn 0SxOpS_Ho-GoBackTripleSmooch_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaStaSta\Ho\Ace3PStandingHolding\0SxOpS_Ho-GoBackTripleSmooch_2.hkx
-b -a,Tn 0SxOpS_Ho-GoBackStandingSmooch_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHolding\0SxOpS_Ho-GoBackStandingSmooch_0.hkx
-b -a,Tn 0SxOpS_Ho-GoBackStandingSmooch_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHolding\0SxOpS_Ho-GoBackStandingSmooch_1.hkx
 b -a,Tn 0SxOpS_Ho-GoBackSpooningSmooch_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\0SxOpS_Ho-GoBackSpooningSmooch_0.hkx
 b -a,Tn 0SxOpS_Ho-GoBackSpooningSmooch_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\0SxOpS_Ho-GoBackSpooningSmooch_1.hkx
 b -a,Tn 0SxOpS_Ho-GoBackSittingFemaleApproachSmooch_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproach\0SxOpS_Ho-GoBackSittingFemaleApproachSmooch_0.hkx
