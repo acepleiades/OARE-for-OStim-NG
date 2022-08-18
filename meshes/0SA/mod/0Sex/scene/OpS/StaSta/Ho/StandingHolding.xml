@@ -46,9 +46,6 @@
 	</tab>
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="osqtlbbdn_f" go="OpS|Sta!Sta|Ho|GoToMaleStandingFemaleKneeling" text="Kneel.">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|Sit!Kne|Ho|SittingFemaleApproach" text="Lead your partner down with you.">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
@@ -76,18 +73,18 @@
 <defaults/>
 </nav>
 <eyes a="0" facerel="0" actionrel="2" bodyrel="1">
-<primary v="0" h="0" vpan="10" hpan="10"/>
-<face v="0" h="0" vpan="10" hpan="10"/>
-<body v="0" h="0" vpan="10" hpan="10"/>
-<action v="0" h="0" vpan="10" hpan="10"/>
-<away v="0" h="0" vpan="10" hpan="10"/>
+<primary v="0" h="0" vpan="10" hpan="10" />
+<face v="0" h="0" vpan="20" hpan="10" />
+<body v="0" h="0" vpan="-10" hpan="10" />
+<action v="0" h="0" vpan="-20" hpan="10" />
+<away v="0" h="0" vpan="10" hpan="20" />
 </eyes>	
 <eyes a="1" facerel="0" actionrel="2" bodyrel="1">
-<primary v="35" h="0" vpan="10" hpan="10" />
-<face v="35" h="0" vpan="10" hpan="10" />
-<body v="35" h="0" vpan="10" hpan="10" />
-<action v="35" h="0" vpan="10" hpan="10" />
-<away v="35" h="0" vpan="10" hpan="10" />
+<primary v="0" h="0" vpan="10" hpan="10" />
+<face v="0" h="0" vpan="20" hpan="10" />
+<body v="0" h="0" vpan="-10" hpan="10" />
+<action v="0" h="0" vpan="-20" hpan="10" />
+<away v="0" h="0" vpan="10" hpan="20" />
 </eyes>
 <motif drive="intimate" theme="Affection"/>
 <motif drive="intimate" theme="Affection"/>
