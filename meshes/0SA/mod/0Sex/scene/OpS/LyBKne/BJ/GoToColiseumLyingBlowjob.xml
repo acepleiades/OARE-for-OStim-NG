@@ -1,6 +1,6 @@
-<scene id="OpS|Sit!Kne|Ho|GoToColiseumLyingBlowjob" actors="2" style="OScene">
+<scene id="OpS|LyB!Kne|BJ|GoToColiseumLyingBlowjob" actors="2" style="OScene">
 <info name="Transition into Lying Blowjob" animator="Ace"/>
-<anim id="0SxOpS_BJ-AceLyingBlowjob_S2" t="T" l="1" dest="OpS|LyB!Kne|BJ|ColiseumLyingBlowjob">
+<anim id="0SxOpS_BJ-GoToAceLyingBlowjob" t="T" l="1" dest="OpS|LyB!Kne|BJ|ColiseumLyingBlowjob">
 <mfx a= "1">
 <fx0 ti="0" cmd="BLS_MOUTH" suite="bj" suitecmd=""/>
 <fx1 ti="0" cmd="BLS_MOUTH" suite="bj" suitecmd=""/>

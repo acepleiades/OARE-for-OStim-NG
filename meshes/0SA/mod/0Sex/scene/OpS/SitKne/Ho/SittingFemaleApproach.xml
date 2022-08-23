@@ -28,10 +28,10 @@
 			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sit!Kne|Ho|GoToAceHandjobPlusLicking" text="Stroke your partner (plus licking).">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="objbf_f" go="OpS|Sit!Kne|Ho|GoToAceLyingBlowjob" text="Take it inside your mouth (male lying).">
+			<option halo="hgentle" icon="objbf_f" go="OpS|LyB!Kne|BJ|GoToAceLyingBlowjob" text="Take it inside your mouth (male lying).">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="objbf_f" go="OpS|Sit!Kne|Ho|GoToAceAllFoursBlowjob" text="Take it inside your mouth (male kneeling).">
+			<option halo="hgentle" icon="objbf_f" go="OpS|Kne!AFo|BJ|GoToAceAllFoursBlowjob" text="Take it inside your mouth (male kneeling).">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!Sit|BoJ|AceLyingBoobjob" text="Take it between your breasts (boob job).">
