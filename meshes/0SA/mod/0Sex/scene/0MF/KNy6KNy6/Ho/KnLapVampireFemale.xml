@@ -36,7 +36,7 @@
 			</option>
 		</page>
         <page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="osx_layside_f" go="OpS|LyS!LyS|Ho|SpooningIdle" text="Lie down with your partner." t0="1">
+			<option halo="hgentle" icon="osx_layside_f" go="OpS|LyS!LyS|Ho|SpooningIdle" text="Lie down with your partner (spooning)." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="obigx" go="0MF|Sy6!Sy9|Ho|St9Adore" text="Stand up with your partner.">
