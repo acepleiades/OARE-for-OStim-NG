@@ -27,18 +27,18 @@
 	</tab>
 </nav>
 <eyes a="0" facerel="0" actionrel="2" bodyrel="1">
-<primary v="80" h="-50" vpan="10" hpan="10"/>
-<face v="80" h="-50" vpan="10" hpan="10"/>
-<body v="80" h="-50" vpan="10" hpan="10"/>
-<action v="80" h="-50" vpan="10" hpan="10"/>
-<away v="80" h="-50" vpan="10" hpan="90"/>
+<primary v="0" h="-50" vpan="10" hpan="10"/>
+<face v="0" h="-50" vpan="10" hpan="10"/>
+<body v="0" h="-50" vpan="10" hpan="10"/>
+<action v="0" h="-50" vpan="10" hpan="10"/>
+<away v="0" h="-50" vpan="10" hpan="90"/>
 </eyes>	
 <eyes a="1" facerel="0" actionrel="2" bodyrel="1">
-<primary v="80" h="20" vpan="10" hpan="10" />
-<face v="80" h="20" vpan="10" hpan="10" />
-<body v="80" h="20" vpan="10" hpan="10" />
-<action v="80" h="-20" vpan="10" hpan="10" />
-<away v="80" h="20" vpan="40" hpan="80" />
+<primary v="0" h="20" vpan="10" hpan="10" />
+<face v="0" h="20" vpan="10" hpan="10" />
+<body v="0" h="20" vpan="10" hpan="10" />
+<action v="0" h="-20" vpan="10" hpan="10" />
+<away v="0" h="20" vpan="40" hpan="80" />
 </eyes>
 <motif drive="intimate" theme="R_Handjob"/>
 <motif drive="intimate" theme="G_Handjob"/>
