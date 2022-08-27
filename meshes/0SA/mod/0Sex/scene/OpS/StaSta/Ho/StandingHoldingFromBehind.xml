@@ -5,43 +5,43 @@
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHolding" text="Turn your partner around." t0="1">
+			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHolding" text="^return" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hheartdt" icon="obbspankr_6_f" go="OpS|Sta!Sta|Ho|StandingSpankIdle" text="Spank your partner." t0="1">
-			<enhance a="0"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+			<option halo="hheartdt" icon="obbspankr_6_f" go="OpS|Sta!Sta|Ho|StandingSpankIdle" text="^spankN" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="o2fpufr_mf" go="OpS|Sta!Sta|Pf2|AceFingeringFromBehind" text="Finger your partner.">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="o2fpufr_mf" go="OpS|Sta!Sta|Pf2|AceFingeringFromBehind" text="^fingerN" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="omgsholds2_$G0" go="OpS|Sta!Sta|Po|AceRubbingPenis" text="Rub your penis against your partner's ass.">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="omgsholds2_$G0" go="OpS|Sta!Sta|Po|AceRubbingPenis" text="^rubYourPenisAgainstNsAss" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Sta|HJ|AceStandingThighfuck" text="Fuck your partner's thighs.">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Sta|HJ|AceStandingThighfuck" text="^fuckNsThighs" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceStandingSex" text="Put it inside your partner (standing).">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceStandingSex" text="^sexStanding" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceStandingSexForwardBend" text="Put it inside your partner (standing, bending foward).">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceStandingSexForwardBend" text="^sexStandingBendingForward" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceStandingWheelbarrow" text="Put it inside your partner (standing wheelbarrow).">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceStandingWheelbarrow" text="^sexStandingWheelbarrow" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceReverseCarryingSex" text="Put it inside your partner (reverse carrying).">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceReverseCarryingSex" text="^sexReverseCarrying" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
     <tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="htender" icon="opowkiss_mf" go="OpS|Sta!Sta|Ho|RubbingAssAgainstCrotch" text="Rub your ass against your partner's crotch." t0="1">
-			<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" n="sk0" v="0"/><ihue cmd="body" n="sk1" v="1"/><ihue n="gx" cmd="rg" a="1"/>
+			<option halo="htender" icon="opowkiss_mf" go="OpS|Sta!Sta|Ho|RubbingAssAgainstCrotch" text="^rubYourAssAgainstNsCrotch" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>

@@ -4,35 +4,35 @@
 <anim id="0SxOpS_Ap-MaleStandingFemaleKneeling" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Kne|Po|AceKneelingJO" text="Masturbate to your partner's face.">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Kne|Po|AceKneelingJO" text="^masturbateToNsFace" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Kne|Po|GoToAceRubbingPenisAgainstFace" text="Rub your penis against your partner's face.">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Kne|Po|GoToAceRubbingPenisAgainstFace" text="^rubYourPenisAgainstNsFace" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="osx_kn_m" go="OpS|Sta!Kne|BoJ|AceStandingTittyfuck" text="Fuck your partner's tits.">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="osx_kn_m" go="OpS|Sta!Kne|BoJ|AceStandingTittyfuck" text="^fuckNsTits" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="objbf_f" go="OpS|Sta!Kne|BJ|GoToSittingFacefuck" text="Fuck your partner's mouth.">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="objbf_f" go="OpS|Sta!Kne|BJ|GoToSittingFacefuck" text="^fuckNsMouth" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="obigx" go="0MF|Sy6!Sy9|Ho|St9Adore" text="Stand up.">
+			<option halo="hgentle" icon="obigx" go="0MF|Sy6!Sy9|Ho|St9Adore" text="^return" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Kne|HJ|AceKneelingHandjob" text="Stroke your partner.">
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Kne|HJ|AceKneelingHandjob" text="^masturbateN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="osx_kn_m" go="OpS|Sta!Kne|BoJ|AceStandingBoobjob" text="Put it between your breasts.">
+            <option halo="hgentle" icon="osx_kn_m" go="OpS|Sta!Kne|BoJ|AceStandingBoobjob" text="^performABoobJob" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="objbf_f" go="OpS|Sta!Kne|BJ|GoToKneelingBlowjob" text="Suck your partner.">
+			<option halo="hgentle" icon="objbf_f" go="OpS|Sta!Kne|BJ|GoToKneelingBlowjob" text="^fellatioKneeling" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
