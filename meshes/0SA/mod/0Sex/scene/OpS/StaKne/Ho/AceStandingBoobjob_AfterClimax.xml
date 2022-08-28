@@ -3,6 +3,7 @@
 <region om="A" maj="K" min="Ksi" stage="" step="" story=""/>
 <anim id="0SxOpS_Ho-AceStandingBoobjob_AfterClimax" t="L" l="2"/>
 <nav>
+   	<tab actor="0" icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
 			<option halo="hgentle" icon="obigx" go="OpS|Sta!Kne|Ap|MaleStandingFemaleKneeling" text="^return" t0="1">
@@ -15,7 +16,6 @@
 			</option>
 		</page>
 	</tab>
-   	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
 </nav>
 <eyes a="0" facerel="0" actionrel="2" bodyrel="1">
 <primary v="0" h="0" vpan="10" hpan="10"/>

@@ -15,16 +15,16 @@
 <nav>
 	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
-		<xmenu id="speed" plus="cplus" minus="cminus" plustext="Faster" minustext="Slower" t0="0"/>
+		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!LyF|BJ|AceHandjobPlusLicking_Climax" text="Climax." t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
-			</option>
-			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!LyF|HJ|AceHandjobPlusRimming" text="Rim your partner.">
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!LyF|BJ|AceHandjobPlusLicking_Climax" text="^climax" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obigx" go="OpS|Sit!Kne|Ho|GoBackAceHandjobPlusLicking" text="Stop stroking your partner." t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!LyF|HJ|AceHandjobPlusRimming" text="^rimN" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="obigx" go="OpS|Sit!Kne|Ho|GoBackAceHandjobPlusLicking" text="^return" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
