@@ -15,13 +15,13 @@
 <nav>
 	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
-		<xmenu id="speed" plus="cplus" minus="cminus" plustext="Faster" minustext="Slower" t0="0"/>
+		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!Kne|HJ|AceLyingHandjob_Climax" text="Climax." t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!Kne|HJ|AceLyingHandjob_Climax" text="^climax" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obigx" go="OpS|LyB!Kne|Ho|MountedFemale" text="Stop stroking him." t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
+			<option halo="hgentle" icon="obigx" go="OpS|LyB!Kne|Ho|MountedFemale" text="^return" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
@@ -34,11 +34,11 @@
 <away v="0" h="-50" vpan="10" hpan="90"/>
 </eyes>	
 <eyes a="1" facerel="0" actionrel="2" bodyrel="1">
-<primary v="0" h="20" vpan="10" hpan="10" />
-<face v="0" h="20" vpan="10" hpan="10" />
-<body v="0" h="20" vpan="10" hpan="10" />
-<action v="0" h="-20" vpan="10" hpan="10" />
-<away v="0" h="20" vpan="40" hpan="80" />
+<primary v="-33" h="20" vpan="10" hpan="10" />
+<face v="-33" h="20" vpan="10" hpan="10" />
+<body v="-33" h="20" vpan="10" hpan="10" />
+<action v="-33" h="-20" vpan="10" hpan="10" />
+<away v="-33" h="20" vpan="40" hpan="80" />
 </eyes>
 <motif drive="intimate" theme="R_Handjob"/>
 <motif drive="intimate" theme="G_Handjob"/>

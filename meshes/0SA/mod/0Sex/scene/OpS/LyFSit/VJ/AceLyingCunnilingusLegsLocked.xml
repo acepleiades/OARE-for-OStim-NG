@@ -14,13 +14,14 @@
 </speed>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
-		<xmenu id="speed" plus="cplus" minus="cminus" plustext="Faster" minustext="Slower" t0="0"/>
-		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="obigx" go="OpS|AFo!Sit|Ho|SittingMaleApproach" text="Stop licking your partner." t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
+		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="obigx" go="OpS|AFo!Sit|Ho|SittingMaleApproach" text="^return" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
+    <tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
 </nav>
 <eyes a="0" facerel="0" actionrel="2" bodyrel="1">
 <primary v="0" h="0" vpan="10" hpan="10"/>

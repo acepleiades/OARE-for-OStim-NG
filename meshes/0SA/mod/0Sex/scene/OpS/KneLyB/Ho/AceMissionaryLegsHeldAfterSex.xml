@@ -5,16 +5,17 @@
 <nav>
 	<tab actor="1" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="obigx" go="OpS|Kne!LyB|Ho|SpreadLegsFemale" text="Return..." t0="1">
+			<option halo="hgentle" icon="obigx" go="OpS|Kne!LyB|Ho|SpreadLegsFemale" text="^return" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
-		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!LyB|Sx|AceMissionaryLegsHeld" text="Put it inside your partner again.">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!LyB|Sx|AceMissionaryLegsHeld" text="^doItAgain">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
+    <tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
 </nav>
 <eyes a="0" facerel="0" actionrel="2" bodyrel="1">
 <primary v="0" h="0" vpan="10" hpan="10"/>

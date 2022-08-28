@@ -17,27 +17,27 @@
 		</sp>
 </speed>
 <nav>
-	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^thrustFaster" minustext="^thrustSlower"/>
-		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|CowgirlHandsOnHips" text="Vary into cowgirl, hands on hips.">
+	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+	<tab actor="0" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|CowgirlHandsOnHips" text="^varySexCowgirlHandsOnHips">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|AceCowgirlPressingDown" text="Vary into cowgirl, pressing down.">
+            <option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|AceCowgirlPressingDown" text="^varySexCowgirlPressingDown">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Sit|Sx|AceSquattingCowgirl" text="Vary into squatting cowgirl.">
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Sit|Sx|AceSquattingCowgirl" text="^varySexCowgirlSquatting">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|GoToAceCowgirlLegsCrossed" text="Vary into cowgirl, legs crossed.">
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|GoToAceCowgirlLegsCrossed" text="^varySexCowgirlLegsCrossed">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obigx" go="OpS|LyB!Kne|Ho|MountedFemale" text="Return..." t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="obigx" go="OpS|LyB!Kne|Ho|MountedFemale" text="^return" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
-	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
 </nav>
 <eyes a="0" facerel="0" actionrel="2" bodyrel="1">
 <primary v="0" h="0" vpan="10" hpan="10"/>

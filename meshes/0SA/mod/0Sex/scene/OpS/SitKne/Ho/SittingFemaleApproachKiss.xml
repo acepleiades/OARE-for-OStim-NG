@@ -3,9 +3,10 @@
 <region om="A" maj="K" min="Ksi" stage="" step="" story=""/>
 <anim id="0SxOpS_Ho-SittingFemaleApproachKiss" t="L" l="2"/>
 <nav>
-	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
-		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="obigx" go="OpS|Sit!Kne|Ho|GoBackSittingFemaleApproachSmooch" text="Stop kissing your partner.">
+	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+    <tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="0"/>
+		<page icon="mheart"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="obigx" go="OpS|Sit!Kne|Ho|GoBackSittingFemaleApproachSmooch" text="^return">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>

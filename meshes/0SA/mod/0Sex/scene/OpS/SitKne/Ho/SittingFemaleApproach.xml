@@ -4,40 +4,40 @@
 <anim id="0SxOpS_Ho-SittingFemaleApproach" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!Sit|BoJ|AceLyingTitfuck" text="Fuck your partner's tits.">
-			<enhance a="0"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="0"/><ihue n="gx" cmd="rg" a="0"/>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!Sit|BoJ|AceLyingTitfuck" text="^fuckNsTits" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
-	<tab actor="1" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="osqtlbbdn_f" go="OpS|LyB!Kne|Ho|MountedFemale" text="Mount your partner." t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="0"/>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="osqtlbbdn_f" go="OpS|LyB!Kne|Ho|MountedFemale" text="^mountN" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obigx" go="OpS|LyS!LyS|Ho|SpooningIdle" text="Lie down with your partner (spooning)." t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="obigx" go="OpS|LyS!LyS|Ho|SpooningIdle" text="^return" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
-		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="htender" icon="opowkiss_mf" go="OpS|Sit!Kne|Ho|GoToSittingFemaleApproachKiss" text="Kiss your partner." t0="0">
-			<hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" n="sk0" v="0"/><ihue cmd="body" n="sk1" v="1"/><ihue n="gx" cmd="rg" a="1"/>
+		<page icon="mheart"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="htender" icon="opowkiss_mf" go="OpS|Sit!Kne|Ho|GoToSittingFemaleApproachKiss" text="^kissN" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="objbf_f" go="OpS|LyB!Kne|BJ|GoToAceLyingBlowjob" text="Take it inside your mouth (male lying).">
+			<option halo="hgentle" icon="objbf_f" go="OpS|LyB!Kne|BJ|GoToAceLyingBlowjob" text="^fellatioMaleLying" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="objbf_f" go="OpS|Kne!AFo|BJ|GoToAceAllFoursBlowjob" text="Take it inside your mouth (male kneeling).">
+			<option halo="hgentle" icon="objbf_f" go="OpS|Kne!AFo|BJ|GoToAceAllFoursBlowjob" text="^fellatioMaleKneeling" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!Sit|BoJ|AceLyingBoobjob" text="Take it between your breasts (boob job).">
+			<option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!Sit|BoJ|AceLyingBoobjob" text="^performABoobJob" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sit!Kne|Ho|GoToAceHandjobPlusLicking" text="Stroke your partner (plus licking).">
+            <option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sit!Kne|Ho|GoToAceHandjobPlusLicking" text="^masturbateNWithLicking" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sit!Sit|Sx|SittingSex" text="Take it inside you (sitting).">
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sit!Sit|Sx|SittingSex" text="^sexSitting" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>

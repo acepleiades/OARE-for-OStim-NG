@@ -358,6 +358,12 @@ b -a,Tn 0SxOpS_BJ-GoBackAceKneelingFacefuck_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\
 
 b -Tn 0SxOpS_Ho-Sitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-Sitting_0.hkx
 b -Tn 0SxOpS_Ho-Sitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-Sitting_1.hkx
+b -Tn 0SxOpS_Ho-SittingVampireFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-SittingVampireFemale_0.hkx
+b -Tn 0SxOpS_Ho-SittingVampireFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-SittingVampireFemale_1.hkx
+b -Tn 0SxOpS_Ho-SittingVampireMale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-SittingVampireMale_0.hkx
+b -Tn 0SxOpS_Ho-SittingVampireMale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-SittingVampireMale_1.hkx
+b -Tn 0SxOpS_Ho-SittingVampireMaleAndFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-SittingVampireMaleAndFemale_0.hkx
+b -Tn 0SxOpS_Ho-SittingVampireMaleAndFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-SittingVampireMaleAndFemale_1.hkx
 b -a,Tn 0SxOpS_Ho-GoToSittingFemaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-GoToSittingFemaleApproach_0.hkx
 b -a,Tn 0SxOpS_Ho-GoToSittingFemaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-GoToSittingFemaleApproach_1.hkx
 b -a,Tn 0SxOpS_Ho-GoToSittingMaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-GoToSittingMaleApproach_0.hkx

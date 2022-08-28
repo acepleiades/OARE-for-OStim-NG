@@ -2,7 +2,7 @@
 <info name="Standing Boob Job" animator="Ace"/>
 <region om="A" maj="K" min="K" stage="" step="" story=""/>
 <anim id="0SxOpS_BoJ-AceStandingBoobjob_S1" t="L" l="2"/>
-<speed a="0" min="0" max="3" name="thrusts">
+<speed a="0" min="0" max="3" name="strokes">
 	<sp mtx="^strokesPerSec" qnt="0.5">
 		<anim id="0SxOpS_BoJ-AceStandingBoobjob_S1" t="L" l="2" i0="0" i1="0"/></sp>
 	<sp mtx="^strokesPerSec" qnt="1">
@@ -14,20 +14,20 @@
 </speed>
 <nav>
     <tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="osx_kn_m" go="OpS|Sta!Kne|BoJ|AceStandingTittyfuck" text="Fuck your partner's tits.">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="osx_kn_m" go="OpS|Sta!Kne|BoJ|AceStandingTittyfuck" text="^fuckNsTits" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<xmenu id="speed" plus="cplus" minus="cminus" plustext="Faster" minustext="Slower" t0="0"/>
+		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="1"/>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="osx_kn_m" go="OpS|Sta!Kne|BoJ|AceStandingBoobjob_Climax" text="Climax.">
-			<enhance a="0"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="0"/><ihue n="gx" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="osx_kn_m" go="OpS|Sta!Kne|BoJ|AceStandingBoobjob_Climax" text="^climax" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="obigx" go="OpS|Sta!Kne|Ap|MaleStandingFemaleKneeling" text="Return...">
-			<enhance a="0"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="0"/><ihue n="gx" cmd="rg" a="0"/>
+            <option halo="hgentle" icon="obigx" go="OpS|Sta!Kne|Ap|MaleStandingFemaleKneeling" text="^return" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>

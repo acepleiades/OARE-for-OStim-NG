@@ -2,7 +2,7 @@
 <info name="Kneeling JO" animator="Ace"/>
 <region om="A" maj="K" min="K" stage="" step="" story=""/>
 <anim id="0SxOpS_Po-AceKneelingJO_S1" t="L" l="2"/>
-<speed a="0" min="0" max="3" name="thrusts">	
+<speed a="0" min="0" max="3" name="strokes">	
 	<sp mtx="^thrustsPerSec" qnt=".5">
 		<anim id="0SxOpS_Po-AceKneelingJO_S1" t="L" l="2" i0="0" i1="0"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="1">
@@ -14,17 +14,17 @@
 </speed>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<xmenu id="speed" plus="cplus" minus="cminus" plustext="Faster" minustext="Slower" t0="0"/>
-		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="obigx" go="OpS|Sta!Kne|Ap|MaleStandingFemaleKneeling" text="Return..." t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
+		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="obigx" go="OpS|Sta!Kne|Ap|MaleStandingFemaleKneeling" text="^return" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Kne|BJ|AceKneelingJOMouthOpen" text="Open your mouth..." t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Kne|BJ|AceKneelingJOMouthOpen" text="^openYourMouth" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>

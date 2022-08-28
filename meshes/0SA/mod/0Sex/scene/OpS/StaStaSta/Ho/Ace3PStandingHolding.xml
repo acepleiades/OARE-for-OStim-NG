@@ -3,21 +3,20 @@
 <region om="A" maj="D" min="D" stage="" step="" story=""/>
 <anim id="0SxOpS_Ho-Ace3PStandingHolding" t="L" l="2"/>
 <nav>
-	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta!Sta|Ho|Ace3PStanding" text="Let go of your partners." t0="1">
+			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta!Sta|Ho|Ace3PStanding" text="^return">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hheartdt" icon="opowemb_mf" go="OpS|Sta!Sta!Sta|Ho|GoToTripleKiss" text="Kiss your partners." t0="1">
-			<enhance a="0"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+			<option halo="hheartdt" icon="opowemb_mf" go="OpS|Sta!Sta!Sta|Ho|GoToTripleKiss" text="^kissNandN">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
-		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!AFo!Kne|Sx|Ace3PKneelingSex" text="Have sex with them (kneeling).">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!AFo!Kne|Sx|Ace3PKneelingSex" text="^sex3PKneeling">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>

@@ -5,15 +5,16 @@
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hsharp" icon="obbspankr_6_f" go="OpS|Sta!Sta|Ho|StandingSpank" text="Give your partner a spank." t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="1"/>
+			<option halo="hsharp" icon="obbspankr_6_f" go="OpS|Sta!Sta|Ho|StandingSpank" text="^spankN" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			<out cmd="actionsave"/>
 			</option>
-			<option halo="htender" icon="obigx" c0="1" go="OpS|Sta!Sta|Ho|StandingHoldingFromBehind" text="Stop spanking your partner." t0="1">
-			<hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"/><ihue n="gx" cmd="rg" a="0"/>
+			<option halo="htender" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHoldingFromBehind" text="^return" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
+    <tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
 </nav>
 <eyes a="0" facerel="0" actionrel="2" bodyrel="1">
 <primary v="-60" h="0" vpan="10" hpan="10"/>

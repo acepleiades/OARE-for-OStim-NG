@@ -17,14 +17,15 @@
 		</sp>
 </speed>
 <nav>
-	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
-		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^suckWFaster" minustext="^suckWSlower" t0="0"/>
-		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="obigx" go="OpS|LyB!Kne|BJ|GoBackAceLyingBlowjob" text="Return..." t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
+	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+    <tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="0"/>
+		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
+        <page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="obigx" go="OpS|LyB!Kne|BJ|GoBackAceLyingBlowjob" text="^return">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
-	</tab>	
+	</tab>
 </nav>
 <eyes a="0" facerel="0" actionrel="0" bodyrel="1">
 <primary v="0" h="0" vpan="10" hpan="10"/>
