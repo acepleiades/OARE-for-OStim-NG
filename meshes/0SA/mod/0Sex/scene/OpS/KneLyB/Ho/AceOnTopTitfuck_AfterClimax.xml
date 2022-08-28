@@ -5,12 +5,12 @@
 <nav>
 	<tab actor="1" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="obigx" go="OpS|AFo!Sit|Ho|SittingMaleApproach" text="Return..." t0="1">
+			<option halo="hgentle" icon="obigx" go="OpS|AFo!Sit|Ho|SittingMaleApproach" text="^return" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!LyB|BoJ|AceOnTopTitfuck" text="Fuck your partner's tits again.">
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!LyB|BoJ|AceOnTopTitfuck" text="^doItAgain" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
