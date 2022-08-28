@@ -3,10 +3,9 @@
 <region om="A" maj="D" min="D" stage="" step="" story=""/>
 <anim id="0SxOpS_Em-AceTripleKiss" t="L" l="2"/>
 <nav>
-	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="ohandsoffbody_$G0$G1" go="OpS|Sta!Sta!Sta|Ho|GoBackTripleSmooch" text="Stop kissing." t0="1">
+		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta!Sta|Ho|GoBackTripleSmooch" text="^return">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
