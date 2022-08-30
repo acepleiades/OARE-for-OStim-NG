@@ -4,61 +4,48 @@
 <anim id="0SxOpS_Ho-Sitting" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="osx_layonback_f" go="OpS|Sit!Sit|Ho|GoToSittingMaleApproach" text="Approach your partner." t0="1">
+		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="osx_layonback_f" go="OpS|Sit!Sit|Ho|GoToSittingMaleApproach" text="^approachN" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="osx_layside_f" go="OpS|LyS!LyS|Ho|SpooningIdle" text="Lie down with your partner." t0="1">
-			<enhance a="1"/><enhance a="0"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+			<option halo="hgentle" icon="osx_layside_f" go="OpS|LyS!LyS|Ho|SpooningIdle" text="^lieDownWithNSpooning" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obigx" go="0MF|Sy6!Sy9|Ho|St9Adore" text="Stand up together." t0="1">
+			<option halo="hgentle" icon="obigx" go="0MF|Sy6!Sy9|Ho|St9Adore" text="^return" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
         <page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hheartdt" icon="oholdbody_8_mf" go="OpS|LyS!Sit|Em|LapPillow" text="Lay on your partner's lap." t0="1">
+			<option halo="hheartdt" icon="oholdbody_8_mf" go="OpS|LyS!Sit|Em|LapPillow" text="^layYourHeadOnNsLap" t0="1" t0="1">
 			<enhance a="0"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
 			</option>
 		</page>
-		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="omgsholds2_$G0" go="OpS|Sit!Sit|Po|AceSittingMasturbationMale" text="Masturbate in front of your partner.">
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="oholdbody_8_mf" go="OpS|Sit!Sit|Cr|SittingGropingBreast" text="^touchNsBreasts" t0="0" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-		</page>
-		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!Kne|Ho|LyingDownSubKneeling" text="Lie down. (Legacy animations)" t0="1">
+            <option halo="hgentle" icon="omgsholds2_$G0" go="OpS|Sit!Sit|Po|AceSittingMasturbationMale" text="^masturbateInFrontOfN" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
-		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="okalbdn_f" go="OpS|Sit!Sit|Ho|GoToSittingFemaleApproach" text="Approach your partner." t0="1">
+        <page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="osx_layside_f" go="OpS|LyS!LyS|Ho|SpooningIdle" text="^lieDownWithNSpooning" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="osx_layside_f" go="OpS|LyS!LyS|Ho|SpooningIdle" text="Lie down with your partner." t0="1">
-			<enhance a="1"/><enhance a=""/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
-			</option>
-			<option halo="hgentle" icon="obigx" go="0MF|Sy6!Sy9|Ho|St9Adore" text="Stand up together.">
+			<option halo="hgentle" icon="obigx" go="0MF|Sy6!Sy9|Ho|St9Adore" text="^return" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="o2fpufr_mf" go="OpS|Sit!Sit|Pf2|AceSittingMasturbationFemale" text="Masturbate in front of your partner.">
+			<option halo="hgentle" icon="o2fpufr_mf" go="OpS|Sit!Sit|Pf2|AceSittingMasturbationFemale" text="^masturbateInFrontOfN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sit!Sit|FJ|AceSittingFootjob" text="Stroke your partner with your feet (sitting).">
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sit!Sit|FJ|AceSittingFootjob" text="^masturbateNWithYourFeetSitting" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sit!Sit|FJ|AceSittingFootjobFromBehind" text="Stroke your partner with your feet (sitting, from behind).">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-		</page>
-		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="osx_layside_f" go="OpS|Kne!LyB|Ho|KneelingSubLyingDown" text="Lie down. (Legacy animations)" t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-			<option halo="hgentle" icon="obustT180_f" go="OpS|Kne!Kne|Ho|KneelingHoldingSubFromBehind" text="Turn around. (Legacy animations)" t0="1">
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sit!Sit|FJ|AceSittingFootjobFromBehind" text="^masturbateNWithYourFeetSittingFromBehind" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>

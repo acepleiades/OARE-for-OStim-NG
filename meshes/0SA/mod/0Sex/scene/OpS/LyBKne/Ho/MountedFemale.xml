@@ -3,24 +3,22 @@
 <region om="A" maj="K" min="Ksi" stage="" step="" story=""/>
 <anim id="0SxOpS_Ho-MountedFemale" t="L" l="2"/>
 <nav>
+    <tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="obigx" go="OpS|Sit!Kne|Ho|SittingFemaleApproach" text="Dismount your partner.">
+			<option halo="hgentle" icon="obigx" go="OpS|Sit!Kne|Ho|SittingFemaleApproach" text="^return" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!Kne|HJ|AceLyingHandjob" text="Stroke your partner.">
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!Kne|HJ|AceLyingHandjob" text="^masturbateN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|AceCowgirl" text="Take it inside you (cowgirl).">
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|AceCowgirl" text="^sexCowgirl" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|AceReverseCowgirlMounted" text="Take it inside you (reverse cowgirl).">
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|AceReverseCowgirlMounted" text="^sexReverseCowgirl" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-			<option halo="hgentle" icon="obbpenrearts2_f" go="OpS|LyB!Kne|An|AceAnalCowgirl" text="(Anal) Put it inside your partner's ass.">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>

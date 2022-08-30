@@ -4,42 +4,45 @@
 <anim id="0SxOpS_Ho-SittingMaleApproach" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="oplumpf180_f" go="OpS|AFo!Sit|Ho|GoToSpreadLegsFemale" text="Spread your partner's legs." t0="1">
-			<enhance a="0"/><enhance a="0"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="osx_layside_f" go="OpS|LyS!LyS|Ho|SpooningIdle" text="^lieDownWithNSpooning" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="osx_layside_f" go="OpS|Kne!LyS|Ho|FemaleLyingToTheSide" text="Turn your partner to the side." t0="1">
-			<enhance a="0"/><enhance a="0"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+            <option halo="hgentle" icon="oplumpf180_f" go="OpS|AFo!Sit|Ho|GoToSpreadLegsFemale" text="^spreadNsLegs" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obododn_f" go="OpS|Kne!AFo|Ho|BentOverFemale" text="Turn your partner around and bent over." t0="1">
-			<enhance a="0"/><enhance a="0"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+			<option halo="hgentle" icon="osx_layside_f" go="OpS|Kne!LyS|Ho|FemaleLyingToTheSide" text="^turnNToTheSide" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obigx" go="0MF|KNy6!KNy6|Ho|KnLap" text="Sit back." t0="1">
-			<enhance a="0"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="0"/><ihue n="gx" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="obododn_f" go="OpS|Kne!AFo|Ho|BentOverFemale" text="^turnNAroundAndBentOver" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="obigx" go="0MF|KNy6!KNy6|Ho|KnLap" text="^return" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
-		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="osx_kn_m" go="OpS|Kne!LyB|BoJ|AceOnTopTitfuck" text="Fuck your partner's tits.">
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="osx_kn_m" go="OpS|Kne!LyB|BoJ|AceOnTopTitfuck" text="^fuckNsBreasts" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="omu_lipspucker" go="OpS|LyF!Sit|VJ|AceLyingCunnilingusLegsLocked" text="Lick your partner (lying, legs locked).">
+			<option halo="hgentle" icon="omu_lipspucker" go="OpS|LyF!Sit|VJ|AceLyingCunnilingusLegsLocked" text="^lickNLyingLegsLocked" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="omu_lipspucker" go="OpS|LyF!Sit|VJ|AceSittingCunnilingus" text="Lick your partner (sitting).">
+			<option halo="hgentle" icon="omu_lipspucker" go="OpS|LyF!Sit|VJ|AceSittingCunnilingus" text="^lickNSitting" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
-		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="oplumpf180_f" go="OpS|AFo!Sit|Ho|GoToSpreadLegsFemale" text="Spread your legs." t0="1">
-			<enhance a="1"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="oplumpf180_f" go="OpS|AFo!Sit|Ho|GoToSpreadLegsFemale" text="^spreadYourLegs" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="osx_layside_f" go="OpS|Kne!LyS|Ho|FemaleLyingToTheSide" text="Turn to the side." t0="1">
-			<enhance a="1"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+			<option halo="hgentle" icon="osx_layside_f" go="OpS|Kne!LyS|Ho|FemaleLyingToTheSide" text="^turnToTheSide" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obododn_f" go="OpS|Kne!AFo|Ho|BentOverFemale" text="Turn around and bend over." t0="1">
-			<enhance a="1"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+			<option halo="hgentle" icon="obododn_f" go="OpS|Kne!AFo|Ho|BentOverFemale" text="^turnAroundAndBendOver" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>

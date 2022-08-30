@@ -2,7 +2,7 @@
 <info name="Lying Blowjob" animator="Ace"/>
 <region om="A" maj="K" min="K" stage="" step="" story=""/>
 <anim id="0SxOpS_BJ-AceLyingBlowjob_S2" t="L" l="2"/>
-<speed a="1" min="0" max="4" name="thrusts">
+<speed a="1" min="0" max="3" name="thrusts">
 	<sp mtx="^sucksPerSec" qnt="0.5">
 		<anim id="0SxOpS_BJ-AceLyingBlowjob_S1" t="L" l="2" i0="0" i1="0"/>
 		</sp>
@@ -14,9 +14,6 @@
 		</sp>
 	<sp mtx="^sucksPerSec" qnt="2">
 		<anim id="0SxOpS_BJ-AceLyingBlowjob_S4" t="L" l="2" i0="3" i1="3"/>
-		</sp>
-	<sp mtx="^sucksPerSec" qnt="2.5">
-		<anim id="0SxOpS_BJ-AceLyingBlowjob_S5" t="L" l="2" i0="4" i1="4"/>
 		</sp>
 </speed>
 <nav>

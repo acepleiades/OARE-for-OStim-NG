@@ -5,17 +5,17 @@
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta!Sta|Ho|Ace3PStandingHolding" text="Hold your partners." t0="1">
+			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta!Sta|Ho|Ace3PStandingHolding" text="^holdNandN">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="oknlbdn_f" go="OpS|LyB!Kne!Kne|Ho|3PLyingIdle" text="Lie down." t0="1">
+			<option halo="hgentle" icon="oknlbdn_f" go="OpS|LyB!Kne!Kne|Ho|3PLyingIdle" text="^lieDown">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
 	<tab icon="splus" text="^dismiss" empty="2"><hue n="hu" cmd="vg" a="1"/><bnhue cmd="vn" a="1"/>
 		<page icon="mgensignm"><hue n="hu" cmd="vg" a="1"/>
-			<option halo="h_plus_rbo" icon="obigx" go="$RemoveActor" text="^HaveNLeave" t0="2">
+			<option halo="h_plus_rbo" icon="obigx" go="$RemoveActor" text="^haveNLeave" t0="2">
 			<cmd dest="0MF|Sy6!Sy9|Ho|St9Adore" actor="2"/>
 			</option>
 		</page>

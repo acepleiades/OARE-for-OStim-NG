@@ -4,49 +4,46 @@
 <anim id="0SxOpS_Ho-BentOverFemale" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="oplumpf180_f" go="OpS|Kne!LyB|Ho|SpreadLegsFemale" text="Turn your partner around with spread legs." t0="1">
-			<enhance a="0"/><enhance a="0"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="oplumpf180_f" go="OpS|Kne!LyB|Ho|SpreadLegsFemale" text="^turnNAroundWithSpreadLegs" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obododn_f" go="OpS|Kne!LyS|Ho|FemaleLyingToTheSide" text="Turn your partner to the side." t0="1">
-			<enhance a="0"/><enhance a="0"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+			<option halo="hgentle" icon="obododn_f" go="OpS|Kne!LyS|Ho|FemaleLyingToTheSide" text="^turnNToTheSide" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obigx" go="OpS|AFo!Sit|Ho|SittingMaleApproach" text="Return." t0="1">
-			<enhance a="0"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="obigx" go="OpS|AFo!Sit|Ho|SittingMaleApproach" text="^return" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
-		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!AFo|Sx|AceDoggystyle" text="Put it inside your partner (doggystyle).">
-			<enhance a="0"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!AFo|Sx|AceDoggystyle" text="^sexDoggystyle" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!Kne|Sx|AceRearKneelingSex" text="Put it inside your partner (both kneeling, pulling arms).">
-			<enhance a="0"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!Kne|Sx|AceNeckHoldingSex" text="Put it inside your partner (neck-holding).">
-			<enhance a="0"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!Kne|Sx|AceRearKneelingSex" text="^sexBothKneelingPullingArms" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
-		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="oplumpf180_f" go="OpS|Kne!LyB|Ho|SpreadLegsFemale" text="Turn around and spread your legs." t0="1">
-			<enhance a="1"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="1"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="oplumpf180_f" go="OpS|Kne!LyB|Ho|SpreadLegsFemale" text="^turnAroundAndSpreadYourLegs" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obododn_f" go="OpS|Kne!LyS|Ho|FemaleLyingToTheSide" text="Turn to the side." t0="1">
-			<enhance a="1"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="1"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+			<option halo="hgentle" icon="obododn_f" go="OpS|Kne!LyS|Ho|FemaleLyingToTheSide" text="^turnToTheSide" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obigx" go="OpS|AFo!Sit|Ho|SittingMaleApproach" text="Return." t0="1">
+			<option halo="hgentle" icon="obigx" go="OpS|AFo!Sit|Ho|SittingMaleApproach" text="^return" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Kne!AFo|FJ|AceBentOverFootjob" text="Stroke your partner with your feet.">
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Kne!AFo|FJ|AceBentOverFootjob" text="^masturbateNWithYourFeetAllFours" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!AFo|Sx|AceBackItUp" text="Take your partner inside you (back it up).">
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!AFo|Sx|AceBackItUp" text="^sexBackItUp" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|AceReverseCowgirl" text="Take it inside you (reverse cowgirl).">
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|AceReverseCowgirl" text="^sexReverseCowgirl" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
