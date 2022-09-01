@@ -1,23 +1,22 @@
-<scene id="OpS|Kne!LyB|Po|AceMissionaryLegsHeld_ClimaxPullOutJO" actors="2" style="OScene">
+<scene id="OpS|Kne!LyB|Po|ColiseumMissionaryLegsHeld_PullOutJO" actors="2" style="OScene">
 <info name="Missionary Climax (Pull Out JO)" animator="Ace"/>
 <region om="A" maj="C" min="C" stage="" step="" story=""/>
-<anim id="0SxOpS_Po-AceMissionaryLegsHeld_ClimaxPullOutJO" t="L" l="2"/>
+<anim id="0SxOpS_Po-AceMissionaryLegsHeld_PullOutJO" t="L" l="2"/>
 <speed a="0" min="0" max="1" name="thrusts">	
 	<sp mtx="^thrustsPerSec" qnt="3">
-		<anim id="0SxOpS_Po-AceMissionaryLegsHeld_ClimaxPullOutJO" t="L" l="2" i0="0" i1="0"/></sp>
+		<anim id="0SxOpS_Po-AceMissionaryLegsHeld_PullOutJO" t="L" l="2" i0="0" i1="0"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="3">
-		<anim id="0SxOpS_Po-AceMissionaryLegsHeld_ClimaxPullOutJO" t="L" l="2" i0="1" i1="1"/></sp>
+		<anim id="0SxOpS_Po-AceMissionaryLegsHeld_PullOutJO" t="L" l="2" i0="1" i1="1"/></sp>
 </speed>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
-		<page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="obigx" go="OpS|Kne!LyB|Po|AceMissionaryLegsHeld_ClimaxPullOutGoBack" text="^finish" t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+		<xmenu id="speed" plus="cplus" minus="cminus" plustext="" minustext="" t0="0"/>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="obigx" go="OpS|Kne!LyB|Po|ColiseumMissionaryLegsHeld_PullOutGoBack" text="Finish..." t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
 			</option>
 		</page>
 	</tab>
-    <tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
 </nav>
 <eyes a="0" facerel="0" actionrel="2" bodyrel="1">
 <primary v="0" h="0" vpan="10" hpan="10"/>
