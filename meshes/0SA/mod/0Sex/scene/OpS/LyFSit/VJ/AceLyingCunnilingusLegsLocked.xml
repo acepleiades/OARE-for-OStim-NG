@@ -3,13 +3,13 @@
 <region om="A" maj="K" min="K" stage="" step="" story=""/>
 <anim id="0SxOpS_VJ-AceLyingCunnilingusLegsLocked_S1" t="L" l="2"/>
 <speed a="0" min="0" max="3" name="thrusts">
-	<sp mtx="^licksPerSec" qnt=".5">
+	<sp mtx="^sucksPerSec" qnt=".5">
 		<anim id="0SxOpS_VJ-AceLyingCunnilingusLegsLocked_S1" t="L" l="2" i0="0" i1="0"/></sp>
-	<sp mtx="^licksPerSec" qnt="1">
+	<sp mtx="^sucksPerSec" qnt="1">
 		<anim id="0SxOpS_VJ-AceLyingCunnilingusLegsLocked_S2" t="L" l="2" i0="1" i1="1"/></sp>
-	<sp mtx="^licksPerSec" qnt="1.5">
+	<sp mtx="^sucksPerSec" qnt="1.5">
 		<anim id="0SxOpS_VJ-AceLyingCunnilingusLegsLocked_S3" t="L" l="2" i0="2" i1="2"/></sp>
-	<sp mtx="^licksPerSec" qnt="2">
+	<sp mtx="^sucksPerSec" qnt="2">
 		<anim id="0SxOpS_VJ-AceLyingCunnilingusLegsLocked_S4" t="L" l="2" i0="3" i1="3"/></sp>
 </speed>
 <nav>
