@@ -125,6 +125,14 @@ b -Tn 0SxOpS_HJ-AceStandingMutualMasturbation_S4_0 ..\..\..\..\0SA\mod\0Sex\anim
 b -Tn 0SxOpS_HJ-AceStandingMutualMasturbation_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceStandingMutualMasturbation\0SxOpS_HJ-AceStandingMutualMasturbation_S4_1.hkx
 b -a,Tn 0SxOpS_HJ-GoBackAceStandingMutualMasturbation_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceStandingMutualMasturbation\0SxOpS_HJ-GoBackAceStandingMutualMasturbation_0.hkx
 b -a,Tn 0SxOpS_HJ-GoBackAceStandingMutualMasturbation_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceStandingMutualMasturbation\0SxOpS_HJ-GoBackAceStandingMutualMasturbation_1.hkx
+b -Tn 0SxOpS_VJ-KneelingCL_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\KneelingCL\0SxOpS_VJ-KneelingCL_S1_0.hkx
+b -Tn 0SxOpS_VJ-KneelingCL_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\KneelingCL\0SxOpS_VJ-KneelingCL_S1_1.hkx
+b -Tn 0SxOpS_VJ-KneelingCL_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\KneelingCL\0SxOpS_VJ-KneelingCL_S2_0.hkx
+b -Tn 0SxOpS_VJ-KneelingCL_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\KneelingCL\0SxOpS_VJ-KneelingCL_S2_1.hkx
+b -Tn 0SxOpS_VJ-KneelingCL_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\KneelingCL\0SxOpS_VJ-KneelingCL_S3_0.hkx
+b -Tn 0SxOpS_VJ-KneelingCL_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\KneelingCL\0SxOpS_VJ-KneelingCL_S3_1.hkx
+b -Tn 0SxOpS_VJ-KneelingCL_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\KneelingCL\0SxOpS_VJ-KneelingCL_S4_0.hkx
+b -Tn 0SxOpS_VJ-KneelingCL_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\KneelingCL\0SxOpS_VJ-KneelingCL_S4_1.hkx
 b -Tn 0SxOpS_Sx-AceStandingHoldingSex_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingHoldingSex\0SxOpS_Sx-AceStandingHoldingSex_S1_0.hkx
 b -Tn 0SxOpS_Sx-AceStandingHoldingSex_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingHoldingSex\0SxOpS_Sx-AceStandingHoldingSex_S1_1.hkx
 b -Tn 0SxOpS_Sx-AceStandingHoldingSex_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingHoldingSex\0SxOpS_Sx-AceStandingHoldingSex_S2_0.hkx
