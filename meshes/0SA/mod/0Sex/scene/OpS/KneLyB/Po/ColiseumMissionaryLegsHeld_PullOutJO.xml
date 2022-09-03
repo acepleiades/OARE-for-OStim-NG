@@ -1,5 +1,5 @@
 <scene id="OpS|Kne!LyB|Po|ColiseumMissionaryLegsHeld_PullOutJO" actors="2" style="OScene">
-<info name="Missionary Climax (Pull Out JO)" animator="Ace"/>
+<info name="Missionary Pull Out JO" animator="Ace"/>
 <region om="A" maj="C" min="C" stage="" step="" story=""/>
 <anim id="0SxOpS_Po-AceMissionaryLegsHeld_PullOutJO" t="L" l="2"/>
 <speed a="0" min="0" max="1" name="thrusts">	
