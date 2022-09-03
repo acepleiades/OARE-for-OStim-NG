@@ -676,10 +676,10 @@ b -a,Tn 0SxOpS_Sx-AceMissionaryLegsHeld_MaleClimaxInternal_0 ..\..\..\..\0SA\mod
 b -a,Tn 0SxOpS_Sx-AceMissionaryLegsHeld_MaleClimaxInternal_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsHeld\0SxOpS_Sx-AceMissionaryLegsHeld_MaleClimaxInternal_1.hkx
 b -a,Tn 0SxOpS_Sx-AceMissionaryLegsHeld_PullOut_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsHeld\0SxOpS_Sx-AceMissionaryLegsHeld_PullOut_0.hkx
 b -a,Tn 0SxOpS_Sx-AceMissionaryLegsHeld_PullOut_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsHeld\0SxOpS_Sx-AceMissionaryLegsHeld_PullOut_1.hkx
-b -Tn 0SxOpS_Po-AceMissionaryLegsHeld_PullOutJO_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\AceMissionaryLegsHeld_PullOutJO\0SxOpS_Po-AceMissionaryLegsHeld_PullOutJO_0.hkx
-b -Tn 0SxOpS_Po-AceMissionaryLegsHeld_PullOutJO_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\AceMissionaryLegsHeld_PullOutJO\0SxOpS_Po-AceMissionaryLegsHeld_PullOutJO_1.hkx
-b -a,Tn 0SxOpS_Po-AceMissionaryLegsHeld_PullOutGoBack_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\AceMissionaryLegsHeld_PullOutJO\0SxOpS_Po-AceMissionaryLegsHeld_PullOutGoBack_0.hkx
-b -a,Tn 0SxOpS_Po-AceMissionaryLegsHeld_PullOutGoBack_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\AceMissionaryLegsHeld_PullOutJO\0SxOpS_Po-AceMissionaryLegsHeld_PullOutGoBack_1.hkx
+b -Tn 0SxOpS_Po-AceMissionaryLegsHeld_MaleClimaxPullOutJO_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\AceMissionaryLegsHeld_MaleClimaxPullOutJO\0SxOpS_Po-AceMissionaryLegsHeld_MaleClimaxPullOutJO_0.hkx
+b -Tn 0SxOpS_Po-AceMissionaryLegsHeld_MaleClimaxPullOutJO_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\AceMissionaryLegsHeld_MaleClimaxPullOutJO\0SxOpS_Po-AceMissionaryLegsHeld_MaleClimaxPullOutJO_1.hkx
+b -a,Tn 0SxOpS_Po-AceMissionaryLegsHeld_PullOutGoBack_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\AceMissionaryLegsHeld_MaleClimaxPullOutJO\0SxOpS_Po-AceMissionaryLegsHeld_PullOutGoBack_0.hkx
+b -a,Tn 0SxOpS_Po-AceMissionaryLegsHeld_PullOutGoBack_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\AceMissionaryLegsHeld_MaleClimaxPullOutJO\0SxOpS_Po-AceMissionaryLegsHeld_PullOutGoBack_1.hkx
 b -Tn 0SxOpS_Ho-AceMissionaryLegsHeld_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceMissionaryLegsHeld_AfterClimax\0SxOpS_Ho-AceMissionaryLegsHeld_AfterClimax_0.hkx
 b -Tn 0SxOpS_Ho-AceMissionaryLegsHeld_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceMissionaryLegsHeld_AfterClimax\0SxOpS_Ho-AceMissionaryLegsHeld_AfterClimax_1.hkx
 b -Tn 0SxOpS_Sx-AceMissionaryLegsUp_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsUp\0SxOpS_Sx-AceMissionaryLegsUp_S1_0.hkx
