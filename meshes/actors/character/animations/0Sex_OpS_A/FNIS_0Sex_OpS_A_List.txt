@@ -363,6 +363,14 @@ b -Tn 0SxOpS_BJ-AceKneelingFacefuck_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKn
 b -Tn 0SxOpS_BJ-AceKneelingFacefuck_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceKneelingFacefuck\0SxOpS_BJ-AceKneelingFacefuck_S4_1.hkx
 b -a,Tn 0SxOpS_BJ-GoBackAceKneelingFacefuck_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceKneelingFacefuck\0SxOpS_BJ-GoBackAceKneelingFacefuck_0.hkx
 b -a,Tn 0SxOpS_BJ-GoBackAceKneelingFacefuck_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\AceKneelingFacefuck\0SxOpS_BJ-GoBackAceKneelingFacefuck_1.hkx
+b -Tn 0SxOpS_Ap-MaleStandingFemaleKneelingDevourVampireFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\0SxOpS_Ap-MaleStandingFemaleKneelingDevourVampireFemale_0.hkx
+b -Tn 0SxOpS_Ap-MaleStandingFemaleKneelingDevourVampireFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\0SxOpS_Ap-MaleStandingFemaleKneelingDevourVampireFemale_1.hkx
+b -Tn 0SxOpS_Ap-MaleStandingFemaleKneelingDevourVampireMale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\0SxOpS_Ap-MaleStandingFemaleKneelingDevourVampireMale_0.hkx
+b -Tn 0SxOpS_Ap-MaleStandingFemaleKneelingDevourVampireMale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\0SxOpS_Ap-MaleStandingFemaleKneelingDevourVampireMale_1.hkx
+b -Tn 0SxOpS_Ap-MaleStandingFemaleKneelingDevourVampireMaleAndFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\0SxOpS_Ap-MaleStandingFemaleKneelingDevourVampireMaleAndFemale_0.hkx
+b -Tn 0SxOpS_Ap-MaleStandingFemaleKneelingDevourVampireMaleAndFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\0SxOpS_Ap-MaleStandingFemaleKneelingDevourVampireMaleAndFemale_1.hkx
+b -Tn 0SxOpS_Em-DevourVampireBiteFemaleKneelingHJ_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Em\DevourVampireBiteFemaleKneelingHJ\0SxOpS_Em-DevourVampireBiteFemaleKneelingHJ_0.hkx
+b -Tn 0SxOpS_Em-DevourVampireBiteFemaleKneelingHJ_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Em\DevourVampireBiteFemaleKneelingHJ\0SxOpS_Em-DevourVampireBiteFemaleKneelingHJ_1.hkx
 
 b -Tn 0SxOpS_Ho-Sitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-Sitting_0.hkx
 b -Tn 0SxOpS_Ho-Sitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\0SxOpS_Ho-Sitting_1.hkx
