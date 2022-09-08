@@ -3,17 +3,16 @@
 <region om="A" maj="K" min="Ksi" stage="" step="" story=""/>
 <anim id="0SxOpS_Em-DevourVampireBiteFemaleStanding" t="L" l="2"/>
 <nav>
-	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hheartdt" icon="obigx" go="OpS|Sta!Sta|Em|GoBackDevourVampireBiteFemaleStanding" text="Return..." t0="1">
-			<enhance a="0"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+	<tab icon="sdom" empty="0"><hue n="hu" cmd="rg" a="0"/></tab>
+	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hheartdt" icon="obigx" go="OpS|Sta!Sta|Em|GoBackDevourVampireBiteFemaleStanding" text="^return" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
-	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
 </nav>
 <eyes a="0" facerel="1" actionrel="0" bodyrel="0">
-<primary v="-25" h="0" vpan="5" hpan="10" />
 <primary v="-25" h="0" vpan="20" hpan="10" />
 <face v="-75" h="75" vpan="20" hpan="10" />
 <body v="-75" h="75" vpan="20" hpan="10" />
