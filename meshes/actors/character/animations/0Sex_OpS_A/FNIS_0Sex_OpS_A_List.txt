@@ -704,6 +704,14 @@ b -a,Tn 0SxOpS_Sx-AceMissionaryLegsUp_MutualClimax_0 ..\..\..\..\0SA\mod\0Sex\an
 b -a,Tn 0SxOpS_Sx-AceMissionaryLegsUp_MutualClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsUp\0SxOpS_Sx-AceMissionaryLegsUp_MutualClimax_1.hkx
 b -Tn 0SxOpS_Ho-AceMissionaryLegsUp_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceMissionaryLegsUp_AfterClimax\0SxOpS_Ho-AceMissionaryLegsUp_AfterClimax_0.hkx
 b -Tn 0SxOpS_Ho-AceMissionaryLegsUp_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceMissionaryLegsUp_AfterClimax\0SxOpS_Ho-AceMissionaryLegsUp_AfterClimax_1.hkx
+b -Tn 0SxOpS_Sx-HoldKneesFrontalSex_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\HoldKneesFrontalSex\0SxOpS_Sx-HoldKneesFrontalSex_S1_0.hkx
+b -Tn 0SxOpS_Sx-HoldKneesFrontalSex_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\HoldKneesFrontalSex\0SxOpS_Sx-HoldKneesFrontalSex_S1_1.hkx
+b -Tn 0SxOpS_Sx-HoldKneesFrontalSex_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\HoldKneesFrontalSex\0SxOpS_Sx-HoldKneesFrontalSex_S2_0.hkx
+b -Tn 0SxOpS_Sx-HoldKneesFrontalSex_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\HoldKneesFrontalSex\0SxOpS_Sx-HoldKneesFrontalSex_S2_1.hkx
+b -Tn 0SxOpS_Sx-HoldKneesFrontalSex_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\HoldKneesFrontalSex\0SxOpS_Sx-HoldKneesFrontalSex_S3_0.hkx
+b -Tn 0SxOpS_Sx-HoldKneesFrontalSex_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\HoldKneesFrontalSex\0SxOpS_Sx-HoldKneesFrontalSex_S3_1.hkx
+b -Tn 0SxOpS_Sx-HoldKneesFrontalSex_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\HoldKneesFrontalSex\0SxOpS_Sx-HoldKneesFrontalSex_S4_0.hkx
+b -Tn 0SxOpS_Sx-HoldKneesFrontalSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\HoldKneesFrontalSex\0SxOpS_Sx-HoldKneesFrontalSex_S4_1.hkx
 b -Tn 0SxOpS_Sx-MissionaryKissingFeet_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionaryKissingFeet\0SxOpS_Sx-MissionaryKissingFeet_S1_0.hkx
 b -Tn 0SxOpS_Sx-MissionaryKissingFeet_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionaryKissingFeet\0SxOpS_Sx-MissionaryKissingFeet_S1_1.hkx
 b -Tn 0SxOpS_Sx-MissionaryKissingFeet_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionaryKissingFeet\0SxOpS_Sx-MissionaryKissingFeet_S2_0.hkx
