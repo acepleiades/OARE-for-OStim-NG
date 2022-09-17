@@ -1,19 +1,19 @@
-<scene id="OpS|LyB!Kne|Sx|CowgirlHandsOnHips" actors="2" style="OScene">
+<scene id="OpS|LyB!Kne|Sx|CowgirlHandOnBreast" actors="2" style="OScene">
 <info name="Cowgirl, Hands on Hips" animator="Ace"/>
 <region om="A" maj="C" min="C" stage="" step="" story=""/>
-<anim id="0SxOpS_Sx-CowgirlHandsOnHips_S1" t="L" l="2"/>
+<anim id="0SxOpS_Sx-CowgirlHandOnBreast_S1" t="L" l="2"/>
 <speed a="1" min="0" max="3" name="thrusts">	
 	<sp mtx="^bouncesPerSec" qnt=".5">
-		<anim id="0SxOpS_Sx-CowgirlHandsOnHips_S1" t="L" l="2" i0="0" i1="0"/>
+		<anim id="0SxOpS_Sx-CowgirlHandOnBreast_S1" t="L" l="2" i0="0" i1="0"/>
 		</sp>
 	<sp mtx="^bouncesPerSec" qnt="1">
-		<anim id="0SxOpS_Sx-CowgirlHandsOnHips_S2" t="L" l="2" i0="1" i1="1"/>
+		<anim id="0SxOpS_Sx-CowgirlHandOnBreast_S2" t="L" l="2" i0="1" i1="1"/>
 		</sp>
 	<sp mtx="^bouncesPerSec" qnt="1.5">
-		<anim id="0SxOpS_Sx-CowgirlHandsOnHips_S3" t="L" l="2" i0="2" i1="2"/>
+		<anim id="0SxOpS_Sx-CowgirlHandOnBreast_S3" t="L" l="2" i0="2" i1="2"/>
 		</sp>
 	<sp mtx="^bouncesPerSec" qnt="2">
-		<anim id="0SxOpS_Sx-CowgirlHandsOnHips_S4" t="L" l="2" i0="3" i1="3"/>
+		<anim id="0SxOpS_Sx-CowgirlHandOnBreast_S4" t="L" l="2" i0="3" i1="3"/>
 		</sp>
 </speed>
 <nav>
@@ -21,7 +21,7 @@
 	<tab actor="0" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="oholdbody_8_mf" go="OpS|LyB!Kne|Sx|CowgirlHandOnBreast" text="^grabNsBreast" t0="1">
+			<option halo="hgentle" icon="oholdbody_8_mf" go="OpS|LyB!Kne|Sx|CowgirlHandsOnHips" text="^letGoOfNsBreast" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
             <option halo="hgentle" icon="obigx" go="OpS|LyB!Kne|Sx|AceCowgirl" text="^return" t0="1">
