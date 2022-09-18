@@ -594,6 +594,14 @@ b -Tn 0SxOpS_Sx-AceCowgirlPressingDown_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\Ly
 b -Tn 0SxOpS_Sx-AceCowgirlPressingDown_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirlPressingDown\0SxOpS_Sx-AceCowgirlPressingDown_S3_1.hkx
 b -Tn 0SxOpS_Sx-AceCowgirlPressingDown_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirlPressingDown\0SxOpS_Sx-AceCowgirlPressingDown_S4_0.hkx
 b -Tn 0SxOpS_Sx-AceCowgirlPressingDown_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirlPressingDown\0SxOpS_Sx-AceCowgirlPressingDown_S4_1.hkx
+b -Tn 0SxOpS_Sx-CowgirlLeanBack_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlLeanBack\0SxOpS_Sx-CowgirlLeanBack_S1_0.hkx
+b -Tn 0SxOpS_Sx-CowgirlLeanBack_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlLeanBack\0SxOpS_Sx-CowgirlLeanBack_S1_1.hkx
+b -Tn 0SxOpS_Sx-CowgirlLeanBack_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlLeanBack\0SxOpS_Sx-CowgirlLeanBack_S2_0.hkx
+b -Tn 0SxOpS_Sx-CowgirlLeanBack_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlLeanBack\0SxOpS_Sx-CowgirlLeanBack_S2_1.hkx
+b -Tn 0SxOpS_Sx-CowgirlLeanBack_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlLeanBack\0SxOpS_Sx-CowgirlLeanBack_S3_0.hkx
+b -Tn 0SxOpS_Sx-CowgirlLeanBack_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlLeanBack\0SxOpS_Sx-CowgirlLeanBack_S3_1.hkx
+b -Tn 0SxOpS_Sx-CowgirlLeanBack_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlLeanBack\0SxOpS_Sx-CowgirlLeanBack_S4_0.hkx
+b -Tn 0SxOpS_Sx-CowgirlLeanBack_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlLeanBack\0SxOpS_Sx-CowgirlLeanBack_S4_1.hkx
 b -a,Tn 0SxOpS_Sx-GoToAceCowgirlLegsCrossed_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\AceCowgirlLegsCrossed\0SxOpS_Sx-GoToAceCowgirlLegsCrossed_0.hkx
 b -a,Tn 0SxOpS_Sx-GoToAceCowgirlLegsCrossed_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\AceCowgirlLegsCrossed\0SxOpS_Sx-GoToAceCowgirlLegsCrossed_1.hkx
 b -a,Tn 0SxOpS_Sx-GoBackAceCowgirlLegsCrossed_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\AceCowgirlLegsCrossed\0SxOpS_Sx-GoBackAceCowgirlLegsCrossed_0.hkx
