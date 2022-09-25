@@ -610,6 +610,14 @@ b -Tn 0SxOpS_Sx-SquattingCowgirl_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\S
 b -Tn 0SxOpS_Sx-SquattingCowgirl_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\SquattingCowgirl\0SxOpS_Sx-SquattingCowgirl_S3_1.hkx
 b -Tn 0SxOpS_Sx-SquattingCowgirl_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\SquattingCowgirl\0SxOpS_Sx-SquattingCowgirl_S4_0.hkx
 b -Tn 0SxOpS_Sx-SquattingCowgirl_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\SquattingCowgirl\0SxOpS_Sx-SquattingCowgirl_S4_1.hkx
+b -Tn 0SxOpS_Sx-CowgirlHandsOnBreasts_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlHandsOnBreasts\0SxOpS_Sx-CowgirlHandsOnBreasts_S1_0.hkx
+b -Tn 0SxOpS_Sx-CowgirlHandsOnBreasts_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlHandsOnBreasts\0SxOpS_Sx-CowgirlHandsOnBreasts_S1_1.hkx
+b -Tn 0SxOpS_Sx-CowgirlHandsOnBreasts_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlHandsOnBreasts\0SxOpS_Sx-CowgirlHandsOnBreasts_S2_0.hkx
+b -Tn 0SxOpS_Sx-CowgirlHandsOnBreasts_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlHandsOnBreasts\0SxOpS_Sx-CowgirlHandsOnBreasts_S2_1.hkx
+b -Tn 0SxOpS_Sx-CowgirlHandsOnBreasts_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlHandsOnBreasts\0SxOpS_Sx-CowgirlHandsOnBreasts_S3_0.hkx
+b -Tn 0SxOpS_Sx-CowgirlHandsOnBreasts_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlHandsOnBreasts\0SxOpS_Sx-CowgirlHandsOnBreasts_S3_1.hkx
+b -Tn 0SxOpS_Sx-CowgirlHandsOnBreasts_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlHandsOnBreasts\0SxOpS_Sx-CowgirlHandsOnBreasts_S4_0.hkx
+b -Tn 0SxOpS_Sx-CowgirlHandsOnBreasts_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlHandsOnBreasts\0SxOpS_Sx-CowgirlHandsOnBreasts_S4_1.hkx
 b -Tn 0SxOpS_Sx-CowgirlHandsOnHead_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlHandsOnHead\0SxOpS_Sx-CowgirlHandsOnHead_S1_0.hkx
 b -Tn 0SxOpS_Sx-CowgirlHandsOnHead_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlHandsOnHead\0SxOpS_Sx-CowgirlHandsOnHead_S1_1.hkx
 b -Tn 0SxOpS_Sx-CowgirlHandsOnHead_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlHandsOnHead\0SxOpS_Sx-CowgirlHandsOnHead_S2_0.hkx
