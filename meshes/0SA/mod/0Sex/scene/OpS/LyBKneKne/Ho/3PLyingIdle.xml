@@ -22,6 +22,9 @@
 			<option halo="hgentle" icon="objbf_f" go="OpS|LyB!Kne!Kne|Ho|GoTo3PLyingFellatio" text="^haveThemFellateYou">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+            <option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!Kne!Kne|BoJ|3PBoobjob" text="^haveThemPerformABoobjob">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 		</page>
 	</tab>
 	<tab icon="splus" text="^dismiss" empty="2"><hue n="hu" cmd="vg" a="1"/><bnhue cmd="vn" a="1"/>

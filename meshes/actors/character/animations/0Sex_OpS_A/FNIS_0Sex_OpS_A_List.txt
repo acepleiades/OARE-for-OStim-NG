@@ -950,6 +950,18 @@ b -Tn 0SxOpS_BJ-3PLyingFellatio_S4_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne
 b -a,Tn 0SxOpS_Ho-GoBack3PLyingFellatio_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Ho\3PLyingFellatio\0SxOpS_Ho-GoBack3PLyingFellatio_0.hkx
 b -a,Tn 0SxOpS_Ho-GoBack3PLyingFellatio_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Ho\3PLyingFellatio\0SxOpS_Ho-GoBack3PLyingFellatio_1.hkx
 b -a,Tn 0SxOpS_Ho-GoBack3PLyingFellatio_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Ho\3PLyingFellatio\0SxOpS_Ho-GoBack3PLyingFellatio_2.hkx
+b -Tn 0SxOpS_BoJ-3PBoobjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BoJ\3PBoobjob\0SxOpS_BoJ-3PBoobjob_S1_0.hkx
+b -Tn 0SxOpS_BoJ-3PBoobjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BoJ\3PBoobjob\0SxOpS_BoJ-3PBoobjob_S1_1.hkx
+b -Tn 0SxOpS_BoJ-3PBoobjob_S1_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BoJ\3PBoobjob\0SxOpS_BoJ-3PBoobjob_S1_2.hkx
+b -Tn 0SxOpS_BoJ-3PBoobjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BoJ\3PBoobjob\0SxOpS_BoJ-3PBoobjob_S2_0.hkx
+b -Tn 0SxOpS_BoJ-3PBoobjob_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BoJ\3PBoobjob\0SxOpS_BoJ-3PBoobjob_S2_1.hkx
+b -Tn 0SxOpS_BoJ-3PBoobjob_S2_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BoJ\3PBoobjob\0SxOpS_BoJ-3PBoobjob_S2_2.hkx
+b -Tn 0SxOpS_BoJ-3PBoobjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BoJ\3PBoobjob\0SxOpS_BoJ-3PBoobjob_S3_0.hkx
+b -Tn 0SxOpS_BoJ-3PBoobjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BoJ\3PBoobjob\0SxOpS_BoJ-3PBoobjob_S3_1.hkx
+b -Tn 0SxOpS_BoJ-3PBoobjob_S3_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BoJ\3PBoobjob\0SxOpS_BoJ-3PBoobjob_S3_2.hkx
+b -Tn 0SxOpS_BoJ-3PBoobjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BoJ\3PBoobjob\0SxOpS_BoJ-3PBoobjob_S4_0.hkx
+b -Tn 0SxOpS_BoJ-3PBoobjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BoJ\3PBoobjob\0SxOpS_BoJ-3PBoobjob_S4_1.hkx
+b -Tn 0SxOpS_BoJ-3PBoobjob_S4_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BoJ\3PBoobjob\0SxOpS_BoJ-3PBoobjob_S4_2.hkx
 
 b -Tn 0SxOpS_Ho-3PSpreadLegs_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Ho\3PSpreadLegs\0SxOpS_Ho-3PSpreadLegs_0.hkx
 b -Tn 0SxOpS_Ho-3PSpreadLegs_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Ho\3PSpreadLegs\0SxOpS_Ho-3PSpreadLegs_1.hkx
