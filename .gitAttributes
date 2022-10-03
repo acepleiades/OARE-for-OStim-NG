@@ -1,0 +1,5 @@
+core.autocrlf true
+* text=false
+
+*.txt binary
+*.ini binary
