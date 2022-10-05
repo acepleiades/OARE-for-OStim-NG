@@ -1,2 +1,0 @@
-If you download these .ini files from GitHub, for whatever reason OSA cannot read them. This results in missing text.
-Try to save these files again in your computer. See if that solves it. Or get them .ini files from the Nexus page.
