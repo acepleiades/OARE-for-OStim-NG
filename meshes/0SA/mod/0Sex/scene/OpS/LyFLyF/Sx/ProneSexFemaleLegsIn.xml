@@ -20,10 +20,10 @@
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
-            <option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyF!LyF|Sx|ProneSexEmbraceFemaleLegsIn" text="^hugN" t0="1">
+            <option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyF!LyF|Sx|ProneSexFemaleLegsOut" text="^spreadYourLegsApart" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyF!LyF|Sx|ProneSexFemaleLegsOut" text="^spreadYourLegsApart" t0="1">
+            <option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyF!LyF|Sx|ProneSexEmbraceFemaleLegsIn" text="^hugN" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
             <option halo="hgentle" icon="obigx" go="OpS|Kne!AFo|Ho|BentOverFemale" text="^return" t0="1">
