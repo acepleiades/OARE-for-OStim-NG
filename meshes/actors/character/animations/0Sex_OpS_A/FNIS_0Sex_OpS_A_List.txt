@@ -610,6 +610,14 @@ b -Tn 0SxOpS_Sx-CowgirlLeanBack_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx
 b -Tn 0SxOpS_Sx-CowgirlLeanBack_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlLeanBack\0SxOpS_Sx-CowgirlLeanBack_S3_1.hkx
 b -Tn 0SxOpS_Sx-CowgirlLeanBack_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlLeanBack\0SxOpS_Sx-CowgirlLeanBack_S4_0.hkx
 b -Tn 0SxOpS_Sx-CowgirlLeanBack_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlLeanBack\0SxOpS_Sx-CowgirlLeanBack_S4_1.hkx
+b -Tn 0SxOpS_Sx-CowgirlPushLegsUp_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlPushLegsUp\0SxOpS_Sx-CowgirlPushLegsUp_S1_0.hkx
+b -Tn 0SxOpS_Sx-CowgirlPushLegsUp_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlPushLegsUp\0SxOpS_Sx-CowgirlPushLegsUp_S1_1.hkx
+b -Tn 0SxOpS_Sx-CowgirlPushLegsUp_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlPushLegsUp\0SxOpS_Sx-CowgirlPushLegsUp_S2_0.hkx
+b -Tn 0SxOpS_Sx-CowgirlPushLegsUp_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlPushLegsUp\0SxOpS_Sx-CowgirlPushLegsUp_S2_1.hkx
+b -Tn 0SxOpS_Sx-CowgirlPushLegsUp_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlPushLegsUp\0SxOpS_Sx-CowgirlPushLegsUp_S3_0.hkx
+b -Tn 0SxOpS_Sx-CowgirlPushLegsUp_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlPushLegsUp\0SxOpS_Sx-CowgirlPushLegsUp_S3_1.hkx
+b -Tn 0SxOpS_Sx-CowgirlPushLegsUp_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlPushLegsUp\0SxOpS_Sx-CowgirlPushLegsUp_S4_0.hkx
+b -Tn 0SxOpS_Sx-CowgirlPushLegsUp_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlPushLegsUp\0SxOpS_Sx-CowgirlPushLegsUp_S4_1.hkx
 b -Tn 0SxOpS_Sx-SquattingCowgirl_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\SquattingCowgirl\0SxOpS_Sx-SquattingCowgirl_S1_0.hkx
 b -Tn 0SxOpS_Sx-SquattingCowgirl_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\SquattingCowgirl\0SxOpS_Sx-SquattingCowgirl_S1_1.hkx
 b -Tn 0SxOpS_Sx-SquattingCowgirl_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\SquattingCowgirl\0SxOpS_Sx-SquattingCowgirl_S2_0.hkx
