@@ -48,4 +48,7 @@
 <motif drive="intimate" theme="R_SexPhysRear"/>
 <autonav>
 </autonav>
+<actors>
+    <actor position="0" penisAngle="-7"/>
+</actors>
 </scene>
