@@ -9,8 +9,8 @@
 
 <br>
 
-- **OSA** (version 2.023 or 2.0333-STIMMIE) <br>
-- **OStim**
+- **OSA for OStim** <br>
+- **OStim NG**
 
 <br>
 
@@ -50,4 +50,4 @@
 
 <!----------------------------------------------------------------------------->
 
-[Ostim]: https://www.nexusmods.com/skyrimspecialedition/articles/3751
+[Ostim]: https://www.nexusmods.com/skyrimspecialedition/articles/4550
