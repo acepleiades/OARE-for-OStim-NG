@@ -1,14 +1,14 @@
 <scene id="Col|LyS!Sit|Em|LapPillowHeadStroke" actors="2" style="OScene">
 <info name="Lap Pillow Head Stroke" animator="Ace"/>
 <region om="A" maj="K" min="K" stage="" step="" story=""/>
-<anim id="0SxOpS_Ho-LapPillowHeadStroke_S1" t="L" l="2"/>
+<anim id="_Ho-LapPillowHeadStroke_S1" t="L" l="2"/>
 <speed a="0" min="0" max="3" name="thrusts">	
 	<sp mtx="^strokesPerSec" qnt=".5">
-		<anim id="0SxOpS_Em-LapPillowHeadStroke_S1" t="L" l="2" i0="0" i1="0"/></sp>
+		<anim id="_Em-LapPillowHeadStroke_S1" t="L" l="2" i0="0" i1="0"/></sp>
 	<sp mtx="^strokesPerSec" qnt="1">
-		<anim id="0SxOpS_Em-LapPillowHeadStroke_S2" t="L" l="2" i0="1" i1="1"/></sp>
+		<anim id="_Em-LapPillowHeadStroke_S2" t="L" l="2" i0="1" i1="1"/></sp>
 	<sp mtx="^strokesPerSec" qnt="2">
-		<anim id="0SxOpS_Em-LapPillowHeadStroke_S3" t="L" l="2" i0="2" i1="2"/></sp>
+		<anim id="_Em-LapPillowHeadStroke_S3" t="L" l="2" i0="2" i1="2"/></sp>
 </speed>
 <nav>
 	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>

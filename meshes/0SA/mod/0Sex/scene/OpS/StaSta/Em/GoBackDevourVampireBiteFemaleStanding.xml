@@ -1,4 +1,4 @@
 <scene id="OpS|Sta!Sta|Em|GoBackDevourVampireBiteFemaleStanding" actors="2" style="OScene">
 <info name="Transition back from Vampire Bite Female Standing" animator="Ace"/>
-<anim id="0SxOpS_Em-GoBackDevourVampireBiteFemaleStanding" t="T" l="2" dest="OpS|Sta!Sta|Em|DevourDrainedMaleStanding"/>
+<anim id="_Em-GoBackDevourVampireBiteFemaleStanding" t="T" l="2" dest="OpS|Sta!Sta|Em|DevourDrainedMaleStanding"/>
 </scene>

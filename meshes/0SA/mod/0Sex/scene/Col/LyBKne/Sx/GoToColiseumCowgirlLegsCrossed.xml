@@ -1,6 +1,6 @@
 <scene id="Col|LyB!Kne|Sx|GoToColiseumCowgirlLegsCrossed" actors="2" style="OScene">
 <info name="Transition into Cowgirl Legs Crossed" animator="Ace"/>
-<anim id="0SxOpS_Sx-GoToAceCowgirlLegsCrossed" t="T" l="2" dest="Col|LyB!Sit|Sx|ColiseumCowgirlLegsCrossed">
+<anim id="_Sx-GoToAceCowgirlLegsCrossed" t="T" l="2" dest="Col|LyB!Sit|Sx|ColiseumCowgirlLegsCrossed">
 <dfx a="0" fx="1"/>
 <dfx a="1" fx="1"/>
 </anim>

@@ -1,25 +1,25 @@
 <scene id="OpS|Kne!Kne|Sx|AceNeckHoldingSex" actors="2" style="OScene">
 <info name="Neck-holding Sex" animator="Ace"/>
 <region om="A" maj="C" min="C" stage="" step="" story=""/>
-<anim id="0SxOpS_Sx-AceNeckHoldingSex_S1" t="L" l="2"/>
+<anim id="_Sx-AceNeckHoldingSex_S1" t="L" l="2"/>
 <speed a="0" min="0" max="3" name="thrusts">	
 	<sp mtx="^thrustsPerSec" qnt=".5">
-		<anim id="0SxOpS_Sx-AceNeckHoldingSex_S1" t="L" l="2" i0="0" i1="0">
+		<anim id="_Sx-AceNeckHoldingSex_S1" t="L" l="2" i0="0" i1="0">
 		<ae evty="sexThrustR" whodid="0" tar="1" ori="pussy" thrust="cock" sound="assimpact" soundpow="0" imp="ass" impside="R" impforce="2" impdmg=".01" thrustforce="2" oridmg=".01" oriopen=".01"/>
 		</anim>
 		</sp>
 	<sp mtx="^thrustsPerSec" qnt="1">
-		<anim id="0SxOpS_Sx-AceNeckHoldingSex_S2" t="L" l="2" i0="1" i1="1">
+		<anim id="_Sx-AceNeckHoldingSex_S2" t="L" l="2" i0="1" i1="1">
 		<ae evty="sexThrustR" whodid="0" tar="1" ori="pussy" thrust="cock" sound="assimpact" soundpow="0" imp="ass" impside="R" impforce="2" impdmg=".01" thrustforce="2" oridmg=".01" oriopen=".01"/>
 		</anim>
 		</sp>
 	<sp mtx="^thrustsPerSec" qnt="1.5">
-		<anim id="0SxOpS_Sx-AceNeckHoldingSex_S3" t="L" l="2" i0="2" i1="2">
+		<anim id="_Sx-AceNeckHoldingSex_S3" t="L" l="2" i0="2" i1="2">
 		<ae evty="sexThrustR" whodid="0" tar="1" ori="pussy" thrust="cock" sound="assimpact" soundpow="0" imp="ass" impside="R" impforce="2" impdmg=".01" thrustforce="2" oridmg=".01" oriopen=".01"/>
 		</anim>
 		</sp>
 	<sp mtx="^thrustsPerSec" qnt="2">
-		<anim id="0SxOpS_Sx-AceNeckHoldingSex_S4" t="L" l="2" i0="3" i1="3">
+		<anim id="_Sx-AceNeckHoldingSex_S4" t="L" l="2" i0="3" i1="3">
 		<ae evty="sexThrustR" whodid="0" tar="1" ori="pussy" thrust="cock" sound="assimpact" soundpow="0" imp="ass" impside="R" impforce="2" impdmg=".01" thrustforce="2" oridmg=".01" oriopen=".01"/>
 		</anim>
 		</sp>

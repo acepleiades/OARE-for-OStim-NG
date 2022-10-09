@@ -1,6 +1,6 @@
 <scene id="OpS|Kne!AFo!Kne|Sx|GoBackAce3PKneelingSexSmooch" actors="3" style="OScene">
 <info name="Transition back from Kneeling Sex Kissing" animator="Ace"/>
-<anim id="0SxOpS_Sx-GoBackAce3PKneelingSexSmooch" t="T" l="1" dest="OpS|Kne!AFo!Kne|Sx|Ace3PKneelingSex">
+<anim id="_Sx-GoBackAce3PKneelingSexSmooch" t="T" l="1" dest="OpS|Kne!AFo!Kne|Sx|Ace3PKneelingSex">
 <mfx a= "0">
 <fx0 ti="0" cmd="EVNT">
 	<evnt cmd="actor" type="kiss" subtype="KissExit" drive="intimate">

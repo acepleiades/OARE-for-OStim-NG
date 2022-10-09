@@ -1,6 +1,6 @@
 <scene id="OpS|LyS!LyS|Ho|GoBackSpooningSmooch" actors="2" style="OScene">
 <info name="Transition back from Spooning Kissing" animator="Ace"/>
-<anim id="0SxOpS_Ho-GoBackSpooningSmooch" t="T" l="1" dest="OpS|LyS!LyS|Ho|SpooningIdle">
+<anim id="_Ho-GoBackSpooningSmooch" t="T" l="1" dest="OpS|LyS!LyS|Ho|SpooningIdle">
 <mfx a= "0">
 <fx0 ti="0" cmd="EVNT">
 	<evnt cmd="actor" type="kiss" subtype="KissExit" drive="intimate">

@@ -1,6 +1,6 @@
 <scene id="OpS|Sit!Kne|Ho|GoBackSittingFemaleApproachSmooch" actors="2" style="OScene">
 <info name="Transition back from Sitting Female Approach Kiss" animator="Ace"/>
-<anim id="0SxOpS_Ho-GoBackSittingFemaleApproachSmooch" t="T" l="1" dest="OpS|Sit!Kne|Ho|SittingFemaleApproach">
+<anim id="_Ho-GoBackSittingFemaleApproachSmooch" t="T" l="1" dest="OpS|Sit!Kne|Ho|SittingFemaleApproach">
 <mfx a= "0">
 <fx0 ti="0" cmd="EVNT">
 	<evnt cmd="actor" type="kiss" subtype="KissExit" drive="intimate">

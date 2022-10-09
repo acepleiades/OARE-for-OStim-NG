@@ -1,6 +1,6 @@
 <scene id="OpS|Sta!Sta!Sta|Ho|GoBackTripleSmooch" actors="3" style="OScene">
 <info name="Transition back from Triple Kiss" animator="Ace"/>
-<anim id="0SxOpS_Ho-GoBackTripleSmooch" t="T" l="1" dest="OpS|Sta!Sta!Sta|Ho|Ace3PStandingHolding">
+<anim id="_Ho-GoBackTripleSmooch" t="T" l="1" dest="OpS|Sta!Sta!Sta|Ho|Ace3PStandingHolding">
 <mfx a= "0">
 <fx0 ti="0" cmd="EVNT">
 	<evnt cmd="actor" type="kiss" subtype="KissExit" drive="intimate">

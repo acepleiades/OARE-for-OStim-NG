@@ -1,7 +1,7 @@
 <scene id="OpS|LyS!LyS|Ho|SleepingIdle" actors="2" style="OScene">
 <info name="Sleeping Idle" animator="Ace"/>
 <region om="A" maj="S" min="S" stage="" step="" story=""/>
-<anim id="0SxOpS_Ho-SleepingIdle" t="L" l="2"/>
+<anim id="_Ho-SleepingIdle" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>

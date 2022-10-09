@@ -1,7 +1,7 @@
 <scene id="OpS|Sta!Sit|Ap|ColiseumMaleStart" actors="2" style="OScene">
 <info name="Coliseum Male Start" animator="Ace"/>
 <region om="A" maj="S" min="S" stage="" step="" story=""/>
-<anim id="0SxOpS_Ap-ColiseumMaleStart" t="L" l="2"/>
+<anim id="_Ap-ColiseumMaleStart" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>

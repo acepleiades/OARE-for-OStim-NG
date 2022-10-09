@@ -1,16 +1,16 @@
 <scene id="OpS|Sta!Kne|Po|AceKneelingJO" actors="2" style="OScene">
 <info name="Kneeling JO" animator="Ace"/>
 <region om="A" maj="K" min="K" stage="" step="" story=""/>
-<anim id="0SxOpS_Po-AceKneelingJO_S1" t="L" l="2"/>
+<anim id="_Po-AceKneelingJO_S1" t="L" l="2"/>
 <speed a="0" min="0" max="3" name="strokes">	
 	<sp mtx="^thrustsPerSec" qnt=".5">
-		<anim id="0SxOpS_Po-AceKneelingJO_S1" t="L" l="2" i0="0" i1="0"/></sp>
+		<anim id="_Po-AceKneelingJO_S1" t="L" l="2" i0="0" i1="0"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="1">
-		<anim id="0SxOpS_Po-AceKneelingJO_S2" t="L" l="2" i0="1" i1="1"/></sp>
+		<anim id="_Po-AceKneelingJO_S2" t="L" l="2" i0="1" i1="1"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="1.5">
-		<anim id="0SxOpS_Po-AceKneelingJO_S3" t="L" l="2" i0="2" i1="2"/></sp>
+		<anim id="_Po-AceKneelingJO_S3" t="L" l="2" i0="2" i1="2"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="2">
-		<anim id="0SxOpS_Po-AceKneelingJO_S4" t="L" l="2" i0="3" i1="3"/></sp>
+		<anim id="_Po-AceKneelingJO_S4" t="L" l="2" i0="3" i1="3"/></sp>
 </speed>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>

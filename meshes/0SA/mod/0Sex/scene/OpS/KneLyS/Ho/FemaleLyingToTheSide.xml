@@ -1,7 +1,7 @@
 <scene id="OpS|Kne!LyS|Ho|FemaleLyingToTheSide" actors="2" style="OScene">
 <info name="Female Lying To The Side" animator="Ace"/>
 <region om="A" maj="K" min="Ksi" stage="" step="" story=""/>
-<anim id="0SxOpS_Ho-FemaleLyingToTheSide" t="L" l="2"/>
+<anim id="_Ho-FemaleLyingToTheSide" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
