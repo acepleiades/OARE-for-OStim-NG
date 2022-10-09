@@ -1,16 +1,16 @@
 <scene id="OpS|Sta!Kne|BoJ|AceStandingTittyfuck" actors="2" style="OScene">
 <info name="Standing Boob Job" animator="Ace"/>
 <region om="A" maj="K" min="K" stage="" step="" story=""/>
-<anim id="0SxOpS_BoJ-AceStandingTittyfuck_S1" t="L" l="2"/>
+<anim id="_BoJ-AceStandingTittyfuck_S1" t="L" l="2"/>
 <speed a="0" min="0" max="3" name="thrusts">
 	<sp mtx="^strokesPerSec" qnt="0.5">
-		<anim id="0SxOpS_BoJ-AceStandingTittyfuck_S1" t="L" l="2" i0="0" i1="0"/></sp>
+		<anim id="_BoJ-AceStandingTittyfuck_S1" t="L" l="2" i0="0" i1="0"/></sp>
 	<sp mtx="^strokesPerSec" qnt="1">
-		<anim id="0SxOpS_BoJ-AceStandingTittyfuck_S2" t="L" l="2" i0="1" i1="1"/></sp>
+		<anim id="_BoJ-AceStandingTittyfuck_S2" t="L" l="2" i0="1" i1="1"/></sp>
 	<sp mtx="^strokesPerSec" qnt="1.5">
-		<anim id="0SxOpS_BoJ-AceStandingTittyfuck_S3" t="L" l="2" i0="2" i1="2"/></sp>
+		<anim id="_BoJ-AceStandingTittyfuck_S3" t="L" l="2" i0="2" i1="2"/></sp>
 	<sp mtx="^strokesPerSec" qnt="2">
-		<anim id="0SxOpS_BoJ-AceStandingTittyfuck_S4" t="L" l="2" i0="3" i1="3"/></sp>
+		<anim id="_BoJ-AceStandingTittyfuck_S4" t="L" l="2" i0="3" i1="3"/></sp>
 </speed>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>

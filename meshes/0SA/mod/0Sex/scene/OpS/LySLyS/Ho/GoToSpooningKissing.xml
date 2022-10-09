@@ -1,6 +1,6 @@
 <scene id="OpS|LyS!LyS|Ho|GoToSpooningKissing" actors="2" style="OScene">
 <info name="Transition into Spooning Kissing" animator="Ace"/>
-<anim id="0SxOpS_Ho-GoToSpooningKissing" t="T" l="1" dest="OpS|LyS!LyS|Ho|SpooningKissing">
+<anim id="_Ho-GoToSpooningKissing" t="T" l="1" dest="OpS|LyS!LyS|Ho|SpooningKissing">
 <mfx a= "0">
 <fx0 ti="0" cmd="EVNT">
 	<evnt cmd="actor" type="kiss" subtype="KissEnter" drive="intimate">

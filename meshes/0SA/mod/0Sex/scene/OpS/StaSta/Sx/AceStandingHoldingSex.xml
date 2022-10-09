@@ -1,19 +1,19 @@
 <scene id="OpS|Sta!Sta|Sx|AceStandingHoldingSex" actors="2" style="OScene">
 <info name="Standing Holding Sex" animator="Ace"/>
 <region om="A" maj="C" min="C" stage="" step="" story=""/>
-<anim id="0SxOpS_Sx-AceStandingHoldingSex_S1" t="L" l="2"/>
+<anim id="_Sx-AceStandingHoldingSex_S1" t="L" l="2"/>
 <speed a="0" min="0" max="3" name="thrusts">
 	<sp mtx="^thrustsPerSec" qnt="1">
-		<anim id="0SxOpS_Sx-AceStandingHoldingSex_S1" t="L" l="2" i0="0" i1="0"/>
+		<anim id="_Sx-AceStandingHoldingSex_S1" t="L" l="2" i0="0" i1="0"/>
 		</sp>
 	<sp mtx="^thrustsPerSec" qnt="1.5">
-		<anim id="0SxOpS_Sx-AceStandingHoldingSex_S2" t="L" l="2" i0="1" i1="1"/>
+		<anim id="_Sx-AceStandingHoldingSex_S2" t="L" l="2" i0="1" i1="1"/>
 		</sp>
 	<sp mtx="^thrustsPerSec" qnt="2">
-		<anim id="0SxOpS_Sx-AceStandingHoldingSex_S3" t="L" l="2" i0="2" i1="2"/>
+		<anim id="_Sx-AceStandingHoldingSex_S3" t="L" l="2" i0="2" i1="2"/>
 		</sp>
 	<sp mtx="^thrustsPerSec" qnt="2.5">
-		<anim id="0SxOpS_Sx-AceStandingHoldingSex_S4" t="L" l="2" i0="3" i1="3"/>
+		<anim id="_Sx-AceStandingHoldingSex_S4" t="L" l="2" i0="3" i1="3"/>
 		</sp>
 </speed>
 <nav>

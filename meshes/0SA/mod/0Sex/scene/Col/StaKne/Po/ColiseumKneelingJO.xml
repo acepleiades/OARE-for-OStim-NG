@@ -1,0 +1,44 @@
+<scene id="Col|Sta!Kne|Po|ColiseumKneelingJO" actors="2" style="OScene">
+<info name="Kneeling JO" animator="Ace"/>
+<region om="A" maj="K" min="K" stage="" step="" story=""/>
+<anim id="_Po-AceKneelingJO_S1" t="L" l="2"/>
+<speed a="0" min="0" max="3" name="thrusts">	
+	<sp mtx="^thrustsPerSec" qnt=".5">
+		<anim id="_Po-AceKneelingJO_S1" t="L" l="2" i0="0" i1="0"/></sp>
+	<sp mtx="^thrustsPerSec" qnt="1">
+		<anim id="_Po-AceKneelingJO_S2" t="L" l="2" i0="1" i1="1"/></sp>
+	<sp mtx="^thrustsPerSec" qnt="1.5">
+		<anim id="_Po-AceKneelingJO_S3" t="L" l="2" i0="2" i1="2"/></sp>
+	<sp mtx="^thrustsPerSec" qnt="2">
+		<anim id="_Po-AceKneelingJO_S4" t="L" l="2" i0="3" i1="3"/></sp>
+</speed>
+<nav>
+	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+		<xmenu id="speed" plus="cplus" minus="cminus" plustext="Faster" minustext="Slower" t0="0"/>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="obigx" go="Col|Sta!Kne|Ap|ColiseumMaleStandingFemaleKneeling" text="Return..." t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body"><bo a="1"/><bo a="0"/></ihue>
+			</option>
+		</page>
+	</tab>
+	<tab actor="1" icon="ssub" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+</nav>
+<eyes a="0" facerel="0" actionrel="2" bodyrel="1">
+<primary v="-60" h="0" vpan="10" hpan="10"/>
+<face v="-60" h="0" vpan="10" hpan="10"/>
+<body v="-60" h="0" vpan="10" hpan="10"/>
+<action v="-60" h="0" vpan="10" hpan="10"/>
+<away v="-60" h="0" vpan="80" hpan="100"/>
+</eyes>
+<eyes a="1" facerel="0" actionrel="2" bodyrel="1">
+<primary v="50" h="0" vpan="10" hpan="10" />
+<face v="50" h="0" vpan="10" hpan="10" />
+<body v="50" h="0" vpan="10" hpan="10" />
+<action v="50" h="0" vpan="10" hpan="10" />
+<away v="50" h="0" vpan="10" hpan="10" />
+</eyes>
+<motif drive="intimate" theme="R_Handjob"/>
+<motif drive="intimate" theme="G_Handjob"/>
+<autonav>
+</autonav>
+</scene>

@@ -1,6 +1,6 @@
 <scene id="OpS|Sta!Sta|Ho|StandingSpank" actors="2" style="OScene">
 <info name="Standing Spank" animator="Ace"/>
-<anim id="0SxOpS_Ho-StandingSpank" t="T" l="2.666" dest="OpS|Sta!Sta|Ho|StandingSpankIdle">
+<anim id="_Ho-StandingSpank" t="T" l="2.666" dest="OpS|Sta!Sta|Ho|StandingSpankIdle">
 <dfx a= "0">
 </dfx>
 <mfx a= "1">

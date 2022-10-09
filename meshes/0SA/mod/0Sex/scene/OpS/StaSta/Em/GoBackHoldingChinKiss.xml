@@ -1,6 +1,6 @@
 <scene id="OpS|Sta!Sta|Em|GoBackHoldingChinKiss" actors="2" style="OScene">
 <info name="Transition back from Standing Kiss" animator="Frolique"/>
-<anim id="0SxOpS_Em-GoBackHoldingChinKiss" t="T" l="1" dest="OpS|Sta!Sta|Em|HoldingChin">
+<anim id="_Em-GoBackHoldingChinKiss" t="T" l="1" dest="OpS|Sta!Sta|Em|HoldingChin">
 <mfx a= "0">
 <fx0 ti="0" cmd="EVNT">
 	<evnt cmd="actor" type="kiss" subtype="KissExit" drive="intimate">
