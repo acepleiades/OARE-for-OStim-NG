@@ -1055,111 +1055,35 @@ b -Tn 0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\Op
 b -Tn 0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Sx\Ace3PCowgirlAndCunnilingus\0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S4_1.hkx
 b -Tn 0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S4_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Sx\Ace3PCowgirlAndCunnilingus\0SxOpS_Sx-Ace3PCowgirlAndCunnilingus_S4_2.hkx
 
-b -Tn 0SxOpS_Ho-KneelingHolding_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_0.hkx
-b -Tn 0SxOpS_Ho-KneelingHolding_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_1.hkx
+b -a,Tn 0SxOpS_HJ-GoBackAceStandingHandjobSmooch_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceStandingHandjob\0SxOpS_HJ-GoBackAceStandingHandjobSmooch_0.hkx
+b -a,Tn 0SxOpS_HJ-GoBackAceStandingHandjobSmooch_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceStandingHandjob\0SxOpS_HJ-GoBackAceStandingHandjobSmooch_1.hkx
+b -a,Tn 0SxOpS_Ho-GoBackTripleSmooch_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaStaSta\Ho\Ace3PStandingHolding\0SxOpS_Ho-GoBackTripleSmooch_0.hkx
+b -a,Tn 0SxOpS_Ho-GoBackTripleSmooch_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaStaSta\Ho\Ace3PStandingHolding\0SxOpS_Ho-GoBackTripleSmooch_1.hkx
+b -a,Tn 0SxOpS_Ho-GoBackTripleSmooch_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaStaSta\Ho\Ace3PStandingHolding\0SxOpS_Ho-GoBackTripleSmooch_2.hkx
+b -a,Tn 0SxOpS_Ho-GoBackSpooningSmooch_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\0SxOpS_Ho-GoBackSpooningSmooch_0.hkx
+b -a,Tn 0SxOpS_Ho-GoBackSpooningSmooch_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\0SxOpS_Ho-GoBackSpooningSmooch_1.hkx
+b -a,Tn 0SxOpS_Ho-GoBackSittingFemaleApproachSmooch_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproach\0SxOpS_Ho-GoBackSittingFemaleApproachSmooch_0.hkx
+b -a,Tn 0SxOpS_Ho-GoBackSittingFemaleApproachSmooch_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproach\0SxOpS_Ho-GoBackSittingFemaleApproachSmooch_1.hkx
+b -a,Tn 0SxOpS_Sx-GoBackAce3PKneelingSexSmooch_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFoKne\Sx\Ace3PKneelingSex\0SxOpS_Sx-GoBackAce3PKneelingSexSmooch_0.hkx
+b -a,Tn 0SxOpS_Sx-GoBackAce3PKneelingSexSmooch_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFoKne\Sx\Ace3PKneelingSex\0SxOpS_Sx-GoBackAce3PKneelingSexSmooch_1.hkx
+b -a,Tn 0SxOpS_Sx-GoBackAce3PKneelingSexSmooch_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFoKne\Sx\Ace3PKneelingSex\0SxOpS_Sx-GoBackAce3PKneelingSexSmooch_2.hkx
 
-b -Tn 0SxOpS_Ho-KneelingHoldingSubFromBehind_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHoldingSubFromBehind\0SxOpS_Ho-KneelingHoldingSubFromBehind_S0_0.hkx
-b -Tn 0SxOpS_Ho-KneelingHoldingSubFromBehind_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHoldingSubFromBehind\0SxOpS_Ho-KneelingHoldingSubFromBehind_S0_1.hkx
 
-b -Tn 0SxOpS_Ho-KneelingSubLyingDown_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\KneelingSubLyingDown\0SxOpS_Ho-KneelingSubLyingDown_S0_0.hkx
-b -Tn 0SxOpS_Ho-KneelingSubLyingDown_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\KneelingSubLyingDown\0SxOpS_Ho-KneelingSubLyingDown_S0_1.hkx
-
-b -Tn 0SxOpS_Ho-LyingDownSubKneeling_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\LyingDownSubKneeling\0SxOpS_Ho-LyingDownSubKneeling_S0_0.hkx
-b -Tn 0SxOpS_Ho-LyingDownSubKneeling_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\LyingDownSubKneeling\0SxOpS_Ho-LyingDownSubKneeling_S0_1.hkx
 
 b -Tn 0SxOpS_Ho-KneelingSubBentOverBackward_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ho\KneelingSubBentOverBackward\0SxOpS_Ho-KneelingSubBentOverBackward_S0_0.hkx
 b -Tn 0SxOpS_Ho-KneelingSubBentOverBackward_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ho\KneelingSubBentOverBackward\0SxOpS_Ho-KneelingSubBentOverBackward_S0_1.hkx
-
+b -Tn 0SxOpS_Ho-KneelingHolding_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_0.hkx
+b -Tn 0SxOpS_Ho-KneelingHolding_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\0SxOpS_Ho-KneelingHolding_S0_1.hkx
+b -Tn 0SxOpS_Ho-KneelingHoldingSubFromBehind_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHoldingSubFromBehind\0SxOpS_Ho-KneelingHoldingSubFromBehind_S0_0.hkx
+b -Tn 0SxOpS_Ho-KneelingHoldingSubFromBehind_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHoldingSubFromBehind\0SxOpS_Ho-KneelingHoldingSubFromBehind_S0_1.hkx
+b -Tn 0SxOpS_Ho-KneelingSubLyingDown_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\KneelingSubLyingDown\0SxOpS_Ho-KneelingSubLyingDown_S0_0.hkx
+b -Tn 0SxOpS_Ho-KneelingSubLyingDown_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\KneelingSubLyingDown\0SxOpS_Ho-KneelingSubLyingDown_S0_1.hkx
 b -Tn 0SxOpS_Ho-KneelingSubSpreadLegs_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\KneelingSubSpreadLegs\0SxOpS_Ho-KneelingSubSpreadLegs_S0_0.hkx
 b -Tn 0SxOpS_Ho-KneelingSubSpreadLegs_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\KneelingSubSpreadLegs\0SxOpS_Ho-KneelingSubSpreadLegs_S0_1.hkx
-
+b -Tn 0SxOpS_Ho-LyingDownSubKneeling_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\LyingDownSubKneeling\0SxOpS_Ho-LyingDownSubKneeling_S0_0.hkx
+b -Tn 0SxOpS_Ho-LyingDownSubKneeling_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\LyingDownSubKneeling\0SxOpS_Ho-LyingDownSubKneeling_S0_1.hkx
 b -Tn 0SxOpS_Ho-LyingDownStraddling_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\LyingDownStraddling\0SxOpS_Ho-LyingDownStraddling_S0_0.hkx
 b -Tn 0SxOpS_Ho-LyingDownStraddling_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\LyingDownStraddling\0SxOpS_Ho-LyingDownStraddling_S0_1.hkx
-b -a,Tn 0SxOpS_Ho-GoToThighjob_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\LyingDownStraddling\0SxOpS_Ho-GoToThighjob_S0_0.hkx
-b -a,Tn 0SxOpS_Ho-GoToThighjob_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\LyingDownStraddling\0SxOpS_Ho-GoToThighjob_S0_1.hkx
-b -a,Tn 0SxOpS_Ho-GoBackThighjob_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\LyingDownStraddling\0SxOpS_Ho-GoBackThighjob_S0_0.hkx
-b -a,Tn 0SxOpS_Ho-GoBackThighjob_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\LyingDownStraddling\0SxOpS_Ho-GoBackThighjob_S0_1.hkx
-b -a,Tn 0SxOpS_Ho-GoToStraddlingHandjob_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\LyingDownStraddling\0SxOpS_Ho-GoToStraddlingHandjob_S0_0.hkx
-b -a,Tn 0SxOpS_Ho-GoToStraddlingHandjob_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\LyingDownStraddling\0SxOpS_Ho-GoToStraddlingHandjob_S0_1.hkx
-b -a,Tn 0SxOpS_Ho-GoBackStraddlingHandjob_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\LyingDownStraddling\0SxOpS_Ho-GoBackStraddlingHandjob_S0_0.hkx
-b -a,Tn 0SxOpS_Ho-GoBackStraddlingHandjob_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\LyingDownStraddling\0SxOpS_Ho-GoBackStraddlingHandjob_S0_1.hkx
-
-b -Tn 0SxOpS_HJ-StraddlingHandjob_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\StraddlingHandjob\0SxOpS_HJ-StraddlingHandjob_S0_0.hkx
-b -Tn 0SxOpS_HJ-StraddlingHandjob_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\StraddlingHandjob\0SxOpS_HJ-StraddlingHandjob_S0_1.hkx
-b -Tn 0SxOpS_HJ-StraddlingHandjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\StraddlingHandjob\0SxOpS_HJ-StraddlingHandjob_S1_0.hkx
-b -Tn 0SxOpS_HJ-StraddlingHandjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\StraddlingHandjob\0SxOpS_HJ-StraddlingHandjob_S1_1.hkx
-b -Tn 0SxOpS_HJ-StraddlingHandjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\StraddlingHandjob\0SxOpS_HJ-StraddlingHandjob_S2_0.hkx
-b -Tn 0SxOpS_HJ-StraddlingHandjob_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\StraddlingHandjob\0SxOpS_HJ-StraddlingHandjob_S2_1.hkx
-b -Tn 0SxOpS_HJ-StraddlingHandjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\StraddlingHandjob\0SxOpS_HJ-StraddlingHandjob_S3_0.hkx
-b -Tn 0SxOpS_HJ-StraddlingHandjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\StraddlingHandjob\0SxOpS_HJ-StraddlingHandjob_S3_1.hkx
-
-b -Tn 0SxOpS_HJ-Thighjob_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\Thighjob\0SxOpS_HJ-Thighjob_S0_0.hkx
-b -Tn 0SxOpS_HJ-Thighjob_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\Thighjob\0SxOpS_HJ-Thighjob_S0_1.hkx
-b -Tn 0SxOpS_HJ-Thighjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\Thighjob\0SxOpS_HJ-Thighjob_S1_0.hkx
-b -Tn 0SxOpS_HJ-Thighjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\Thighjob\0SxOpS_HJ-Thighjob_S1_1.hkx
-b -Tn 0SxOpS_HJ-Thighjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\Thighjob\0SxOpS_HJ-Thighjob_S2_0.hkx
-b -Tn 0SxOpS_HJ-Thighjob_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\Thighjob\0SxOpS_HJ-Thighjob_S2_1.hkx
-
-b -Tn 0SxOpS_Sx-LowKneesCowgirl_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\LowKneesCowgirl\0SxOpS_Sx-LowKneesCowgirl_S1_0.hkx
-b -Tn 0SxOpS_Sx-LowKneesCowgirl_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\LowKneesCowgirl\0SxOpS_Sx-LowKneesCowgirl_S1_1.hkx
-b -Tn 0SxOpS_Sx-LowKneesCowgirl_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\LowKneesCowgirl\0SxOpS_Sx-LowKneesCowgirl_S2_0.hkx
-b -Tn 0SxOpS_Sx-LowKneesCowgirl_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\LowKneesCowgirl\0SxOpS_Sx-LowKneesCowgirl_S2_1.hkx
-b -Tn 0SxOpS_Sx-LowKneesCowgirl_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\LowKneesCowgirl\0SxOpS_Sx-LowKneesCowgirl_S3_0.hkx
-b -Tn 0SxOpS_Sx-LowKneesCowgirl_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\LowKneesCowgirl\0SxOpS_Sx-LowKneesCowgirl_S3_1.hkx
-b -Tn 0SxOpS_Sx-LowKneesCowgirl_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\LowKneesCowgirl\0SxOpS_Sx-LowKneesCowgirl_S4_0.hkx
-b -Tn 0SxOpS_Sx-LowKneesCowgirl_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\LowKneesCowgirl\0SxOpS_Sx-LowKneesCowgirl_S4_1.hkx
-b -Tn 0SxOpS_Sx-LowKneesCowgirl_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\LowKneesCowgirl\0SxOpS_Sx-LowKneesCowgirl_S5_0.hkx
-b -Tn 0SxOpS_Sx-LowKneesCowgirl_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\LowKneesCowgirl\0SxOpS_Sx-LowKneesCowgirl_S5_1.hkx
-
-b -Tn 0SxOpS_Po-BreastGroping_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\BreastGroping\0SxOpS_Po-BreastGroping_S0_0.hkx
-b -Tn 0SxOpS_Po-BreastGroping_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\BreastGroping\0SxOpS_Po-BreastGroping_S0_1.hkx
-
-b -Tn 0SxOpS_Sx-MatingPress_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MatingPress\0SxOpS_Sx-MatingPress_S0_0.hkx
-b -Tn 0SxOpS_Sx-MatingPress_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MatingPress\0SxOpS_Sx-MatingPress_S0_1.hkx
-b -Tn 0SxOpS_Sx-MatingPress_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MatingPress\0SxOpS_Sx-MatingPress_S1_0.hkx
-b -Tn 0SxOpS_Sx-MatingPress_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MatingPress\0SxOpS_Sx-MatingPress_S1_1.hkx
-b -Tn 0SxOpS_Sx-MatingPress_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MatingPress\0SxOpS_Sx-MatingPress_S2_0.hkx
-b -Tn 0SxOpS_Sx-MatingPress_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MatingPress\0SxOpS_Sx-MatingPress_S2_1.hkx
-b -Tn 0SxOpS_Sx-MatingPress_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MatingPress\0SxOpS_Sx-MatingPress_S3_0.hkx
-b -Tn 0SxOpS_Sx-MatingPress_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MatingPress\0SxOpS_Sx-MatingPress_S3_1.hkx
-b -Tn 0SxOpS_Sx-MatingPress_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MatingPress\0SxOpS_Sx-MatingPress_S4_0.hkx
-b -Tn 0SxOpS_Sx-MatingPress_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MatingPress\0SxOpS_Sx-MatingPress_S4_1.hkx
-b -Tn 0SxOpS_Sx-MatingPress_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MatingPress\0SxOpS_Sx-MatingPress_S5_0.hkx
-b -Tn 0SxOpS_Sx-MatingPress_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MatingPress\0SxOpS_Sx-MatingPress_S5_1.hkx
-
-b -Tn 0SxOpS_Sx-SplayedLegsDoggy_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\SplayedLegsDoggy\0SxOpS_Sx-SplayedLegsDoggy_S1_0.hkx
-b -Tn 0SxOpS_Sx-SplayedLegsDoggy_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\SplayedLegsDoggy\0SxOpS_Sx-SplayedLegsDoggy_S1_1.hkx
-b -Tn 0SxOpS_Sx-SplayedLegsDoggy_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\SplayedLegsDoggy\0SxOpS_Sx-SplayedLegsDoggy_S2_0.hkx
-b -Tn 0SxOpS_Sx-SplayedLegsDoggy_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\SplayedLegsDoggy\0SxOpS_Sx-SplayedLegsDoggy_S2_1.hkx
-b -Tn 0SxOpS_Sx-SplayedLegsDoggy_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\SplayedLegsDoggy\0SxOpS_Sx-SplayedLegsDoggy_S3_0.hkx
-b -Tn 0SxOpS_Sx-SplayedLegsDoggy_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\SplayedLegsDoggy\0SxOpS_Sx-SplayedLegsDoggy_S3_1.hkx
-b -Tn 0SxOpS_Sx-SplayedLegsDoggy_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\SplayedLegsDoggy\0SxOpS_Sx-SplayedLegsDoggy_S4_0.hkx
-b -Tn 0SxOpS_Sx-SplayedLegsDoggy_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\SplayedLegsDoggy\0SxOpS_Sx-SplayedLegsDoggy_S4_1.hkx
-b -Tn 0SxOpS_Sx-SplayedLegsDoggy_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\SplayedLegsDoggy\0SxOpS_Sx-SplayedLegsDoggy_S5_0.hkx
-b -Tn 0SxOpS_Sx-SplayedLegsDoggy_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\SplayedLegsDoggy\0SxOpS_Sx-SplayedLegsDoggy_S5_1.hkx
-
-b -Tn 0SxOpS_Sx-AceProneBone_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyF\Sx\AceProneBone\0SxOpS_Sx-AceProneBone_S1_0.hkx
-b -Tn 0SxOpS_Sx-AceProneBone_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyF\Sx\AceProneBone\0SxOpS_Sx-AceProneBone_S1_1.hkx
-b -Tn 0SxOpS_Sx-AceProneBone_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyF\Sx\AceProneBone\0SxOpS_Sx-AceProneBone_S2_0.hkx
-b -Tn 0SxOpS_Sx-AceProneBone_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyF\Sx\AceProneBone\0SxOpS_Sx-AceProneBone_S2_1.hkx
-b -Tn 0SxOpS_Sx-AceProneBone_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyF\Sx\AceProneBone\0SxOpS_Sx-AceProneBone_S3_0.hkx
-b -Tn 0SxOpS_Sx-AceProneBone_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyF\Sx\AceProneBone\0SxOpS_Sx-AceProneBone_S3_1.hkx
-b -Tn 0SxOpS_Sx-AceProneBone_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyF\Sx\AceProneBone\0SxOpS_Sx-AceProneBone_S4_0.hkx
-b -Tn 0SxOpS_Sx-AceProneBone_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyF\Sx\AceProneBone\0SxOpS_Sx-AceProneBone_S4_1.hkx
-b -Tn 0SxOpS_Sx-AceProneBone_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyF\Sx\AceProneBone\0SxOpS_Sx-AceProneBone_S5_0.hkx
-b -Tn 0SxOpS_Sx-AceProneBone_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyF\Sx\AceProneBone\0SxOpS_Sx-AceProneBone_S5_1.hkx
-
-b -Tn 0SxOpS_FJ-AceStandingFootjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSta\FJ\AceStandingFootjob\0SxOpS_FJ-AceStandingFootjob_S1_0.hkx
-b -Tn 0SxOpS_FJ-AceStandingFootjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSta\FJ\AceStandingFootjob\0SxOpS_FJ-AceStandingFootjob_S1_1.hkx
-b -Tn 0SxOpS_FJ-AceStandingFootjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSta\FJ\AceStandingFootjob\0SxOpS_FJ-AceStandingFootjob_S2_0.hkx
-b -Tn 0SxOpS_FJ-AceStandingFootjob_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSta\FJ\AceStandingFootjob\0SxOpS_FJ-AceStandingFootjob_S2_1.hkx
-b -Tn 0SxOpS_FJ-AceStandingFootjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSta\FJ\AceStandingFootjob\0SxOpS_FJ-AceStandingFootjob_S3_0.hkx
-b -Tn 0SxOpS_FJ-AceStandingFootjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSta\FJ\AceStandingFootjob\0SxOpS_FJ-AceStandingFootjob_S3_1.hkx
-b -Tn 0SxOpS_FJ-AceStandingFootjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSta\FJ\AceStandingFootjob\0SxOpS_FJ-AceStandingFootjob_S4_0.hkx
-b -Tn 0SxOpS_FJ-AceStandingFootjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSta\FJ\AceStandingFootjob\0SxOpS_FJ-AceStandingFootjob_S4_1.hkx
-b -Tn 0SxOpS_FJ-AceStandingFootjob_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSta\FJ\AceStandingFootjob\0SxOpS_FJ-AceStandingFootjob_S5_0.hkx
-b -Tn 0SxOpS_FJ-AceStandingFootjob_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSta\FJ\AceStandingFootjob\0SxOpS_FJ-AceStandingFootjob_S5_1.hkx
-
 b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S0_0.hkx
 b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S0_1.hkx
 b -Tn 0SxOpS_VJ-LesbianKneLyBCunnilingus_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\0SxOpS_VJ-LesbianKneLyBCunnilingus_S1_0.hkx
@@ -1180,56 +1104,3 @@ b -Tn 0SxOpS_VHJ-AceLesbian69Fingering_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\Ly
 b -Tn 0SxOpS_VHJ-AceLesbian69Fingering_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\VHJ\AceLesbian69Fingering\0SxOpS_VHJ-AceLesbian69Fingering_S4_1.hkx
 b -Tn 0SxOpS_VHJ-AceLesbian69Fingering_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\VHJ\AceLesbian69Fingering\0SxOpS_VHJ-AceLesbian69Fingering_S5_0.hkx
 b -Tn 0SxOpS_VHJ-AceLesbian69Fingering_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\VHJ\AceLesbian69Fingering\0SxOpS_VHJ-AceLesbian69Fingering_S5_1.hkx
-
-b -Tn 0SxOpS_Sx-RevCowgirlFP_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LybAFo\Sx\RevCowgirlFP\0SxOpS_Sx-RevCowgirlFP_S0_0.hkx
-b -Tn 0SxOpS_Sx-RevCowgirlFP_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LybAFo\Sx\RevCowgirlFP\0SxOpS_Sx-RevCowgirlFP_S0_1.hkx
-b -Tn 0SxOpS_Sx-RevCowgirlFP_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LybAFo\Sx\RevCowgirlFP\0SxOpS_Sx-RevCowgirlFP_S1_0.hkx
-b -Tn 0SxOpS_Sx-RevCowgirlFP_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LybAFo\Sx\RevCowgirlFP\0SxOpS_Sx-RevCowgirlFP_S1_1.hkx
-b -Tn 0SxOpS_Sx-RevCowgirlFP_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LybAFo\Sx\RevCowgirlFP\0SxOpS_Sx-RevCowgirlFP_S2_0.hkx
-b -Tn 0SxOpS_Sx-RevCowgirlFP_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LybAFo\Sx\RevCowgirlFP\0SxOpS_Sx-RevCowgirlFP_S2_1.hkx
-b -Tn 0SxOpS_Sx-RevCowgirlFP_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LybAFo\Sx\RevCowgirlFP\0SxOpS_Sx-RevCowgirlFP_S3_0.hkx
-b -Tn 0SxOpS_Sx-RevCowgirlFP_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LybAFo\Sx\RevCowgirlFP\0SxOpS_Sx-RevCowgirlFP_S3_1.hkx
-
-b -Tn 0SxOpS_BJ-IndulgentBlowjobFP_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LybKne\BJ\IndulgentBlowjobFP\0SxOpS_BJ-IndulgentBlowjobFP_S0_0.hkx
-b -Tn 0SxOpS_BJ-IndulgentBlowjobFP_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LybKne\BJ\IndulgentBlowjobFP\0SxOpS_BJ-IndulgentBlowjobFP_S0_1.hkx
-b -Tn 0SxOpS_BJ-IndulgentBlowjobFP_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LybKne\BJ\IndulgentBlowjobFP\0SxOpS_BJ-IndulgentBlowjobFP_S1_0.hkx
-b -Tn 0SxOpS_BJ-IndulgentBlowjobFP_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LybKne\BJ\IndulgentBlowjobFP\0SxOpS_BJ-IndulgentBlowjobFP_S1_1.hkx
-b -Tn 0SxOpS_BJ-IndulgentBlowjobFP_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LybKne\BJ\IndulgentBlowjobFP\0SxOpS_BJ-IndulgentBlowjobFP_S2_0.hkx
-b -Tn 0SxOpS_BJ-IndulgentBlowjobFP_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LybKne\BJ\IndulgentBlowjobFP\0SxOpS_BJ-IndulgentBlowjobFP_S2_1.hkx
-b -Tn 0SxOpS_BJ-IndulgentBlowjobFP_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LybKne\BJ\IndulgentBlowjobFP\0SxOpS_BJ-IndulgentBlowjobFP_S3_0.hkx
-b -Tn 0SxOpS_BJ-IndulgentBlowjobFP_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LybKne\BJ\IndulgentBlowjobFP\0SxOpS_BJ-IndulgentBlowjobFP_S3_1.hkx
-
-b -a,Tn 0SxOpS_HJ-GoBackAceStandingHandjobSmooch_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceStandingHandjob\0SxOpS_HJ-GoBackAceStandingHandjobSmooch_0.hkx
-b -a,Tn 0SxOpS_HJ-GoBackAceStandingHandjobSmooch_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceStandingHandjob\0SxOpS_HJ-GoBackAceStandingHandjobSmooch_1.hkx
-b -a,Tn 0SxOpS_Ho-GoBackTripleSmooch_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaStaSta\Ho\Ace3PStandingHolding\0SxOpS_Ho-GoBackTripleSmooch_0.hkx
-b -a,Tn 0SxOpS_Ho-GoBackTripleSmooch_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaStaSta\Ho\Ace3PStandingHolding\0SxOpS_Ho-GoBackTripleSmooch_1.hkx
-b -a,Tn 0SxOpS_Ho-GoBackTripleSmooch_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaStaSta\Ho\Ace3PStandingHolding\0SxOpS_Ho-GoBackTripleSmooch_2.hkx
-b -a,Tn 0SxOpS_Ho-GoBackSpooningSmooch_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\0SxOpS_Ho-GoBackSpooningSmooch_0.hkx
-b -a,Tn 0SxOpS_Ho-GoBackSpooningSmooch_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\0SxOpS_Ho-GoBackSpooningSmooch_1.hkx
-b -a,Tn 0SxOpS_Ho-GoBackSittingFemaleApproachSmooch_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproach\0SxOpS_Ho-GoBackSittingFemaleApproachSmooch_0.hkx
-b -a,Tn 0SxOpS_Ho-GoBackSittingFemaleApproachSmooch_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproach\0SxOpS_Ho-GoBackSittingFemaleApproachSmooch_1.hkx
-b -a,Tn 0SxOpS_Sx-GoBackAce3PKneelingSexSmooch_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFoKne\Sx\Ace3PKneelingSex\0SxOpS_Sx-GoBackAce3PKneelingSexSmooch_0.hkx
-b -a,Tn 0SxOpS_Sx-GoBackAce3PKneelingSexSmooch_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFoKne\Sx\Ace3PKneelingSex\0SxOpS_Sx-GoBackAce3PKneelingSexSmooch_1.hkx
-b -a,Tn 0SxOpS_Sx-GoBackAce3PKneelingSexSmooch_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFoKne\Sx\Ace3PKneelingSex\0SxOpS_Sx-GoBackAce3PKneelingSexSmooch_2.hkx
-
-b -Tn 0SxOpS_Ap-ColiseumMaleStart_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSit\Ap\ColiseumMaleStart\0SxOpS_Ap-ColiseumMaleStart_0.hkx
-b -Tn 0SxOpS_Ap-ColiseumMaleStart_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSit\Ap\ColiseumMaleStart\0SxOpS_Ap-ColiseumMaleStart_1.hkx
-b -a,Tn 0SxOpS_Ap-GoToColiseumMaleStandingFemaleKneeling_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSit\Ap\ColiseumMaleStart\0SxOpS_Ap-GoToColiseumMaleStandingFemaleKneeling_0.hkx
-b -a,Tn 0SxOpS_Ap-GoToColiseumMaleStandingFemaleKneeling_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSit\Ap\ColiseumMaleStart\0SxOpS_Ap-GoToColiseumMaleStandingFemaleKneeling_1.hkx
-b -Tn 0SxOpS_Ap-ColiseumMaleStandingFemaleKneeling_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\ColiseumMaleStandingFemaleKneeling\0SxOpS_Ap-ColiseumMaleStandingFemaleKneeling_0.hkx
-b -Tn 0SxOpS_Ap-ColiseumMaleStandingFemaleKneeling_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\ColiseumMaleStandingFemaleKneeling\0SxOpS_Ap-ColiseumMaleStandingFemaleKneeling_1.hkx
-b -Tn 0SxOpS_Ap-ColiseumMaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SquSit\Ap\ColiseumMaleApproach\0SxOpS_Ap-ColiseumMaleApproach_0.hkx
-b -Tn 0SxOpS_Ap-ColiseumMaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SquSit\Ap\ColiseumMaleApproach\0SxOpS_Ap-ColiseumMaleApproach_1.hkx
-b -Tn 0SxOpS_Ho-ColiseumSpreadLegsFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\ColiseumSpreadLegsFemale\0SxOpS_Ho-ColiseumSpreadLegsFemale_0.hkx
-b -Tn 0SxOpS_Ho-ColiseumSpreadLegsFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\ColiseumSpreadLegsFemale\0SxOpS_Ho-ColiseumSpreadLegsFemale_1.hkx
-b -Tn 0SxOpS_Ho-ColiseumFemaleLyingToTheSide_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Ho\ColiseumFemaleLyingToTheSide\0SxOpS_Ho-ColiseumFemaleLyingToTheSide_0.hkx
-b -Tn 0SxOpS_Ho-ColiseumFemaleLyingToTheSide_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Ho\ColiseumFemaleLyingToTheSide\0SxOpS_Ho-ColiseumFemaleLyingToTheSide_1.hkx
-b -Tn 0SxOpS_Ho-ColiseumBentOverFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ho\ColiseumBentOverFemale\0SxOpS_Ho-ColiseumBentOverFemale_0.hkx
-b -Tn 0SxOpS_Ho-ColiseumBentOverFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ho\ColiseumBentOverFemale\0SxOpS_Ho-ColiseumBentOverFemale_1.hkx
-
-b -Tn 0SxOpS_Ap-ColiseumFemaleStart_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSta\Ap\ColiseumFemaleStart\0SxOpS_Ap-ColiseumFemaleStart_0.hkx
-b -Tn 0SxOpS_Ap-ColiseumFemaleStart_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSta\Ap\ColiseumFemaleStart\0SxOpS_Ap-ColiseumFemaleStart_1.hkx
-b -Tn 0SxOpS_Ap-ColiseumFemaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSqu\Ap\ColiseumFemaleApproach\0SxOpS_Ap-ColiseumFemaleApproach_0.hkx
-b -Tn 0SxOpS_Ap-ColiseumFemaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSqu\Ap\ColiseumFemaleApproach\0SxOpS_Ap-ColiseumFemaleApproach_1.hkx
-b -Tn 0SxOpS_Ap-ColiseumMountedFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Ap\ColiseumMountedFemale\0SxOpS_Ap-ColiseumMountedFemale_0.hkx
-b -Tn 0SxOpS_Ap-ColiseumMountedFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Ap\ColiseumMountedFemale\0SxOpS_Ap-ColiseumMountedFemale_1.hkx

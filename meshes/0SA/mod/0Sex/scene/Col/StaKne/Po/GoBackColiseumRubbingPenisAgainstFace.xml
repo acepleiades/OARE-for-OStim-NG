@@ -1,0 +1,19 @@
+<scene id="Col|Sta!Kne|Po|GoBackColiseumRubbingPenisAgainstFace" actors="2" style="OScene">
+<info name="Transition back from Rubbing Penis Against Face" animator="Ace"/>
+<anim id="0SxOpS_Ap-ColiseumMaleStandingFemaleKneeling" t="T" l="1" dest="Col|Sta!Kne|Ap|ColiseumMaleStandingFemaleKneeling">
+<mfx a= "1">
+<fx0 ti="0" cmd="EVNT">
+	<evnt cmd="actor" type="kiss" subtype="KissExit" drive="intimate">
+	<eyes><look v="-95" h="-90" vpan="5" hpan="10"/></eyes>
+	</evnt>
+</fx0>
+<fx1 ti="0" cmd="EVNT">
+	<evnt cmd="actor" type="kiss" subtype="KissExit" drive="intimate">
+	<eyes><look v="-95" h="-90" vpan="5" hpan="10"/></eyes>
+	</evnt>
+</fx1>
+</mfx>
+<dfx a="0" fx="1"/> 
+<dfx a="1" fx="1"/>
+</anim>
+</scene>
