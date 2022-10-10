@@ -30,9 +30,6 @@
 			<option halo="hgentle" icon="opowkiss_mf" go="OpS|Sta!Sta|Pf2|StandingKissFingering" text="^kissAndMasturbateN" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Sta|HJ|GoToAceStandingMutualMasturbation" text="^masturbateNAndViceVersa" t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
             <option halo="hgentle" icon="omu_lipspucker" go="OpS|Kne!Sta|VJ|KneelingCL" text="^performCunnilingusOnN" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
@@ -59,29 +56,32 @@
 			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Sta|HJ|AceStandingHandjob" text="^masturbateN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Sta|HJ|GoToAceStandingMutualMasturbation" text="^masturbateNAndViceVersa" t0="0">
+            <option halo="hgentle" icon="opowkiss_mf" go="OpS|Sta!Sta|HJ|GoToHandjobKiss" text="^kissAndMasturbateN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+			
 		</page>
 	</tab>
 <defaults/>
 </nav>
-<eyes a="0" facerel="0" actionrel="2" bodyrel="1">
-<primary v="0" h="0" vpan="10" hpan="10" />
-<face v="0" h="0" vpan="20" hpan="10" />
-<body v="0" h="0" vpan="-10" hpan="10" />
-<action v="0" h="0" vpan="-20" hpan="10" />
-<away v="0" h="0" vpan="10" hpan="20" />
+<eyes a="0" facerel="1" actionrel="1" bodyrel="1">
+<primary v="-5" h="5" vpan="10" hpan="10" />
+<face v="-10" h="10" vpan="20" hpan="10" />
+<body v="-5" h="-5" vpan="-10" hpan="10" />
+<action v="-10" h="-10" vpan="-20" hpan="10" />
+<away v="-5" h="0" vpan="10" hpan="20" />
 </eyes>	
-<eyes a="1" facerel="0" actionrel="2" bodyrel="1">
-<primary v="0" h="0" vpan="10" hpan="10" />
-<face v="0" h="0" vpan="20" hpan="10" />
-<body v="0" h="0" vpan="-10" hpan="10" />
-<action v="0" h="0" vpan="-20" hpan="10" />
-<away v="0" h="0" vpan="10" hpan="20" />
+<eyes a="1" facerel="1" actionrel="1" bodyrel="1">
+<primary v="10" h="5" vpan="10" hpan="10" />
+<face v="15" h="10" vpan="20" hpan="10" />
+<body v="20" h="-5" vpan="-10" hpan="10" />
+<action v="10" h="-10" vpan="-20" hpan="10" />
+<away v="15" h="0" vpan="10" hpan="20" />
 </eyes>
 <motif drive="intimate" theme="Affection"/>
 <motif drive="intimate" theme="Affection"/>
-<autonav>
-</autonav>
+<autonav/>
+<actors>
+    <actor position="0" penisAngle="-5"/>
+</actors>
 </scene>
