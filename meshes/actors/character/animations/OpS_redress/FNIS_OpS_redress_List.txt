@@ -1,0 +1,4 @@
+b -a,Tn redress_feet ..\..\..\..\0SA\mod\0Sex\anim\redressing\redress_feet.hkx
+b -a,Tn redress_hands ..\..\..\..\0SA\mod\0Sex\anim\redressing\redress_hands.hkx
+b -a,Tn redress_head ..\..\..\..\0SA\mod\0Sex\anim\redressing\redress_head.hkx
+b -a,Tn redress_torso ..\..\..\..\0SA\mod\0Sex\anim\redressing\redress_torso.hkx
