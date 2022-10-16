@@ -36,7 +36,7 @@
 			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceStandingHoldingSex" text="^sexStandingHolding" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceCarryingArmsWrapped" text="^sexStandingCarrying" t0="1">
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|StandingCarryingSex" text="^sexStandingCarrying" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
