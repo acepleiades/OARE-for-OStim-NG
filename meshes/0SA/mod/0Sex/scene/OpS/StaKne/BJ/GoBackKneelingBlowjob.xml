@@ -2,10 +2,10 @@
 <info name="Transition back from Kneeling Blowjob" animator="Ace"/>
 <anim id="_BJ-GoBackKneelingBlowjob" t="T" l="1" dest="OpS|Sta!Kne|Ho|MaleStandingFemaleKneeling">
 <mfx a= "1">
-<fx0 ti="0" cmd="BLS_MOUTH" suite="bj" suitecmd="df"/>
-<fx1 ti="0" cmd="BLS_MOUTH" suite="bj" suitecmd="df"/>
+<fx0 ti=".1" cmd="BLS_MOUTH" suite="bj" suitecmd="df"/>
+<fx1 ti=".1" cmd="BLS_MOUTH" suite="bj" suitecmd="df"/>
 </mfx>
 <dfx a="0" fx="1"/> 
 <dfx a="1" fx="1"/>
-</anim>
+</anim><actors><actor position="0" penisAngle="2"/><actor position="1" feetOnGround="0"/></actors>
 </scene>
