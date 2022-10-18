@@ -83,5 +83,5 @@
 <autonav/>
 <actors>
     <actor position="0" penisAngle="-5"/>
-</actors>
+    <actor position="1" feetOnGround="1"/></actors>
 </scene>

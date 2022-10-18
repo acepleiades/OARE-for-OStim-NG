@@ -2,7 +2,7 @@
 <info name="Standing Blowjob" animator="Ace"/>
 <region om="A" maj="K" min="K" stage="" step="" story=""/>
 <anim id="_BJ-KneelingBlowjob_S1" t="L" l="2"/>
-<speed a="1" min="0" max="3" name="thrusts">	
+<speed a="1" min="0" max="3" name="thrusts">
 	<sp mtx="^sucksPerSec" qnt=".5">
 		<anim id="_BJ-KneelingBlowjob_S1" t="L" l="2" i0="0" i1="0"/>
 		</sp>
@@ -56,5 +56,5 @@
 <motif drive="intimate" theme="R_Blowjob"/>
 <motif drive="intimate" theme="G_Blowjob"/>
 <autonav>		
-</autonav><actors><actor position="0" penisAngle="2"/></actors>
+</autonav><actors><actor position="0" penisAngle="2"/><actor position="1" feetOnGround="0"/></actors>
 </scene>
