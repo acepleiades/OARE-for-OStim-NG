@@ -3,5 +3,5 @@
 <anim id="_Em-GoToHoldingChinHug" t="T" l="2.5" dest="OpS|Sta!Sta|Em|HoldingChinHug">
 <dfx a="0" fx="1"/>
 <dfx a="1" fx="1"/>
-</anim>
+</anim><actors><actor position="0" penisAngle="-5"/><actor position="1" feetOnGround="1"/></actors>
 </scene>

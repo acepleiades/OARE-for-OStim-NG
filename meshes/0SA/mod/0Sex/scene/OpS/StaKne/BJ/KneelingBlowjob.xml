@@ -2,7 +2,7 @@
 <info name="Standing Blowjob" animator="Ace"/>
 <region om="A" maj="K" min="K" stage="" step="" story=""/>
 <anim id="_BJ-KneelingBlowjob_S1" t="L" l="2"/>
-<speed a="1" min="0" max="3" name="thrusts">	
+<speed a="1" min="0" max="3" name="thrusts">
 	<sp mtx="^sucksPerSec" qnt=".5">
 		<anim id="_BJ-KneelingBlowjob_S1" t="L" l="2" i0="0" i1="0"/>
 		</sp>
@@ -33,7 +33,7 @@
             <option halo="hgentle" icon="objbf_f" go="OpS|Sta!Kne|BJ|SquattingBlowjobMasturbation" text="^varyFellatioSquattingMasturbation">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="obigx" go="OpS|Sta!Kne|Ap|MaleStandingFemaleKneeling" text="^return" t0="0">
+            <option halo="hgentle" icon="obigx" go="OpS|Sta!Kne|BJ|GoBackKneelingBlowjob" text="^return" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
@@ -56,5 +56,5 @@
 <motif drive="intimate" theme="R_Blowjob"/>
 <motif drive="intimate" theme="G_Blowjob"/>
 <autonav>		
-</autonav>
+</autonav><actors><actor position="0" penisAngle="2"/><actor position="1" feetOnGround="0"/></actors>
 </scene>

@@ -25,5 +25,5 @@
 	</evnt>
 </fx1>
 </mfx>
-</anim>
+</anim><actors><actor position="0" penisAngle="-5"/><actor position="1" feetOnGround="1"/></actors>
 </scene>

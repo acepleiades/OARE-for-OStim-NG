@@ -27,22 +27,25 @@
 	</tab>
 	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
 </nav>
-<eyes a="0" facerel="0" actionrel="2" bodyrel="1">
-<primary v="-75" h="0" vpan="10" hpan="10"/>
-<face v="-75" h="0" vpan="10" hpan="10"/>
-<body v="-75" h="0" vpan="10" hpan="10"/>
-<action v="-75" h="0" vpan="10" hpan="10"/>
-<away v="-75" h="0" vpan="10" hpan="90"/>
+<eyes a="0" facerel="0" actionrel="1" bodyrel="2">
+<primary v="-50" h="0" vpan="10" hpan="10"/>
+<face v="-55" h="25" vpan="10" hpan="10"/>
+<body v="-65" h="20" vpan="10" hpan="10"/>
+<action v="-70" h="15" vpan="10" hpan="10"/>
+<away v="-50" h="10" vpan="10" hpan="90"/>
 </eyes>	
-<eyes a="1" facerel="0" actionrel="2" bodyrel="1">
-<primary v="-40" h="-35" vpan="10" hpan="10" />
-<face v="-40" h="-35" vpan="10" hpan="10" />
-<body v="-40" h="-35" vpan="10" hpan="10" />
-<action v="-40" h="-35" vpan="10" hpan="10" />
-<away v="-40" h="-35" vpan="40" hpan="80" />
+<eyes a="1" facerel="0" actionrel="1" bodyrel="2">
+<primary v="-60" h="10" vpan="10" hpan="10" />
+<face v="-50" h="20" vpan="10" hpan="10" />
+<body v="-40" h="30" vpan="10" hpan="10" />
+<action v="-30" h="40" vpan="10" hpan="10" />
+<away v="-20" h="50" vpan="40" hpan="80" />
 </eyes>
 <motif drive="intimate" theme="G_SexPhysRear"/>
 <motif drive="intimate" theme="R_SexPhysRear"/>
 <autonav>
 </autonav>
+<actors>
+    <actor position="0" penisAngle="7"/>
+<actor position="1" feetOnGround="1"/></actors>
 </scene>

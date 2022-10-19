@@ -1,4 +1,5 @@
 <scene id="OpS|Sta!Sta|Em|GoToDevourVampireBiteFemaleStanding" actors="2" style="OScene">
 <info name="Transition into Vampire Bite Female Standing" animator="Ace"/>
 <anim id="_Em-GoToDevourVampireBiteFemaleStanding" t="T" l="3" dest="OpS|Sta!Sta|Em|DevourVampireBiteFemaleStanding"/>
+<actor position="0" penisAngle="-5"/><actor position="1" feetOnGround="1"/></actors>
 </scene>
