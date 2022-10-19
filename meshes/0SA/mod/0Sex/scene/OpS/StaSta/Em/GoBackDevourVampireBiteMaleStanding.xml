@@ -1,5 +1,8 @@
 <scene id="OpS|Sta!Sta|Em|GoBackDevourVampireBiteMaleStanding" actors="2" style="OScene">
 <info name="Transition back from Vampire Bite Male Standing" animator="Ace"/>
 <anim id="_Em-GoBackDevourVampireBiteMaleStanding" t="T" l="2" dest="OpS|Sta!Sta|Em|DevourDrainedFemaleStanding"/>
-<actor position="0" penisAngle="-5"/><actor position="1" feetOnGround="1"/></actors>
+<actors>
+	<actor position="0" penisAngle="-5" feetOnGround="1"/>
+	<actor position="1" feetOnGround="1" tags="drowsy"/>
+</actors>
 </scene>

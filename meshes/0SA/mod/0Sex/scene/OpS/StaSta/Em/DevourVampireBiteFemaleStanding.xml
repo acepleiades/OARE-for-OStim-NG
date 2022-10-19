@@ -29,5 +29,12 @@
 <motif drive="intimate" theme="G_Blowjob"/>
 <motif drive="intimate" theme="Tender"/>
 <autonav>
-</autonav><actors><actor position="0" penisAngle="-5"/><actor position="1" feetOnGround="1"/></actors>
+</autonav>
+<actors>
+	<actor position="0" penisAngle="-5" feetOnGround="1"/>
+	<actor position="1" feetOnGround="1"/>
+</actors>
+<actions>
+	<action type="vampirebite" actor="1" target="0"/>
+</actions>
 </scene>
