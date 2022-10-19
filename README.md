@@ -26,7 +26,6 @@ How to install this mod: [Installation]
 
 Most animations were made by **[@acepleiades]** and additional idles were made by **Frolique**. <br>
 XML data has been built by **[@acepleiades]**, **[@VersuchDrei]** and **[@DragoFall]**. <br>
-OStimFixThirdScalingMain.psc and OStimHeelsFix.psc were written by **321mahra** and **Aietos**. These scripts are used to give the correct scaling to actors under certain circumstances. <br>
 Thanks to **[@ElectronicsArchiver]** for tidying up the repository.
 
 <br>
