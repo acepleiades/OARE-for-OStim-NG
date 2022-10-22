@@ -61,10 +61,6 @@ b -Tn _Em-DevourDrainedMaleStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\E
 
 b -Tn _Ho-StandingHolding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHolding\_Ho-StandingHolding_0.hkx
 b -Tn _Ho-StandingHolding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHolding\_Ho-StandingHolding_1.hkx
-b -a,Tn _Ho-GoToStandingHoldingFromBehind_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHolding\_Ho-GoToStandingHoldingFromBehind_0.hkx
-b -a,Tn _Ho-GoToStandingHoldingFromBehind_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHolding\_Ho-GoToStandingHoldingFromBehind_1.hkx
-b -a,Tn _Ho-GoToMaleStandingFemaleKneeling_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHolding\_Ho-GoToMaleStandingFemaleKneeling_0.hkx
-b -a,Tn _Ho-GoToMaleStandingFemaleKneeling_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHolding\_Ho-GoToMaleStandingFemaleKneeling_1.hkx
 b -Tn _Em-StandingHug_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\StandingHug\_Em-StandingHug_0.hkx
 b -Tn _Em-StandingHug_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\StandingHug\_Em-StandingHug_1.hkx
 b -Tn _Em-GentleEmbrace_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\GentleEmbrace\_Em-GentleEmbrace_0.hkx
@@ -160,6 +156,10 @@ b -Tn _Sx-AceStandingLotus_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceS
 
 b -Tn _Ho-StandingHoldingFromBehind_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHoldingFromBehind\_Ho-StandingHoldingFromBehind_0.hkx
 b -Tn _Ho-StandingHoldingFromBehind_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHoldingFromBehind\_Ho-StandingHoldingFromBehind_1.hkx
+b -Tn _Em-CuddleFromBehind_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\CuddleFromBehind\_Em-CuddleFromBehind_0.hkx
+b -Tn _Em-CuddleFromBehind_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\CuddleFromBehind\_Em-CuddleFromBehind_1.hkx
+b -Tn _Em-HugFromBehind_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\HugFromBehind\_Em-HugFromBehind_0.hkx
+b -Tn _Em-HugFromBehind_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\HugFromBehind\_Em-HugFromBehind_1.hkx
 b -Tn _Ho-StandingSpankIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingSpankIdle\_Ho-StandingSpankIdle_0.hkx
 b -Tn _Ho-StandingSpankIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingSpankIdle\_Ho-StandingSpankIdle_1.hkx
 b -a,Tn _Ho-StandingSpank_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingSpank\_Ho-StandingSpank_0.hkx
@@ -192,16 +192,14 @@ b -Tn _Pf2-AceFingeringFromBehind_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\
 b -Tn _Pf2-AceFingeringFromBehind_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Pf2\AceFingeringFromBehind\_Pf2-AceFingeringFromBehind_S3_1.hkx
 b -Tn _Pf2-AceFingeringFromBehind_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Pf2\AceFingeringFromBehind\_Pf2-AceFingeringFromBehind_S4_0.hkx
 b -Tn _Pf2-AceFingeringFromBehind_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Pf2\AceFingeringFromBehind\_Pf2-AceFingeringFromBehind_S4_1.hkx
-b -Tn _HJ-AceStandingThighfuck_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceStandingThighfuck\_HJ-AceStandingThighfuck_S1_0.hkx
-b -Tn _HJ-AceStandingThighfuck_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceStandingThighfuck\_HJ-AceStandingThighfuck_S1_1.hkx
-b -Tn _HJ-AceStandingThighfuck_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceStandingThighfuck\_HJ-AceStandingThighfuck_S2_0.hkx
-b -Tn _HJ-AceStandingThighfuck_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceStandingThighfuck\_HJ-AceStandingThighfuck_S2_1.hkx
-b -Tn _HJ-AceStandingThighfuck_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceStandingThighfuck\_HJ-AceStandingThighfuck_S3_0.hkx
-b -Tn _HJ-AceStandingThighfuck_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceStandingThighfuck\_HJ-AceStandingThighfuck_S3_1.hkx
-b -Tn _HJ-AceStandingThighfuck_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceStandingThighfuck\_HJ-AceStandingThighfuck_S4_0.hkx
-b -Tn _HJ-AceStandingThighfuck_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceStandingThighfuck\_HJ-AceStandingThighfuck_S4_1.hkx
-b -Tn _HJ-AceStandingThighfuck_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceStandingThighfuck\_HJ-AceStandingThighfuck_S5_0.hkx
-b -Tn _HJ-AceStandingThighfuck_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceStandingThighfuck\_HJ-AceStandingThighfuck_S5_1.hkx
+b -Tn _HJ-ThighfuckFromBehind_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\ThighfuckFromBehind\_HJ-ThighfuckFromBehind_S1_0.hkx
+b -Tn _HJ-ThighfuckFromBehind_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\ThighfuckFromBehind\_HJ-ThighfuckFromBehind_S1_1.hkx
+b -Tn _HJ-ThighfuckFromBehind_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\ThighfuckFromBehind\_HJ-ThighfuckFromBehind_S2_0.hkx
+b -Tn _HJ-ThighfuckFromBehind_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\ThighfuckFromBehind\_HJ-ThighfuckFromBehind_S2_1.hkx
+b -Tn _HJ-ThighfuckFromBehind_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\ThighfuckFromBehind\_HJ-ThighfuckFromBehind_S3_0.hkx
+b -Tn _HJ-ThighfuckFromBehind_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\ThighfuckFromBehind\_HJ-ThighfuckFromBehind_S3_1.hkx
+b -Tn _HJ-ThighfuckFromBehind_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\ThighfuckFromBehind\_HJ-ThighfuckFromBehind_S4_0.hkx
+b -Tn _HJ-ThighfuckFromBehind_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\ThighfuckFromBehind\_HJ-ThighfuckFromBehind_S4_1.hkx
 b -Tn _Sx-AceStandingSex_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingSex\_Sx-AceStandingSex_S1_0.hkx
 b -Tn _Sx-AceStandingSex_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingSex\_Sx-AceStandingSex_S1_1.hkx
 b -Tn _Sx-AceStandingSex_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingSex\_Sx-AceStandingSex_S2_0.hkx
