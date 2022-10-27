@@ -210,6 +210,14 @@ b -Tn _Sx-StandingRearSex_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\Stand
 b -Tn _Sx-StandingRearSex_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSex\_Sx-StandingRearSex_S3_1.hkx
 b -Tn _Sx-StandingRearSex_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSex\_Sx-StandingRearSex_S4_0.hkx
 b -Tn _Sx-StandingRearSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSex\_Sx-StandingRearSex_S4_1.hkx
+b -Tn _Sx-StandingRearSexNoHands_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexNoHands\_Sx-StandingRearSexNoHands_S1_0.hkx
+b -Tn _Sx-StandingRearSexNoHands_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexNoHands\_Sx-StandingRearSexNoHands_S1_1.hkx
+b -Tn _Sx-StandingRearSexNoHands_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexNoHands\_Sx-StandingRearSexNoHands_S2_0.hkx
+b -Tn _Sx-StandingRearSexNoHands_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexNoHands\_Sx-StandingRearSexNoHands_S2_1.hkx
+b -Tn _Sx-StandingRearSexNoHands_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexNoHands\_Sx-StandingRearSexNoHands_S3_0.hkx
+b -Tn _Sx-StandingRearSexNoHands_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexNoHands\_Sx-StandingRearSexNoHands_S3_1.hkx
+b -Tn _Sx-StandingRearSexNoHands_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexNoHands\_Sx-StandingRearSexNoHands_S4_0.hkx
+b -Tn _Sx-StandingRearSexNoHands_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexNoHands\_Sx-StandingRearSexNoHands_S4_1.hkx
 b -Tn _Sx-AceStandingSexForwardBend_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingSexForwardBend\_Sx-AceStandingSexForwardBend_S1_0.hkx
 b -Tn _Sx-AceStandingSexForwardBend_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingSexForwardBend\_Sx-AceStandingSexForwardBend_S1_1.hkx
 b -Tn _Sx-AceStandingSexForwardBend_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingSexForwardBend\_Sx-AceStandingSexForwardBend_S2_0.hkx
