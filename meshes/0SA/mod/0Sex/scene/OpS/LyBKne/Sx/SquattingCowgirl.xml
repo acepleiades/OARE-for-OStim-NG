@@ -50,5 +50,13 @@
 <motif drive="intimate" theme="G_SexPhysRear"/>
 <motif drive="intimate" theme="R_SexPhysRear"/>
 <autonav>
-</autonav><actors><actor position="0" penisAngle="-2"/><actor position="1" feetOnGround="0"/></actors>
+</autonav>
+<metadata tags="cowgirl"/>
+<actors>
+	<actor position="0" penisAngle="0" feetOnGround="0" tags="lyingback"/>
+	<actor position="1" feetOnGround="1" tags="squatting"/>
+</actors>
+<actions>
+	<action type="vaginalsex" actor="0" target="1" performer="1"/>
+</actions>
 </scene>

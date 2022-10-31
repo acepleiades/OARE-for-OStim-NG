@@ -15,4 +15,9 @@
 </fx1>
 </mfx>
 </anim>
+<metadata tags="transition"/>
+<actors>
+	<actor position="0" feetOnGround="0" tags="kneeling"/>
+	<actor position="1" feetOnGround="0" tags="lyingback"/>
+</actors>
 </scene>

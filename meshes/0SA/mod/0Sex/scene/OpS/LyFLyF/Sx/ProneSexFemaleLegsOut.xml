@@ -51,7 +51,12 @@
 <motif drive="intimate" theme="R_SexPhysRear"/>
 <autonav>
 </autonav>
+<metadata tags="prone"/>
 <actors>
-    <actor position="0" penisAngle="5"/>
-<actor position="1" feetOnGround="0"/></actors>
+    <actor position="0" penisAngle="5" feetOnGround="0" tags="lyingfront"/>
+	<actor position="1" feetOnGround="0" tags="lyingfront"/>
+</actors>
+<actions>
+	<action type="vaginalsex" actor="0" target="1"/>
+</actions>
 </scene>

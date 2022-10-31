@@ -46,5 +46,15 @@
 <motif drive="intimate" theme="G_SexPhysRear"/>
 <motif drive="intimate" theme="R_SexPhysRear"/>
 <autonav>
-</autonav><actors><actor position="0" penisAngle="2"/><actor position="1" feetOnGround="0"/><actor position="2" feetOnGround="0"/></actors>
+</autonav>
+<metadata tags="doggystyle"/>
+<actors>
+	<actor position="0" penisAngle="2" feetOnGround="0" tags="kneeling"/>
+	<actor position="1" feetOnGround="0" tags="allfours,facingaway"/>
+	<actor position="2" feetOnGround="0" tags="kneeling"/>
+</actors>
+<actions>
+	<action type="vaginalsex" actor="0" target="1"/>
+	<action type="kissing" actor="0" target="2"/>
+</actions>
 </scene>

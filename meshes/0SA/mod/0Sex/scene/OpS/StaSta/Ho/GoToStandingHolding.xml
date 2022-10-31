@@ -3,5 +3,10 @@
 <anim id="_Ho-GoToStandingHolding" t="T" l="2" dest="OpS|Sta!Sta|Ho|StandingHolding">
 <dfx a="0" fx="1"/>
 <dfx a="1" fx="1"/>
-</anim><actors><actor position="0" penisAngle="-5"/><actor position="1" feetOnGround="1"/></actors>
+</anim>
+<metadata tags="transition"/>
+<actors>
+	<actor position="0" penisAngle="-5" feetOnGround="1" tags="standing"/>
+	<actor position="1" feetOnGround="1" tags="standing"/>
+</actors>
 </scene>

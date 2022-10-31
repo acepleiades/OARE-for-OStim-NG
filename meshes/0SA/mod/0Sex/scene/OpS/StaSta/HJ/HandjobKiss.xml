@@ -41,6 +41,11 @@
 <motif drive="intimate" theme="G_Handjob"/>
 <autonav/>
 <actors>
-    <actor position="0" penisAngle="-3"/>
-<actor position="1" feetOnGround="1"/></actors>
+    <actor position="0" penisAngle="-3" feetOnGround="1" tags="standing"/>
+	<actor position="1" feetOnGround="1" tags="standing"/>
+</actors>
+<actions>
+	<action type="handjob" actor="1" target="0"/>
+	<action type="kissing" actor="0" target="1"/>
+</actions>
 </scene>

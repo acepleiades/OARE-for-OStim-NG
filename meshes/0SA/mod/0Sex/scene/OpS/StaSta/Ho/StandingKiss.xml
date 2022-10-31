@@ -36,5 +36,13 @@
 <motif drive="intimate" theme="Affection"/>
 <motif drive="intimate" theme="Affection"/>
 <autonav>
-</autonav><actors><actor position="0" penisAngle="-5"/><actor position="1" feetOnGround="1"/></actors>
+</autonav>
+<metadata tags="idle"/>
+<actors>
+	<actor position="0" penisAngle="-5" feetOnGround="1" tags="standing"/>
+	<actor position="1" feetOnGround="1" tags="standing"/>
+</actors>
+<actions>
+	<action type="kissing" actor="0" target="1"/>
+</actions>
 </scene>

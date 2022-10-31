@@ -31,8 +31,9 @@
 <motif drive="intimate" theme="Domineer"/>
 <autonav>
 </autonav>
+<metadata tags="idle"/>
 <actors>
-	<actor position="0" penisAngle="2" tags="drowsy"/>
-	<actor position="1" feetOnGround="0"/>
+	<actor position="0" penisAngle="2" feetOnGround="0" tags="drowsy,sitting"/>
+	<actor position="1" feetOnGround="0" tags="sitting"/>
 </actors>
 </scene>

@@ -31,8 +31,9 @@
 <motif drive="intimate" theme="Kiss"/>
 <autonav>
 </autonav>
+<metadata tags="idle"/>
 <actors>
-	<actor position="0" penisAngle="-5" feetOnGround="1"/>
-	<actor position="1" feetOnGround="1" tags="drowsy"/>
+	<actor position="0" penisAngle="-5" feetOnGround="1" tags="standing"/>
+	<actor position="1" feetOnGround="1" tags="drowsy,standing"/>
 </actors>
 </scene>

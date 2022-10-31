@@ -43,6 +43,12 @@
 </eyes>
 <motif drive="intimate" theme="R_Blowjob"/>
 <motif drive="intimate" theme="G_Blowjob"/>
-<autonav>		
-</autonav><actors><actor position="0" penisAngle="2"/><actor position="1" feetOnGround="1" scaleHeight="67"/></actors>
+<autonav>
+<actors>
+	<actor position="0" penisAngle="2" feetOnGround="1" scaleHeight="67" tags="standing"/>
+	<actor position="1" feetOnGround="1" scaleHeight="67" tags="squatting"/>
+</actors>
+<actions>
+	<action type="blowjob" actor="1" target="0"/>
+</actions>
 </scene>

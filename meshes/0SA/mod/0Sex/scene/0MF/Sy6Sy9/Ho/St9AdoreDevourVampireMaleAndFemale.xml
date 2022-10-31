@@ -92,5 +92,10 @@
 <motif drive="intimate" theme="Affection"/>
 <motif drive="intimate" theme="Affection"/>
 <autonav>
-</autonav><actors><actor position="0" penisAngle="6"/><actor position="1" feetOnGround="0"/></actors>
+</autonav>
+<metadata tags="idle"/>
+<actors>
+	<actor position="0" penisAngle="6" feetOnGround="1" tags="standing"/>
+	<actor position="1" feetOnGround="1" tags="standing"/>
+</actors>
 </scene>

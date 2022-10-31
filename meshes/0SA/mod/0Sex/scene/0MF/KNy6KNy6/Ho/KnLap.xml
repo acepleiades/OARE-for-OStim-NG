@@ -70,5 +70,9 @@
 <motif drive="intimate" theme="Affection"/>
 <motif drive="intimate" theme="Affection"/>
 <autonav>
-</autonav><actors><actor position="0" penisAngle="9"/><actor position="1" feetOnGround="0"/></actors>
+</autonav>
+<actors>
+	<actor position="0" penisAngle="9"/>
+	<actor position="1" feetOnGround="0"/>
+</actors>
 </scene>

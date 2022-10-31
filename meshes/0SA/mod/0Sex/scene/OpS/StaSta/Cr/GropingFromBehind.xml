@@ -41,5 +41,13 @@
 <motif drive="intimate" theme="Imminence"/>
 <motif drive="intimate" theme="G_Handjob"/>
 <autonav>
-</autonav><actors><actor position="0" penisAngle="-6"/><actor position="1" feetOnGround="1"/></actors>
+</autonav>
+<actors>
+	<actor position="0" penisAngle="-6" tags="standing"/>
+	<actor position="1" feetOnGround="1" tags="facingaway,standing"/>
+</actors>
+<actions>
+	<action type="rubbingclitoris" actor="0" target="1"/>
+	<action type="gropingbreast" actor="0" target="1"/>
+</actions>
 </scene>

@@ -60,6 +60,12 @@
 <motif drive="intimate" theme="Affection"/>
 <motif drive="intimate" theme="Affection"/>
 <autonav>
-</autonav><actors><actor position="0" penisAngle="1"/><actor position="1" feetOnGround="0"/><actor position="2" feetOnGround="0"/></actors>
+</autonav>
 <visitor ix="1" a="2"/>
+<metadata tags="idle"/>
+<actors>
+	<actor position="0" penisAngle="1" feetOnGround="0" tags="lyingback"/>
+	<actor position="1" feetOnGround="0" tags="kneeling"/>
+	<actor position="2" feetOnGround="0" tags="kneeling"/>
+</actors>
 </scene>
