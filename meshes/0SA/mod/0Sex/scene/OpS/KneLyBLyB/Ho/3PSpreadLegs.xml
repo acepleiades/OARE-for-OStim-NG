@@ -43,8 +43,8 @@
 <motif drive="intimate" theme="Affection"/>
 <motif drive="intimate" theme="Affection"/>
 <motif drive="intimate" theme="Affection"/>
-<autonav>
-</autonav>
+<autonav/>
+
 <visitor ix="1" a="2"/>
 <metadata tags="idle"/>
 <actors>

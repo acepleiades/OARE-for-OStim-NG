@@ -42,8 +42,8 @@
 </eyes>
 <motif drive="intimate" theme="G_SexPhysRear"/>
 <motif drive="intimate" theme="R_SexPhysRear"/>
-<autonav>
-</autonav>
+<autonav/>
+
 <actors>
 	<actor position="0" penisAngle="3" feetOnGround="1" tags="standing"/>
 	<actor position="1" feetOnGround="1" tags="bendover,facingaway,standing"/>

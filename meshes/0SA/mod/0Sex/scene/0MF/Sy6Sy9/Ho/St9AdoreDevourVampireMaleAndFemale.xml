@@ -91,8 +91,8 @@
 </eyes>
 <motif drive="intimate" theme="Affection"/>
 <motif drive="intimate" theme="Affection"/>
-<autonav>
-</autonav>
+<autonav/>
+
 <metadata tags="idle"/>
 <actors>
 	<actor position="0" penisAngle="6" feetOnGround="1" tags="standing"/>
