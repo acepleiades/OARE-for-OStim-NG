@@ -1,22 +1,22 @@
-<scene id="OpS|Sta!Sta|Sx|StandingRearSexMasturbation" actors="2" style="OScene">
-<info name="Standing Sex from Behind, Masturbation" animator="Ace"/>
+<scene id="OpS|Sta!Sta|Sx|StandingRearSexHoldingArms" actors="2" style="OScene">
+<info name="Standing Sex from Behind, Holding Arms" animator="Ace"/>
 <region om="A" maj="C" min="C" stage="" step="" story=""/>
-<anim id="_Sx-StandingRearSexMasturbation_S2" t="L" l="2"/>
+<anim id="_Sx-StandingRearSexHoldingArms_S2" t="L" l="2"/>
 <speed a="0" min="0" max="3" name="thrusts">
 	<sp mtx="^thrustsPerSec" qnt="0.5">
-		<anim id="_Sx-StandingRearSexMasturbation_S1" t="L" l="2" i0="0" i1="0"/></sp>
+		<anim id="_Sx-StandingRearSexHoldingArms_S1" t="L" l="2" i0="0" i1="0"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="1">
-		<anim id="_Sx-StandingRearSexMasturbation_S2" t="L" l="2" i0="1" i1="1"/></sp>
+		<anim id="_Sx-StandingRearSexHoldingArms_S2" t="L" l="2" i0="1" i1="1"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="1.5">
-		<anim id="_Sx-StandingRearSexMasturbation_S3" t="L" l="2" i0="2" i1="2"/></sp>
+		<anim id="_Sx-StandingRearSexHoldingArms_S3" t="L" l="2" i0="2" i1="2"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="2">
-		<anim id="_Sx-StandingRearSexMasturbation_S4" t="L" l="2" i0="3" i1="3"/></sp>
+		<anim id="_Sx-StandingRearSexHoldingArms_S4" t="L" l="2" i0="3" i1="3"/></sp>
 </speed>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Sx|StandingRearSexNoHands" text="^return" t0="1">
+            <option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Sx|StandingRearSex" text="^return" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
@@ -39,14 +39,12 @@
 </eyes>
 <motif drive="intimate" theme="G_SexPhysRear"/>
 <motif drive="intimate" theme="R_SexPhysRear"/>
-<autonav>
-</autonav>
+<autonav/>
 <actors>
-	<actor position="0" penisAngle="3" feetOnGround="1" tags="standing"/>
+	<actor position="0" penisAngle="8" feetOnGround="1" tags="standing"/>
 	<actor position="1" feetOnGround="1" tags="bendover,facingaway,standing"/>
 </actors>
 <actions>
 	<action type="vaginalsex" actor="0" target="1"/>
-    <action type="masturbation" actor="1" target="1"/>
 </actions>
 </scene>

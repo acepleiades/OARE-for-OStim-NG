@@ -226,6 +226,14 @@ b -Tn _Sx-StandingRearSexMasturbation_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\Sta
 b -Tn _Sx-StandingRearSexMasturbation_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexMasturbation\_Sx-StandingRearSexMasturbation_S3_1.hkx
 b -Tn _Sx-StandingRearSexMasturbation_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexMasturbation\_Sx-StandingRearSexMasturbation_S4_0.hkx
 b -Tn _Sx-StandingRearSexMasturbation_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexMasturbation\_Sx-StandingRearSexMasturbation_S4_1.hkx
+b -Tn _Sx-StandingRearSexHoldingArms_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexHoldingArms\_Sx-StandingRearSexHoldingArms_S1_0.hkx
+b -Tn _Sx-StandingRearSexHoldingArms_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexHoldingArms\_Sx-StandingRearSexHoldingArms_S1_1.hkx
+b -Tn _Sx-StandingRearSexHoldingArms_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexHoldingArms\_Sx-StandingRearSexHoldingArms_S2_0.hkx
+b -Tn _Sx-StandingRearSexHoldingArms_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexHoldingArms\_Sx-StandingRearSexHoldingArms_S2_1.hkx
+b -Tn _Sx-StandingRearSexHoldingArms_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexHoldingArms\_Sx-StandingRearSexHoldingArms_S3_0.hkx
+b -Tn _Sx-StandingRearSexHoldingArms_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexHoldingArms\_Sx-StandingRearSexHoldingArms_S3_1.hkx
+b -Tn _Sx-StandingRearSexHoldingArms_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexHoldingArms\_Sx-StandingRearSexHoldingArms_S4_0.hkx
+b -Tn _Sx-StandingRearSexHoldingArms_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\StandingRearSexHoldingArms\_Sx-StandingRearSexHoldingArms_S4_1.hkx
 b -Tn _Sx-AceStandingSexForwardBend_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingSexForwardBend\_Sx-AceStandingSexForwardBend_S1_0.hkx
 b -Tn _Sx-AceStandingSexForwardBend_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingSexForwardBend\_Sx-AceStandingSexForwardBend_S1_1.hkx
 b -Tn _Sx-AceStandingSexForwardBend_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceStandingSexForwardBend\_Sx-AceStandingSexForwardBend_S2_0.hkx
