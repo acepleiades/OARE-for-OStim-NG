@@ -46,8 +46,8 @@
 <motif drive="intimate" theme="G_SexPhysRear"/>
 <motif drive="intimate" theme="R_SexPhysRear"/>
 <motif drive="intimate" theme="Affection"/>
-<autonav>
-</autonav>
+<autonav/>
+
 <metadata tags="cowgirl"/>
 <actors>
 	<actor position="0" penisAngle="1" feetOnGround="0" tags="lyingback"/>

@@ -32,8 +32,8 @@
 </eyes>
 <motif drive="intimate" theme="Imminence"/>
 <motif drive="intimate" theme="Tender"/>
-<autonav>
-</autonav>
+<autonav/>
+
 <metadata tags="cuddling,idle"/>
 <actors>
 	<actor position="0" penisAngle="-7" feetOnGround="1" tags="standing"/>

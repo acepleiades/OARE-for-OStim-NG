@@ -33,8 +33,8 @@
 </eyes>
 <motif drive="intimate" theme="Affection"/>
 <motif drive="intimate" theme="Affection"/>
-<autonav>
-</autonav>
+<autonav/>
+
 <actors>
 	<actor position="0" penisAngle="2" feetOnGround="0" tags="lyingback"/>
 	<actor position="1" feetOnGround="0" tags="lyingfront"/>
