@@ -30,5 +30,10 @@
 <motif drive="intimate" theme="Submissive"/>
 <motif drive="intimate" theme="Domineer"/>
 <autonav>
-</autonav><actors><actor position="0" penisAngle="2"/><actor position="1" feetOnGround="1"/></actors>
+</autonav>
+<metadata tags="idle"/>
+<actors>
+	<actor position="0" penisAngle="2" feetOnGround="0" tags="lyingback"/>
+	<actor position="1" feetOnGround="1" tags="standing"/>
+</actors>
 </scene>

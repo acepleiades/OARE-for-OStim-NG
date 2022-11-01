@@ -43,5 +43,14 @@
 <motif drive="intimate" theme="R_Handjob"/>
 <motif drive="intimate" theme="G_Handjob"/>
 <autonav>
-</autonav><actors><actor position="0" penisAngle="2"/><actor position="1" feetOnGround="0"/></actors>
+</autonav>
+<actors>
+	<actor position="0" penisAngle="2" feetOnGround="0" tags="lyingback">
+		<autotransition type="climax" destination="OpS|LyB!Kne|HJ|AceLyingHandjob_MaleClimax"/>
+	</actor>
+	<actor position="1" feetOnGround="0" tags="kneeling"/>
+</actors>
+<actions>
+	<action type="handjob" actor="1" target="0"/>
+</actions>
 </scene>

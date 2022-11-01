@@ -31,8 +31,8 @@
 <autonav>
 </autonav>
 <actors>
-	<actor position="0" penisAngle="-5" feetOnGround="1"/>
-	<actor position="1" feetOnGround="1"/>
+	<actor position="0" penisAngle="-5" feetOnGround="1" tags="standing"/>
+	<actor position="1" feetOnGround="1" tags="standing"/>
 </actors>
 <actions>
 	<action type="vampirebite" actor="0" target="1"/>

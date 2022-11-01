@@ -25,5 +25,13 @@
 	</evnt>
 </fx1>
 </mfx>
-</anim><actors><actor position="0" penisAngle="-5"/><actor position="1" feetOnGround="1"/></actors>
+</anim>
+<metadata tags="transition"/>
+<actors>
+	<actor position="0" penisAngle="-5" feetOnGround="1" tags="kissing,standing"/>
+	<actor position="1" feetOnGround="1" tags="kissing,standing"/>
+</actors>
+<actions>
+	<action type="handjob" actor="1" target="0"/>
+</actions>
 </scene>

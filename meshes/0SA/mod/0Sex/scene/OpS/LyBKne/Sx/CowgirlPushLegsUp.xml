@@ -45,7 +45,12 @@
 <motif drive="intimate" theme="R_SexPhysRear"/>
 <autonav>
 </autonav>
+<metadata tags="cowgirl"/>
 <actors>
-    <actor position="0" penisAngle="-8"/>
-<actor position="1" feetOnGround="0"/></actors>
+	<actor position="0" penisAngle="-8" feetOnGround="0" tags="lyingback"/>
+	<actor position="1" feetOnGround="0" tags="kneeling"/>
+</actors>
+<actions>
+	<action type="vaginalsex" actor="0" target="1" performer="1"/>
+</actions>
 </scene>

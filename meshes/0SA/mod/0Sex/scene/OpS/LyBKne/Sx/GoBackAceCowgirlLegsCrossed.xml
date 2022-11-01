@@ -4,4 +4,12 @@
 <dfx a="0" fx="1"/>
 <dfx a="1" fx="1"/>
 </anim>
+<metadata tags="cowgirl,transition"/>
+<actors>
+	<actor position="0" penisAngle="0" feetOnGround="0" tags="lyingback"/>
+	<actor position="1" feetOnGround="0" tags="kneeling"/>
+</actors>
+<actions>
+	<action type="vaginalsex" actor="0" target="1" performer="1"/>
+</actions>
 </scene>

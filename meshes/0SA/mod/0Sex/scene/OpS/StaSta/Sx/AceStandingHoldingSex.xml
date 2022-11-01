@@ -46,6 +46,10 @@
 <autonav>
 </autonav>
 <actors>
-    <actor position="0" penisAngle="7"/>
-<actor position="1" feetOnGround="1"/></actors>
+	<actor position="0" penisAngle="7" feetOnGround="1" tags="standing"/>
+	<actor position="1" feetOnGround="1" tags="standing"/>
+</actors>
+<actions>
+	<action type="vaginalsex" actor="0" target="1"/>
+</actions>
 </scene>

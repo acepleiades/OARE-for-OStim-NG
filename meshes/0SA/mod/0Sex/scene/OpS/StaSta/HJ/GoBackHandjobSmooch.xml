@@ -1,32 +1,10 @@
 <scene id="OpS|Sta!Sta|HJ|GoBackHandjobSmooch" actors="2" style="OScene">
 <info name="Transition back from Kissing Handjob" animator="Ace"/>
 <anim id="_HJ-GoBackHandjobSmooch" t="T" l="1" dest="OpS|Sta!Sta|Ho|StandingHolding">
-<mfx a= "0">
-<fx0 ti="0" cmd="EVNT">
-	<evnt cmd="actor" type="kiss" subtype="KissExit" drive="intimate">
-	<eyes><look v="-95" h="-90" vpan="5" hpan="10"/></eyes>
-	</evnt>
-</fx0>
-<fx1 ti="0" cmd="EVNT">
-	<evnt cmd="actor" type="kiss" subtype="KissExit" drive="intimate">
-	<eyes><look v="-95" h="-90" vpan="5" hpan="10"/></eyes>
-	</evnt>
-</fx1>
-</mfx>
-<mfx a= "1">
-<fx0 ti="0" cmd="EVNT">
-	<evnt cmd="actor" type="kiss" subtype="KissExit" drive="intimate">
-	<eyes><look v="-95" h="-90" vpan="5" hpan="10"/></eyes>
-	</evnt>
-</fx0>
-<fx1 ti="0" cmd="EVNT">
-	<evnt cmd="actor" type="kiss" subtype="KissExit" drive="intimate">
-	<eyes><look v="-95" h="-90" vpan="5" hpan="10"/></eyes>
-	</evnt>
-</fx1>
-</mfx>
 </anim>
+<metadata tags="transition"/>
 <actors>
-    <actor position="0" penisAngle="-5"/>
-    <actor position="1" feetOnGround="1"/></actors>
+    <actor position="0" penisAngle="-5" feetOnGround="1" tags="standing"/>
+    <actor position="1" feetOnGround="1" tags="standing"/>
+</actors>
 </scene>
