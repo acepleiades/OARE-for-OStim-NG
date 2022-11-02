@@ -1090,3 +1090,5 @@ b -Tn _VHJ-AceLesbian69Fingering_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\V
 b -Tn _VHJ-AceLesbian69Fingering_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\VHJ\AceLesbian69Fingering\_VHJ-AceLesbian69Fingering_S4_1.hkx
 b -Tn _VHJ-AceLesbian69Fingering_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\VHJ\AceLesbian69Fingering\_VHJ-AceLesbian69Fingering_S5_0.hkx
 b -Tn _VHJ-AceLesbian69Fingering_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\VHJ\AceLesbian69Fingering\_VHJ-AceLesbian69Fingering_S5_1.hkx
+b -Tn _Ho-OPLesbianTransition_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\_Ho-OPLesbianTransition_0.hkx
+b -Tn _Ho-OPLesbianTransition_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\_Ho-OPLesbianTransition_1.hkx
