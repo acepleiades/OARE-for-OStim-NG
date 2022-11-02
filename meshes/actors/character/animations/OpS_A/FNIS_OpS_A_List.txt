@@ -668,6 +668,9 @@ b -Tn _Sx-AceCowgirlLegsCrossed_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx
 b -Tn _Sx-AceCowgirlLegsCrossed_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\AceCowgirlLegsCrossed\_Sx-AceCowgirlLegsCrossed_S3_1.hkx
 b -Tn _Sx-AceCowgirlLegsCrossed_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\AceCowgirlLegsCrossed\_Sx-AceCowgirlLegsCrossed_S4_0.hkx
 b -Tn _Sx-AceCowgirlLegsCrossed_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\AceCowgirlLegsCrossed\_Sx-AceCowgirlLegsCrossed_S4_1.hkx
+
+b -Tn _Ho-ReverseMountedFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\ReverseMountedFemale\_Ho-ReverseMountedFemale_0.hkx
+b -Tn _Ho-ReverseMountedFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\ReverseMountedFemale\_Ho-ReverseMountedFemale_1.hkx
 b -Tn _Sx-AceReverseCowgirlMounted_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\_Sx-AceReverseCowgirlMounted_S1_0.hkx
 b -Tn _Sx-AceReverseCowgirlMounted_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\_Sx-AceReverseCowgirlMounted_S1_1.hkx
 b -Tn _Sx-AceReverseCowgirlMounted_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\_Sx-AceReverseCowgirlMounted_S2_0.hkx
