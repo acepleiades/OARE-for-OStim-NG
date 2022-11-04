@@ -17,7 +17,7 @@
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="Faster" minustext="Slower" t0="0"/>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="ohjugs2_9_f" go="Col|LyB!Kne|HJ|ColiseumLyingHandjob_Climax" text="Climax." t0="1">
+			<option halo="hgentle" icon="ohjugs2_9_f" go="Col|LyB!Kne|HJ|ColiseumLyingHandjob_MaleClimax" text="Climax." t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue><ihue n="gx" cmd="rg" a="0"/>
 			</option>
 			<option halo="hgentle" icon="obigx" go="Col|LyB!Sit|Ap|ColiseumMountedFemale" text="Stop stroking him." t0="0">

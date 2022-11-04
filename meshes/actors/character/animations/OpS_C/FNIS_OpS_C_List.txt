@@ -68,7 +68,6 @@ b -Tn _Sx-ColiseumRearKneelingSexVariation_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\Co
 b -Tn _Sx-ColiseumRearKneelingSexVariation_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneKne\Sx\ColiseumRearKneelingSex\_Sx-ColiseumRearKneelingSexVariation_S3_1.hkx
 b -Tn _Sx-ColiseumRearKneelingSexVariation_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneKne\Sx\ColiseumRearKneelingSex\_Sx-ColiseumRearKneelingSexVariation_S4_0.hkx
 b -Tn _Sx-ColiseumRearKneelingSexVariation_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneKne\Sx\ColiseumRearKneelingSex\_Sx-ColiseumRearKneelingSexVariation_S4_1.hkx
-b -Tn _Sx-ColiseumRearKneelingSexVariation_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneKne\Sx\ColiseumRearKneelingSex\_Sx-ColiseumRearKneelingSexVariation_S4_1.hkx
 
 b -Tn _Ho-ColiseumMissionaryLegsHeld_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Ho\ColiseumMissionaryLegsHeld_AfterClimax\_Ho-ColiseumMissionaryLegsHeld_AfterClimax_0.hkx
 b -Tn _Ho-ColiseumMissionaryLegsHeld_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Ho\ColiseumMissionaryLegsHeld_AfterClimax\_Ho-ColiseumMissionaryLegsHeld_AfterClimax_1.hkx
@@ -76,10 +75,10 @@ b -Tn _Ho-ColiseumMissionaryLegsUp_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\C
 b -Tn _Ho-ColiseumMissionaryLegsUp_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Ho\ColiseumMissionaryLegsUp_AfterClimax\_Ho-ColiseumMissionaryLegsUp_AfterClimax_1.hkx
 b -Tn _Ho-ColiseumSpreadLegsFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Ho\ColiseumSpreadLegsFemale\_Ho-ColiseumSpreadLegsFemale_0.hkx
 b -Tn _Ho-ColiseumSpreadLegsFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Ho\ColiseumSpreadLegsFemale\_Ho-ColiseumSpreadLegsFemale_1.hkx
-b -Tn _Po-AceMissionaryLegsHeld_MaleClimaxPullOutJO_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Po\ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO\_Po-AceMissionaryLegsHeld_MaleClimaxPullOutJO_0.hkx
-b -Tn _Po-AceMissionaryLegsHeld_MaleClimaxPullOutJO_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Po\ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO\_Po-AceMissionaryLegsHeld_MaleClimaxPullOutJO_1.hkx
-b -Tn _Po-AceMissionaryLegsHeld_PullOutGoBack_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Po\ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO\_Po-AceMissionaryLegsHeld_PullOutGoBack_0.hkx
-b -Tn _Po-AceMissionaryLegsHeld_PullOutGoBack_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Po\ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO\_Po-AceMissionaryLegsHeld_PullOutGoBack_1.hkx
+b -Tn _Po-ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Po\ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO\_Po-ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO_0.hkx
+b -Tn _Po-ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Po\ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO\_Po-ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO_1.hkx
+b -a,Tn _Po-ColiseumMissionaryLegsHeld_PullOutGoBack_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Po\ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO\_Po-ColiseumMissionaryLegsHeld_PullOutGoBack_0.hkx
+b -a,Tn _Po-ColiseumMissionaryLegsHeld_PullOutGoBack_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Po\ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO\_Po-ColiseumMissionaryLegsHeld_PullOutGoBack_1.hkx
 b -Tn _Sx-ColiseumMissionary_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionary\_Sx-ColiseumMissionary_S1_0.hkx
 b -Tn _Sx-ColiseumMissionary_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionary\_Sx-ColiseumMissionary_S1_1.hkx
 b -Tn _Sx-ColiseumMissionary_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionary\_Sx-ColiseumMissionary_S2_0.hkx
@@ -88,10 +87,10 @@ b -Tn _Sx-ColiseumMissionary_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\Co
 b -Tn _Sx-ColiseumMissionary_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionary\_Sx-ColiseumMissionary_S3_1.hkx
 b -Tn _Sx-ColiseumMissionary_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionary\_Sx-ColiseumMissionary_S4_0.hkx
 b -Tn _Sx-ColiseumMissionary_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionary\_Sx-ColiseumMissionary_S4_1.hkx
-b -Tn _Sx-ColiseumMissionaryLegsHeld_MaleClimaxInternal_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsHeld\_Sx-ColiseumMissionaryLegsHeld_MaleClimaxInternal_0.hkx
-b -Tn _Sx-ColiseumMissionaryLegsHeld_MaleClimaxInternal_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsHeld\_Sx-ColiseumMissionaryLegsHeld_MaleClimaxInternal_1.hkx
-b -Tn _Sx-ColiseumMissionaryLegsHeld_PullOut_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsHeld\_Sx-ColiseumMissionaryLegsHeld_PullOut_0.hkx
-b -Tn _Sx-ColiseumMissionaryLegsHeld_PullOut_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsHeld\_Sx-ColiseumMissionaryLegsHeld_PullOut_1.hkx
+b -a,Tn _Sx-ColiseumMissionaryLegsHeld_MaleClimaxInternal_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsHeld\_Sx-ColiseumMissionaryLegsHeld_MaleClimaxInternal_0.hkx
+b -a,Tn _Sx-ColiseumMissionaryLegsHeld_MaleClimaxInternal_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsHeld\_Sx-ColiseumMissionaryLegsHeld_MaleClimaxInternal_1.hkx
+b -a,Tn _Sx-ColiseumMissionaryLegsHeld_PullOut_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsHeld\_Sx-ColiseumMissionaryLegsHeld_PullOut_0.hkx
+b -a,Tn _Sx-ColiseumMissionaryLegsHeld_PullOut_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsHeld\_Sx-ColiseumMissionaryLegsHeld_PullOut_1.hkx
 b -Tn _Sx-ColiseumMissionaryLegsHeld_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsHeld\_Sx-ColiseumMissionaryLegsHeld_S1_0.hkx
 b -Tn _Sx-ColiseumMissionaryLegsHeld_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsHeld\_Sx-ColiseumMissionaryLegsHeld_S1_1.hkx
 b -Tn _Sx-ColiseumMissionaryLegsHeld_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsHeld\_Sx-ColiseumMissionaryLegsHeld_S2_0.hkx
@@ -102,8 +101,8 @@ b -Tn _Sx-ColiseumMissionaryLegsHeld_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneL
 b -Tn _Sx-ColiseumMissionaryLegsHeld_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsHeld\_Sx-ColiseumMissionaryLegsHeld_S4_1.hkx
 b -Tn _Sx-ColiseumMissionaryLegsHeld_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsHeld\_Sx-ColiseumMissionaryLegsHeld_S5_0.hkx
 b -Tn _Sx-ColiseumMissionaryLegsHeld_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsHeld\_Sx-ColiseumMissionaryLegsHeld_S5_1.hkx
-b -Tn _Sx-ColiseumMissionaryLegsUp_MutualClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsUp\_Sx-ColiseumMissionaryLegsUp_MutualClimax_0.hkx
-b -Tn _Sx-ColiseumMissionaryLegsUp_MutualClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsUp\_Sx-ColiseumMissionaryLegsUp_MutualClimax_1.hkx
+b -a,Tn _Sx-ColiseumMissionaryLegsUp_MutualClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsUp\_Sx-ColiseumMissionaryLegsUp_MutualClimax_0.hkx
+b -a,Tn _Sx-ColiseumMissionaryLegsUp_MutualClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsUp\_Sx-ColiseumMissionaryLegsUp_MutualClimax_1.hkx
 b -Tn _Sx-ColiseumMissionaryLegsUp_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsUp\_Sx-ColiseumMissionaryLegsUp_S1_0.hkx
 b -Tn _Sx-ColiseumMissionaryLegsUp_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsUp\_Sx-ColiseumMissionaryLegsUp_S1_1.hkx
 b -Tn _Sx-ColiseumMissionaryLegsUp_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Sx\ColiseumMissionaryLegsUp\_Sx-ColiseumMissionaryLegsUp_S2_0.hkx
@@ -124,8 +123,6 @@ b -Tn _Sx-ColiseumFemaleLyingOnSideSex_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\Kn
 b -Tn _Sx-ColiseumFemaleLyingOnSideSex_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyS\Sx\ColiseumFemaleLyingOnSideSex\_Sx-ColiseumFemaleLyingOnSideSex_S4_0.hkx
 b -Tn _Sx-ColiseumFemaleLyingOnSideSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyS\Sx\ColiseumFemaleLyingOnSideSex\_Sx-ColiseumFemaleLyingOnSideSex_S4_1.hkx
 
-b -Tn _BJ-ColiseumLyingBlowjob_Climax_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\BJ\ColiseumLyingBlowjob\_BJ-ColiseumLyingBlowjob_Climax_0.hkx
-b -Tn _BJ-ColiseumLyingBlowjob_Climax_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\BJ\ColiseumLyingBlowjob\_BJ-ColiseumLyingBlowjob_Climax_1.hkx
 b -Tn _BJ-ColiseumLyingBlowjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\BJ\ColiseumLyingBlowjob\_BJ-ColiseumLyingBlowjob_S1_0.hkx
 b -Tn _BJ-ColiseumLyingBlowjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\BJ\ColiseumLyingBlowjob\_BJ-ColiseumLyingBlowjob_S1_1.hkx
 b -Tn _BJ-ColiseumLyingBlowjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\BJ\ColiseumLyingBlowjob\_BJ-ColiseumLyingBlowjob_S2_0.hkx
@@ -138,8 +135,8 @@ b -Tn _BJ-GoBackColiseumLyingBlowjob_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\
 b -Tn _BJ-GoBackColiseumLyingBlowjob_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\BJ\ColiseumLyingBlowjob\_BJ-GoBackColiseumLyingBlowjob_1.hkx
 b -Tn _BJ-GoToColiseumLyingBlowjob_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\BJ\ColiseumLyingBlowjob\_BJ-GoToColiseumLyingBlowjob_0.hkx
 b -Tn _BJ-GoToColiseumLyingBlowjob_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\BJ\ColiseumLyingBlowjob\_BJ-GoToColiseumLyingBlowjob_1.hkx
-b -Tn _HJ-ColiseumLyingHandjob_MaleClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\HJ\ColiseumLyingHandjob\_HJ-ColiseumLyingHandjob_MaleClimax_0.hkx
-b -Tn _HJ-ColiseumLyingHandjob_MaleClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\HJ\ColiseumLyingHandjob\_HJ-ColiseumLyingHandjob_MaleClimax_1.hkx
+b -a,Tn _HJ-ColiseumLyingHandjob_MaleClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\HJ\ColiseumLyingHandjob\_HJ-ColiseumLyingHandjob_MaleClimax_0.hkx
+b -a,Tn _HJ-ColiseumLyingHandjob_MaleClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\HJ\ColiseumLyingHandjob\_HJ-ColiseumLyingHandjob_MaleClimax_1.hkx
 b -Tn _HJ-ColiseumLyingHandjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\HJ\ColiseumLyingHandjob\_HJ-ColiseumLyingHandjob_S1_0.hkx
 b -Tn _HJ-ColiseumLyingHandjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\HJ\ColiseumLyingHandjob\_HJ-ColiseumLyingHandjob_S1_1.hkx
 b -Tn _HJ-ColiseumLyingHandjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\HJ\ColiseumLyingHandjob\_HJ-ColiseumLyingHandjob_S2_0.hkx
@@ -148,14 +145,6 @@ b -Tn _HJ-ColiseumLyingHandjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\HJ\
 b -Tn _HJ-ColiseumLyingHandjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\HJ\ColiseumLyingHandjob\_HJ-ColiseumLyingHandjob_S3_1.hkx
 b -Tn _HJ-ColiseumLyingHandjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\HJ\ColiseumLyingHandjob\_HJ-ColiseumLyingHandjob_S4_0.hkx
 b -Tn _HJ-ColiseumLyingHandjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\HJ\ColiseumLyingHandjob\_HJ-ColiseumLyingHandjob_S4_1.hkx
-b -Tn _Ho-ColiseumLyingBlowjob_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\Ho\ColiseumLyingBlowjob\_Ho-ColiseumLyingBlowjob_AfterClimax_0.hkx
-b -Tn _Ho-ColiseumLyingBlowjob_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\Ho\ColiseumLyingBlowjob\_Ho-ColiseumLyingBlowjob_AfterClimax_1.hkx
-b -Tn _Ho-ColiseumLyingBlowjob_AfterClimax2_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\Ho\ColiseumLyingBlowjob\_Ho-ColiseumLyingBlowjob_AfterClimax2_0.hkx
-b -Tn _Ho-ColiseumLyingBlowjob_AfterClimax2_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\Ho\ColiseumLyingBlowjob\_Ho-ColiseumLyingBlowjob_AfterClimax2_1.hkx
-b -Tn _Ho-ColiseumLyingBlowjob_ClimaxSpitOut_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\Ho\ColiseumLyingBlowjob\_Ho-ColiseumLyingBlowjob_ClimaxSpitOut_0.hkx
-b -Tn _Ho-ColiseumLyingBlowjob_ClimaxSpitOut_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\Ho\ColiseumLyingBlowjob\_Ho-ColiseumLyingBlowjob_ClimaxSpitOut_1.hkx
-b -Tn _Ho-ColiseumLyingBlowjob_ClimaxSwallow_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\Ho\ColiseumLyingBlowjob\_Ho-ColiseumLyingBlowjob_ClimaxSwallow_0.hkx
-b -Tn _Ho-ColiseumLyingBlowjob_ClimaxSwallow_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\Ho\ColiseumLyingBlowjob\_Ho-ColiseumLyingBlowjob_ClimaxSwallow_1.hkx
 b -Tn _Ho-ColiseumLyingHandjob_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\Ho\ColiseumLyingHandjob_AfterClimax\_Ho-ColiseumLyingHandjob_AfterClimax_0.hkx
 b -Tn _Ho-ColiseumLyingHandjob_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\Ho\ColiseumLyingHandjob_AfterClimax\_Ho-ColiseumLyingHandjob_AfterClimax_1.hkx
 b -Tn _Sx-ColiseumCowgirl_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\Sx\ColiseumCowgirl\_Sx-ColiseumCowgirl_S1_0.hkx
@@ -183,8 +172,8 @@ b -Tn _Sx-ColiseumReverseCowgirlMounted_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\L
 b -Tn _Sx-ColiseumReverseCowgirlMounted_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\Sx\ColiseumReverseCowgirlMounted\_Sx-ColiseumReverseCowgirlMounted_S4_0.hkx
 b -Tn _Sx-ColiseumReverseCowgirlMounted_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBKne\Sx\ColiseumReverseCowgirlMounted\_Sx-ColiseumReverseCowgirlMounted_S4_1.hkx
 
-b -Tn _BoJ-ColiseumLyingBoobjob_MaleClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\BoJ\ColiseumLyingBoobjob\_BoJ-ColiseumLyingBoobjob_MaleClimax_0.hkx
-b -Tn _BoJ-ColiseumLyingBoobjob_MaleClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\BoJ\ColiseumLyingBoobjob\_BoJ-ColiseumLyingBoobjob_MaleClimax_1.hkx
+b -a,Tn _BoJ-ColiseumLyingBoobjob_MaleClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\BoJ\ColiseumLyingBoobjob\_BoJ-ColiseumLyingBoobjob_MaleClimax_0.hkx
+b -a,Tn _BoJ-ColiseumLyingBoobjob_MaleClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\BoJ\ColiseumLyingBoobjob\_BoJ-ColiseumLyingBoobjob_MaleClimax_1.hkx
 b -Tn _BoJ-ColiseumLyingBoobjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\BoJ\ColiseumLyingBoobjob\_BoJ-ColiseumLyingBoobjob_S1_0.hkx
 b -Tn _BoJ-ColiseumLyingBoobjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\BoJ\ColiseumLyingBoobjob\_BoJ-ColiseumLyingBoobjob_S1_1.hkx
 b -Tn _BoJ-ColiseumLyingBoobjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\BoJ\ColiseumLyingBoobjob\_BoJ-ColiseumLyingBoobjob_S2_0.hkx
@@ -203,10 +192,10 @@ b -Tn _Sx-ColiseumCowgirlLegsCrossed_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBS
 b -Tn _Sx-ColiseumCowgirlLegsCrossed_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\Sx\ColiseumCowgirlLegsCrossed\_Sx-ColiseumCowgirlLegsCrossed_S3_1.hkx
 b -Tn _Sx-ColiseumCowgirlLegsCrossed_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\Sx\ColiseumCowgirlLegsCrossed\_Sx-ColiseumCowgirlLegsCrossed_S4_0.hkx
 b -Tn _Sx-ColiseumCowgirlLegsCrossed_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\Sx\ColiseumCowgirlLegsCrossed\_Sx-ColiseumCowgirlLegsCrossed_S4_1.hkx
-b -Tn _Sx-GoBackColiseumCowgirlLegsCrossed_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\Sx\ColiseumCowgirlLegsCrossed\_Sx-GoBackColiseumCowgirlLegsCrossed_0.hkx
-b -Tn _Sx-GoBackColiseumCowgirlLegsCrossed_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\Sx\ColiseumCowgirlLegsCrossed\_Sx-GoBackColiseumCowgirlLegsCrossed_1.hkx
-b -Tn _Sx-GoToColiseumCowgirlLegsCrossed_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\Sx\ColiseumCowgirlLegsCrossed\_Sx-GoToColiseumCowgirlLegsCrossed_0.hkx
-b -Tn _Sx-GoToColiseumCowgirlLegsCrossed_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\Sx\ColiseumCowgirlLegsCrossed\_Sx-GoToColiseumCowgirlLegsCrossed_1.hkx
+b -a,Tn _Sx-GoBackColiseumCowgirlLegsCrossed_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\Sx\ColiseumCowgirlLegsCrossed\_Sx-GoBackColiseumCowgirlLegsCrossed_0.hkx
+b -a,Tn _Sx-GoBackColiseumCowgirlLegsCrossed_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\Sx\ColiseumCowgirlLegsCrossed\_Sx-GoBackColiseumCowgirlLegsCrossed_1.hkx
+b -a,Tn _Sx-GoToColiseumCowgirlLegsCrossed_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\Sx\ColiseumCowgirlLegsCrossed\_Sx-GoToColiseumCowgirlLegsCrossed_0.hkx
+b -a,Tn _Sx-GoToColiseumCowgirlLegsCrossed_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\Sx\ColiseumCowgirlLegsCrossed\_Sx-GoToColiseumCowgirlLegsCrossed_1.hkx
 b -Tn _Sx-ColiseumSquattingCowgirl_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\Sx\ColiseumSquattingCowgirl\_Sx-ColiseumSquattingCowgirl_S1_0.hkx
 b -Tn _Sx-ColiseumSquattingCowgirl_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\Sx\ColiseumSquattingCowgirl\_Sx-ColiseumSquattingCowgirl_S1_1.hkx
 b -Tn _Sx-ColiseumSquattingCowgirl_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\LyBSit\Sx\ColiseumSquattingCowgirl\_Sx-ColiseumSquattingCowgirl_S2_0.hkx
