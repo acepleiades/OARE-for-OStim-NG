@@ -1,6 +1,6 @@
 <scene id="Col|LyB!Sit|BoJ|ColiseumLyingBoobjob_MaleClimax" actors="2" style="OScene">
 <info name="Lying Boobjob Climax" animator="Ace"/>
-<anim id="_BoJ-AceLyingBoobjob_MaleClimax" t="T" l="14" dest="Col|LyB!Sit|Ho|ColiseumLyingBoobjob_AfterClimax">
+<anim id="_BoJ-ColiseumLyingBoobjob_MaleClimax" t="T" l="14" dest="Col|LyB!Sit|Ho|ColiseumLyingBoobjob_AfterClimax">
 <dfx a="0" fx="1"/>
 <dfx a="1" fx="1"/>
 </anim>
