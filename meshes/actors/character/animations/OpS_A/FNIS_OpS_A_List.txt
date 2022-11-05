@@ -533,8 +533,6 @@ b -Tn _BJ-AceAllFoursBlowjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\BJ\Ac
 b -Tn _BJ-AceAllFoursBlowjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\BJ\AceAllFoursBlowjob\_BJ-AceAllFoursBlowjob_S3_1.hkx
 b -Tn _BJ-AceAllFoursBlowjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\BJ\AceAllFoursBlowjob\_BJ-AceAllFoursBlowjob_S4_0.hkx
 b -Tn _BJ-AceAllFoursBlowjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\BJ\AceAllFoursBlowjob\_BJ-AceAllFoursBlowjob_S4_1.hkx
-b -a,Tn _BJ-GoToAceAllFoursBlowjob_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\BJ\AceAllFoursBlowjob\_BJ-GoToAceAllFoursBlowjob_0.hkx
-b -a,Tn _BJ-GoToAceAllFoursBlowjob_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\BJ\AceAllFoursBlowjob\_BJ-GoToAceAllFoursBlowjob_1.hkx
 b -Tn _Sx-SittingSex_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Sx\SittingSex\_Sx-SittingSex_S1_0.hkx
 b -Tn _Sx-SittingSex_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Sx\SittingSex\_Sx-SittingSex_S1_1.hkx
 b -Tn _Sx-SittingSex_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Sx\SittingSex\_Sx-SittingSex_S2_0.hkx
