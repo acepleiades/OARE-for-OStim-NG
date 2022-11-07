@@ -3,13 +3,13 @@
 <region om="A" maj="C" min="C" stage="" step="" story=""/>
 <anim id="_Sx-ReverseCowgirlMounted_S1" t="L" l="2"/>
 <speed a="1" min="0" max="3" name="thrusts">	
-	<sp mtx="^bouncesPerSec" qnt="1">
+	<sp mtx="^bouncesPerSec" qnt="0.5">
 		<anim id="_Sx-ReverseCowgirlMounted_S1" t="L" l="2" i0="0" i1="0"/></sp>
-	<sp mtx="^bouncesPerSec" qnt="1.5">
+	<sp mtx="^bouncesPerSec" qnt="1">
 		<anim id="_Sx-ReverseCowgirlMounted_S2" t="L" l="2" i0="1" i1="1"/></sp>
-	<sp mtx="^bouncesPerSec" qnt="2">
+	<sp mtx="^bouncesPerSec" qnt="1.5">
 		<anim id="_Sx-ReverseCowgirlMounted_S3" t="L" l="2" i0="2" i1="2"/></sp>
-	<sp mtx="^bouncesPerSec" qnt="2.5">
+	<sp mtx="^bouncesPerSec" qnt="2">
 		<anim id="_Sx-ReverseCowgirlMounted_S4" t="L" l="2" i0="3" i1="3"/></sp>
 </speed>
 <nav>
@@ -18,6 +18,9 @@
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|ReverseCowgirlLookingBack" text="^lookBack" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+            <option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|ReverseCowgirlLeaningBack" text="^leanBack" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
             <option halo="hgentle" icon="obigx" go="OpS|LyB!Kne|Ho|ReverseMountedFemale" text="^return" t0="1">
