@@ -669,14 +669,22 @@ b -Tn _Sx-AceCowgirlLegsCrossed_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx
 
 b -Tn _Ho-ReverseMountedFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\ReverseMountedFemale\_Ho-ReverseMountedFemale_0.hkx
 b -Tn _Ho-ReverseMountedFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\ReverseMountedFemale\_Ho-ReverseMountedFemale_1.hkx
-b -Tn _Sx-AceReverseCowgirlMounted_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\_Sx-AceReverseCowgirlMounted_S1_0.hkx
-b -Tn _Sx-AceReverseCowgirlMounted_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\_Sx-AceReverseCowgirlMounted_S1_1.hkx
-b -Tn _Sx-AceReverseCowgirlMounted_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\_Sx-AceReverseCowgirlMounted_S2_0.hkx
-b -Tn _Sx-AceReverseCowgirlMounted_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\_Sx-AceReverseCowgirlMounted_S2_1.hkx
-b -Tn _Sx-AceReverseCowgirlMounted_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\_Sx-AceReverseCowgirlMounted_S3_0.hkx
-b -Tn _Sx-AceReverseCowgirlMounted_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\_Sx-AceReverseCowgirlMounted_S3_1.hkx
-b -Tn _Sx-AceReverseCowgirlMounted_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\_Sx-AceReverseCowgirlMounted_S4_0.hkx
-b -Tn _Sx-AceReverseCowgirlMounted_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceReverseCowgirlMounted\_Sx-AceReverseCowgirlMounted_S4_1.hkx
+b -Tn _Sx-ReverseCowgirlMounted_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\ReverseCowgirlMounted\_Sx-ReverseCowgirlMounted_S1_0.hkx
+b -Tn _Sx-ReverseCowgirlMounted_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\ReverseCowgirlMounted\_Sx-ReverseCowgirlMounted_S1_1.hkx
+b -Tn _Sx-ReverseCowgirlMounted_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\ReverseCowgirlMounted\_Sx-ReverseCowgirlMounted_S2_0.hkx
+b -Tn _Sx-ReverseCowgirlMounted_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\ReverseCowgirlMounted\_Sx-ReverseCowgirlMounted_S2_1.hkx
+b -Tn _Sx-ReverseCowgirlMounted_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\ReverseCowgirlMounted\_Sx-ReverseCowgirlMounted_S3_0.hkx
+b -Tn _Sx-ReverseCowgirlMounted_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\ReverseCowgirlMounted\_Sx-ReverseCowgirlMounted_S3_1.hkx
+b -Tn _Sx-ReverseCowgirlMounted_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\ReverseCowgirlMounted\_Sx-ReverseCowgirlMounted_S4_0.hkx
+b -Tn _Sx-ReverseCowgirlMounted_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\ReverseCowgirlMounted\_Sx-ReverseCowgirlMounted_S4_1.hkx
+b -Tn _Sx-ReverseCowgirlLookingBack_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\ReverseCowgirlLookingBack\_Sx-ReverseCowgirlLookingBack_S1_0.hkx
+b -Tn _Sx-ReverseCowgirlLookingBack_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\ReverseCowgirlLookingBack\_Sx-ReverseCowgirlLookingBack_S1_1.hkx
+b -Tn _Sx-ReverseCowgirlLookingBack_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\ReverseCowgirlLookingBack\_Sx-ReverseCowgirlLookingBack_S2_0.hkx
+b -Tn _Sx-ReverseCowgirlLookingBack_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\ReverseCowgirlLookingBack\_Sx-ReverseCowgirlLookingBack_S2_1.hkx
+b -Tn _Sx-ReverseCowgirlLookingBack_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\ReverseCowgirlLookingBack\_Sx-ReverseCowgirlLookingBack_S3_0.hkx
+b -Tn _Sx-ReverseCowgirlLookingBack_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\ReverseCowgirlLookingBack\_Sx-ReverseCowgirlLookingBack_S3_1.hkx
+b -Tn _Sx-ReverseCowgirlLookingBack_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\ReverseCowgirlLookingBack\_Sx-ReverseCowgirlLookingBack_S4_0.hkx
+b -Tn _Sx-ReverseCowgirlLookingBack_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\ReverseCowgirlLookingBack\_Sx-ReverseCowgirlLookingBack_S4_1.hkx
 
 b -Tn _Ho-SittingMaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\AFoSit\Ho\SittingMaleApproach\_Ho-SittingMaleApproach_0.hkx
 b -Tn _Ho-SittingMaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\AFoSit\Ho\SittingMaleApproach\_Ho-SittingMaleApproach_1.hkx
@@ -879,14 +887,6 @@ b -Tn _Sx-AceRearKneelingSexVariation_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\Kne
 b -Tn _Sx-AceRearKneelingSexVariation_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceRearKneelingSex\_Sx-AceRearKneelingSexVariation_S3_1.hkx
 b -Tn _Sx-AceRearKneelingSexVariation_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceRearKneelingSex\_Sx-AceRearKneelingSexVariation_S4_0.hkx
 b -Tn _Sx-AceRearKneelingSexVariation_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceRearKneelingSex\_Sx-AceRearKneelingSexVariation_S4_1.hkx
-b -Tn _Sx-AceNeckHoldingSex_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceNeckHoldingSex\_Sx-AceNeckHoldingSex_S1_0.hkx
-b -Tn _Sx-AceNeckHoldingSex_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceNeckHoldingSex\_Sx-AceNeckHoldingSex_S1_1.hkx
-b -Tn _Sx-AceNeckHoldingSex_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceNeckHoldingSex\_Sx-AceNeckHoldingSex_S2_0.hkx
-b -Tn _Sx-AceNeckHoldingSex_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceNeckHoldingSex\_Sx-AceNeckHoldingSex_S2_1.hkx
-b -Tn _Sx-AceNeckHoldingSex_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceNeckHoldingSex\_Sx-AceNeckHoldingSex_S3_0.hkx
-b -Tn _Sx-AceNeckHoldingSex_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceNeckHoldingSex\_Sx-AceNeckHoldingSex_S3_1.hkx
-b -Tn _Sx-AceNeckHoldingSex_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceNeckHoldingSex\_Sx-AceNeckHoldingSex_S4_0.hkx
-b -Tn _Sx-AceNeckHoldingSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Sx\AceNeckHoldingSex\_Sx-AceNeckHoldingSex_S4_1.hkx
 
 b -Tn _Ho-SpooningIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\_Ho-SpooningIdle_0.hkx
 b -Tn _Ho-SpooningIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\_Ho-SpooningIdle_1.hkx
