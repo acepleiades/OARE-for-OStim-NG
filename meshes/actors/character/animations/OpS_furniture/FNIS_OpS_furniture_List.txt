@@ -1,0 +1,2 @@
+b -Tn _Ap-CraftingTableIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CraTab\Ap\CraftingTableIdle\_Ap-CraftingTableIdle_0.hkx
+b -Tn _Ap-CraftingTableIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CraTab\Ap\CraftingTableIdle\_Ap-CraftingTableIdle_1.hkx
