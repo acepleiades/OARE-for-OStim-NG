@@ -54,7 +54,7 @@
 	<actor position="2" feetOnGround="0" tags="kneeling"/>
 </actors>
 <actions>
-	<action type="vaginalsex" actor="0" target="1"/>
 	<action type="kissing" actor="0" target="2"/>
+	<action type="vaginalsex" actor="0" target="1"/>
 </actions>
 </scene>

@@ -14,7 +14,7 @@
 	<actor position="1" feetOnGround="0" tags="lyingfront"/>
 </actors>
 <actions>
-	<action type="handjob" actor="1" target="0"/>
 	<action type="lickingtesticles" actor="1" target="0"/>
+	<action type="handjob" actor="1" target="0"/>
 </actions>
 </scene>
