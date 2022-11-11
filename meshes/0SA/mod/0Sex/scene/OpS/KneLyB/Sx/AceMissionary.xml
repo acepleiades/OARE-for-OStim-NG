@@ -39,20 +39,6 @@
 	</tab>
 	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
 </nav>
-<eyes a="0" facerel="0" actionrel="2" bodyrel="1">
-<primary v="-33" h="0" vpan="10" hpan="10"/>
-<face v="-33" h="0" vpan="10" hpan="10"/>
-<body v="-33" h="0" vpan="10" hpan="10"/>
-<action v="-33" h="0" vpan="10" hpan="10"/>
-<away v="-33" h="0" vpan="10" hpan="10"/>
-</eyes>	
-<eyes a="1" facerel="0" actionrel="2" bodyrel="1">
-<primary v="-75" h="0" vpan="10" hpan="10" />
-<face v="-75" h="0" vpan="10" hpan="10" />
-<body v="-75" h="0" vpan="10" hpan="10" />
-<action v="-75" h="0" vpan="10" hpan="10" />
-<away v="-75" h="0" vpan="10" hpan="10" />
-</eyes>
 <motif drive="intimate" theme="G_SexPhysRear"/>
 <motif drive="intimate" theme="R_SexPhysRear"/>
 <autonav/>
