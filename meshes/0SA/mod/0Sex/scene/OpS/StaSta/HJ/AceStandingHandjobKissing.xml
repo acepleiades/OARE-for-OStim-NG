@@ -49,7 +49,7 @@
 	<actor position="1" feetOnGround="1" tags="standing"/>
 </actors>
 <actions>
-	<action type="handjob" actor="1" target="0"/>
 	<action type="kissing" actor="0" target="1"/>
+	<action type="handjob" actor="1" target="0"/>
 </actions>
 </scene>
