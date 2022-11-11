@@ -73,8 +73,6 @@ b -Tn _Ho-ColiseumMissionaryLegsHeld_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim
 b -Tn _Ho-ColiseumMissionaryLegsHeld_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Ho\ColiseumMissionaryLegsHeld_AfterClimax\_Ho-ColiseumMissionaryLegsHeld_AfterClimax_1.hkx
 b -Tn _Ho-ColiseumMissionaryLegsUp_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Ho\ColiseumMissionaryLegsUp_AfterClimax\_Ho-ColiseumMissionaryLegsUp_AfterClimax_0.hkx
 b -Tn _Ho-ColiseumMissionaryLegsUp_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Ho\ColiseumMissionaryLegsUp_AfterClimax\_Ho-ColiseumMissionaryLegsUp_AfterClimax_1.hkx
-b -Tn _Ho-ColiseumSpreadLegsFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Ho\ColiseumSpreadLegsFemale\_Ho-ColiseumSpreadLegsFemale_0.hkx
-b -Tn _Ho-ColiseumSpreadLegsFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Ho\ColiseumSpreadLegsFemale\_Ho-ColiseumSpreadLegsFemale_1.hkx
 b -Tn _Po-ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Po\ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO\_Po-ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO_0.hkx
 b -Tn _Po-ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO_1 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Po\ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO\_Po-ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO_1.hkx
 b -a,Tn _Po-ColiseumMissionaryLegsHeld_PullOutGoBack_0 ..\..\..\..\0SA\mod\0Sex\anim\Col\KneLyB\Po\ColiseumMissionaryLegsHeld_MaleClimaxPullOutJO\_Po-ColiseumMissionaryLegsHeld_PullOutGoBack_0.hkx
