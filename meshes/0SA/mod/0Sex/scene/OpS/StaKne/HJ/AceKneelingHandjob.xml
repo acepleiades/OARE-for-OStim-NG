@@ -42,8 +42,8 @@
 <autonav/>
 
 <actors>
-	<actor position="0" penisAngle="2" feetOnGround="1" scaleHeight="67" tags="standing"/>
-	<actor position="1" feetOnGround="0" tags="kneeling"/>
+	<actor position="0" penisAngle="2" feetOnGround="1" scaleHeight="67" tags="standing" lookUp="-50"/>
+	<actor position="1" feetOnGround="0" tags="kneeling" lookUp="-75"/>
 </actors>
 <actions>
 	<action type="handjob" actor="1" target="0" performer="0"/>
