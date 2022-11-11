@@ -32,26 +32,11 @@
 		</page>
 	</tab>
 </nav>
-<eyes a="0" facerel="0" actionrel="2" bodyrel="1">
-<primary v="0" h="0" vpan="10" hpan="10"/>
-<face v="0" h="0" vpan="10" hpan="10"/>
-<body v="0" h="0" vpan="10" hpan="10"/>
-<action v="0" h="0" vpan="10" hpan="10"/>
-<away v="0" h="0" vpan="10" hpan="10"/>
-</eyes>	
-<eyes a="1" facerel="0" actionrel="2" bodyrel="1">
-<primary v="30" h="-5" vpan="15" hpan="-15" />
-<face v="35" h="0" vpan="-15" hpan="15" />
-<body v="35" h="5" vpan="15" hpan="-15" />
-<action v="40" h="0" vpan="-15" hpan="15" />
-<away v="40" h="-5" vpan="15" hpan="-15" />
-</eyes>
 <motif drive="intimate" theme="R_Handjob"/>
 <motif drive="intimate" theme="G_Handjob"/>
 <autonav/>
-
 <actors>
-	<actor position="0" penisAngle="2" feetOnGround="1" scaleHeight="60" tags="standing">
+	<actor position="0" penisAngle="2" feetOnGround="1" scaleHeight="60" tags="standing" lookUp="-50"/>
 		<autotransition type="climax" destination="OpS|Sta!Kne|BoJ|AceStandingBoobjob_MaleClimax"/>
 	</actor>
 	<actor position="1" feetOnGround="0" tags="kneeling"/>

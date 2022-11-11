@@ -27,26 +27,11 @@
 	</tab>
 	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
 </nav>
-<eyes a="0" facerel="0" actionrel="2" bodyrel="1">
-<primary v="-60" h="0" vpan="10" hpan="10"/>
-<face v="-60" h="0" vpan="10" hpan="10"/>
-<body v="-60" h="0" vpan="10" hpan="10"/>
-<action v="-60" h="0" vpan="10" hpan="10"/>
-<away v="-60" h="0" vpan="10" hpan="90"/>
-</eyes>	
-<eyes a="1" facerel="0" actionrel="2" bodyrel="1">
-<primary v="-60" h="0" vpan="10" hpan="10" />
-<face v="-60" h="0" vpan="10" hpan="10" />
-<body v="-60" h="0" vpan="10" hpan="10" />
-<action v="-60" h="0" vpan="10" hpan="10" />
-<away v="-60" h="0" vpan="40" hpan="80" />
-</eyes>
 <motif drive="intimate" theme="G_SexPhysRear"/>
 <motif drive="intimate" theme="R_SexPhysRear"/>
 <autonav/>
-
 <actors>
-	<actor position="0" penisAngle="2" feetOnGround="1" tags="standing"/>
+    <actor position="0" penisAngle="3" feetOnGround="1" tags="standing" lookUp="-75" />
 	<actor position="1" feetOnGround="1" tags="bendover,facingaway,standing"/>
 </actors>
 <actions>

@@ -20,7 +20,7 @@
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="obigx" go="OpS|Sta!Kne|BJ|GoBackSittingFacefuck" text="^return" t0="1">
+			<option halo="hgentle" icon="obigx" go="OpS|Sta!Kne|Ap|MaleStandingFemaleKneeling" text="^return" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
@@ -46,8 +46,8 @@
 <autonav/>		
 
 <actors>
-	<actor position="0" penisAngle="2" feetOnGround="1" scaleHeight="67" tags="standing"/>
-	<actor position="1" feetOnGround="0" tags="sitting"/>
+	<actor position="0" penisAngle="2" feetOnGround="1" scaleHeight="67" tags="standing" lookUp="-75"/>
+	<actor position="1" feetOnGround="0" tags="sitting" lookUp="100"/>
 </actors>
 <actions>
 	<action type="blowjob" actor="1" target="0" performer="0"/>

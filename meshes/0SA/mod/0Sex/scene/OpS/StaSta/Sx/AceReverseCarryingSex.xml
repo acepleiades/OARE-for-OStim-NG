@@ -46,8 +46,8 @@
 <autonav/>
 
 <actors>
-	<actor position="0" penisAngle="2" feetOnGround="1" tags="standing"/>
-	<actor position="1" feetOnGround="0" tags="facingaway,suspended"/>
+	<actor position="0" penisAngle="1" feetOnGround="1" tags="standing" lookUp="-75"/>
+	<actor position="1" feetOnGround="0" tags="facingaway,suspended" lookUp="-50" lookLeft="50"/>
 </actors>
 <actions>
 	<action type="vaginalsex" actor="0" target="1"/>
