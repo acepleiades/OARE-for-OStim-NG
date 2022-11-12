@@ -6,7 +6,7 @@
 </anim>
 <metadata tags="transition"/>
 <actors>
-	<actor position="0" feetOnGround="0" tags="sitting,standing"/>
+	<actor position="0" penisAngle="9" feetOnGround="0" tags="sitting,standing"/>
 	<actor position="1" feetOnGround="0" tags="sitting,standing"/>
 </actors>
 </scene>

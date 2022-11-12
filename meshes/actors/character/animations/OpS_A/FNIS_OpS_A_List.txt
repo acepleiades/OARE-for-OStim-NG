@@ -386,18 +386,14 @@ b -Tn _Ap-MaleStandingFemaleKneelingDevourVampireMaleAndFemale_1 ..\..\..\..\0SA
 b -Tn _Em-DevourVampireBiteFemaleKneelingHJ_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Em\DevourVampireBiteFemaleKneelingHJ\_Em-DevourVampireBiteFemaleKneelingHJ_0.hkx
 b -Tn _Em-DevourVampireBiteFemaleKneelingHJ_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Em\DevourVampireBiteFemaleKneelingHJ\_Em-DevourVampireBiteFemaleKneelingHJ_1.hkx
 
-b -Tn _Ho-Sitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\_Ho-Sitting_0.hkx
-b -Tn _Ho-Sitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\_Ho-Sitting_1.hkx
-b -Tn _Ho-SittingVampireFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\_Ho-SittingVampireFemale_0.hkx
-b -Tn _Ho-SittingVampireFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\_Ho-SittingVampireFemale_1.hkx
-b -Tn _Ho-SittingVampireMale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\_Ho-SittingVampireMale_0.hkx
-b -Tn _Ho-SittingVampireMale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\_Ho-SittingVampireMale_1.hkx
-b -Tn _Ho-SittingVampireMaleAndFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\_Ho-SittingVampireMaleAndFemale_0.hkx
-b -Tn _Ho-SittingVampireMaleAndFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\_Ho-SittingVampireMaleAndFemale_1.hkx
-b -a,Tn _Ho-GoToSittingFemaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\_Ho-GoToSittingFemaleApproach_0.hkx
-b -a,Tn _Ho-GoToSittingFemaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\_Ho-GoToSittingFemaleApproach_1.hkx
-b -a,Tn _Ho-GoToSittingMaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\_Ho-GoToSittingMaleApproach_0.hkx
-b -a,Tn _Ho-GoToSittingMaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ho\Sitting\_Ho-GoToSittingMaleApproach_1.hkx
+b -Tn _Ap-Sitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-Sitting_0.hkx
+b -Tn _Ap-Sitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-Sitting_1.hkx
+b -Tn _Ap-SittingVampireFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-SittingVampireFemale_0.hkx
+b -Tn _Ap-SittingVampireFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-SittingVampireFemale_1.hkx
+b -Tn _Ap-SittingVampireMale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-SittingVampireMale_0.hkx
+b -Tn _Ap-SittingVampireMale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-SittingVampireMale_1.hkx
+b -Tn _Ap-SittingVampireMaleAndFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-SittingVampireMaleAndFemale_0.hkx
+b -Tn _Ap-SittingVampireMaleAndFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-SittingVampireMaleAndFemale_1.hkx
 b -Tn _Cr-SittingGropingBreast_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Cr\SittingGropingBreast\_Cr-SittingGropingBreast_S1_0.hkx
 b -Tn _Cr-SittingGropingBreast_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Cr\SittingGropingBreast\_Cr-SittingGropingBreast_S1_1.hkx
 b -Tn _Cr-SittingGropingBreast_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Cr\SittingGropingBreast\_Cr-SittingGropingBreast_S2_0.hkx
@@ -688,8 +684,6 @@ b -Tn _Sx-ReverseCowgirlLeaningBack_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKn
 
 b -Tn _Ho-SittingMaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\AFoSit\Ho\SittingMaleApproach\_Ho-SittingMaleApproach_0.hkx
 b -Tn _Ho-SittingMaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\AFoSit\Ho\SittingMaleApproach\_Ho-SittingMaleApproach_1.hkx
-b -a,Tn _Ho-GoToSpreadLegsFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\AFoSit\Ho\SittingMaleApproach\_Ho-GoToSpreadLegsFemale_0.hkx
-b -a,Tn _Ho-GoToSpreadLegsFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\AFoSit\Ho\SittingMaleApproach\_Ho-GoToSpreadLegsFemale_1.hkx
 b -Tn _BoJ-AceOnTopTitfuck_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\AceOnTopTitfuck\_BoJ-AceOnTopTitfuck_S1_0.hkx
 b -Tn _BoJ-AceOnTopTitfuck_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\AceOnTopTitfuck\_BoJ-AceOnTopTitfuck_S1_1.hkx
 b -Tn _BoJ-AceOnTopTitfuck_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\AceOnTopTitfuck\_BoJ-AceOnTopTitfuck_S2_0.hkx
