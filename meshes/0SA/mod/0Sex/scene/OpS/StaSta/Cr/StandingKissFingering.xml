@@ -4,17 +4,13 @@
 <anim id="_Cr-StandingKissFingering_S1" t="L" l="2"/>
 <speed a="0" min="0" max="3" name="thrusts">
 	<sp mtx="^thrustsPerSec" qnt="1">
-		<anim id="_Cr-StandingKissFingering_S1" t="L" l="2" i0="0" i1="0"/>
-		</sp>
+		<anim id="_Cr-StandingKissFingering_S1" t="L" l="2" i0="0" i1="0"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="1.5">
-		<anim id="_Cr-StandingKissFingering_S2" t="L" l="2" i0="1" i1="1"/>
-		</sp>
+		<anim id="_Cr-StandingKissFingering_S2" t="L" l="2" i0="1" i1="1"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="2">
-		<anim id="_Cr-StandingKissFingering_S3" t="L" l="2" i0="2" i1="2"/>
-		</sp>
+		<anim id="_Cr-StandingKissFingering_S3" t="L" l="2" i0="2" i1="2"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="2.5">
-		<anim id="_Cr-StandingKissFingering_S4" t="L" l="2" i0="3" i1="3"/>
-		</sp>
+		<anim id="_Cr-StandingKissFingering_S4" t="L" l="2" i0="3" i1="3"/></sp>
 </speed>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
@@ -27,25 +23,9 @@
 	</tab>
 	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
 </nav>
-<eyes a="0" facerel="0" actionrel="2" bodyrel="1">
-<primary v="-60" h="0" vpan="10" hpan="10"/>
-<face v="-60" h="0" vpan="10" hpan="10"/>
-<body v="-60" h="0" vpan="10" hpan="10"/>
-<action v="-60" h="0" vpan="10" hpan="10"/>
-<away v="-60" h="0" vpan="10" hpan="10"/>
-</eyes>	
-<eyes a="1" facerel="1" actionrel="0" bodyrel="0">
-<primary v="-60" h="60" vpan="15" hpan="15" />
-<primary v="-65" h="65" vpan="15" hpan="15" />
-<face v="-70" h="70" vpan="15" hpan="15" />
-<body v="-75" h="60" vpan="15" hpan="15" />
-<action v="-80" h="65" vpan="15" hpan="15" />
-<away v="-60" h="70" vpan="15" hpan="15"/>
-</eyes>
 <motif drive="intimate" theme="Imminence"/>
 <motif drive="intimate" theme="G_Handjob"/>
 <autonav/>
-
 <actors>
 	<actor position="0" penisAngle="2" feetOnGround="1" tags="standing"/>
 	<actor position="1" feetOnGround="1" tags="standing"/>
