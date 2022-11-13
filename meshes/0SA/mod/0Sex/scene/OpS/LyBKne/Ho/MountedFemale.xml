@@ -29,6 +29,6 @@
 <metadata tags="idle"/>
 <actors>
 	<actor position="0" penisAngle="9" feetOnGround="0" tags="lyingback" lookUp="25"/>
-	<actor position="1" feetOnGround="0" tags="kneeling" lookUp="-50"/>
+	<actor position="1" feetOnGround="0" tags="kneeling" lookUp="-70"/>
 </actors>
 </scene>

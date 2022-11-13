@@ -1,12 +1,9 @@
 <scene id="OpS|Kne!LyB|Po|AceMissionaryLegsHeld_PullOutGoBack" actors="2" style="OScene">
 <info name="Missionary Pull Out Go Back" animator="Ace"/>
-<anim id="_Po-AceMissionaryLegsHeld_PullOutGoBack" t="T" l="1.5" dest="OpS|Kne!LyB|Ho|AceMissionaryLegsHeldAfterSex">
-<dfx a="0" fx="1"/>
-<dfx a="1" fx="1"/>
-</anim>
+<anim id="_Po-AceMissionaryLegsHeld_PullOutGoBack" t="T" l="1.5" dest="OpS|Kne!LyB|Ho|AceMissionaryLegsHeldAfterSex"/>
 <metadata tags="transition"/>
 <actors>
-	<actor position="0" feetOnGround="0" tags="kneeling"/>
-	<actor position="1" feetOnGround="0" tags="lyingback"/>
+	<actor position="0" feetOnGround="0" tags="kneeling" lookUp="-25"/>
+	<actor position="1" feetOnGround="0" tags="lyingback" lookUp="-40"/>
 </actors>
 </scene>
