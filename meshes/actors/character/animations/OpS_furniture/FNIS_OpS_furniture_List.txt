@@ -1,6 +1,9 @@
 b -Tn _Ap-BenchIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdle\_Ap-BenchIdle_0.hkx
 b -Tn _Ap-BenchIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdle\_Ap-BenchIdle_1.hkx
 
+b -Tn _Ap-CookingPotIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Ap\CookingPotIdle\_Ap-CookingPotIdle_0.hkx
+b -o _Ap-CookingPotIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Ap\CookingPotIdle\_Ap-CookingPotIdle_1.hkx AnimObjectSpoon
+
 b -Tn _Ap-CraftingTableIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CraTab\Ap\CraftingTableIdle\_Ap-CraftingTableIdle_0.hkx
 b -Tn _Ap-CraftingTableIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CraTab\Ap\CraftingTableIdle\_Ap-CraftingTableIdle_1.hkx
 b -Tn _Sx-CraftingTableMissionary_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CraTab\Sx\CraftingTableMissionary\_Sx-CraftingTableMissionary_S1_0.hkx
@@ -14,6 +17,3 @@ b -Tn _Sx-CraftingTableMissionary_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furnitu
 
 b -Tn _Ap-ShelfIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Ap\ShelfIdle\_Ap-ShelfIdle_0.hkx
 b -Tn _Ap-ShelfIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Ap\ShelfIdle\_Ap-ShelfIdle_1.hkx
-
-b -Tn _Ap-LadleTest_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Ap\LadleTest\_Ap-LadleTest_0.hkx
-b -o _Ap-LadleTest_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Ap\LadleTest\_Ap-LadleTest_1.hkx AnimObjectWoodenLadle

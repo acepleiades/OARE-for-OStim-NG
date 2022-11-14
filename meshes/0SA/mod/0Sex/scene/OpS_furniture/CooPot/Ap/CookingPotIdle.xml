@@ -1,0 +1,17 @@
+<scene id="OpS_furniture|Coo!Pot|Ap|CookingPotIdle" actors="2" style="OScene">
+<info name="Cooking Pot Idle" animator="Ace"/>
+<region om="A" maj="C" min="E" stage="" step="" story=""/>
+<anim id="_Ap-CookingPotIdle" t="L" l="2"/>
+<nav>
+    <tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
+</nav>
+<motif drive="intimate" theme="Affection"/>
+<motif drive="intimate" theme="Affection"/>
+<autonav/>
+<metadata tags="idle" furniture="bench"/>
+<actors>
+    <actor position="0" penisAngle="6" feetOnGround="1" tags="sitting"/>
+	<actor position="1" feetOnGround="1" tags="standing"/>
+</actors>
+</scene>
