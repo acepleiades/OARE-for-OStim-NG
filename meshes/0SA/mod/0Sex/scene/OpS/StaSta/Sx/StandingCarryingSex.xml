@@ -30,27 +30,12 @@
 	</tab>
 	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
 </nav>
-<eyes a="0" facerel="0" actionrel="1" bodyrel="2">
-<primary v="-50" h="0" vpan="10" hpan="10"/>
-<face v="-55" h="-25" vpan="10" hpan="10"/>
-<body v="-65" h="-20" vpan="10" hpan="10"/>
-<action v="-70" h="-15" vpan="10" hpan="10"/>
-<away v="-50" h="-10" vpan="10" hpan="90"/>
-</eyes>	
-<eyes a="1" facerel="0" actionrel="1" bodyrel="2">
-<primary v="-60" h="-30" vpan="10" hpan="10" />
-<face v="-50" h="-50" vpan="10" hpan="10" />
-<body v="-40" h="-60" vpan="10" hpan="10" />
-<action v="-30" h="-70" vpan="10" hpan="10" />
-<away v="-20" h="-80" vpan="40" hpan="80" />
-</eyes>
 <motif drive="intimate" theme="G_SexPhysRear"/>
 <motif drive="intimate" theme="R_SexPhysRear"/>
 <autonav/>
-
 <actors>
-	<actor position="0" penisAngle="5" feetOnGround="1" tags="standing"/>
-	<actor position="1" feetOnGround="0" tags="suspended"/>
+	<actor position="0" penisAngle="5" feetOnGround="1" tags="standing" lookUp="-50" lookLeft="-25"/>
+	<actor position="1" feetOnGround="0" tags="suspended" lookUp="-75" lookLeft="-25"/>
 </actors>
 <actions>
 	<action type="vaginalsex" actor="0" target="1"/>

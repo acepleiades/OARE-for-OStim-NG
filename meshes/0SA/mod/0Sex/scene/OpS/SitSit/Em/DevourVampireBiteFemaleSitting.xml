@@ -12,28 +12,12 @@
 		</page>
 	</tab>
 </nav>
-<eyes a="0" facerel="1" actionrel="0" bodyrel="0">
-<primary v="-25" h="0" vpan="5" hpan="10" />
-<primary v="-25" h="0" vpan="20" hpan="10" />
-<face v="-75" h="75" vpan="20" hpan="10" />
-<body v="-75" h="75" vpan="20" hpan="10" />
-<action v="-25" h="0" vpan="10" hpan="10" />
-<away v="-75" h="75" vpan="50" hpan="0"/>
-</eyes>
-<eyes a="1" facerel="0" actionrel="2" bodyrel="1">
-<primary v="-25" h="0" vpan="10" hpan="10"/>
-<face v="-25" h="0" vpan="10" hpan="10"/>
-<body v="-25" h="0" vpan="10" hpan="10"/>
-<action v="-25" h="0" vpan="10" hpan="10"/>
-<away v="-25" h="0" vpan="80" hpan="100"/>
-</eyes>
 <motif drive="intimate" theme="G_Blowjob"/>
 <motif drive="intimate" theme="Tender"/>
 <autonav/>
-
 <actors>
-	<actor position="0" penisAngle="2" feetOnGround="0" tags="sitting"/>
-	<actor position="1" feetOnGround="0" tags="sitting"/>
+	<actor position="0" penisAngle="2" feetOnGround="0" tags="sitting" lookUp="-75"/>
+	<actor position="1" feetOnGround="0" tags="sitting" lookUp="-50"/>
 </actors>
 <actions>
 	<action type="vampirebite" actor="1" target="0"/>

@@ -1,13 +1,10 @@
 <scene id="OpS|LyB!Kne|Sx|GoToAceCowgirlLegsCrossed" actors="2" style="OScene">
 <info name="Transition into Cowgirl Legs Crossed" animator="Ace"/>
-<anim id="_Sx-GoToAceCowgirlLegsCrossed" t="T" l="2" dest="OpS|LyB!Sit|Sx|AceCowgirlLegsCrossed">
-<dfx a="0" fx="1"/>
-<dfx a="1" fx="1"/>
-</anim>
+<anim id="_Sx-GoToAceCowgirlLegsCrossed" t="T" l="2" dest="OpS|LyB!Sit|Sx|AceCowgirlLegsCrossed"/>
 <metadata tags="cowgirl,transition"/>
 <actors>
-	<actor position="0" penisAngle="0" feetOnGround="0" tags="lyingback"/>
-	<actor position="1" feetOnGround="0" tags="kneeling"/>
+	<actor position="0" penisAngle="0" feetOnGround="0" tags="lyingback" lookUp="25"/>
+	<actor position="1" feetOnGround="0" tags="kneeling" lookUp="-80"/>
 </actors>
 <actions>
 	<action type="vaginalsex" actor="0" target="1" performer="1"/>

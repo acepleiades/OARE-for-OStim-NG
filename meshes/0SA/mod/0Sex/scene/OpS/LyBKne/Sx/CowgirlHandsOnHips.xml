@@ -30,28 +30,13 @@
 		</page>
 	</tab>
 </nav>
-<eyes a="0" facerel="0" actionrel="2" bodyrel="1">
-<primary v="0" h="0" vpan="10" hpan="10"/>
-<face v="0" h="0" vpan="10" hpan="10"/>
-<body v="0" h="0" vpan="10" hpan="10"/>
-<action v="0" h="0" vpan="10" hpan="10"/>
-<away v="0" h="0" vpan="10" hpan="10"/>
-</eyes>	
-<eyes a="1" facerel="0" actionrel="2" bodyrel="1">
-<primary v="-85" h="0" vpan="10" hpan="10" />
-<face v="-85" h="0" vpan="10" hpan="10" />
-<body v="-85" h="0" vpan="10" hpan="10" />
-<action v="-85" h="0" vpan="15" hpan="10" />
-<away v="-85" h="0" vpan="30" hpan="10" />
-</eyes>
 <motif drive="intimate" theme="G_SexPhysRear"/>
 <motif drive="intimate" theme="R_SexPhysRear"/>
 <autonav/>
-
 <metadata tags="cowgirl"/>
 <actors>
-	<actor position="0" penisAngle="0" feetOnGround="0" tags="lyingback"/>
-	<actor position="1" feetOnGround="0" tags="kneeling"/>
+	<actor position="0" penisAngle="0" feetOnGround="0" tags="lyingback" lookUp="25"/>
+	<actor position="1" feetOnGround="0" tags="kneeling" lookUp="-80"/>
 </actors>
 <actions>
 	<action type="vaginalsex" actor="0" target="1" performer="1"/>

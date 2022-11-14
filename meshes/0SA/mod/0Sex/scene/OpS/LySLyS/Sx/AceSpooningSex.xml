@@ -20,35 +20,20 @@
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
         <page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="obigx" go="OpS|LyS!LyS|Ho|GoBackSpooningSmooch" text="^return" t0="1">
+			<option halo="hgentle" icon="obigx" go="OpS|LyS!LyS|Ho|SpooningIdle" text="^return" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
 	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
 </nav>
-<eyes a="0" facerel="0" actionrel="2" bodyrel="1">
-<primary v="50" h="-77" vpan="15" hpan="15"/>
-<face v="50" h="-77" vpan="15" hpan="15"/>
-<body v="50" h="-77" vpan="15" hpan="15"/>
-<action v="50" h="-77" vpan="15" hpan="15"/>
-<away v="50" h="-77" vpan="15" hpan="15"/>
-</eyes>	
-<eyes a="1" facerel="0" actionrel="2" bodyrel="1">
-<primary v="-65" h="-15" vpan="15" hpan="15" />
-<face v="-60" h="-10" vpan="15" hpan="15" />
-<body v="-55" h="-5" vpan="15" hpan="15" />
-<action v="-50" h="-20" vpan="15" hpan="15" />
-<away v="-60" h="-15" vpan="15" hpan="15" />
-</eyes>
 <motif drive="intimate" theme="G_SexPhysRear"/>
 <motif drive="intimate" theme="R_SexPhysRear"/>
 <autonav/>
-
 <metadata tags="spooning"/>
 <actors>
-	<actor position="0" penisAngle="2" feetOnGround="0" tags="lyingside"/>
-	<actor position="1" feetOnGround="0" tags="lyingside"/>
+	<actor position="0" penisAngle="2" feetOnGround="0" tags="lyingside" lookUp="-75" lookLeft="-50"/>
+	<actor position="1" feetOnGround="0" tags="lyingside" lookUp="-60" lookLeft="15"/>
 </actors>
 <actions>
 	<action type="vaginalsex" actor="0" target="1"/>
