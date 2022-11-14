@@ -11,3 +11,9 @@ b -Tn _Sx-CraftingTableMissionary_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furnitu
 b -Tn _Sx-CraftingTableMissionary_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CraTab\Sx\CraftingTableMissionary\_Sx-CraftingTableMissionary_S3_1.hkx
 b -Tn _Sx-CraftingTableMissionary_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CraTab\Sx\CraftingTableMissionary\_Sx-CraftingTableMissionary_S4_0.hkx
 b -Tn _Sx-CraftingTableMissionary_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CraTab\Sx\CraftingTableMissionary\_Sx-CraftingTableMissionary_S4_1.hkx
+
+b -Tn _Ap-ShelfIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Ap\ShelfIdle\_Ap-ShelfIdle_0.hkx
+b -Tn _Ap-ShelfIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Ap\ShelfIdle\_Ap-ShelfIdle_1.hkx
+
+b -Tn _Ap-LadleTest_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Ap\LadleTest\_Ap-LadleTest_0.hkx
+b -o _Ap-LadleTest_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Ap\LadleTest\_Ap-LadleTest_1.hkx AnimObjectWoodenLadle
