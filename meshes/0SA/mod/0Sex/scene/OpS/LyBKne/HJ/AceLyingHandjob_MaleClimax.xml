@@ -6,8 +6,8 @@
 </anim>
 <metadata tags="transition"/>
 <actors>
-	<actor position="0" penisAngle="2" feetOnGround="0" tags="climaxing,lyingback"/>
-	<actor position="1" feetOnGround="0" tags="kneeling"/>
+	<actor position="0" penisAngle="1" feetOnGround="0" tags="climaxing,lyingback" lookUp="25" lookLeft="-25"/>
+	<actor position="1" feetOnGround="0" tags="kneeling" lookLeft="10"/>
 </actors>
 <actions>
 	<action type="handjob" actor="1" target="0"/>

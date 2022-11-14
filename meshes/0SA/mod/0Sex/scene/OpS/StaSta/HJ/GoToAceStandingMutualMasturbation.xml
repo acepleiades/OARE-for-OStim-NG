@@ -1,9 +1,0 @@
-<scene id="OpS|Sta!Sta|HJ|GoToAceStandingMutualMasturbation" actors="2" style="OScene">
-<info name="Transition into Standing Mutual Masturbation" animator="Ace"/>
-<anim id="_HJ-GoToAceStandingMutualMasturbation" t="T" l="1" dest="OpS|Sta!Sta|HJ|AceStandingMutualMasturbation">
-</anim>
-<actors>
-	<actor position="0" penisAngle="-5" tags="standing"/>
-	<actor position="1" feetOnGround="1" tags="standing"/>
-</actors>
-</scene>

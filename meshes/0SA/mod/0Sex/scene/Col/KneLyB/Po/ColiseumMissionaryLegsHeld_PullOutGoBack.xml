@@ -1,7 +1,0 @@
-<scene id="Col|Kne!LyB|Po|ColiseumMissionaryLegsHeld_PullOutGoBack" actors="2" style="OScene">
-<info name="Missionary Pull Out Go Back" animator="Ace"/>
-<anim id="_Po-ColiseumMissionaryLegsHeld_PullOutGoBack" t="T" l="1.5" dest="Col|Kne!LyB|Ho|ColiseumMissionaryLegsHeldAfterSex">
-<dfx a="0" fx="1"/>
-<dfx a="1" fx="1"/>
-</anim>
-</scene>

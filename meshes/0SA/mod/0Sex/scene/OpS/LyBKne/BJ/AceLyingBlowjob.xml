@@ -4,52 +4,31 @@
 <anim id="_BJ-AceLyingBlowjob_S1" t="L" l="2"/>
 <speed a="1" min="0" max="3" name="thrusts">
 	<sp mtx="^sucksPerSec" qnt="0.5">
-		<anim id="_BJ-AceLyingBlowjob_S1" t="L" l="2" i0="0" i1="0"/>
-		</sp>
+		<anim id="_BJ-AceLyingBlowjob_S1" t="L" l="2" i0="0" i1="0"/></sp>
 	<sp mtx="^sucksPerSec" qnt="1">
-		<anim id="_BJ-AceLyingBlowjob_S2" t="L" l="2" i0="1" i1="1"/>
-		</sp>
+		<anim id="_BJ-AceLyingBlowjob_S2" t="L" l="2" i0="1" i1="1"/></sp>
 	<sp mtx="^sucksPerSec" qnt="1.5">
-		<anim id="_BJ-AceLyingBlowjob_S3" t="L" l="2" i0="2" i1="2"/>
-		</sp>
+		<anim id="_BJ-AceLyingBlowjob_S3" t="L" l="2" i0="2" i1="2"/></sp>
 	<sp mtx="^sucksPerSec" qnt="2">
-		<anim id="_BJ-AceLyingBlowjob_S4" t="L" l="2" i0="3" i1="3"/>
-		</sp>
+		<anim id="_BJ-AceLyingBlowjob_S4" t="L" l="2" i0="3" i1="3"/></sp>
 </speed>
 <nav>
 	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
     <tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
         <page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="obigx" go="OpS|LyB!Kne|BJ|GoBackAceLyingBlowjob" text="^return">
+			<option halo="hgentle" icon="obigx" go="OpS|Sit!Kne|Ho|SittingFemaleApproach" text="^return">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
 </nav>
-<eyes a="0" facerel="0" actionrel="0" bodyrel="1">
-<primary v="0" h="0" vpan="10" hpan="10"/>
-<face v="0" h="0" vpan="10" hpan="10"/>
-<body v="0" h="0" vpan="10" hpan="10"/>
-<action v="0" h="0" vpan="10" hpan="10"/>
-<away v="0" h="0" vpan="80" hpan="100"/>
-</eyes>	 
-<eyes a="1" facerel="1" actionrel="0" bodyrel="0">
-<primary v="100" h="0" vpan="5" hpan="10" />
-<face v="100" h="0" vpan="5" hpan="10" />
-<body v="100" h="0" vpan="5" hpan="10" />
-<action v="100" h="0" vpan="5" hpan="10" />
-<away v="100" h="0" vpan="90" hpan="90" />
-</eyes>
 <motif drive="intimate" theme="R_Blowjob"/>
 <motif drive="intimate" theme="G_Blowjob"/>
 <autonav/>
-
 <actors>
-	<actor position="0" penisAngle="2" feetOnGround="0" tags="lyingback">
-		<autotransition type="climax" destination="OpS|LyB!Kne|BJ|AceLyingBlowjobClimax"/>
-	</actor>
-	<actor position="1" feetOnGround="0" tags="kneeling"/>
+	<actor position="0" penisAngle="2" feetOnGround="0" tags="lyingback" lookUp="-75"/>
+	<actor position="1" feetOnGround="0" tags="kneeling" lookUp="100"/>
 </actors>
 <actions>
 	<action type="blowjob" actor="1" target="0"/>
