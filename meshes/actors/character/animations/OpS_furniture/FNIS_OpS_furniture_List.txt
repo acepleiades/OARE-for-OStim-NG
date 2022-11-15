@@ -1,5 +1,7 @@
 b -Tn _Ap-BenchIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdle\_Ap-BenchIdle_0.hkx
 b -Tn _Ap-BenchIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdle\_Ap-BenchIdle_1.hkx
+b -Tn _Ho-BenchSitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ho\BenchSitting\_Ho-BenchSitting_0.hkx
+b -Tn _Ho-BenchSitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ho\BenchSitting\_Ho-BenchSitting_1.hkx
 
 b -Tn _Ap-CookingPotIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Ap\CookingPotIdle\_Ap-CookingPotIdle_0.hkx
 b -o _Ap-CookingPotIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Ap\CookingPotIdle\_Ap-CookingPotIdle_1.hkx AnimObjectSpoon
