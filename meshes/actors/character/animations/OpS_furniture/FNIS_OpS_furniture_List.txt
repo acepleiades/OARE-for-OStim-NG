@@ -19,3 +19,15 @@ b -Tn _Sx-CraftingTableMissionary_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furnitu
 
 b -Tn _Ap-ShelfIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Ap\ShelfIdle\_Ap-ShelfIdle_0.hkx
 b -Tn _Ap-ShelfIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Ap\ShelfIdle\_Ap-ShelfIdle_1.hkx
+b -Tn _Ap-ShelfIdleBook_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Ap\ShelfIdleBook\_Ap-ShelfIdleBook_0.hkx
+b -o _Ap-ShelfIdleBook_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Ap\ShelfIdleBook\_Ap-ShelfIdleBook_1.hkx AnimObjectBook
+b -Tn _Ap-ShelfIdleBentOver_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Ap\ShelfIdleBentOver\_Ap-ShelfIdleBentOver_0.hkx
+b -Tn _Ap-ShelfIdleBentOver_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Ap\ShelfIdleBentOver\_Ap-ShelfIdleBentOver_1.hkx
+b -Tn _Sx-ShelfRearSexBentOver_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Sx\ShelfRearSexBentOver\_Sx-ShelfRearSexBentOver_S1_0.hkx
+b -Tn _Sx-ShelfRearSexBentOver_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Sx\ShelfRearSexBentOver\_Sx-ShelfRearSexBentOver_S1_1.hkx
+b -Tn _Sx-ShelfRearSexBentOver_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Sx\ShelfRearSexBentOver\_Sx-ShelfRearSexBentOver_S2_0.hkx
+b -Tn _Sx-ShelfRearSexBentOver_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Sx\ShelfRearSexBentOver\_Sx-ShelfRearSexBentOver_S2_1.hkx
+b -Tn _Sx-ShelfRearSexBentOver_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Sx\ShelfRearSexBentOver\_Sx-ShelfRearSexBentOver_S3_0.hkx
+b -Tn _Sx-ShelfRearSexBentOver_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Sx\ShelfRearSexBentOver\_Sx-ShelfRearSexBentOver_S3_1.hkx
+b -Tn _Sx-ShelfRearSexBentOver_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Sx\ShelfRearSexBentOver\_Sx-ShelfRearSexBentOver_S4_0.hkx
+b -Tn _Sx-ShelfRearSexBentOver_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Sx\ShelfRearSexBentOver\_Sx-ShelfRearSexBentOver_S4_1.hkx
