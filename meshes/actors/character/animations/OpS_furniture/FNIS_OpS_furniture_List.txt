@@ -1,3 +1,6 @@
+b -Tn _Ap-ChairIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\ChaIr\Ap\ChairIdle\_Ap-ChairIdle_0.hkx
+b -Tn _Ap-ChairIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\ChaIr\Ap\ChairIdle\_Ap-ChairIdle_1.hkx
+
 b -Tn _Ap-BenchIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdle\_Ap-BenchIdle_0.hkx
 b -Tn _Ap-BenchIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdle\_Ap-BenchIdle_1.hkx
 b -Tn _Ho-BenchSitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ho\BenchSitting\_Ho-BenchSitting_0.hkx
@@ -31,3 +34,5 @@ b -Tn _Sx-ShelfRearSexBentOver_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\
 b -Tn _Sx-ShelfRearSexBentOver_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Sx\ShelfRearSexBentOver\_Sx-ShelfRearSexBentOver_S3_1.hkx
 b -Tn _Sx-ShelfRearSexBentOver_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Sx\ShelfRearSexBentOver\_Sx-ShelfRearSexBentOver_S4_0.hkx
 b -Tn _Sx-ShelfRearSexBentOver_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Sx\ShelfRearSexBentOver\_Sx-ShelfRearSexBentOver_S4_1.hkx
+b -Tn _Sx-ShelfRearSexBentOverBreastGrab_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Sx\ShelfRearSexBentOverBreastGrab\_Sx-ShelfRearSexBentOverBreastGrab_S1_0.hkx
+b -Tn _Sx-ShelfRearSexBentOverBreastGrab_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Sx\ShelfRearSexBentOverBreastGrab\_Sx-ShelfRearSexBentOverBreastGrab_S1_1.hkx
