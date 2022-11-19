@@ -9,9 +9,6 @@
             <option halo="hgentle" icon="obododn_f" go="OpS_furniture|She!Lf|Ap|ShelfIdleBentOver" text="^bendOver">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="obododn_f" go="OpS_furniture|She!Lf|Ap|ShelfIdleBook" text="^pickUpABook" t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
 		</page>
 	</tab>
 </nav>
