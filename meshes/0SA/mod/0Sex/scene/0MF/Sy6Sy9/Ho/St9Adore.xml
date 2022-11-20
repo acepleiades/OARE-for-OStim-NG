@@ -73,7 +73,7 @@
 <motif drive="intimate" theme="Affection"/>
 <motif drive="intimate" theme="Affection"/>
 <autonav/>
-<metadata tags="idle"/>
+<metadata tags="idle,intro"/>
 <actors>
 	<actor position="0" penisAngle="6" feetOnGround="1" tags="standing"/>
 	<actor position="1" feetOnGround="1" tags="standing"/>
