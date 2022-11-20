@@ -26,12 +26,13 @@
 <motif drive="intimate" theme="G_SexPhysRear"/>
 <motif drive="intimate" theme="R_SexPhysRear"/>
 <autonav/>
-<metadata tags="spooning"/>
+<metadata furniture="shelf"/>
 <actors>
 	<actor position="0" penisAngle="7" feetOnGround="1" tags="standing" lookUp="-75"/>
-	<actor position="1" feetOnGround="1" tags="standing" lookUp="-60"/>
+	<actor position="1" feetOnGround="1" tags="bendover,facingaway,standing" lookUp="-60"/>
 </actors>
 <actions>
 	<action type="vaginalsex" actor="0" target="1"/>
+	<action type="gropingbreast" actor="0" target="1"/>
 </actions>
 </scene>
