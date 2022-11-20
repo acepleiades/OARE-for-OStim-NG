@@ -9,16 +9,16 @@ b -Tn _Ho-BenchSitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ho\Be
 b -Tn _Ap-CookingPotIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Ap\CookingPotIdle\_Ap-CookingPotIdle_0.hkx
 b -o _Ap-CookingPotIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Ap\CookingPotIdle\_Ap-CookingPotIdle_1.hkx AnimObjectSpoon
 
-b -Tn _Ap-CraftingTableIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CraTab\Ap\CraftingTableIdle\_Ap-CraftingTableIdle_0.hkx
-b -Tn _Ap-CraftingTableIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CraTab\Ap\CraftingTableIdle\_Ap-CraftingTableIdle_1.hkx
-b -Tn _Sx-CraftingTableMissionary_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CraTab\Sx\CraftingTableMissionary\_Sx-CraftingTableMissionary_S1_0.hkx
-b -Tn _Sx-CraftingTableMissionary_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CraTab\Sx\CraftingTableMissionary\_Sx-CraftingTableMissionary_S1_1.hkx
-b -Tn _Sx-CraftingTableMissionary_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CraTab\Sx\CraftingTableMissionary\_Sx-CraftingTableMissionary_S2_0.hkx
-b -Tn _Sx-CraftingTableMissionary_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CraTab\Sx\CraftingTableMissionary\_Sx-CraftingTableMissionary_S2_1.hkx
-b -Tn _Sx-CraftingTableMissionary_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CraTab\Sx\CraftingTableMissionary\_Sx-CraftingTableMissionary_S3_0.hkx
-b -Tn _Sx-CraftingTableMissionary_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CraTab\Sx\CraftingTableMissionary\_Sx-CraftingTableMissionary_S3_1.hkx
-b -Tn _Sx-CraftingTableMissionary_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CraTab\Sx\CraftingTableMissionary\_Sx-CraftingTableMissionary_S4_0.hkx
-b -Tn _Sx-CraftingTableMissionary_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CraTab\Sx\CraftingTableMissionary\_Sx-CraftingTableMissionary_S4_1.hkx
+b -Tn _Ap-TableIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Ap\TableIdle\_Ap-TableIdle_0.hkx
+b -Tn _Ap-TableIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Ap\TableIdle\_Ap-TableIdle_1.hkx
+b -Tn _Sx-TableMissionary_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Sx\TableMissionary\_Sx-TableMissionary_S1_0.hkx
+b -Tn _Sx-TableMissionary_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Sx\TableMissionary\_Sx-TableMissionary_S1_1.hkx
+b -Tn _Sx-TableMissionary_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Sx\TableMissionary\_Sx-TableMissionary_S2_0.hkx
+b -Tn _Sx-TableMissionary_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Sx\TableMissionary\_Sx-TableMissionary_S2_1.hkx
+b -Tn _Sx-TableMissionary_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Sx\TableMissionary\_Sx-TableMissionary_S3_0.hkx
+b -Tn _Sx-TableMissionary_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Sx\TableMissionary\_Sx-TableMissionary_S3_1.hkx
+b -Tn _Sx-TableMissionary_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Sx\TableMissionary\_Sx-TableMissionary_S4_0.hkx
+b -Tn _Sx-TableMissionary_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Sx\TableMissionary\_Sx-TableMissionary_S4_1.hkx
 
 b -Tn _Ap-ShelfIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Ap\ShelfIdle\_Ap-ShelfIdle_0.hkx
 b -Tn _Ap-ShelfIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Ap\ShelfIdle\_Ap-ShelfIdle_1.hkx
