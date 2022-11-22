@@ -26,6 +26,22 @@ b -Tn _Sx-BenchSittingSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh
 
 b -Tn _Ap-CookingPotIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Ap\CookingPotIdle\_Ap-CookingPotIdle_0.hkx
 b -o _Ap-CookingPotIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Ap\CookingPotIdle\_Ap-CookingPotIdle_1.hkx AnimObjectSpoon
+b -Tn _Ap-CookingPotMaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Ap\CookingPotMaleApproach\_Ap-CookingPotMaleApproach_0.hkx
+b -o _Ap-CookingPotMaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Ap\CookingPotMaleApproach\_Ap-CookingPotMaleApproach_1.hkx AnimObjectSpoon
+b -Tn _Cr-CookingPotButtGrab_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Cr\CookingPotButtGrab\_Cr-CookingPotButtGrab_S1_0.hkx
+b -o _Cr-CookingPotButtGrab_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Cr\CookingPotButtGrab\_Cr-CookingPotButtGrab_S1_1.hkx AnimObjectSpoon
+b -Tn _Cr-CookingPotButtGrab_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Cr\CookingPotButtGrab\_Cr-CookingPotButtGrab_S2_0.hkx
+b -o _Cr-CookingPotButtGrab_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Cr\CookingPotButtGrab\_Cr-CookingPotButtGrab_S2_1.hkx AnimObjectSpoon
+b -Tn _Cr-CookingPotButtGrab_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Cr\CookingPotButtGrab\_Cr-CookingPotButtGrab_S3_0.hkx
+b -o _Cr-CookingPotButtGrab_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Cr\CookingPotButtGrab\_Cr-CookingPotButtGrab_S3_1.hkx AnimObjectSpoon
+b -Tn _Cr-CookingPotKissGropeBreasts_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Cr\CookingPotKissGropeBreasts\_Cr-CookingPotKissGropeBreasts_S1_0.hkx
+b -o _Cr-CookingPotKissGropeBreasts_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Cr\CookingPotKissGropeBreasts\_Cr-CookingPotKissGropeBreasts_S1_1.hkx AnimObjectSpoon
+b -Tn _Cr-CookingPotKissGropeBreasts_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Cr\CookingPotKissGropeBreasts\_Cr-CookingPotKissGropeBreasts_S2_0.hkx
+b -o _Cr-CookingPotKissGropeBreasts_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Cr\CookingPotKissGropeBreasts\_Cr-CookingPotKissGropeBreasts_S2_1.hkx AnimObjectSpoon
+b -Tn _Cr-CookingPotKissGropeBreasts_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Cr\CookingPotKissGropeBreasts\_Cr-CookingPotKissGropeBreasts_S3_0.hkx
+b -o _Cr-CookingPotKissGropeBreasts_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Cr\CookingPotKissGropeBreasts\_Cr-CookingPotKissGropeBreasts_S3_1.hkx AnimObjectSpoon
+b -Tn _Cr-CookingPotKissGropeBreasts_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Cr\CookingPotKissGropeBreasts\_Cr-CookingPotKissGropeBreasts_S4_0.hkx
+b -o _Cr-CookingPotKissGropeBreasts_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Cr\CookingPotKissGropeBreasts\_Cr-CookingPotKissGropeBreasts_S4_1.hkx AnimObjectSpoon
 
 b -Tn _Ap-TableIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Ap\TableIdle\_Ap-TableIdle_0.hkx
 b -Tn _Ap-TableIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Ap\TableIdle\_Ap-TableIdle_1.hkx
