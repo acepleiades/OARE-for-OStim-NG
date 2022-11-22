@@ -50,6 +50,14 @@ b -Tn _Sx-CookingPotSex_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\
 b -o _Sx-CookingPotSex_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSex\_Sx-CookingPotSex_S3_1.hkx AnimObjectSpoon
 b -Tn _Sx-CookingPotSex_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSex\_Sx-CookingPotSex_S4_0.hkx
 b -o _Sx-CookingPotSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSex\_Sx-CookingPotSex_S4_1.hkx AnimObjectSpoon
+b -Tn _Sx-CookingPotSexNoHands_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexNoHands\_Sx-CookingPotSexNoHands_S1_0.hkx
+b -o _Sx-CookingPotSexNoHands_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexNoHands\_Sx-CookingPotSexNoHands_S1_1.hkx AnimObjectSpoon
+b -Tn _Sx-CookingPotSexNoHands_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexNoHands\_Sx-CookingPotSexNoHands_S2_0.hkx
+b -o _Sx-CookingPotSexNoHands_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexNoHands\_Sx-CookingPotSexNoHands_S2_1.hkx AnimObjectSpoon
+b -Tn _Sx-CookingPotSexNoHands_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexNoHands\_Sx-CookingPotSexNoHands_S3_0.hkx
+b -o _Sx-CookingPotSexNoHands_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexNoHands\_Sx-CookingPotSexNoHands_S3_1.hkx AnimObjectSpoon
+b -Tn _Sx-CookingPotSexNoHands_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexNoHands\_Sx-CookingPotSexNoHands_S4_0.hkx
+b -o _Sx-CookingPotSexNoHands_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexNoHands\_Sx-CookingPotSexNoHands_S4_1.hkx AnimObjectSpoon
 
 b -Tn _Ap-TableIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Ap\TableIdle\_Ap-TableIdle_0.hkx
 b -Tn _Ap-TableIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Ap\TableIdle\_Ap-TableIdle_1.hkx

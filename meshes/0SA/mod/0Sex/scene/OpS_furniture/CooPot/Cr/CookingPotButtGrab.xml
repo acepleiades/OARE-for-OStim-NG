@@ -26,7 +26,7 @@
 <autonav/>
 <metadata furniture="cookingpot"/>
 <actors>
-    <actor position="0" penisAngle="-7" feetOnGround="1" tags="standing" lookUp="-75"/>
+    <actor position="0" penisAngle="6" feetOnGround="1" tags="standing" lookUp="-75"/>
     <actor position="1" feetOnGround="1" tags="facingaway,standing" lookUp="-50" lookLeft="100"/>
 </actors>
 <actions>
