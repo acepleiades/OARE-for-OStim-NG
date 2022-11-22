@@ -1,0 +1,34 @@
+<scene id="OpS_furniture|Coo!Pot|Cr|CookingPotButtGrab" actors="2" style="OScene">
+<info name="Cooking Pot Butt Grab" animator="Ace"/>
+<region om="A" maj="K" min="K" stage="" step="" story=""/>
+<anim id="_Cr-CookingPotButtGrab_S1" t="L" l="2"/>
+<speed a="1" min="0" max="2" name="thrusts">	
+	<sp mtx="^thrustsPerSec" qnt=".5">
+		<anim id="_Cr-CookingPotButtGrab_S1" t="L" l="2" i0="0" i1="0"/></sp>
+	<sp mtx="^thrustsPerSec" qnt="1">
+		<anim id="_Cr-CookingPotButtGrab_S2" t="L" l="2" i0="1" i1="1"/></sp>
+	<sp mtx="^thrustsPerSec" qnt="1.5">
+		<anim id="_Cr-CookingPotButtGrab_S3" t="L" l="2" i0="2" i1="2"/></sp>
+</speed>
+<nav>
+	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
+		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="obigx" go="OpS_furniture|Coo!Pot|Ap|CookingPotMaleApproach" text="^return" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
+   	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
+</nav>
+<motif drive="intimate" theme="Domineer"/>
+<motif drive="intimate" theme="G_Handjob"/>
+<autonav/>
+<actors>
+    <actor position="0" penisAngle="-7" feetOnGround="1" tags="standing" lookUp="-75"/>
+    <actor position="1" feetOnGround="1" tags="facingaway,standing" lookUp="-50" lookLeft="100"/>
+</actors>
+<actions>
+	<action type="gropingbutt" actor="0" target="1"/>
+</actions>
+</scene>
