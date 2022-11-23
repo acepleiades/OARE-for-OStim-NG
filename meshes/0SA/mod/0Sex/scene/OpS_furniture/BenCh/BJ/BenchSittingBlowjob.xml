@@ -26,7 +26,7 @@
 <motif drive="intimate" theme="R_Blowjob"/>
 <motif drive="intimate" theme="G_Blowjob"/>
 <autonav/>
-<metadata tags="idle,intro" furniture="bench"/>
+<metadata furniture="bench"/>
 <actors>
 	<actor position="0" penisAngle="4" feetOnGround="1" scaleHeight="67" tags="sitting" lookUp="-75"/>
 	<actor position="1" feetOnGround="0" tags="kneeling" lookUp="-100"/>

@@ -1,5 +1,5 @@
 <scene id="OpS|Sta!Sta|Ho|GoToStandingKiss" actors="2" style="OScene">
-<info name="Transition into Standing Kiss" animator="Ace"/>
+<info name="ORomance kiss" animator="Ace"/>
 <anim id="_Ho-GoToStandingKiss" t="T" l="1" dest="OpS|Sta!Sta|Ho|StandingKiss">
 </anim>
 <metadata tags="transition"/>
