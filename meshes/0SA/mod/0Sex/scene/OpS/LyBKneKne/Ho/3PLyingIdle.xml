@@ -40,7 +40,7 @@
 <motif drive="intimate" theme="Affection"/>
 <autonav/>
 <visitor ix="1" a="2"/>
-<metadata tags="idle"/>
+<metadata tags="idle,intro"/>
 <actors>
 	<actor position="0" penisAngle="1" feetOnGround="0" tags="lyingback"/>
 	<actor position="1" feetOnGround="0" tags="kneeling"/>
