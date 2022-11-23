@@ -20,9 +20,9 @@
 <motif drive="intimate" theme="Affection"/>
 <motif drive="intimate" theme="Affection"/>
 <autonav/>
-<metadata tags="idle,intro" furniture="bench"/>
+<metadata tags="idle" furniture="bench"/>
 <actors>
     <actor position="0" penisAngle="6" feetOnGround="1" tags="sitting" lookUp="0"/>
-	<actor position="1" feetOnGround="0" tags="standing" lookUp="0"/>
+	<actor position="1" feetOnGround="0" tags="kneeling" lookUp="0"/>
 </actors>
 </scene>
