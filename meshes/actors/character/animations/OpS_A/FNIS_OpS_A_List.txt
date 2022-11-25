@@ -828,6 +828,16 @@ b -Tn _Sx-AceSpooningSex_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Sx\AceSpo
 b -Tn _Sx-AceSpooningSex_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Sx\AceSpooningSex\_Sx-AceSpooningSex_S3_1.hkx
 b -Tn _Sx-AceSpooningSex_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Sx\AceSpooningSex\_Sx-AceSpooningSex_S4_0.hkx
 b -Tn _Sx-AceSpooningSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Sx\AceSpooningSex\_Sx-AceSpooningSex_S4_1.hkx
+b -Tn _Em-LyingCuddleKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Em\LyingCuddleKiss\_Em-LyingCuddleKiss_0.hkx
+b -Tn _Em-LyingCuddleKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Em\LyingCuddleKiss\_Em-LyingCuddleKiss_1.hkx
+b -Tn _Cr-LyingCuddleKissMasturbation_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Cr\LyingCuddleKissMasturbation\_Cr-LyingCuddleKissMasturbation_S1_0.hkx
+b -Tn _Cr-LyingCuddleKissMasturbation_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Cr\LyingCuddleKissMasturbation\_Cr-LyingCuddleKissMasturbation_S1_1.hkx
+b -Tn _Cr-LyingCuddleKissMasturbation_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Cr\LyingCuddleKissMasturbation\_Cr-LyingCuddleKissMasturbation_S2_0.hkx
+b -Tn _Cr-LyingCuddleKissMasturbation_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Cr\LyingCuddleKissMasturbation\_Cr-LyingCuddleKissMasturbation_S2_1.hkx
+b -Tn _Cr-LyingCuddleKissMasturbation_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Cr\LyingCuddleKissMasturbation\_Cr-LyingCuddleKissMasturbation_S3_0.hkx
+b -Tn _Cr-LyingCuddleKissMasturbation_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Cr\LyingCuddleKissMasturbation\_Cr-LyingCuddleKissMasturbation_S3_1.hkx
+b -Tn _Cr-LyingCuddleKissMasturbation_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Cr\LyingCuddleKissMasturbation\_Cr-LyingCuddleKissMasturbation_S4_0.hkx
+b -Tn _Cr-LyingCuddleKissMasturbation_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Cr\LyingCuddleKissMasturbation\_Cr-LyingCuddleKissMasturbation_S4_1.hkx
 
 b -Tn _Ho-Ace3PStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaStaSta\Ho\Ace3PStanding\_Ho-Ace3PStanding_0.hkx
 b -Tn _Ho-Ace3PStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaStaSta\Ho\Ace3PStanding\_Ho-Ace3PStanding_1.hkx
