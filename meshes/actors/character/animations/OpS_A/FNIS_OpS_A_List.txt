@@ -604,8 +604,32 @@ b -Tn _Sx-ReverseCowgirlLeaningBack_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKn
 b -Tn _Sx-ReverseCowgirlLeaningBack_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\ReverseCowgirlLeaningBack\_Sx-ReverseCowgirlLeaningBack_S4_0.hkx
 b -Tn _Sx-ReverseCowgirlLeaningBack_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\ReverseCowgirlLeaningBack\_Sx-ReverseCowgirlLeaningBack_S4_1.hkx
 
-b -Tn _Ho-SittingMaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\AFoSit\Ho\SittingMaleApproach\_Ho-SittingMaleApproach_0.hkx
-b -Tn _Ho-SittingMaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\AFoSit\Ho\SittingMaleApproach\_Ho-SittingMaleApproach_1.hkx
+b -Tn _Ap-SittingMaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\SittingMaleApproach\_Ap-SittingMaleApproach_0.hkx
+b -Tn _Ap-SittingMaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\SittingMaleApproach\_Ap-SittingMaleApproach_1.hkx
+b -Tn _VJ-SittingCunnilingus_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingus\_VJ-SittingCunnilingus_S1_0.hkx
+b -Tn _VJ-SittingCunnilingus_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingus\_VJ-SittingCunnilingus_S1_1.hkx
+b -Tn _VJ-SittingCunnilingus_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingus\_VJ-SittingCunnilingus_S2_0.hkx
+b -Tn _VJ-SittingCunnilingus_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingus\_VJ-SittingCunnilingus_S2_1.hkx
+b -Tn _VJ-SittingCunnilingus_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingus\_VJ-SittingCunnilingus_S3_0.hkx
+b -Tn _VJ-SittingCunnilingus_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingus\_VJ-SittingCunnilingus_S3_1.hkx
+b -Tn _VJ-SittingCunnilingus_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingus\_VJ-SittingCunnilingus_S4_0.hkx
+b -Tn _VJ-SittingCunnilingus_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingus\_VJ-SittingCunnilingus_S4_1.hkx
+b -Tn _VJ-SittingCunnilingusHairGrab_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingusHairGrab\_VJ-SittingCunnilingusHairGrab_S1_0.hkx
+b -Tn _VJ-SittingCunnilingusHairGrab_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingusHairGrab\_VJ-SittingCunnilingusHairGrab_S1_1.hkx
+b -Tn _VJ-SittingCunnilingusHairGrab_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingusHairGrab\_VJ-SittingCunnilingusHairGrab_S2_0.hkx
+b -Tn _VJ-SittingCunnilingusHairGrab_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingusHairGrab\_VJ-SittingCunnilingusHairGrab_S2_1.hkx
+b -Tn _VJ-SittingCunnilingusHairGrab_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingusHairGrab\_VJ-SittingCunnilingusHairGrab_S3_0.hkx
+b -Tn _VJ-SittingCunnilingusHairGrab_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingusHairGrab\_VJ-SittingCunnilingusHairGrab_S3_1.hkx
+b -Tn _VJ-SittingCunnilingusHairGrab_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingusHairGrab\_VJ-SittingCunnilingusHairGrab_S4_0.hkx
+b -Tn _VJ-SittingCunnilingusHairGrab_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingusHairGrab\_VJ-SittingCunnilingusHairGrab_S4_1.hkx
+b -Tn _VJ-SittingCunnilingusLegsLocked_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingusLegsLocked\_VJ-SittingCunnilingusLegsLocked_S1_0.hkx
+b -Tn _VJ-SittingCunnilingusLegsLocked_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingusLegsLocked\_VJ-SittingCunnilingusLegsLocked_S1_1.hkx
+b -Tn _VJ-SittingCunnilingusLegsLocked_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingusLegsLocked\_VJ-SittingCunnilingusLegsLocked_S2_0.hkx
+b -Tn _VJ-SittingCunnilingusLegsLocked_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingusLegsLocked\_VJ-SittingCunnilingusLegsLocked_S2_1.hkx
+b -Tn _VJ-SittingCunnilingusLegsLocked_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingusLegsLocked\_VJ-SittingCunnilingusLegsLocked_S3_0.hkx
+b -Tn _VJ-SittingCunnilingusLegsLocked_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingusLegsLocked\_VJ-SittingCunnilingusLegsLocked_S3_1.hkx
+b -Tn _VJ-SittingCunnilingusLegsLocked_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingusLegsLocked\_VJ-SittingCunnilingusLegsLocked_S4_0.hkx
+b -Tn _VJ-SittingCunnilingusLegsLocked_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingusLegsLocked\_VJ-SittingCunnilingusLegsLocked_S4_1.hkx
 b -Tn _BoJ-AceOnTopTitfuck_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\AceOnTopTitfuck\_BoJ-AceOnTopTitfuck_S1_0.hkx
 b -Tn _BoJ-AceOnTopTitfuck_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\AceOnTopTitfuck\_BoJ-AceOnTopTitfuck_S1_1.hkx
 b -Tn _BoJ-AceOnTopTitfuck_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\AceOnTopTitfuck\_BoJ-AceOnTopTitfuck_S2_0.hkx
@@ -620,22 +644,6 @@ b -a,Tn _Ho-AceOnTopTitfuck_GoToAfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\
 b -a,Tn _Ho-AceOnTopTitfuck_GoToAfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceOnTopTitfuck_AfterClimax\_Ho-AceOnTopTitfuck_GoToAfterClimax_1.hkx
 b -Tn _Ho-AceOnTopTitfuck_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceOnTopTitfuck_AfterClimax\_Ho-AceOnTopTitfuck_AfterClimax_0.hkx
 b -Tn _Ho-AceOnTopTitfuck_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceOnTopTitfuck_AfterClimax\_Ho-AceOnTopTitfuck_AfterClimax_1.hkx
-b -Tn _VJ-AceLyingCunnilingusLegsLocked_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceLyingCunnilingusLegsLocked\_VJ-AceLyingCunnilingusLegsLocked_S1_0.hkx
-b -Tn _VJ-AceLyingCunnilingusLegsLocked_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceLyingCunnilingusLegsLocked\_VJ-AceLyingCunnilingusLegsLocked_S1_1.hkx
-b -Tn _VJ-AceLyingCunnilingusLegsLocked_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceLyingCunnilingusLegsLocked\_VJ-AceLyingCunnilingusLegsLocked_S2_0.hkx
-b -Tn _VJ-AceLyingCunnilingusLegsLocked_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceLyingCunnilingusLegsLocked\_VJ-AceLyingCunnilingusLegsLocked_S2_1.hkx
-b -Tn _VJ-AceLyingCunnilingusLegsLocked_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceLyingCunnilingusLegsLocked\_VJ-AceLyingCunnilingusLegsLocked_S3_0.hkx
-b -Tn _VJ-AceLyingCunnilingusLegsLocked_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceLyingCunnilingusLegsLocked\_VJ-AceLyingCunnilingusLegsLocked_S3_1.hkx
-b -Tn _VJ-AceLyingCunnilingusLegsLocked_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceLyingCunnilingusLegsLocked\_VJ-AceLyingCunnilingusLegsLocked_S4_0.hkx
-b -Tn _VJ-AceLyingCunnilingusLegsLocked_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceLyingCunnilingusLegsLocked\_VJ-AceLyingCunnilingusLegsLocked_S4_1.hkx
-b -Tn _VJ-AceSittingCunnilingus_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceSittingCunnilingus\_VJ-AceSittingCunnilingus_S1_0.hkx
-b -Tn _VJ-AceSittingCunnilingus_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceSittingCunnilingus\_VJ-AceSittingCunnilingus_S1_1.hkx
-b -Tn _VJ-AceSittingCunnilingus_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceSittingCunnilingus\_VJ-AceSittingCunnilingus_S2_0.hkx
-b -Tn _VJ-AceSittingCunnilingus_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceSittingCunnilingus\_VJ-AceSittingCunnilingus_S2_1.hkx
-b -Tn _VJ-AceSittingCunnilingus_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceSittingCunnilingus\_VJ-AceSittingCunnilingus_S3_0.hkx
-b -Tn _VJ-AceSittingCunnilingus_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceSittingCunnilingus\_VJ-AceSittingCunnilingus_S3_1.hkx
-b -Tn _VJ-AceSittingCunnilingus_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceSittingCunnilingus\_VJ-AceSittingCunnilingus_S4_0.hkx
-b -Tn _VJ-AceSittingCunnilingus_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\AceSittingCunnilingus\_VJ-AceSittingCunnilingus_S4_1.hkx
 
 b -Tn _Ho-SpreadLegsFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\SpreadLegsFemale\_Ho-SpreadLegsFemale_0.hkx
 b -Tn _Ho-SpreadLegsFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\SpreadLegsFemale\_Ho-SpreadLegsFemale_1.hkx
@@ -993,5 +1001,7 @@ b -Tn _VHJ-AceLesbian69Fingering_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\V
 
 b -Tn _Ho-OPLesbianTransition_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\_Ho-OPLesbianTransition_0.hkx
 b -Tn _Ho-OPLesbianTransition_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\_Ho-OPLesbianTransition_1.hkx
+b -Tn _Ap-OPRedirectToSittingMaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\SittingMaleApproach\_Ap-SittingMaleApproach_0.hkx
+b -Tn _Ap-OPRedirectToSittingMaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\SittingMaleApproach\_Ap-SittingMaleApproach_1.hkx
 b -Tn _Ho-GoToStandingKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_0.hkx
 b -Tn _Ho-GoToStandingKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_1.hkx
