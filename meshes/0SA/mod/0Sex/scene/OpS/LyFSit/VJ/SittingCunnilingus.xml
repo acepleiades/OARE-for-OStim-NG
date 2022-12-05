@@ -16,7 +16,7 @@
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="obigx" go="OpS|AFo!Sit|Ho|SittingMaleApproach" text="^return" t0="0">
+			<option halo="hgentle" icon="obigx" go="OpS|Sit!Sit|Ap|SittingMaleApproach" text="^return" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
@@ -29,7 +29,7 @@
             <option halo="hgentle" icon="omu_lipspucker" go="OpS|LyF!Sit|VJ|SittingCunnilingusLegsLocked" text="^wrapYourLegsAroundNsHead" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obigx" go="OpS|AFo!Sit|Ho|SittingMaleApproach" text="^return" t0="0">
+			<option halo="hgentle" icon="obigx" go="OpS|Sit!Sit|Ap|SittingMaleApproach" text="^return" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
