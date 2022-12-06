@@ -650,6 +650,14 @@ b -Tn _BoJ-MountedTitfuckCupping_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\B
 b -Tn _BoJ-MountedTitfuckCupping_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\MountedTitfuckCupping\_BoJ-MountedTitfuckCupping_S3_1.hkx
 b -Tn _BoJ-MountedTitfuckCupping_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\MountedTitfuckCupping\_BoJ-MountedTitfuckCupping_S4_0.hkx
 b -Tn _BoJ-MountedTitfuckCupping_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\MountedTitfuckCupping\_BoJ-MountedTitfuckCupping_S4_1.hkx
+b -Tn _BoJ-MountedTitfuckBreastGrab_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\MountedTitfuckBreastGrab\_BoJ-MountedTitfuckBreastGrab_S1_0.hkx
+b -Tn _BoJ-MountedTitfuckBreastGrab_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\MountedTitfuckBreastGrab\_BoJ-MountedTitfuckBreastGrab_S1_1.hkx
+b -Tn _BoJ-MountedTitfuckBreastGrab_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\MountedTitfuckBreastGrab\_BoJ-MountedTitfuckBreastGrab_S2_0.hkx
+b -Tn _BoJ-MountedTitfuckBreastGrab_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\MountedTitfuckBreastGrab\_BoJ-MountedTitfuckBreastGrab_S2_1.hkx
+b -Tn _BoJ-MountedTitfuckBreastGrab_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\MountedTitfuckBreastGrab\_BoJ-MountedTitfuckBreastGrab_S3_0.hkx
+b -Tn _BoJ-MountedTitfuckBreastGrab_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\MountedTitfuckBreastGrab\_BoJ-MountedTitfuckBreastGrab_S3_1.hkx
+b -Tn _BoJ-MountedTitfuckBreastGrab_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\MountedTitfuckBreastGrab\_BoJ-MountedTitfuckBreastGrab_S4_0.hkx
+b -Tn _BoJ-MountedTitfuckBreastGrab_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\MountedTitfuckBreastGrab\_BoJ-MountedTitfuckBreastGrab_S4_1.hkx
 
 b -Tn _Ho-SpreadLegsFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\SpreadLegsFemale\_Ho-SpreadLegsFemale_0.hkx
 b -Tn _Ho-SpreadLegsFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\SpreadLegsFemale\_Ho-SpreadLegsFemale_1.hkx
