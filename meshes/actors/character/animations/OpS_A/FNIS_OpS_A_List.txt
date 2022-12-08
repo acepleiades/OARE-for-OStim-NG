@@ -658,6 +658,22 @@ b -Tn _BoJ-MountedTitfuckBreastGrab_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLy
 b -Tn _BoJ-MountedTitfuckBreastGrab_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\MountedTitfuckBreastGrab\_BoJ-MountedTitfuckBreastGrab_S3_1.hkx
 b -Tn _BoJ-MountedTitfuckBreastGrab_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\MountedTitfuckBreastGrab\_BoJ-MountedTitfuckBreastGrab_S4_0.hkx
 b -Tn _BoJ-MountedTitfuckBreastGrab_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\BoJ\MountedTitfuckBreastGrab\_BoJ-MountedTitfuckBreastGrab_S4_1.hkx
+b -Tn _Po-OnTopMasturbation_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\OnTopMasturbation\_Po-OnTopMasturbation_S1_0.hkx
+b -Tn _Po-OnTopMasturbation_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\OnTopMasturbation\_Po-OnTopMasturbation_S1_1.hkx
+b -Tn _Po-OnTopMasturbation_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\OnTopMasturbation\_Po-OnTopMasturbation_S2_0.hkx
+b -Tn _Po-OnTopMasturbation_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\OnTopMasturbation\_Po-OnTopMasturbation_S1_1.hkx
+b -Tn _Po-OnTopMasturbation_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\OnTopMasturbation\_Po-OnTopMasturbation_S3_0.hkx
+b -Tn _Po-OnTopMasturbation_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\OnTopMasturbation\_Po-OnTopMasturbation_S1_1.hkx
+b -Tn _Po-OnTopMasturbation_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\OnTopMasturbation\_Po-OnTopMasturbation_S4_0.hkx
+b -Tn _Po-OnTopMasturbation_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\OnTopMasturbation\_Po-OnTopMasturbation_S1_1.hkx
+b -Tn _Po-OnTopMasturbationLookAway_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\OnTopMasturbation\_Po-OnTopMasturbation_S1_0.hkx
+b -Tn _Po-OnTopMasturbationLookAway_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\OnTopMasturbation\_Po-OnTopMasturbationLookAway_S1_1.hkx
+b -Tn _Po-OnTopMasturbationLookAway_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\OnTopMasturbation\_Po-OnTopMasturbation_S2_0.hkx
+b -Tn _Po-OnTopMasturbationLookAway_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\OnTopMasturbation\_Po-OnTopMasturbationLookAway_S1_1.hkx
+b -Tn _Po-OnTopMasturbationLookAway_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\OnTopMasturbation\_Po-OnTopMasturbation_S3_0.hkx
+b -Tn _Po-OnTopMasturbationLookAway_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\OnTopMasturbation\_Po-OnTopMasturbationLookAway_S1_1.hkx
+b -Tn _Po-OnTopMasturbationLookAway_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\OnTopMasturbation\_Po-OnTopMasturbation_S4_0.hkx
+b -Tn _Po-OnTopMasturbationLookAway_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\OnTopMasturbation\_Po-OnTopMasturbationLookAway_S1_1.hkx
 
 b -Tn _Ho-SpreadLegsFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\SpreadLegsFemale\_Ho-SpreadLegsFemale_0.hkx
 b -Tn _Ho-SpreadLegsFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\SpreadLegsFemale\_Ho-SpreadLegsFemale_1.hkx
