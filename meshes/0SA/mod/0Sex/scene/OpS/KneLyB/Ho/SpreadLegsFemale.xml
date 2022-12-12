@@ -16,7 +16,7 @@
 			</option>
 		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!LyB|Sx|AceMissionary" text="^sexMissionary" t0="1">
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!LyB|Sx|Missionary" text="^sexMissionary" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
