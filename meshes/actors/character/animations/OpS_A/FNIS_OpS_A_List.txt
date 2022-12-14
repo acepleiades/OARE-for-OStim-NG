@@ -695,7 +695,14 @@ b -Tn _Sx-MissionarySpreadLegs_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\
 b -Tn _Sx-MissionarySpreadLegs_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionarySpreadLegs\_Sx-MissionarySpreadLegs_S3_1.hkx
 b -Tn _Sx-MissionarySpreadLegs_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionarySpreadLegs\_Sx-MissionarySpreadLegs_S4_0.hkx
 b -Tn _Sx-MissionarySpreadLegs_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionarySpreadLegs\_Sx-MissionarySpreadLegs_S4_1.hkx
-
+b -Tn _Sx-MissionaryLegsHeld_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionaryLegsHeld\_Sx-MissionaryLegsHeld_S1_0.hkx
+b -Tn _Sx-MissionaryLegsHeld_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionaryLegsHeld\_Sx-MissionaryLegsHeld_S1_1.hkx
+b -Tn _Sx-MissionaryLegsHeld_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionaryLegsHeld\_Sx-MissionaryLegsHeld_S2_0.hkx
+b -Tn _Sx-MissionaryLegsHeld_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionaryLegsHeld\_Sx-MissionaryLegsHeld_S2_1.hkx
+b -Tn _Sx-MissionaryLegsHeld_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionaryLegsHeld\_Sx-MissionaryLegsHeld_S3_0.hkx
+b -Tn _Sx-MissionaryLegsHeld_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionaryLegsHeld\_Sx-MissionaryLegsHeld_S3_1.hkx
+b -Tn _Sx-MissionaryLegsHeld_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionaryLegsHeld\_Sx-MissionaryLegsHeld_S4_0.hkx
+b -Tn _Sx-MissionaryLegsHeld_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionaryLegsHeld\_Sx-MissionaryLegsHeld_S4_1.hkx
 b -Tn _Sx-AceMissionaryLegsHeld_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsHeld\_Sx-AceMissionaryLegsHeld_S1_0.hkx
 b -Tn _Sx-AceMissionaryLegsHeld_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsHeld\_Sx-AceMissionaryLegsHeld_S1_1.hkx
 b -Tn _Sx-AceMissionaryLegsHeld_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsHeld\_Sx-AceMissionaryLegsHeld_S2_0.hkx
@@ -716,20 +723,6 @@ b -a,Tn _Po-AceMissionaryLegsHeld_PullOutGoBack_0 ..\..\..\..\0SA\mod\0Sex\anim\
 b -a,Tn _Po-AceMissionaryLegsHeld_PullOutGoBack_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Po\AceMissionaryLegsHeld_MaleClimaxPullOutJO\_Po-AceMissionaryLegsHeld_PullOutGoBack_1.hkx
 b -Tn _Ho-AceMissionaryLegsHeld_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceMissionaryLegsHeld_AfterClimax\_Ho-AceMissionaryLegsHeld_AfterClimax_0.hkx
 b -Tn _Ho-AceMissionaryLegsHeld_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceMissionaryLegsHeld_AfterClimax\_Ho-AceMissionaryLegsHeld_AfterClimax_1.hkx
-b -Tn _Sx-AceMissionaryLegsUp_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsUp\_Sx-AceMissionaryLegsUp_S1_0.hkx
-b -Tn _Sx-AceMissionaryLegsUp_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsUp\_Sx-AceMissionaryLegsUp_S1_1.hkx
-b -Tn _Sx-AceMissionaryLegsUp_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsUp\_Sx-AceMissionaryLegsUp_S2_0.hkx
-b -Tn _Sx-AceMissionaryLegsUp_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsUp\_Sx-AceMissionaryLegsUp_S2_1.hkx
-b -Tn _Sx-AceMissionaryLegsUp_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsUp\_Sx-AceMissionaryLegsUp_S3_0.hkx
-b -Tn _Sx-AceMissionaryLegsUp_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsUp\_Sx-AceMissionaryLegsUp_S3_1.hkx
-b -Tn _Sx-AceMissionaryLegsUp_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsUp\_Sx-AceMissionaryLegsUp_S4_0.hkx
-b -Tn _Sx-AceMissionaryLegsUp_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsUp\_Sx-AceMissionaryLegsUp_S4_1.hkx
-b -Tn _Sx-AceMissionaryLegsUp_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsUp\_Sx-AceMissionaryLegsUp_S5_0.hkx
-b -Tn _Sx-AceMissionaryLegsUp_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsUp\_Sx-AceMissionaryLegsUp_S5_1.hkx
-b -a,Tn _Sx-AceMissionaryLegsUp_MutualClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsUp\_Sx-AceMissionaryLegsUp_MutualClimax_0.hkx
-b -a,Tn _Sx-AceMissionaryLegsUp_MutualClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\AceMissionaryLegsUp\_Sx-AceMissionaryLegsUp_MutualClimax_1.hkx
-b -Tn _Ho-AceMissionaryLegsUp_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceMissionaryLegsUp_AfterClimax\_Ho-AceMissionaryLegsUp_AfterClimax_0.hkx
-b -Tn _Ho-AceMissionaryLegsUp_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceMissionaryLegsUp_AfterClimax\_Ho-AceMissionaryLegsUp_AfterClimax_1.hkx
 b -Tn _Sx-HoldKneesFrontalSex_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\HoldKneesFrontalSex\_Sx-HoldKneesFrontalSex_S1_0.hkx
 b -Tn _Sx-HoldKneesFrontalSex_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\HoldKneesFrontalSex\_Sx-HoldKneesFrontalSex_S1_1.hkx
 b -Tn _Sx-HoldKneesFrontalSex_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\HoldKneesFrontalSex\_Sx-HoldKneesFrontalSex_S2_0.hkx
@@ -746,8 +739,6 @@ b -Tn _Sx-MissionaryKissingFeet_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx
 b -Tn _Sx-MissionaryKissingFeet_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionaryKissingFeet\_Sx-MissionaryKissingFeet_S3_1.hkx
 b -Tn _Sx-MissionaryKissingFeet_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionaryKissingFeet\_Sx-MissionaryKissingFeet_S4_0.hkx
 b -Tn _Sx-MissionaryKissingFeet_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionaryKissingFeet\_Sx-MissionaryKissingFeet_S4_1.hkx
-b -Tn _Ho-AceAnalMissionary_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceAnalMissionary_AfterClimax\_Ho-AceAnalMissionary_AfterClimax_0.hkx
-b -Tn _Ho-AceAnalMissionary_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Ho\AceAnalMissionary_AfterClimax\_Ho-AceAnalMissionary_AfterClimax_1.hkx
 
 b -Tn _Ho-FemaleLyingToTheSide_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Ho\FemaleLyingToTheSide\_Ho-FemaleLyingToTheSide_0.hkx
 b -Tn _Ho-FemaleLyingToTheSide_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Ho\FemaleLyingToTheSide\_Ho-FemaleLyingToTheSide_1.hkx
