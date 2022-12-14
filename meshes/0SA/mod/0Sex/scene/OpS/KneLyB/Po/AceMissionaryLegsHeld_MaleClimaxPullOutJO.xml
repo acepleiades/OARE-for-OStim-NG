@@ -2,7 +2,7 @@
 <info name="Missionary Pull Out JO" animator="Ace"/>
 <region om="A" maj="C" min="C" stage="" step="" story=""/>
 <anim id="_Po-AceMissionaryLegsHeld_MaleClimaxPullOutJO" t="L" l="2"/>
-<speed a="0" min="0" max="1" name="thrusts">	
+<speed a="0" min="0" max="1" name="thrusts">
 	<sp mtx="^thrustsPerSec" qnt="3">
 		<anim id="_Po-AceMissionaryLegsHeld_MaleClimaxPullOutJO" t="L" l="2" i0="0" i1="0"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="3">
@@ -27,6 +27,6 @@
 	<actor position="1" feetOnGround="0" tags="lyingback" lookUp="-40"/>
 </actors>
 <actions>
-	<action type="malemasturbation" actor="0"/>
+	<action type="vaginalpullout" actor="0"/>
 </actions>
 </scene>
