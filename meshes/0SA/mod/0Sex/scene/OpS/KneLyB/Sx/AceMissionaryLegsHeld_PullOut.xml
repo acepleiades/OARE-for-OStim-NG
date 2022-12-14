@@ -6,4 +6,7 @@
 	<actor position="0" penisAngle="2" feetOnGround="0" tags="kneeling" lookUp="-25"/>
 	<actor position="1" feetOnGround="0" tags="lyingback" lookUp="-40"/>
 </actors>
+<actions>
+	<action type="vaginalpullout" actor="0"/>
+</actions>
 </scene>
