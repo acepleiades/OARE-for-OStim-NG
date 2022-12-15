@@ -8,5 +8,6 @@
 </actors>
 <actions>
 	<action type="vaginalpullout" actor="0"/>
+	<action type="malemasturbation" actor="0"/>
 </actions>
 </scene>
