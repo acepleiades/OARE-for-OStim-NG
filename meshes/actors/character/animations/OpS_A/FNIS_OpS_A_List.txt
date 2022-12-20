@@ -864,6 +864,8 @@ b -Tn _Em-LyingCuddlingApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\Em\Ly
 b -Tn _Em-LyingCuddlingApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\Em\LyingCuddlingApproach\_Em-LyingCuddlingApproach_1.hkx
 b -Tn _Em-LyingCuddlingApproachMount_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Em\LyingCuddlingApproachMount\_Em-LyingCuddlingApproachMount_0.hkx
 b -Tn _Em-LyingCuddlingApproachMount_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Em\LyingCuddlingApproachMount\_Em-LyingCuddlingApproachMount_1.hkx
+b -Tn _Em-LyingCuddlingApproachKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Em\LyingCuddlingApproachKiss\_Em-LyingCuddlingApproachKiss_0.hkx
+b -Tn _Em-LyingCuddlingApproachKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Em\LyingCuddlingApproachKiss\_Em-LyingCuddlingApproachKiss_1.hkx
 b -Tn _Ho-SpooningKissing_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningKissing\_Ho-SpooningKissing_0.hkx
 b -Tn _Ho-SpooningKissing_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningKissing\_Ho-SpooningKissing_1.hkx
 b -Tn _Ho-SleepingIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SleepingIdle\_Ho-SleepingIdle_0.hkx
