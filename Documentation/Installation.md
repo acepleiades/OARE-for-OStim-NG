@@ -36,14 +36,7 @@
 
     <br>
 
-4.  In game, in **OStim**'s **MCM**, click <br>
-    `rebuild animation database` <br>
-    located at the bottom.
-
-    <br>
-
-5.  Run **Nemesis** and rebuild **OStim**'s animation <br>
-    database every time you update this mod.
+4.  Run **Nemesis** every time you update this mod.
 
 <br>
 
