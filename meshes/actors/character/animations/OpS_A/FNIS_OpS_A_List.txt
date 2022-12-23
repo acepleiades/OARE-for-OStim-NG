@@ -488,6 +488,14 @@ b -Tn _Cr-MountedGrind_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Cr\MountedG
 b -Tn _Cr-MountedGrind_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Cr\MountedGrind\_Cr-MountedGrind_S3_1.hkx
 b -Tn _Cr-MountedGrind_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Cr\MountedGrind\_Cr-MountedGrind_S4_0.hkx
 b -Tn _Cr-MountedGrind_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Cr\MountedGrind\_Cr-MountedGrind_S4_1.hkx
+b -Tn _Cr-MountedGrindBreastGrab_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Cr\MountedGrind\_Cr-MountedGrind_S1_0.hkx
+b -Tn _Cr-MountedGrindBreastGrab_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Cr\MountedGrindBreastGrab\_Cr-MountedGrindBreastGrab_S1_1.hkx
+b -Tn _Cr-MountedGrindBreastGrab_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Cr\MountedGrind\_Cr-MountedGrind_S2_0.hkx
+b -Tn _Cr-MountedGrindBreastGrab_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Cr\MountedGrindBreastGrab\_Cr-MountedGrindBreastGrab_S2_1.hkx
+b -Tn _Cr-MountedGrindBreastGrab_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Cr\MountedGrind\_Cr-MountedGrind_S3_0.hkx
+b -Tn _Cr-MountedGrindBreastGrab_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Cr\MountedGrindBreastGrab\_Cr-MountedGrindBreastGrab_S3_1.hkx
+b -Tn _Cr-MountedGrindBreastGrab_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Cr\MountedGrind\_Cr-MountedGrind_S4_0.hkx
+b -Tn _Cr-MountedGrindBreastGrab_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Cr\MountedGrindBreastGrab\_Cr-MountedGrindBreastGrab_S4_1.hkx
 b -Tn _HJ-AceLyingHandjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_S1_0.hkx
 b -Tn _HJ-AceLyingHandjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_S1_1.hkx
 b -Tn _HJ-AceLyingHandjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_S2_0.hkx
