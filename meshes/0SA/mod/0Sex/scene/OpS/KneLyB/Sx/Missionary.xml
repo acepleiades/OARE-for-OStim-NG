@@ -40,6 +40,9 @@
 			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!LyB|Sx|MissionarySpreadLegs" text="^spreadYourLegs" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="0"/>
 			</option>
+            <option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!LyB|Sx|MissionaryHoldLegsTogether" text="^holdYourLegsTogether" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="0"/>
+			</option>
 		</page>
 	</tab>
 </nav>
