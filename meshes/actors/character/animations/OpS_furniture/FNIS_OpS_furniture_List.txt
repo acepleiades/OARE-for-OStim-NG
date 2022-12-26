@@ -96,6 +96,8 @@ b -Tn _Sx-ShelfRearSexBentOverBreastGrab_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_
 
 b -Tn _Ap-TableIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Ap\TableIdle\_Ap-TableIdle_0.hkx
 b -Tn _Ap-TableIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Ap\TableIdle\_Ap-TableIdle_1.hkx
+b -Tn _Ap-TableIdleFacingEachOther_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Ap\TableIdleFacingEachOther\_Ap-TableIdleFacingEachOther_0.hkx
+b -Tn _Ap-TableIdleFacingEachOther_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Ap\TableIdleFacingEachOther\_Ap-TableIdleFacingEachOther_1.hkx
 b -Tn _Sx-TableMissionary_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Sx\TableMissionary\_Sx-TableMissionary_S1_0.hkx
 b -Tn _Sx-TableMissionary_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Sx\TableMissionary\_Sx-TableMissionary_S1_1.hkx
 b -Tn _Sx-TableMissionary_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Sx\TableMissionary\_Sx-TableMissionary_S2_0.hkx
