@@ -1,15 +1,15 @@
-<scene id="OpS_furniture|Tab!Le|Sx|TableMissionary" actors="2" style="OScene">
-<info name="Table Missionary" animator="Ace"/>
-<anim id="_Sx-TableMissionary_S1" t="L" l="2"/>
+<scene id="OpS_furniture|Tab!Le|BJ|TableLieBackOral" actors="2" style="OScene">
+<info name="Table Lie Back Oral" animator="Ace"/>
+<anim id="_BJ-TableLieBackOral_S1" t="L" l="2"/>
 <speed a="0" min="0" max="3" name="thrusts">	
 	<sp mtx="^thrustsPerSec" qnt="0.5">
-		<anim id="_Sx-TableMissionary_S1" t="L" l="2" i0="0" i1="0"/></sp>
+		<anim id="_BJ-TableLieBackOral_S1" t="L" l="2" i0="0" i1="0"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="1">
-		<anim id="_Sx-TableMissionary_S2" t="L" l="2" i0="1" i1="1"/></sp>
+		<anim id="_BJ-TableLieBackOral_S2" t="L" l="2" i0="1" i1="1"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="1.5">
-		<anim id="_Sx-TableMissionary_S3" t="L" l="2" i0="2" i1="2"/></sp>
+		<anim id="_BJ-TableLieBackOral_S3" t="L" l="2" i0="2" i1="2"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="2">
-		<anim id="_Sx-TableMissionary_S4" t="L" l="2" i0="3" i1="3"/></sp>
+		<anim id="_BJ-TableLieBackOral_S4" t="L" l="2" i0="3" i1="3"/></sp>
 </speed>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
@@ -22,15 +22,13 @@
 	</tab>
 	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
 </nav>
-<motif drive="intimate" theme="G_SexPhysRear"/>
-<motif drive="intimate" theme="R_SexPhysRear"/>
 <autonav/>
-<metadata tags="missionary" furniture="table"/>
+<metadata tags="blowjob" furniture="table"/>
 <actors>
-	<actor position="0" penisAngle="-1" feetOnGround="1" tags="standing"/>
-	<actor position="1" feetOnGround="0" tags="lyingback" lookUp="-50"/>
+	<actor position="0" penisAngle="-2" feetOnGround="1" scaleHeight="67" tags="standing" lookUp="-75"/>
+	<actor position="1" feetOnGround="0" tags="sitting" lookUp="100"/>
 </actors>
 <actions>
-	<action type="vaginalsex" actor="0" target="1"/>
+	<action type="blowjob" actor="1" target="0" performer="0"/>
 </actions>
 </scene>
