@@ -480,6 +480,10 @@ b -Tn _Sx-AceReverseCowgirl_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\Ace
 
 b -Tn _Ho-MountedFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\MountedFemale\_Ho-MountedFemale_0.hkx
 b -Tn _Ho-MountedFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\MountedFemale\_Ho-MountedFemale_1.hkx
+b -a,Tn _Ho-GoToReverseMountedFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\MountedFemale\_Ho-GoToReverseMountedFemale_0.hkx
+b -a,Tn _Ho-GoToReverseMountedFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\MountedFemale\_Ho-GoToReverseMountedFemale_1.hkx
+b -a,Tn _Ho-GoBackReverseMountedFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\MountedFemale\_Ho-GoBackReverseMountedFemale_0.hkx
+b -a,Tn _Ho-GoBackReverseMountedFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\MountedFemale\_Ho-GoBackReverseMountedFemale_1.hkx
 b -Tn _Cr-MountedGrind_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Cr\MountedGrind\_Cr-MountedGrind_S1_0.hkx
 b -Tn _Cr-MountedGrind_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Cr\MountedGrind\_Cr-MountedGrind_S1_1.hkx
 b -Tn _Cr-MountedGrind_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Cr\MountedGrind\_Cr-MountedGrind_S2_0.hkx
