@@ -50,6 +50,10 @@ b -Tn _HJ-AceSimpleStandingHandjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta
 b -Tn _HJ-AceSimpleStandingHandjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceSimpleStandingHandjob\_HJ-AceSimpleStandingHandjob_S3_1.hkx
 b -Tn _HJ-AceSimpleStandingHandjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceSimpleStandingHandjob\_HJ-AceSimpleStandingHandjob_S4_0.hkx
 b -Tn _HJ-AceSimpleStandingHandjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\AceSimpleStandingHandjob\_HJ-AceSimpleStandingHandjob_S4_1.hkx
+b -a,Tn _Ap-StandingUndressingFemaleTop_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleTop\_Ap-StandingUndressingFemaleTop_0.hkx
+b -a,Tn _Ap-StandingUndressingFemaleTop_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleTop\_Ap-StandingUndressingFemaleTop_1.hkx
+b -a,Tn _Ap-StandingUndressingFemaleShoes_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleShoes\_Ap-StandingUndressingFemaleShoes_0.hkx
+b -a,Tn _Ap-StandingUndressingFemaleShoes_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleShoes\_Ap-StandingUndressingFemaleShoes_1.hkx
 b -a,Tn _Em-GoToDevourVampireBiteMaleStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\_Em-GoToDevourVampireBiteMaleStanding_0.hkx
 b -a,Tn _Em-GoToDevourVampireBiteMaleStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\_Em-GoToDevourVampireBiteMaleStanding_1.hkx
 b -Tn _Em-DevourVampireBiteMaleStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\_Em-DevourVampireBiteMaleStanding_0.hkx
