@@ -1,6 +1,5 @@
 <scene id="OpS|LyB!Kne|Ho|MountedFemale" actors="2" style="OScene">
 <info name="Mounted Female" animator="Ace"/>
-<region om="A" maj="K" min="Ksi" stage="" step="" story=""/>
 <anim id="_Ho-MountedFemale" t="L" l="2"/>
 <nav>
     <tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
@@ -15,6 +14,9 @@
 		</page>
 		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!Kne|HJ|AceLyingHandjob" text="^masturbateN" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+            <option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!Sit|HJ|MountedHJFeet" text="^masturbateNWhilePressingFeet" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
             <option halo="hgentle" icon="okalbdn_f" go="OpS|LyB!Kne|Cr|MountedGrind" text="^rubAgainstN" t0="0">

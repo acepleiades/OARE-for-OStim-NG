@@ -512,6 +512,14 @@ b -Tn _HJ-AceLyingHandjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\AceLy
 b -Tn _HJ-AceLyingHandjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_S3_1.hkx
 b -Tn _HJ-AceLyingHandjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_S4_0.hkx
 b -Tn _HJ-AceLyingHandjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_S4_1.hkx
+b -Tn _HJ-MountedHJFeet_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\HJ\MountedHJFeet\_HJ-MountedHJFeet_S1_0.hkx
+b -Tn _HJ-MountedHJFeet_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\HJ\MountedHJFeet\_HJ-MountedHJFeet_S1_1.hkx
+b -Tn _HJ-MountedHJFeet_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\HJ\MountedHJFeet\_HJ-MountedHJFeet_S2_0.hkx
+b -Tn _HJ-MountedHJFeet_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\HJ\MountedHJFeet\_HJ-MountedHJFeet_S2_1.hkx
+b -Tn _HJ-MountedHJFeet_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\HJ\MountedHJFeet\_HJ-MountedHJFeet_S3_0.hkx
+b -Tn _HJ-MountedHJFeet_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\HJ\MountedHJFeet\_HJ-MountedHJFeet_S3_1.hkx
+b -Tn _HJ-MountedHJFeet_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\HJ\MountedHJFeet\_HJ-MountedHJFeet_S4_0.hkx
+b -Tn _HJ-MountedHJFeet_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\HJ\MountedHJFeet\_HJ-MountedHJFeet_S4_1.hkx
 b -a,Tn _HJ-AceLyingHandjob_MaleClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_MaleClimax_0.hkx
 b -a,Tn _HJ-AceLyingHandjob_MaleClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_MaleClimax_1.hkx
 b -Tn _Ho-AceLyingHandjob_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceLyingHandjob_AfterClimax\_Ho-AceLyingHandjob_AfterClimax_0.hkx
