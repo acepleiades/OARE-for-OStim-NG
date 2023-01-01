@@ -2,6 +2,8 @@ b -Tn _Ap-BenchIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\Bench
 b -Tn _Ap-BenchIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdle\_Ap-BenchIdle_1.hkx
 b -Tn _Ap-BenchIdleFemaleSitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdleFemaleSitting\_Ap-BenchIdleFemaleSitting_0.hkx
 b -Tn _Ap-BenchIdleFemaleSitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdleFemaleSitting\_Ap-BenchIdleFemaleSitting_1.hkx
+b -Tn _Ap-BenchIdleBothSitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdleBothSitting\_Ap-BenchIdleBothSitting_0.hkx
+b -Tn _Ap-BenchIdleBothSitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdleBothSitting\_Ap-BenchIdleBothSitting_1.hkx
 b -Tn _Ho-BenchSitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ho\BenchSitting\_Ho-BenchSitting_0.hkx
 b -Tn _Ho-BenchSitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ho\BenchSitting\_Ho-BenchSitting_1.hkx
 b -Tn _Ho-BenchKneelingFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ho\BenchKneelingFemale\_Ho-BenchKneelingFemale_0.hkx
