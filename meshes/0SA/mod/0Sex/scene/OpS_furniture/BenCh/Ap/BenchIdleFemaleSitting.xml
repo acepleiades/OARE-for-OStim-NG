@@ -4,14 +4,17 @@
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="obigx" go="OpS_furniture|Ben!Ch|Ap|BenchIdle" text="^return" t0="0">
+			<option halo="hgentle" icon="osx_kn_m" go="OpS_furniture|Ben!Ch|Ap|BenchIdleBothSitting" text="^sitBesideN" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="obustt180_f" go="OpS_furniture|Ben!Ch|Ap|BenchIdle" text="^switchPlacesWithN" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
 	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="obigx" go="OpS_furniture|Ben!Ch|Ap|BenchIdle" text="^return" t0="0">
+            <option halo="hgentle" icon="obustt180_f" go="OpS_furniture|Ben!Ch|Ap|BenchIdle" text="^switchPlacesWithN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
