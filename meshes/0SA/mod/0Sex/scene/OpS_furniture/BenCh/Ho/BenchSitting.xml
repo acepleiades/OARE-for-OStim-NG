@@ -10,7 +10,7 @@
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
-		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS_furniture|Ben!Ch|Sx|BenchSittingSex" text="^sexSitting" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>

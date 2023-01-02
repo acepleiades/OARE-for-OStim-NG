@@ -15,7 +15,7 @@
 	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
     <tab actor="0" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
-		<page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
+		<page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
 			<option halo="hgentle" icon="obigx" go="OpS|Kne!LyB|Sx|Missionary" text="^return">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>

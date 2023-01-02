@@ -10,7 +10,7 @@
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
         </page>
-        <page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+        <page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!Sit|BoJ|AceLyingBoobjob" text="^doItAgain" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>

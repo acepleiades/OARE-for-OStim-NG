@@ -4,7 +4,7 @@
 <anim id="_Ho-SittingFemaleApproach" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
+		<page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!Sit|BoJ|AceLyingTitfuck" text="^fuckNsBreasts" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
@@ -24,11 +24,11 @@
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
-		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="objbf_f" go="OpS|LyB!Kne|BJ|AceLyingBlowjob" text="^fellatioMaleLying" t0="0">
+		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="omu_lipspucker" go="OpS|LyB!Kne|BJ|AceLyingBlowjob" text="^fellatioMaleLying" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="objbf_f" go="OpS|Kne!AFo|BJ|AceAllFoursBlowjob" text="^fellatioMaleKneeling" t0="0">
+			<option halo="hgentle" icon="omu_lipspucker" go="OpS|Kne!AFo|BJ|AceAllFoursBlowjob" text="^fellatioMaleKneeling" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!Sit|BoJ|AceLyingBoobjob" text="^performABoobjob" t0="0">
