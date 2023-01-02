@@ -3,14 +3,14 @@
 <region om="A" maj="K" min="Ksi" stage="" step="" story=""/>
 <anim id="_Ho-AceHandjobPlusLicking_AfterClimax" t="L" l="2"/>
 <nav>
-    <tab actor="0" icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
-	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+    <tab actor="0" icon="smale" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="obigx" go="OpS|Sit!Kne|Ho|SittingFemaleApproach" text="^return" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
         </page>
-        <page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+        <page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!LyF|BJ|AceHandjobPlusLicking" text="^doItAgain" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>

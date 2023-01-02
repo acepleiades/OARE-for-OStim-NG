@@ -3,7 +3,7 @@
 <region om="A" maj="K" min="Ksi" stage="" step="" story=""/>
 <anim id="_Ap-SittingVampireFemale" t="L" l="2"/>
 <nav>
-	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
 			<option halo="hgentle" icon="osx_layonback_f" go="OpS|Sit!Sit|Ap|SittingMaleApproach" text="^approachN" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
@@ -16,17 +16,17 @@
 			</option>
 		</page>
         <page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hheartdt" icon="oholdbody_8_mf" go="OpS|LyS!Sit|Em|LapPillow" text="^layYourHeadOnNsLap" t0="1">
+			<option halo="hgentle" icon="oholdbody_8_mf" go="OpS|LyS!Sit|Em|LapPillow" text="^layYourHeadOnNsLap" t0="1">
 			<enhance a="0"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
 			</option>
 		</page>
-		<page icon="mgenim"><hue n="hu" cmd="rg" a="1"/>
+		<page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
 			<option halo="hgentle" icon="oholdbody_8_mf" go="OpS|Sit!Sit|Cr|SittingGropingBreast" text="^touchNsBreasts" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
-	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
         <page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sit!Sit|Em|GoToDevourVampireBiteFemaleSitting" text="^vampireFeed" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
@@ -40,7 +40,7 @@
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
-		<page icon="mgenim"><hue n="hu" cmd="rg" a="0"/>
+		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sit!Sit|FJ|SittingFootjob" text="^masturbateNWithYourFeetSitting" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
