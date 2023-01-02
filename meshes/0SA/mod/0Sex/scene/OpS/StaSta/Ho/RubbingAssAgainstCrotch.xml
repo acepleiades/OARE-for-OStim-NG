@@ -11,8 +11,8 @@
 		<anim id="_Ho-RubbingAssAgainstCrotch_S3" t="L" l="2" i0="2" i1="2"/></sp>
 </speed>
 <nav>
-	<tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
-	<tab actor="0" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+	<tab icon="smale" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+	<tab actor="0" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHoldingFromBehind" text="^return" t0="0">

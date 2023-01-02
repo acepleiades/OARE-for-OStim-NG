@@ -13,7 +13,7 @@
 		<anim id="_Sx-ShelfRearSexBentOver_S4" t="L" l="2" i0="3" i1="3"/></sp>
 </speed>
 <nav>
-	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
         <page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
 			<option halo="hgentle" icon="oholdbody_8_mf" go="OpS_furniture|She!Lf|Sx|ShelfRearSexBentOverBreastGrab" text="^grabNsBreasts" t0="1">
@@ -24,7 +24,7 @@
 			</option>
 		</page>
 	</tab>
-	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
+	<tab icon="sfemale" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
 </nav>
 <motif drive="intimate" theme="G_SexPhysRear"/>
 <motif drive="intimate" theme="R_SexPhysRear"/>

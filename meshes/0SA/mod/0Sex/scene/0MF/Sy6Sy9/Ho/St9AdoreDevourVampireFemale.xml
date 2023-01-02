@@ -3,7 +3,7 @@
 <region om="A" maj="S" min="S" stage="" step="" story=""/>
 <anim id="_Ho-StandingDevourVampireFemale" t="L" l="2"/>
 <nav>
-	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
             <option halo="hgentle" icon="oholdbody_8_mf" go="OpS|Sta!Sta|Ho|GoToStandingHolding" text="^holdN" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
@@ -29,7 +29,7 @@
 			</option>
 		</page>
 	</tab>
-	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Em|GoToDevourVampireBiteFemaleStanding" text="^vampireFeed" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>

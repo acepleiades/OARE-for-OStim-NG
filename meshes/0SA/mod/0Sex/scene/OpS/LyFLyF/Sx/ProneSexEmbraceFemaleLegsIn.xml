@@ -17,7 +17,7 @@
 		</sp>
 </speed>
 <nav>
-	<tab actor="0" icon="sdom" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
             <option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyF!LyF|Sx|ProneSexEmbraceFemaleLegsOut" text="^spreadYourLegsApart" t0="1">
@@ -31,7 +31,7 @@
 			</option>
 		</page>
 	</tab>
-	<tab icon="ssub" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
+	<tab icon="sfemale" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
 </nav>
 <eyes a="1" facerel="1" actionrel="1" bodyrel="1">
 <primary v="-40" h="0" vpan="10" hpan="10"/>
