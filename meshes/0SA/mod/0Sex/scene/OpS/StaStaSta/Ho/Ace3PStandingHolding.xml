@@ -10,7 +10,7 @@
 			</option>
 		</page>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hheartdt" icon="opowemb_mf" go="OpS|Sta!Sta!Sta|Em|AceTripleKiss" text="^kissNandN">
+			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta!Sta|Em|AceTripleKiss" text="^kissNandN">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
