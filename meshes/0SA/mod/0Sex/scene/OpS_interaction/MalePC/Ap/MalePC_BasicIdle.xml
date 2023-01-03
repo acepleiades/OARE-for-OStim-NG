@@ -19,6 +19,12 @@
             <option halo="hgentle" icon="" go="OpS_interaction|Male!PC|Ap|MalePC_CaressSuccessHug" text="MalePC_CaressSuccessHug" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+            <option halo="hgentle" icon="" go="OpS_interaction|Male!PC|Ap|MalePC_CaressSuccessHoldHands" text="MalePC_CaressSuccessHoldHands" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+            <option halo="hgentle" icon="" go="OpS_interaction|Male!PC|Ap|MalePC_CaressFail" text="MalePC_CaressFail" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 		</page>
 	</tab>
 </nav>
