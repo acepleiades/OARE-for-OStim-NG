@@ -4,5 +4,9 @@ b -a,Tn _Ap-MalePC_ChatterSuccess_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interactio
 b -a,Tn _Ap-MalePC_ChatterSuccess_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_ChatterSuccess\_Ap-MalePC_ChatterSuccess_1.hkx
 b -a,Tn _Ap-MalePC_ChatterFail_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_ChatterFail\_Ap-MalePC_ChatterFail_0.hkx
 b -a,Tn _Ap-MalePC_ChatterFail_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_ChatterFail\_Ap-MalePC_ChatterFail_1.hkx
+b -a,Tn _Ap-MalePC_CourtFail_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_CourtFail\_Ap-MalePC_CourtFail_0.hkx
+b -a,Tn _Ap-MalePC_CourtFail_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_CourtFail\_Ap-MalePC_CourtFail_1.hkx
+b -a,Tn _Ap-MalePC_CourtSuccess_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_CourtSuccess\_Ap-MalePC_CourtSuccess_0.hkx
+b -a,Tn _Ap-MalePC_CourtSuccess_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_CourtSuccess\_Ap-MalePC_CourtSuccess_1.hkx
 b -a,Tn _Ap-MalePC_CaressSuccessHug_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_CaressSuccessHug\_Ap-MalePC_CaressSuccessHug_0.hkx
 b -a,Tn _Ap-MalePC_CaressSuccessHug_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_CaressSuccessHug\_Ap-MalePC_CaressSuccessHug_1.hkx
