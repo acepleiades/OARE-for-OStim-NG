@@ -3,7 +3,7 @@
 
 <br>
 
-Adult animations mod for **Skyrim SE** and open source alternative to **OSex**. <br>
+Adult animations mod for **OStim NG**.
 How to install this mod: [Installation]
 
 <br>
@@ -41,7 +41,7 @@ Thanks to **[@ElectronicsArchiver]** for tidying up the repository.
 
 ## Join the community
 
-Join the OStim Discord to see new developments: https://discord.gg/RECvhVaRcU
+Join the OStim Discord to see new developments: https://discord.gg/ostim
 
 <!----------------------------------------------------------------------------->
 
