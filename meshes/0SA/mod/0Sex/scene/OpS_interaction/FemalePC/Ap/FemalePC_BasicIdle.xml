@@ -17,6 +17,15 @@
             <option halo="hgentle" icon="" go="OpS_interaction|Female!PC|Ap|FemalePC_ChatterFail" text="FemalePC_ChatterFail">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+            <option halo="hgentle" icon="" go="OpS_interaction|Female!PC|Ap|FemalePC_Court" text="FemalePC_Court">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+            <option halo="hgentle" icon="" go="OpS_interaction|Female!PC|Ap|FemalePC_CourtFail" text="FemalePC_CourtFail">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+            <option halo="hgentle" icon="" go="OpS_interaction|Female!PC|Ap|FemalePC_CaressHug" text="FemalePC_CaressHug">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 		</page>
 	</tab>
 </nav>

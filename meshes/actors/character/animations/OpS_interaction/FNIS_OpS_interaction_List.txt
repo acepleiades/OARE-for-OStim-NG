@@ -6,10 +6,10 @@ b -a,Tn _Ap-MalePC_Chatter_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MaleP
 b -a,Tn _Ap-MalePC_ChatterFail_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_ChatterFail\_Ap-MalePC_ChatterFail_0.hkx
 b -a,Tn _Ap-MalePC_ChatterFail_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_ChatterFail\_Ap-MalePC_ChatterFail_1.hkx
 
-b -a,Tn _Ap-MalePC_CourtFail_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_CourtFail\_Ap-MalePC_CourtFail_0.hkx
-b -a,Tn _Ap-MalePC_CourtFail_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_CourtFail\_Ap-MalePC_CourtFail_1.hkx
 b -a,Tn _Ap-MalePC_Court_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_Court\_Ap-MalePC_Court_0.hkx
 b -a,Tn _Ap-MalePC_Court_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_Court\_Ap-MalePC_Court_1.hkx
+b -a,Tn _Ap-MalePC_CourtFail_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_CourtFail\_Ap-MalePC_CourtFail_0.hkx
+b -a,Tn _Ap-MalePC_CourtFail_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_CourtFail\_Ap-MalePC_CourtFail_1.hkx
 
 b -a,Tn _Ap-MalePC_CaressHug_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_CaressHug\_Ap-MalePC_CaressHug_0.hkx
 b -a,Tn _Ap-MalePC_CaressHug_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_CaressHug\_Ap-MalePC_CaressHug_1.hkx
@@ -30,3 +30,11 @@ b -a,Tn _Ap-FemalePC_Chatter_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\Fem
 b -a,Tn _Ap-FemalePC_Chatter_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_Chatter\_Ap-FemalePC_Chatter_1.hkx
 b -a,Tn _Ap-FemalePC_ChatterFail_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_ChatterFail\_Ap-FemalePC_ChatterFail_0.hkx
 b -a,Tn _Ap-FemalePC_ChatterFail_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_ChatterFail\_Ap-FemalePC_ChatterFail_1.hkx
+
+b -a,Tn _Ap-FemalePC_Court_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_Court\_Ap-FemalePC_Court_0.hkx
+b -a,Tn _Ap-FemalePC_Court_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_Court\_Ap-FemalePC_Court_1.hkx
+b -a,Tn _Ap-FemalePC_CourtFail_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_CourtFail\_Ap-FemalePC_CourtFail_0.hkx
+b -a,Tn _Ap-FemalePC_CourtFail_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_CourtFail\_Ap-FemalePC_CourtFail_1.hkx
+
+b -a,Tn _Ap-FemalePC_CaressHug_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_CaressHug\_Ap-FemalePC_CaressHug_0.hkx
+b -a,Tn _Ap-FemalePC_CaressHug_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_CaressHug\_Ap-FemalePC_CaressHug_1.hkx
