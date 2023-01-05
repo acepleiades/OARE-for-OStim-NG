@@ -1,0 +1,10 @@
+<scene id="OpS_interaction|Female!PC|Ap|FemalePC_Chatter" actors="2" style="OScene">
+<info name="Female PC Chatter" animator="Ace"/>
+<anim id="_Ap-FemalePC_Chatter" t="T" l="6" dest="OpS_interaction|Female!PC|Ap|FemalePC_BasicIdle">
+</anim>
+<metadata tags="transition"/>
+<actors>
+	<actor position="0" penisAngle="6" feetOnGround="1" tags="standing"/>
+	<actor position="1" feetOnGround="1" tags="standing"/>
+</actors>
+</scene>

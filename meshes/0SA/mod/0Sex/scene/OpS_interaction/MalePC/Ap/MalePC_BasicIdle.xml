@@ -4,25 +4,25 @@
 <nav>
 	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-            <option halo="hgentle" icon="" go="OpS_interaction|Male!PC|Ap|MalePC_ChatterSuccess" text="MalePC_ChatterSuccess" t0="1">
+            <option halo="hgentle" icon="" go="OpS_interaction|Male!PC|Ap|MalePC_Chatter" text="MalePC_Chatter" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
             <option halo="hgentle" icon="" go="OpS_interaction|Male!PC|Ap|MalePC_ChatterFail" text="MalePC_ChatterFail" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="" go="OpS_interaction|Male!PC|Ap|MalePC_CourtSuccess" text="MalePC_CourtSuccess" t0="1">
+            <option halo="hgentle" icon="" go="OpS_interaction|Male!PC|Ap|MalePC_Court" text="MalePC_Court" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
             <option halo="hgentle" icon="" go="OpS_interaction|Male!PC|Ap|MalePC_CourtFail" text="MalePC_CourtFail" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="" go="OpS_interaction|Male!PC|Ap|MalePC_CaressSuccessHug" text="MalePC_CaressSuccessHug" t0="1">
+            <option halo="hgentle" icon="" go="OpS_interaction|Male!PC|Ap|MalePC_CaressHug" text="MalePC_CaressHug" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="" go="OpS_interaction|Male!PC|Ap|MalePC_CaressSuccessHoldHands" text="MalePC_CaressSuccessHoldHands" t0="1">
+            <option halo="hgentle" icon="" go="OpS_interaction|Male!PC|Ap|MalePC_CaressHoldHands" text="MalePC_CaressHoldHands" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="" go="OpS_interaction|Male!PC|Ap|MalePC_CaressSuccessCheekStroke" text="MalePC_CaressSuccessCheekStroke" t0="1">
+            <option halo="hgentle" icon="" go="OpS_interaction|Male!PC|Ap|MalePC_CaressCheekStroke" text="MalePC_CaressCheekStroke" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
             <option halo="hgentle" icon="" go="OpS_interaction|Male!PC|Ap|MalePC_CaressFail" text="MalePC_CaressFail" t0="1">
@@ -30,6 +30,13 @@
 			</option>
             <option halo="hgentle" icon="" go="OpS_interaction|Male!PC|Ap|MalePC_Kiss1" text="MalePC_Kiss1" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
+    <tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
+            <option halo="hgentle" icon="" go="OpS_interaction|Female!PC|Ap|FemalePC_BasicIdle" text="FemalePC_BasicIdle">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
