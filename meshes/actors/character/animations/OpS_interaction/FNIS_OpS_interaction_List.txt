@@ -38,3 +38,5 @@ b -a,Tn _Ap-FemalePC_CourtFail_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\F
 
 b -a,Tn _Ap-FemalePC_CaressHug_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_CaressHug\_Ap-FemalePC_CaressHug_0.hkx
 b -a,Tn _Ap-FemalePC_CaressHug_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_CaressHug\_Ap-FemalePC_CaressHug_1.hkx
+b -a,Tn _Ap-FemalePC_CaressHoldHands_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_CaressHoldHands\_Ap-FemalePC_CaressHoldHands_0.hkx
+b -a,Tn _Ap-FemalePC_CaressHoldHands_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_CaressHoldHands\_Ap-FemalePC_CaressHoldHands_1.hkx
