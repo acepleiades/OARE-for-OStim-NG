@@ -23,6 +23,8 @@ b -a,Tn _Ap-MalePC_CaressFail_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\Ma
 b -a,Tn _Ap-MalePC_Kiss1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_Kiss1\_Ap-MalePC_Kiss1_0.hkx
 b -a,Tn _Ap-MalePC_Kiss1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\MalePC\Ap\MalePC_Kiss1\_Ap-MalePC_Kiss1_1.hkx
 
+
+
 b -Tn _Ap-FemalePC_BasicIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_BasicIdle\_Ap-FemalePC_BasicIdle_0.hkx
 b -Tn _Ap-FemalePC_BasicIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_BasicIdle\_Ap-FemalePC_BasicIdle_1.hkx
 
@@ -40,3 +42,10 @@ b -a,Tn _Ap-FemalePC_CaressHug_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\F
 b -a,Tn _Ap-FemalePC_CaressHug_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_CaressHug\_Ap-FemalePC_CaressHug_1.hkx
 b -a,Tn _Ap-FemalePC_CaressHoldHands_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_CaressHoldHands\_Ap-FemalePC_CaressHoldHands_0.hkx
 b -a,Tn _Ap-FemalePC_CaressHoldHands_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_CaressHoldHands\_Ap-FemalePC_CaressHoldHands_1.hkx
+b -a,Tn _Ap-FemalePC_CaressCheekStroke_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_CaressCheekStroke\_Ap-FemalePC_CaressCheekStroke_0.hkx
+b -a,Tn _Ap-FemalePC_CaressCheekStroke_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_CaressCheekStroke\_Ap-FemalePC_CaressCheekStroke_1.hkx
+b -a,Tn _Ap-FemalePC_CaressFail_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_CaressFail\_Ap-FemalePC_CaressFail_0.hkx
+b -a,Tn _Ap-FemalePC_CaressFail_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_CaressFail\_Ap-FemalePC_CaressFail_1.hkx
+
+b -a,Tn _Ap-FemalePC_Kiss1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_Kiss1\_Ap-FemalePC_Kiss1_0.hkx
+b -a,Tn _Ap-FemalePC_Kiss1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_interaction\FemalePC\Ap\FemalePC_Kiss1\_Ap-FemalePC_Kiss1_1.hkx

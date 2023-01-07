@@ -29,6 +29,15 @@
             <option halo="hgentle" icon="" go="OpS_interaction|Female!PC|Ap|FemalePC_CaressHoldHands" text="FemalePC_CaressHoldHands">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+            <option halo="hgentle" icon="" go="OpS_interaction|Female!PC|Ap|FemalePC_CaressCheekStroke" text="FemalePC_CaressCheekStroke">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+            <option halo="hgentle" icon="" go="OpS_interaction|Female!PC|Ap|FemalePC_CaressFail" text="FemalePC_CaressFail">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+            <option halo="hgentle" icon="" go="OpS_interaction|Female!PC|Ap|FemalePC_Kiss1" text="FemalePC_Kiss1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 		</page>
 	</tab>
 </nav>
