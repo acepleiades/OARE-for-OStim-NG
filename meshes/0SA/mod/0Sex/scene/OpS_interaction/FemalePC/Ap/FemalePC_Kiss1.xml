@@ -7,4 +7,7 @@
 	<actor position="0" penisAngle="6" feetOnGround="1" tags="standing"/>
 	<actor position="1" feetOnGround="1" tags="standing"/>
 </actors>
+<actions>
+	<action type="kissing" actor="1" target="0"/>
+</actions>
 </scene>
