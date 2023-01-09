@@ -805,8 +805,8 @@ b -Tn _Sx-FemaleLyingOnSideSex_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\
 b -Tn _Sx-FemaleLyingOnSideSex_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\FemaleLyingOnSideSex\_Sx-FemaleLyingOnSideSex_S4_0.hkx
 b -Tn _Sx-FemaleLyingOnSideSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\FemaleLyingOnSideSex\_Sx-FemaleLyingOnSideSex_S4_1.hkx
 
-b -Tn _Ho-BentOverFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ho\BentOverFemale\_Ho-BentOverFemale_0.hkx
-b -Tn _Ho-BentOverFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ho\BentOverFemale\_Ho-BentOverFemale_1.hkx
+b -Tn _Ap-FemaleAllFours_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ap\FemaleAllFours\_Ap-FemaleAllFours_0.hkx
+b -Tn _Ap-FemaleAllFours_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ap\FemaleAllFours\_Ap-FemaleAllFours_1.hkx
 b -Tn _FJ-AceBentOverFootjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\FJ\AceBentOverFootjob\_FJ-AceBentOverFootjob_S1_0.hkx
 b -Tn _FJ-AceBentOverFootjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\FJ\AceBentOverFootjob\_FJ-AceBentOverFootjob_S1_1.hkx
 b -Tn _FJ-AceBentOverFootjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\FJ\AceBentOverFootjob\_FJ-AceBentOverFootjob_S2_0.hkx
@@ -815,14 +815,14 @@ b -Tn _FJ-AceBentOverFootjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\FJ\Ac
 b -Tn _FJ-AceBentOverFootjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\FJ\AceBentOverFootjob\_FJ-AceBentOverFootjob_S3_1.hkx
 b -Tn _FJ-AceBentOverFootjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\FJ\AceBentOverFootjob\_FJ-AceBentOverFootjob_S4_0.hkx
 b -Tn _FJ-AceBentOverFootjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\FJ\AceBentOverFootjob\_FJ-AceBentOverFootjob_S4_1.hkx
-b -Tn _Sx-AceDoggystyle_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceDoggystyle\_Sx-AceDoggystyle_S1_0.hkx
-b -Tn _Sx-AceDoggystyle_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceDoggystyle\_Sx-AceDoggystyle_S1_1.hkx
-b -Tn _Sx-AceDoggystyle_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceDoggystyle\_Sx-AceDoggystyle_S2_0.hkx
-b -Tn _Sx-AceDoggystyle_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceDoggystyle\_Sx-AceDoggystyle_S2_1.hkx
-b -Tn _Sx-AceDoggystyle_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceDoggystyle\_Sx-AceDoggystyle_S3_0.hkx
-b -Tn _Sx-AceDoggystyle_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceDoggystyle\_Sx-AceDoggystyle_S3_1.hkx
-b -Tn _Sx-AceDoggystyle_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceDoggystyle\_Sx-AceDoggystyle_S4_0.hkx
-b -Tn _Sx-AceDoggystyle_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\AceDoggystyle\_Sx-AceDoggystyle_S4_1.hkx
+b -Tn _Sx-Doggystyle_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\Doggystyle\_Sx-Doggystyle_S1_0.hkx
+b -Tn _Sx-Doggystyle_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\Doggystyle\_Sx-Doggystyle_S1_1.hkx
+b -Tn _Sx-Doggystyle_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\Doggystyle\_Sx-Doggystyle_S2_0.hkx
+b -Tn _Sx-Doggystyle_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\Doggystyle\_Sx-Doggystyle_S2_1.hkx
+b -Tn _Sx-Doggystyle_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\Doggystyle\_Sx-Doggystyle_S3_0.hkx
+b -Tn _Sx-Doggystyle_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\Doggystyle\_Sx-Doggystyle_S3_1.hkx
+b -Tn _Sx-Doggystyle_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\Doggystyle\_Sx-Doggystyle_S4_0.hkx
+b -Tn _Sx-Doggystyle_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\Doggystyle\_Sx-Doggystyle_S4_1.hkx
 b -Tn _Sx-DoggyPressingDown_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\DoggyPressingDown\_Sx-DoggyPressingDown_S1_0.hkx
 b -Tn _Sx-DoggyPressingDown_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\DoggyPressingDown\_Sx-DoggyPressingDown_S1_1.hkx
 b -Tn _Sx-DoggyPressingDown_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Sx\DoggyPressingDown\_Sx-DoggyPressingDown_S2_0.hkx
