@@ -1,0 +1,36 @@
+<scene id="OpS|Kne!AFo|Sx|DoggystyleLoweredTorsoGrabArm" actors="2" style="OScene">
+<info name="Doggystyle Lowered Torso Facing Side" animator="Ace"/>
+<anim id="_Sx-DoggystyleLoweredTorsoGrabArm_S1" t="L" l="2"/>
+<speed a="0" min="0" max="3" name="thrusts">	
+	<sp mtx="^thrustsPerSec" qnt=".5">
+		<anim id="_Sx-DoggystyleLoweredTorsoGrabArm_S1" t="L" l="2" i0="0" i1="0"/></sp>
+	<sp mtx="^thrustsPerSec" qnt="1">
+		<anim id="_Sx-DoggystyleLoweredTorsoGrabArm_S2" t="L" l="2" i0="1" i1="1"/></sp>
+	<sp mtx="^thrustsPerSec" qnt="1.5">
+		<anim id="_Sx-DoggystyleLoweredTorsoGrabArm_S3" t="L" l="2" i0="2" i1="2"/></sp>
+	<sp mtx="^thrustsPerSec" qnt="2">
+		<anim id="_Sx-DoggystyleLoweredTorsoGrabArm_S4" t="L" l="2" i0="3" i1="3"/></sp>
+</speed>
+<nav>
+	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
+		<page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="obigx" go="OpS|Kne!AFo|Sx|DoggystyleLoweredTorsoFacingSide" text="^return" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
+	<tab icon="sfemale" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
+</nav>
+<motif drive="intimate" theme="G_SexPhysRear"/>
+<motif drive="intimate" theme="R_SexPhysRear"/>
+<autonav/>
+<metadata tags="doggystyle"/>
+<actors>
+	<actor position="0" penisAngle="2" feetOnGround="0" tags="kneeling" lookUp="-50"/>
+	<actor position="1" feetOnGround="0" tags="allfours,facingaway" lookUp="-100" lookLeft="65"/>
+</actors>
+<actions>
+	<action type="vaginalsex" actor="0" target="1"/>
+</actions>
+</scene>
