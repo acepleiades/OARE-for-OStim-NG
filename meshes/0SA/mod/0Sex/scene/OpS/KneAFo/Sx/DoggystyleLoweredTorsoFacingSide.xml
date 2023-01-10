@@ -13,14 +13,20 @@
 </speed>
 <nav>
 	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="obigx" go="OpS|Kne!AFo|Sx|DoggystyleLoweredTorso" text="^return" t0="1">
+            <option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!AFo|Sx|DoggystyleLoweredTorsoGrabArm" text="^grabNsArm" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
-	<tab icon="sfemale" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
+	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
+		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
+            <option halo="hgentle" icon="obigx" go="OpS|Kne!AFo|Sx|DoggystyleLoweredTorso" text="^return" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
 </nav>
 <motif drive="intimate" theme="G_SexPhysRear"/>
 <motif drive="intimate" theme="R_SexPhysRear"/>
