@@ -59,7 +59,7 @@
 	</tab>
 </nav>
 <autonav/>
-<metadata tags="idle"/>
+<metadata tags="idle" noRandomSelection="1"/>
 <actors>
 	<actor position="0" penisAngle="9" feetOnGround="0" tags="sitting"/>
 	<actor position="1" feetOnGround="0" tags="sitting"/>
