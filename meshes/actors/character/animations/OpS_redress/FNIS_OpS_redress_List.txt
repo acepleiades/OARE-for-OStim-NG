@@ -2,3 +2,8 @@ b -a,Tn redress_feet ..\..\..\..\0SA\mod\0Sex\anim\redressing\redress_feet.hkx
 b -a,Tn redress_hands ..\..\..\..\0SA\mod\0Sex\anim\redressing\redress_hands.hkx
 b -a,Tn redress_head ..\..\..\..\0SA\mod\0Sex\anim\redressing\redress_head.hkx
 b -a,Tn redress_torso ..\..\..\..\0SA\mod\0Sex\anim\redressing\redress_torso.hkx
+
+b -a,Tn redress_feet_female ..\..\..\..\0SA\mod\0Sex\anim\redressing\redress_feet_female.hkx
+b -a,Tn redress_hands_female ..\..\..\..\0SA\mod\0Sex\anim\redressing\redress_hands_female.hkx
+b -a,Tn redress_head_female ..\..\..\..\0SA\mod\0Sex\anim\redressing\redress_head_female.hkx
+b -a,Tn redress_torso_female ..\..\..\..\0SA\mod\0Sex\anim\redressing\redress_torso_female.hkx
