@@ -85,6 +85,12 @@ b -Tn _Em-HoldingChinKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\HoldingC
 b -Tn _Em-HoldingChinKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\HoldingChin\_Em-HoldingChinKiss_1.hkx
 b -Tn _Ho-StandingKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingKiss\_Ho-StandingKiss_0.hkx
 b -Tn _Ho-StandingKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingKiss\_Ho-StandingKiss_1.hkx
+b -Tn _Em-PrincessCarryEmbrace_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\PrincessCarryEmbrace\_Em-PrincessCarryEmbrace_0.hkx
+b -Tn _Em-PrincessCarryEmbrace_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\PrincessCarryEmbrace\_Em-PrincessCarryEmbrace_1.hkx
+b -Tn _Em-PrincessCarryHandOnFace_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\PrincessCarryHandOnFace\_Em-PrincessCarryHandOnFace_0.hkx
+b -Tn _Em-PrincessCarryHandOnFace_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\PrincessCarryHandOnFace\_Em-PrincessCarryHandOnFace_1.hkx
+b -Tn _Em-PrincessCarryKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\PrincessCarryKiss\_Em-PrincessCarryKiss_0.hkx
+b -Tn _Em-PrincessCarryKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\PrincessCarryKiss\_Em-PrincessCarryKiss_1.hkx
 b -Tn _Cr-StandingKissFingering_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingKissFingering\_Cr-StandingKissFingering_S1_0.hkx
 b -Tn _Cr-StandingKissFingering_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingKissFingering\_Cr-StandingKissFingering_S1_1.hkx
 b -Tn _Cr-StandingKissFingering_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingKissFingering\_Cr-StandingKissFingering_S2_0.hkx
