@@ -9,7 +9,7 @@
 			<option halo="hgentle" icon="oholdbody_8_mf" go="OpS|LyS!Sit|Em|LapPillowHeadStroke" text="^strokeNsHead" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="obigx" go="0MF|KNy6!KNy6|Ho|KnLap" text="^return" t0="0">
+            <option halo="hgentle" icon="obigx" go="OpS|Sit!Sit|Ap|Sitting" text="^return" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>

@@ -1,32 +1,32 @@
 {
 	"baseScenesDouble": [
-		"0MF|Sy6!Sy9|Ho|St9Adore",
-        "0MF|KNy6!KNy6|Ho|KnLap",
+		"OpS|Sta!Sta|Ap|Standing",
+        "OpS|Sit!Sit|Ap|Sitting",
         "OpS|Sta!Kne|Ap|MaleStandingFemaleKneeling"
 	],
 	"replacerScenesDouble": [
-		"0MF|Sy6!Sy9|Ho|St9AdoreDevourVampireMaleAndFemale",
-        "0MF|KNy6!KNy6|Ho|KnLapVampireMaleAndFemale",
+		"OpS|Sta!Sta|Ap|StandingDevourVampireMaleAndFemale",
+        "OpS|Sit!Sit|Ap|SittingVampireMaleAndFemale",
         "OpS|Sta!Kne|Ap|MaleStandingFemaleKneelingDevourVampireMaleAndFemale"
 	],
 	"baseScenesMale": [
-		"0MF|Sy6!Sy9|Ho|St9Adore",
-        "0MF|KNy6!KNy6|Ho|KnLap",
+		"OpS|Sta!Sta|Ap|Standing",
+        "OpS|Sit!Sit|Ap|Sitting",
         "OpS|Sta!Kne|Ap|MaleStandingFemaleKneeling"
 	],
 	"replacerScenesMale": [
-		"0MF|Sy6!Sy9|Ho|St9AdoreDevourVampireMale",
-        "0MF|KNy6!KNy6|Ho|KnLapVampireMale",
+		"OpS|Sta!Sta|Ap|StandingDevourVampireMale",
+        "OpS|Sit!Sit|Ap|SittingVampireMale",
         "OpS|Sta!Kne|Ap|MaleStandingFemaleKneelingDevourVampireMale"
 	],
 	"baseScenesFemale": [
-		"0MF|Sy6!Sy9|Ho|St9Adore",
-        "0MF|KNy6!KNy6|Ho|KnLap",
+		"OpS|Sta!Sta|Ap|Standing",
+        "OpS|Sit!Sit|Ap|Sitting",
         "OpS|Sta!Kne|Ap|MaleStandingFemaleKneeling"
 	],
 	"replacerScenesFemale": [
-		"0MF|Sy6!Sy9|Ho|St9AdoreDevourVampireFemale",
-        "0MF|KNy6!KNy6|Ho|KnLapVampireFemale",
+		"OpS|Sta!Sta|Ap|StandingDevourVampireFemale",
+        "OpS|Sit!Sit|Ap|SittingVampireFemale",
         "OpS|Sta!Kne|Ap|MaleStandingFemaleKneelingDevourVampireFemale"
 	]
 }

@@ -1,6 +1,6 @@
 <scene id="OpS|Sta!Sta|Ap|StandingUndressingFemaleBottom" actors="2" style="OScene">
 <info name="Standing Undressing Female Bottom" animator="Ace"/>
-<anim id="_Ap-StandingUndressingFemaleBottom" t="T" l="6" dest="0MF|Sy6!Sy9|Ho|St9Adore"/>
+<anim id="_Ap-StandingUndressingFemaleBottom" t="T" l="6" dest="OpS|Sta!Sta|Ap|Standing"/>
 <metadata tags="transition,undressing"/>
 <actors>
 	<actor position="0" penisAngle="6" feetOnGround="1" tags="standing" lookUp="-50"/>

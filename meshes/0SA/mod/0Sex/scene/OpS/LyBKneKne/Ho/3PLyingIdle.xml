@@ -30,7 +30,7 @@
 	<tab icon="splus" text="^dismiss" empty="2"><hue n="hu" cmd="vg" a="1"/><bnhue cmd="vn" a="1"/>
 		<page icon="mgensignm"><hue n="hu" cmd="vg" a="1"/>
 			<option halo="h_plus_rbo" icon="obigx" go="$RemoveActor" text="^HaveNLeave" t0="2">
-			<cmd dest="0MF|KNy6!KNy6|Ho|KnLap" actor="2"/>
+			<cmd dest="OpS|Sit!Sit|Ap|Sitting" actor="2"/>
 			</option>
 		</page>
 	</tab>

@@ -1,7 +1,5 @@
 b -Tn _Ho-Standing_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_0.hkx
 b -Tn _Ho-Standing_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_1.hkx
-b -Tn _Ho-StandingLesbianHub_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-StandingLesbianHub_0.hkx
-b -Tn _Ho-StandingLesbianHub_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-StandingLesbianHub_1.hkx
 b -Tn _Cr-StandingGropingBreasts_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingGropingBreasts\_Cr-StandingGropingBreasts_S1_0.hkx
 b -Tn _Cr-StandingGropingBreasts_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingGropingBreasts\_Cr-StandingGropingBreasts_S1_1.hkx
 b -Tn _Cr-StandingGropingBreasts_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingGropingBreasts\_Cr-StandingGropingBreasts_S2_0.hkx
@@ -18,12 +16,6 @@ b -Tn _BoF-StandingNippleSucking_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\B
 b -Tn _BoF-StandingNippleSucking_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\BoF\StandingNippleSucking\_BoF-StandingNippleSucking_S1_1.hkx
 b -Tn _BoF-StandingNippleSucking_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\BoF\StandingNippleSucking\_BoF-StandingNippleSucking_S4_0.hkx
 b -Tn _BoF-StandingNippleSucking_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\BoF\StandingNippleSucking\_BoF-StandingNippleSucking_S1_1.hkx
-b -Tn _Ho-StandingDevourVampireMale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-StandingDevourVampireMale_0.hkx
-b -Tn _Ho-StandingDevourVampireMale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-StandingDevourVampireMale_1.hkx
-b -Tn _Ho-StandingDevourVampireFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-StandingDevourVampireFemale_0.hkx
-b -Tn _Ho-StandingDevourVampireFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-StandingDevourVampireFemale_1.hkx
-b -Tn _Ho-StandingDevourVampireMaleAndFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-StandingDevourVampireMaleAndFemale_0.hkx
-b -Tn _Ho-StandingDevourVampireMaleAndFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-StandingDevourVampireMaleAndFemale_1.hkx
 b -a,Tn _Ho-GoToStandingHolding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-GoToStandingHolding_0.hkx
 b -a,Tn _Ho-GoToStandingHolding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-GoToStandingHolding_1.hkx
 b -a,Tn _Ho-StandingGoToSitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-StandingGoToSitting_0.hkx
@@ -56,6 +48,12 @@ b -a,Tn _Ap-StandingUndressingFemaleBottom_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\S
 b -a,Tn _Ap-StandingUndressingFemaleBottom_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleBottom\_Ap-StandingUndressingFemaleBottom_1.hkx
 b -a,Tn _Ap-StandingUndressingFemaleShoes_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleShoes\_Ap-StandingUndressingFemaleShoes_0.hkx
 b -a,Tn _Ap-StandingUndressingFemaleShoes_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleShoes\_Ap-StandingUndressingFemaleShoes_1.hkx
+b -Tn _Ho-StandingDevourVampireMale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_0.hkx
+b -Tn _Ho-StandingDevourVampireMale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_1.hkx
+b -Tn _Ho-StandingDevourVampireFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_0.hkx
+b -Tn _Ho-StandingDevourVampireFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_1.hkx
+b -Tn _Ho-StandingDevourVampireMaleAndFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_0.hkx
+b -Tn _Ho-StandingDevourVampireMaleAndFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_1.hkx
 b -a,Tn _Em-GoToDevourVampireBiteMaleStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\_Em-GoToDevourVampireBiteMaleStanding_0.hkx
 b -a,Tn _Em-GoToDevourVampireBiteMaleStanding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\_Em-GoToDevourVampireBiteMaleStanding_1.hkx
 b -Tn _Em-DevourVampireBiteMaleStanding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\DevourVampireBiteMaleStanding\_Em-DevourVampireBiteMaleStanding_0.hkx
@@ -357,23 +355,17 @@ b -Tn _BJ-SittingFacefuck_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\Sitti
 b -Tn _BJ-SittingFacefuck_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\SittingFacefuck\_BJ-SittingFacefuck_S3_1.hkx
 b -Tn _BJ-SittingFacefuck_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\SittingFacefuck\_BJ-SittingFacefuck_S4_0.hkx
 b -Tn _BJ-SittingFacefuck_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\SittingFacefuck\_BJ-SittingFacefuck_S4_1.hkx
-b -Tn _Ap-MaleStandingFemaleKneelingDevourVampireFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\_Ap-MaleStandingFemaleKneelingDevourVampireFemale_0.hkx
-b -Tn _Ap-MaleStandingFemaleKneelingDevourVampireFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\_Ap-MaleStandingFemaleKneelingDevourVampireFemale_1.hkx
-b -Tn _Ap-MaleStandingFemaleKneelingDevourVampireMale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\_Ap-MaleStandingFemaleKneelingDevourVampireMale_0.hkx
-b -Tn _Ap-MaleStandingFemaleKneelingDevourVampireMale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\_Ap-MaleStandingFemaleKneelingDevourVampireMale_1.hkx
-b -Tn _Ap-MaleStandingFemaleKneelingDevourVampireMaleAndFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\_Ap-MaleStandingFemaleKneelingDevourVampireMaleAndFemale_0.hkx
-b -Tn _Ap-MaleStandingFemaleKneelingDevourVampireMaleAndFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\_Ap-MaleStandingFemaleKneelingDevourVampireMaleAndFemale_1.hkx
+b -Tn _Ap-MaleStandingFemaleKneelingDevourVampireFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\_Ap-MaleStandingFemaleKneeling_0.hkx
+b -Tn _Ap-MaleStandingFemaleKneelingDevourVampireFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\_Ap-MaleStandingFemaleKneeling_1.hkx
+b -Tn _Ap-MaleStandingFemaleKneelingDevourVampireMale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\_Ap-MaleStandingFemaleKneeling_0.hkx
+b -Tn _Ap-MaleStandingFemaleKneelingDevourVampireMale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\_Ap-MaleStandingFemaleKneeling_1.hkx
+b -Tn _Ap-MaleStandingFemaleKneelingDevourVampireMaleAndFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\_Ap-MaleStandingFemaleKneeling_0.hkx
+b -Tn _Ap-MaleStandingFemaleKneelingDevourVampireMaleAndFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\_Ap-MaleStandingFemaleKneeling_1.hkx
 b -Tn _Em-DevourVampireBiteFemaleKneelingHJ_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Em\DevourVampireBiteFemaleKneelingHJ\_Em-DevourVampireBiteFemaleKneelingHJ_0.hkx
 b -Tn _Em-DevourVampireBiteFemaleKneelingHJ_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Em\DevourVampireBiteFemaleKneelingHJ\_Em-DevourVampireBiteFemaleKneelingHJ_1.hkx
 
 b -Tn _Ap-Sitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-Sitting_0.hkx
 b -Tn _Ap-Sitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-Sitting_1.hkx
-b -Tn _Ap-SittingVampireFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-SittingVampireFemale_0.hkx
-b -Tn _Ap-SittingVampireFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-SittingVampireFemale_1.hkx
-b -Tn _Ap-SittingVampireMale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-SittingVampireMale_0.hkx
-b -Tn _Ap-SittingVampireMale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-SittingVampireMale_1.hkx
-b -Tn _Ap-SittingVampireMaleAndFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-SittingVampireMaleAndFemale_0.hkx
-b -Tn _Ap-SittingVampireMaleAndFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-SittingVampireMaleAndFemale_1.hkx
 b -Tn _Cr-SittingGropingBreast_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Cr\SittingGropingBreast\_Cr-SittingGropingBreast_S1_0.hkx
 b -Tn _Cr-SittingGropingBreast_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Cr\SittingGropingBreast\_Cr-SittingGropingBreast_S1_1.hkx
 b -Tn _Cr-SittingGropingBreast_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Cr\SittingGropingBreast\_Cr-SittingGropingBreast_S2_0.hkx
@@ -406,6 +398,12 @@ b -Tn _Em-LapPillowHeadStroke_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySSit\Em\L
 b -Tn _Em-LapPillowHeadStroke_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySSit\Em\LapPillowHeadStroke\_Em-LapPillowHeadStroke_S2_1.hkx
 b -Tn _Em-LapPillowHeadStroke_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySSit\Em\LapPillowHeadStroke\_Em-LapPillowHeadStroke_S3_0.hkx
 b -Tn _Em-LapPillowHeadStroke_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySSit\Em\LapPillowHeadStroke\_Em-LapPillowHeadStroke_S3_1.hkx
+b -Tn _Ap-SittingVampireFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-Sitting_0.hkx
+b -Tn _Ap-SittingVampireFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-Sitting_1.hkx
+b -Tn _Ap-SittingVampireMale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-Sitting_0.hkx
+b -Tn _Ap-SittingVampireMale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-Sitting_1.hkx
+b -Tn _Ap-SittingVampireMaleAndFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-Sitting_0.hkx
+b -Tn _Ap-SittingVampireMaleAndFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-Sitting_1.hkx
 b -a,Tn _Em-GoToDevourVampireBiteFemaleSitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Em\DevourVampireBiteFemaleSitting\_Em-GoToDevourVampireBiteFemaleSitting_0.hkx
 b -a,Tn _Em-GoToDevourVampireBiteFemaleSitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Em\DevourVampireBiteFemaleSitting\_Em-GoToDevourVampireBiteFemaleSitting_1.hkx
 b -Tn _Em-DevourVampireBiteFemaleSitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Em\DevourVampireBiteFemaleSitting\_Em-DevourVampireBiteFemaleSitting_0.hkx
@@ -1096,6 +1094,8 @@ b -Tn _Sx-Ace3PCowgirlAndCunnilingus_S4_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBK
 
 
 
+b -Tn _Ho-StandingLesbianHub_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_0.hkx
+b -Tn _Ho-StandingLesbianHub_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_1.hkx
 b -Tn _Ho-KneelingSubBentOverBackward_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ho\KneelingSubBentOverBackward\_Ho-KneelingSubBentOverBackward_S0_0.hkx
 b -Tn _Ho-KneelingSubBentOverBackward_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ho\KneelingSubBentOverBackward\_Ho-KneelingSubBentOverBackward_S0_1.hkx
 b -Tn _Ho-KneelingHolding_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneKne\Ho\KneelingHolding\_Ho-KneelingHolding_S0_0.hkx
@@ -1131,9 +1131,13 @@ b -Tn _VHJ-AceLesbian69Fingering_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\V
 b -Tn _VHJ-AceLesbian69Fingering_S5_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\VHJ\AceLesbian69Fingering\_VHJ-AceLesbian69Fingering_S5_0.hkx
 b -Tn _VHJ-AceLesbian69Fingering_S5_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBAFo\VHJ\AceLesbian69Fingering\_VHJ-AceLesbian69Fingering_S5_1.hkx
 
-b -Tn _Ho-OPLesbianTransition_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\_Ho-OPLesbianTransition_0.hkx
-b -Tn _Ho-OPLesbianTransition_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\VJ\LesbianKneLyBCunnilingus\_Ho-OPLesbianTransition_1.hkx
+b -Tn _Ho-OPLesbianTransition_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\_Ho-SpooningIdle_0.hkx
+b -Tn _Ho-OPLesbianTransition_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LySLyS\Ho\SpooningIdle\_Ho-SpooningIdle_1.hkx
 b -Tn _Ap-OPRedirectToSittingMaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\SittingMaleApproach\_Ap-SittingMaleApproach_0.hkx
 b -Tn _Ap-OPRedirectToSittingMaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\SittingMaleApproach\_Ap-SittingMaleApproach_1.hkx
 b -Tn _Ho-GoToStandingKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_0.hkx
 b -Tn _Ho-GoToStandingKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_1.hkx
+b -Tn _Ho-StandingRedirect_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_0.hkx
+b -Tn _Ho-StandingRedirect_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_1.hkx
+b -Tn _Ap-SittingRedirect_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-Sitting_0.hkx
+b -Tn _Ap-SittingRedirect_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\Sitting\_Ap-Sitting_1.hkx
