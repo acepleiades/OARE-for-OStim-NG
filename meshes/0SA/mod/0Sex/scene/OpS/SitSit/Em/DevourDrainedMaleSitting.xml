@@ -15,7 +15,7 @@
 <motif drive="intimate" theme="Kiss"/>
 <motif drive="intimate" theme="Domineer"/>
 <autonav/>
-<metadata tags="idle"/>
+<metadata tags="idle" noRandomSelection="1"/>
 <actors>
 	<actor position="0" penisAngle="2" feetOnGround="0" tags="drowsy,sitting" lookUp="-75"/>
 	<actor position="1" feetOnGround="0" tags="sitting" lookUp="-50"/>
