@@ -1,0 +1,30 @@
+		<hkobject name="#ops$19" class="hkbVariableBindingSet" signature="0x338ad4ff">
+			<hkparam name="bindings" numelements="4">
+				<hkobject>
+					<hkparam name="memberPath">cropStartAmountLocalTime</hkparam>
+					<hkparam name="variableIndex">$variableID[OPS_CropAnimStart]$</hkparam>
+					<hkparam name="bitIndex">-1</hkparam>
+					<hkparam name="bindingType">BINDING_TYPE_VARIABLE</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="memberPath">cropEndAmountLocalTime</hkparam>
+					<hkparam name="variableIndex">$variableID[OPS_CropAnimEnd]$</hkparam>
+					<hkparam name="bitIndex">-1</hkparam>
+					<hkparam name="bindingType">BINDING_TYPE_VARIABLE</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="memberPath">startTime</hkparam>
+					<hkparam name="variableIndex">$variableID[OPS_AnimStartTime]$</hkparam>
+					<hkparam name="bitIndex">-1</hkparam>
+					<hkparam name="bindingType">BINDING_TYPE_VARIABLE</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="memberPath">playbackSpeed</hkparam>
+					<hkparam name="variableIndex">$variableID[OPS_AnimationSpeed]$</hkparam>
+					<hkparam name="bitIndex">-1</hkparam>
+					<hkparam name="bindingType">BINDING_TYPE_VARIABLE</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="indexOfBindingToEnable">-1</hkparam>
+		</hkobject>
+

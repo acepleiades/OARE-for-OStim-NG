@@ -1,0 +1,17 @@
+		<hkobject name="#ops$90" class="hkbClipGenerator" signature="0x333b85b9">
+			<hkparam name="variableBindingSet">#ops$91</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="name">OpenSex_AnimClip14</hkparam>
+			<hkparam name="animationName">Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\Missionary\_Sx-MissionaryMaleClimaxInternal_0.hkx</hkparam>
+			<hkparam name="triggers">null</hkparam>
+			<hkparam name="cropStartAmountLocalTime">0.000000</hkparam>
+			<hkparam name="cropEndAmountLocalTime">0.000000</hkparam>
+			<hkparam name="startTime">0.000000</hkparam>
+			<hkparam name="playbackSpeed">1.000000</hkparam>
+			<hkparam name="enforcedDuration">0.000000</hkparam>
+			<hkparam name="userControlledTimeFraction">0.000000</hkparam>
+			<hkparam name="animationBindingIndex">-1</hkparam>
+			<hkparam name="mode">MODE_SINGLE_PLAY</hkparam>
+			<hkparam name="flags">0</hkparam>
+		</hkobject>
+
