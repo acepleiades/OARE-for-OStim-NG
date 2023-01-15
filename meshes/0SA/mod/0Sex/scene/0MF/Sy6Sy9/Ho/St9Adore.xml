@@ -46,10 +46,13 @@
 			</option>
 		</page>
         <page icon="mcuirass"><hue n="hu" cmd="rg" a="0"/>
-            <option halo="hgentle" icon="oslnbobkd_f" go="OpS|Sta!Sta|Ap|StandingUndressingFemaleShoes" text="^takeOffYourShoes" t0="0">
+            <option halo="hgentle" icon="aesg_classic_boots" go="OpS|Sta!Sta|Ap|StandingUndressingFemaleShoes" text="^takeOffYourShoes" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="oslnbobkd_f" go="OpS|Sta!Sta|Ap|StandingUndressingFemaleTop" text="^undressYourTop" t0="0">
+			<option halo="hgentle" icon="aesg_classic_pants" go="OpS|Sta!Sta|Ap|StandingUndressingFemaleBottom" text="^undressYourBottom" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="aesg_classic_cuirass" go="OpS|Sta!Sta|Ap|StandingUndressingFemaleTop" text="^undressYourTop" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
