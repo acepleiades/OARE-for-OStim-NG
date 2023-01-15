@@ -6,7 +6,7 @@
 	<tab icon="smale" empty="0"><hue n="hu" cmd="rg" a="0"/></tab>
 	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="obigx" go="0MF|KNy6!KNy6|Ho|KnLap" text="^return" t0="1">
+			<option halo="hgentle" icon="obigx" go="OpS|Sit!Sit|Ap|Sitting" text="^return" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
