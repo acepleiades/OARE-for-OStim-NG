@@ -61,7 +61,7 @@
 <motif drive="intimate" theme="Affection"/>
 <motif drive="intimate" theme="Affection"/>
 <autonav/>
-<metadata tags="idle" noRandomSelection="1"/>
+<metadata tags="idle"/>
 <actors>
 	<actor position="0" penisAngle="9" feetOnGround="0" tags="sitting"/>
 	<actor position="1" feetOnGround="0" tags="sitting"/>

@@ -44,7 +44,7 @@
 	</tab>
 </nav>
 <autonav/>
-<metadata tags="idle" noRandomSelection="1"/>
+<metadata tags="idle"/>
 <actors>
 	<actor position="0" penisAngle="8" feetOnGround="1" tags="standing" lookUp="-50"/>
 	<actor position="1" feetOnGround="0" tags="kneeling" lookUp="50"/>
