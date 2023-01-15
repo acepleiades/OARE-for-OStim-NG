@@ -4,3 +4,18 @@ b -a,Tn _Ap-StandingUndressingFemaleBottom_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\S
 b -a,Tn _Ap-StandingUndressingFemaleBottom_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleBottom\_Ap-StandingUndressingFemaleBottom_1.hkx
 b -a,Tn _Ap-StandingUndressingFemaleShoes_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleShoes\_Ap-StandingUndressingFemaleShoes_0.hkx
 b -a,Tn _Ap-StandingUndressingFemaleShoes_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleShoes\_Ap-StandingUndressingFemaleShoes_1.hkx
+
+b -a,Tn _BoJ-AceStandingBoobjob_MaleClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BoJ\AceStandingBoobjob\_BoJ-AceStandingBoobjob_MaleClimax_0.hkx
+b -a,Tn _BoJ-AceStandingBoobjob_MaleClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BoJ\AceStandingBoobjob\_BoJ-AceStandingBoobjob_MaleClimax_1.hkx
+
+b -a,Tn _BJ-AceHandjobPlusLicking_MaleClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\BJ\AceHandjobPlusLicking\_BJ-AceHandjobPlusLicking_MaleClimax_0.hkx
+b -a,Tn _BJ-AceHandjobPlusLicking_MaleClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\BJ\AceHandjobPlusLicking\_BJ-AceHandjobPlusLicking_MaleClimax_1.hkx
+
+b -a,Tn _BoJ-AceLyingBoobjob_MaleClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\BoJ\AceLyingBoobjob\_BoJ-AceLyingBoobjob_MaleClimax_0.hkx
+b -a,Tn _BoJ-AceLyingBoobjob_MaleClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\BoJ\AceLyingBoobjob\_BoJ-AceLyingBoobjob_MaleClimax_1.hkx
+
+b -a,Tn _HJ-AceLyingHandjob_MaleClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_MaleClimax_0.hkx
+b -a,Tn _HJ-AceLyingHandjob_MaleClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_MaleClimax_1.hkx
+
+b -a,Tn _Sx-MissionaryMaleClimaxInternal_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\Missionary\_Sx-MissionaryMaleClimaxInternal_0.hkx
+b -a,Tn _Sx-MissionaryMaleClimaxInternal_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\Missionary\_Sx-MissionaryMaleClimaxInternal_1.hkx
