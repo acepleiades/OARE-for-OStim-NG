@@ -4,7 +4,7 @@
 <nav>
 	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-            <option halo="hgentle" icon="oholdbody_8_mf" go="OpS|Sta!Sta|Ho|GoToStandingHolding" text="^holdN" t0="1">
+            <option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Ho|GoToStandingHolding" text="^holdN" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|Sta!Sta|Ho|StandingGoToSitting" text="^sitDownWithN" t0="1">
@@ -15,15 +15,15 @@
 			<option halo="hgentle" icon="omu_lipspucker" go="OpS|Sta!Sta|Ap|AceStandingConversation" text="^speakWithN" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="oholdbody_8_mf" go="OpS|Sta!Sta|Ho|StandingHandHolding" text="^holdNsHand" t0="1">
+			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Ho|StandingHandHolding" text="^holdNsHand" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="oholdbody_8_mf" go="OpS|Sta!Sta|Ho|AceHeadpat" text="^strokeNsHead" t0="1">
+			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Ho|AceHeadpat" text="^strokeNsHead" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
         <page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="oholdbody_8_mf" go="OpS|Sta!Sta|Cr|StandingGropingBreasts" text="^touchNsBreasts" t0="1">
+			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Cr|StandingGropingBreasts" text="^touchNsBreasts" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
@@ -38,7 +38,7 @@
             <option halo="hgentle" icon="osqtlbbdn_f" go="OpS|Sta!Kne|Ap|MaleStandingFemaleKneeling" text="^kneel">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="oholdbody_8_mf" go="OpS|Sta!Sta|Ho|GoToStandingHolding" text="^holdN" t0="0">
+            <option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Ho|GoToStandingHolding" text="^holdN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|Sta!Sta|Ho|StandingGoToSitting" text="^sitDownWithN" t0="0">
@@ -57,7 +57,7 @@
 			<option halo="hgentle" icon="omu_lipspucker" go="OpS|Sta!Sta|Ap|AceStandingConversation" text="^speakWithN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="oholdbody_8_mf" go="OpS|Sta!Sta|Ho|StandingHandHolding" text="^holdNsHand" t0="0">
+			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Ho|StandingHandHolding" text="^holdNsHand" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
