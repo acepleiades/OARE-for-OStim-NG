@@ -12,18 +12,15 @@
 			</option>
 		</page>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="omu_lipspucker" go="OpS|Sta!Sta|Ap|AceStandingConversation" text="^speakWithN" t0="1">
+			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Em|GoToStandingHandHolding" text="^holdNsHand" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Ho|StandingHandHolding" text="^holdNsHand" t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Ho|AceHeadpat" text="^strokeNsHead" t0="1">
+			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Ho|HeadCaress" text="^strokeNsHead" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
         <page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Cr|StandingGropingBreasts" text="^touchNsBreasts" t0="1">
+			<option halo="hgentle" icon="omu_hand" go="OpS|Sta!Sta|Cr|StandingGropingBreasts" text="^touchNsBreasts" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
@@ -35,7 +32,7 @@
 			</option>
 		</page>
         <page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
-            <option halo="hgentle" icon="osqtlbbdn_f" go="OpS|Sta!Kne|Ap|MaleStandingFemaleKneeling" text="^kneel">
+            <option halo="hgentle" icon="osx_kn_f" go="OpS|Sta!Kne|Ap|MaleStandingFemaleKneeling" text="^kneel">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
             <option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Ho|GoToStandingHolding" text="^holdN" t0="0">
@@ -46,36 +43,30 @@
 			</option>
 		</page>
         <page icon="mcuirass"><hue n="hu" cmd="rg" a="0"/>
-            <option halo="hgentle" icon="oslnbobkd_f" go="OpS|Sta!Sta|Ap|StandingUndressingFemaleShoes" text="^takeOffYourShoes" t0="0">
+            <option halo="hgentle" icon="aesg_classic_boots" go="OpS|Sta!Sta|Ap|StandingUndressingFemaleShoes" text="^takeOffYourShoes" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="oslnbobkd_f" go="OpS|Sta!Sta|Ap|StandingUndressingFemaleTop" text="^undressYourTop" t0="0">
+			<option halo="hgentle" icon="aesg_classic_pants" go="OpS|Sta!Sta|Ap|StandingUndressingFemaleBottom" text="^undressYourBottom" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-		</page>
-		<page icon="mheart"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="omu_lipspucker" go="OpS|Sta!Sta|Ap|AceStandingConversation" text="^speakWithN" t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Ho|StandingHandHolding" text="^holdNsHand" t0="0">
+			<option halo="hgentle" icon="aesg_classic_cuirass" go="OpS|Sta!Sta|Ap|StandingUndressingFemaleTop" text="^undressYourTop" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Sta|HJ|AceSimpleStandingHandjob" text="^strokeN" t0="0">
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Sta|HJ|SimpleStandingHandjob" text="^masturbateN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
 	<tab icon="splus" text="^invite" empty="2"><hue n="hu" cmd="vg" a="0"/><bnhue cmd="vn" a="0"/>
 		<page icon="mgensignf"><hue n="hu" cmd="vg" a="0"/>
-			<option halo="h_plus_rbo" icon="" go="$InviteScan" text="^inviteSomeoneToJoinFemale" t0="0">
+			<option halo="h_plus_rbo" icon="omu_stickfigplus" go="$InviteScan" text="^inviteSomeoneToJoinFemale" t0="0">
 			<ihue n="hu" cmd="vn" a="0"/>
 			<cmd dest="OpS|Sta!Sta!Sta|Ho|Ace3PStanding" rolename="^femaleVisitant" sceneName="^joinFFM" npc="npc"/>
 			</option>
 		</page>
 	</tab>
-<defaults/>
 </nav>
 <metadata tags="idle" noRandomSelection="1"/>
 <actors>
