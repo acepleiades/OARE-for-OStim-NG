@@ -1,5 +1,11 @@
 b -Tn _Ho-Standing_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_0.hkx
 b -Tn _Ho-Standing_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_1.hkx
+b -a,Tn _Ho-GoToStandingHolding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-GoToStandingHolding_0.hkx
+b -a,Tn _Ho-GoToStandingHolding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-GoToStandingHolding_1.hkx
+b -a,Tn _Ho-GoBackStandingHolding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-GoBackStandingHolding_0.hkx
+b -a,Tn _Ho-GoBackStandingHolding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-GoBackStandingHolding_1.hkx
+b -a,Tn _Ho-StandingGoToSitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-StandingGoToSitting_0.hkx
+b -a,Tn _Ho-StandingGoToSitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-StandingGoToSitting_1.hkx
 b -Tn _Cr-StandingGropingBreasts_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingGropingBreasts\_Cr-StandingGropingBreasts_S1_0.hkx
 b -Tn _Cr-StandingGropingBreasts_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingGropingBreasts\_Cr-StandingGropingBreasts_S1_1.hkx
 b -Tn _Cr-StandingGropingBreasts_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingGropingBreasts\_Cr-StandingGropingBreasts_S2_0.hkx
@@ -16,10 +22,6 @@ b -Tn _BoF-StandingNippleSucking_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\B
 b -Tn _BoF-StandingNippleSucking_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\BoF\StandingNippleSucking\_BoF-StandingNippleSucking_S1_1.hkx
 b -Tn _BoF-StandingNippleSucking_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\BoF\StandingNippleSucking\_BoF-StandingNippleSucking_S4_0.hkx
 b -Tn _BoF-StandingNippleSucking_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\BoF\StandingNippleSucking\_BoF-StandingNippleSucking_S1_1.hkx
-b -a,Tn _Ho-GoToStandingHolding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-GoToStandingHolding_0.hkx
-b -a,Tn _Ho-GoToStandingHolding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-GoToStandingHolding_1.hkx
-b -a,Tn _Ho-StandingGoToSitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-StandingGoToSitting_0.hkx
-b -a,Tn _Ho-StandingGoToSitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-StandingGoToSitting_1.hkx
 b -a,Tn _Em-GoToStandingHandHolding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\StandingHandHolding\_Em-GoToStandingHandHolding_0.hkx
 b -a,Tn _Em-GoToStandingHandHolding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\StandingHandHolding\_Em-GoToStandingHandHolding_1.hkx
 b -Tn _Em-StandingHandHolding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\StandingHandHolding\_Em-StandingHandHolding_0.hkx
@@ -1081,6 +1083,11 @@ b -Tn _Sx-Ace3PCowgirlAndCunnilingus_S3_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBK
 b -Tn _Sx-Ace3PCowgirlAndCunnilingus_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Sx\Ace3PCowgirlAndCunnilingus\_Sx-Ace3PCowgirlAndCunnilingus_S4_0.hkx
 b -Tn _Sx-Ace3PCowgirlAndCunnilingus_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Sx\Ace3PCowgirlAndCunnilingus\_Sx-Ace3PCowgirlAndCunnilingus_S4_1.hkx
 b -Tn _Sx-Ace3PCowgirlAndCunnilingus_S4_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Sx\Ace3PCowgirlAndCunnilingus\_Sx-Ace3PCowgirlAndCunnilingus_S4_2.hkx
+
+b -Tn _Ap-4PStandingIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Ap\4PStandingIdle\_Ap-4PStandingIdle_0.hkx
+b -Tn _Ap-4PStandingIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Ap\4PStandingIdle\_Ap-4PStandingIdle_1.hkx
+b -Tn _Ap-4PStandingIdle_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Ap\4PStandingIdle\_Ap-4PStandingIdle_2.hkx
+b -Tn _Ap-4PStandingIdle_3 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Ap\4PStandingIdle\_Ap-4PStandingIdle_3.hkx
 
 
 
