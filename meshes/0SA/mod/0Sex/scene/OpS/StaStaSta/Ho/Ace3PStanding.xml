@@ -13,7 +13,7 @@
 		</page>
 	</tab>
 	<tab icon="splus" text="^dismiss" empty="2"><hue n="hu" cmd="vg" a="1"/><bnhue cmd="vn" a="1"/>
-		<page icon="mgensignm"><hue n="hu" cmd="vg" a="1"/>
+		<page icon="mgensignf"><hue n="hu" cmd="vg" a="1"/>
 			<option halo="h_plus_rbo" icon="omu_stickfigplus" go="$InviteScan" text="^inviteSomeoneToJoinFemale" t0="0">
 			<ihue n="hu" cmd="vn" a="0"/>
 			<cmd dest="OpS|4P!Standing|Ap|4PStandingIdle" rolename="^femaleVisitant" sceneName="^joinFFM" npc="npc"/>

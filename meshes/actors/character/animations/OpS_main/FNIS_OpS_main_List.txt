@@ -1088,6 +1088,22 @@ b -Tn _Ap-4PStandingIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Ap\4PSta
 b -Tn _Ap-4PStandingIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Ap\4PStandingIdle\_Ap-4PStandingIdle_1.hkx
 b -Tn _Ap-4PStandingIdle_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Ap\4PStandingIdle\_Ap-4PStandingIdle_2.hkx
 b -Tn _Ap-4PStandingIdle_3 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Ap\4PStandingIdle\_Ap-4PStandingIdle_3.hkx
+b -Tn _Sx-4PStandingRearSex_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Sx\4PStandingRearSex\_Sx-4PStandingRearSex_S1_0.hkx
+b -Tn _Sx-4PStandingRearSex_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Sx\4PStandingRearSex\_Sx-4PStandingRearSex_S1_1.hkx
+b -Tn _Sx-4PStandingRearSex_S1_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Sx\4PStandingRearSex\_Sx-4PStandingRearSex_S1_2.hkx
+b -Tn _Sx-4PStandingRearSex_S1_3 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Sx\4PStandingRearSex\_Sx-4PStandingRearSex_S1_3.hkx
+b -Tn _Sx-4PStandingRearSex_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Sx\4PStandingRearSex\_Sx-4PStandingRearSex_S2_0.hkx
+b -Tn _Sx-4PStandingRearSex_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Sx\4PStandingRearSex\_Sx-4PStandingRearSex_S2_1.hkx
+b -Tn _Sx-4PStandingRearSex_S2_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Sx\4PStandingRearSex\_Sx-4PStandingRearSex_S2_2.hkx
+b -Tn _Sx-4PStandingRearSex_S2_3 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Sx\4PStandingRearSex\_Sx-4PStandingRearSex_S2_3.hkx
+b -Tn _Sx-4PStandingRearSex_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Sx\4PStandingRearSex\_Sx-4PStandingRearSex_S3_0.hkx
+b -Tn _Sx-4PStandingRearSex_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Sx\4PStandingRearSex\_Sx-4PStandingRearSex_S3_1.hkx
+b -Tn _Sx-4PStandingRearSex_S3_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Sx\4PStandingRearSex\_Sx-4PStandingRearSex_S3_2.hkx
+b -Tn _Sx-4PStandingRearSex_S3_3 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Sx\4PStandingRearSex\_Sx-4PStandingRearSex_S3_3.hkx
+b -Tn _Sx-4PStandingRearSex_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Sx\4PStandingRearSex\_Sx-4PStandingRearSex_S4_0.hkx
+b -Tn _Sx-4PStandingRearSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Sx\4PStandingRearSex\_Sx-4PStandingRearSex_S4_1.hkx
+b -Tn _Sx-4PStandingRearSex_S4_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Sx\4PStandingRearSex\_Sx-4PStandingRearSex_S4_2.hkx
+b -Tn _Sx-4PStandingRearSex_S4_3 ..\..\..\..\0SA\mod\0Sex\anim\OpS\4PStanding\Sx\4PStandingRearSex\_Sx-4PStandingRearSex_S4_3.hkx
 
 
 
