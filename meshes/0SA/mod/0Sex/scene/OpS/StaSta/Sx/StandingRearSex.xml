@@ -1,6 +1,5 @@
 <scene id="OpS|Sta!Sta|Sx|StandingRearSex" actors="2" style="OScene">
 <info name="Standing Sex from Behind" animator="Ace"/>
-<region om="A" maj="C" min="C" stage="" step="" story=""/>
 <anim id="_Sx-StandingRearSex_S1" t="L" l="2"/>
 <speed a="0" min="0" max="3" name="thrusts">
 	<sp mtx="^thrustsPerSec" qnt="0.5">
