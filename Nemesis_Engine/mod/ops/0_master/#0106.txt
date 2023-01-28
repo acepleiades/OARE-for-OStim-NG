@@ -1219,8 +1219,12 @@
 				<hkcstring>SoundPlay.NPCKillDLC2HeartStone</hkcstring>
 <!-- MOD_CODE ~ops~ OPEN -->
 				<hkcstring>OST_ExitAnim</hkcstring>
+				<hkcstring>_Ap-StandingUndressingFemaleHeadItem_0</hkcstring>
+				<hkcstring>_Ap-StandingUndressingFemaleHeadItem_1</hkcstring>
 				<hkcstring>_Ap-StandingUndressingFemaleTop_0</hkcstring>
 				<hkcstring>_Ap-StandingUndressingFemaleTop_1</hkcstring>
+				<hkcstring>_Ap-StandingUndressingFemaleGloves_0</hkcstring>
+				<hkcstring>_Ap-StandingUndressingFemaleGloves_1</hkcstring>
 				<hkcstring>_Ap-StandingUndressingFemaleBottom_0</hkcstring>
 				<hkcstring>_Ap-StandingUndressingFemaleBottom_1</hkcstring>
 				<hkcstring>_Ap-StandingUndressingFemaleShoes_0</hkcstring>

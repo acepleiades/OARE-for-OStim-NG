@@ -2,7 +2,7 @@
 			<hkparam name="variableBindingSet">#ops$31</hkparam>
 			<hkparam name="userData">0</hkparam>
 			<hkparam name="name">OpenSex_AnimClip4</hkparam>
-			<hkparam name="animationName">Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleShoes\_Ap-StandingUndressingFemaleShoes_0.hkx</hkparam>
+			<hkparam name="animationName">Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleGloves\_Ap-StandingUndressingFemaleGloves_0.hkx</hkparam>
 			<hkparam name="triggers">null</hkparam>
 			<hkparam name="cropStartAmountLocalTime">0.000000</hkparam>
 			<hkparam name="cropEndAmountLocalTime">0.000000</hkparam>

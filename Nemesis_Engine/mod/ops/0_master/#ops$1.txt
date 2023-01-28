@@ -19,9 +19,9 @@
 			<hkparam name="maxSimultaneousTransitions">32</hkparam>
 			<hkparam name="startStateMode">START_STATE_MODE_DEFAULT</hkparam>
 			<hkparam name="selfTransitionMode">SELF_TRANSITION_MODE_NO_TRANSITION</hkparam>
-			<hkparam name="states" numelements="16">
-				#ops$4 #ops$10 #ops$16 #ops$22 #ops$28 #ops$34 #ops$40 #ops$46 #ops$52 #ops$58 #ops$64 #ops$70 #ops$76 #ops$82 #ops$88 #ops$94
+			<hkparam name="states" numelements="20">
+				#ops$4 #ops$10 #ops$16 #ops$22 #ops$28 #ops$34 #ops$40 #ops$46 #ops$52 #ops$58 #ops$64 #ops$70 #ops$76 #ops$82 #ops$88 #ops$94 #ops$100 #ops$106 #ops$112 #ops$118
 			</hkparam>
-			<hkparam name="wildcardTransitions">#ops$100</hkparam>
+			<hkparam name="wildcardTransitions">#ops$124</hkparam>
 		</hkobject>
 

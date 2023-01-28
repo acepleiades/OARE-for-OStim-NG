@@ -5951,6 +5951,18 @@
 				<hkobject>
 					<hkparam name="flags">0</hkparam>
                 </hkobject>
+				<hkobject>
+					<hkparam name="flags">0</hkparam>
+                </hkobject>
+				<hkobject>
+					<hkparam name="flags">0</hkparam>
+                </hkobject>
+				<hkobject>
+					<hkparam name="flags">0</hkparam>
+                </hkobject>
+				<hkobject>
+					<hkparam name="flags">0</hkparam>
+                </hkobject>
 
 <!-- CLOSE -->
 			</hkparam>
