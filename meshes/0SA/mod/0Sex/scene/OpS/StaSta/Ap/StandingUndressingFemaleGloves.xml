@@ -1,0 +1,9 @@
+<scene id="OpS|Sta!Sta|Ap|StandingUndressingFemaleGloves" actors="2" style="OScene">
+<info name="Standing Undressing Female Gloves" animator="Ace"/>
+<anim id="_Ap-StandingUndressingFemaleGloves" t="T" l="4" dest="OpS|Sta!Sta|Ap|Standing"/>
+<metadata tags="transition,undressing"/>
+<actors>
+	<actor position="0" penisAngle="6" feetOnGround="1" tags="standing"/>
+	<actor position="1" feetOnGround="1" tags="standing"/>
+</actors>
+</scene>

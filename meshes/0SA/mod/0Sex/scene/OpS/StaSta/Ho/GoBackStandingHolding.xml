@@ -1,0 +1,9 @@
+<scene id="OpS|Sta!Sta|Ho|GoBackStandingHolding" actors="2" style="OScene">
+<info name="Transition back from Standing Holding" animator="Ace"/>
+<anim id="_Ho-GoBackStandingHolding" t="T" l="1.5" dest="OpS|Sta!Sta|Ap|Standing"/>
+<metadata tags="transition"/>
+<actors>
+	<actor position="0" penisAngle="-5" feetOnGround="1" tags="standing" lookUp="-10"/>
+	<actor position="1" feetOnGround="1" tags="standing" lookUp="10"/>
+</actors>
+</scene>

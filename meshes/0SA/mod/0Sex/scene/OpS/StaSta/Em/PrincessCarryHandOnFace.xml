@@ -8,6 +8,9 @@
 			<option halo="hgentle" icon="opowkiss_mf" go="OpS|Sta!Sta|Em|PrincessCarryKiss" text="^kissN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+			<option halo="hgentle" icon="opowkiss_mf" go="OpS|Sta!Sta|Em|PrincessCarryNeckKiss" text="^kissNsNeck" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Em|PrincessCarryEmbrace" text="^return">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
