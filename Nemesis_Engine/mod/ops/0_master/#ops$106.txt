@@ -1,13 +1,13 @@
-		<hkobject name="#ops$106" class="hkbBlendingTransitionEffect" signature="0xfd8584fe">
+		<hkobject name="#ops$106" class="hkbStateMachineStateInfo" signature="0xed7f9d0">
 			<hkparam name="variableBindingSet">null</hkparam>
-			<hkparam name="userData">0</hkparam>
-			<hkparam name="name">_Ap-StandingUndressingFemaleBottom_1Transition</hkparam>
-			<hkparam name="selfTransitionMode">SELF_TRANSITION_MODE_CONTINUE</hkparam>
-			<hkparam name="eventMode">EVENT_MODE_PROCESS_ALL</hkparam>
-			<hkparam name="duration">0.600000</hkparam>
-			<hkparam name="toGeneratorStartTimeFraction">0.000000</hkparam>
-			<hkparam name="flags">0</hkparam>
-			<hkparam name="endMode">END_MODE_NONE</hkparam>
-			<hkparam name="blendCurve">BLEND_CURVE_SMOOTH</hkparam>
+			<hkparam name="listeners" numelements="0"></hkparam>
+			<hkparam name="enterNotifyEvents">null</hkparam>
+			<hkparam name="exitNotifyEvents">null</hkparam>
+			<hkparam name="transitions">null</hkparam>
+			<hkparam name="generator">#ops$107</hkparam>
+			<hkparam name="name">OpenSex_Anim17</hkparam>
+			<hkparam name="stateId">17</hkparam>
+			<hkparam name="probability">1.000000</hkparam>
+			<hkparam name="enable">true</hkparam>
 		</hkobject>
 

@@ -1,7 +1,7 @@
 		<hkobject name="#0029" class="hkbCharacterStringData" signature="0x655b42bc">
 			<hkparam name="deformableSkinNames" numelements="0"></hkparam>
 			<hkparam name="rigidSkinNames" numelements="0"></hkparam>
-			<hkparam name="animationNames" numelements="1672">
+			<hkparam name="animationNames" numelements="1676">
 				<hkcstring>Animations\1HM_1stP_Run.hkx</hkcstring>
 				<hkcstring>Animations\1hm_1stP_Walk.hkx</hkcstring>
 				<hkcstring>Animations\1HM_AttackForwardSprint.hkx</hkcstring>
@@ -1659,8 +1659,12 @@
 				<hkcstring>Animations\WW_Stage8.hkx</hkcstring>
 				<hkcstring>Animations\WW_Stage9.hkx</hkcstring>
 <!-- MOD_CODE ~ops~ OPEN -->
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleHeadItem\_Ap-StandingUndressingFemaleHeadItem_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleHeadItem\_Ap-StandingUndressingFemaleHeadItem_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleTop\_Ap-StandingUndressingFemaleTop_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleTop\_Ap-StandingUndressingFemaleTop_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleGloves\_Ap-StandingUndressingFemaleGloves_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleGloves\_Ap-StandingUndressingFemaleGloves_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleBottom\_Ap-StandingUndressingFemaleBottom_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleBottom\_Ap-StandingUndressingFemaleBottom_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleShoes\_Ap-StandingUndressingFemaleShoes_0.hkx</hkcstring>

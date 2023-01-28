@@ -1,13 +1,17 @@
-		<hkobject name="#ops$108" class="hkbBlendingTransitionEffect" signature="0xfd8584fe">
-			<hkparam name="variableBindingSet">null</hkparam>
+		<hkobject name="#ops$108" class="hkbClipGenerator" signature="0x333b85b9">
+			<hkparam name="variableBindingSet">#ops$109</hkparam>
 			<hkparam name="userData">0</hkparam>
-			<hkparam name="name">_Ap-StandingUndressingFemaleShoes_1Transition</hkparam>
-			<hkparam name="selfTransitionMode">SELF_TRANSITION_MODE_CONTINUE</hkparam>
-			<hkparam name="eventMode">EVENT_MODE_PROCESS_ALL</hkparam>
-			<hkparam name="duration">0.600000</hkparam>
-			<hkparam name="toGeneratorStartTimeFraction">0.000000</hkparam>
+			<hkparam name="name">OpenSex_AnimClip17</hkparam>
+			<hkparam name="animationName">Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_MaleClimax_1.hkx</hkparam>
+			<hkparam name="triggers">null</hkparam>
+			<hkparam name="cropStartAmountLocalTime">0.000000</hkparam>
+			<hkparam name="cropEndAmountLocalTime">0.000000</hkparam>
+			<hkparam name="startTime">0.000000</hkparam>
+			<hkparam name="playbackSpeed">1.000000</hkparam>
+			<hkparam name="enforcedDuration">0.000000</hkparam>
+			<hkparam name="userControlledTimeFraction">0.000000</hkparam>
+			<hkparam name="animationBindingIndex">-1</hkparam>
+			<hkparam name="mode">MODE_SINGLE_PLAY</hkparam>
 			<hkparam name="flags">0</hkparam>
-			<hkparam name="endMode">END_MODE_NONE</hkparam>
-			<hkparam name="blendCurve">BLEND_CURVE_SMOOTH</hkparam>
 		</hkobject>
 
