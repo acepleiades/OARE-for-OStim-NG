@@ -10,7 +10,7 @@
 		</page>
 		<page icon="mgensignf"><hue n="hu" cmd="vg" a="1"/>
 			<option halo="h_plus_rbo" icon="obigx" go="$RemoveActor" text="^haveNLeave" t0="3">
-			<cmd dest="OpS|Sta!Sta!Sta|Ho|Ace3PStanding" actor="3"/>
+			<cmd dest="OpS|3P!Standing|Ap|3PStandingIdle" actor="3"/>
 			</option>
 		</page>
 	</tab>

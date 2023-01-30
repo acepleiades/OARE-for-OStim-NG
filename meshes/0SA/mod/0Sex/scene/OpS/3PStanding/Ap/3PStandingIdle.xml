@@ -1,12 +1,9 @@
-<scene id="OpS|Sta!Sta!Sta|Ho|Ace3PStanding" actors="3" style="OScene">
+<scene id="OpS|3P!Standing|Ap|3PStandingIdle" actors="3" style="OScene">
 <info name="3P Standing" animator="Ace"/>
-<anim id="_Ho-Ace3PStanding" t="L" l="2"/>
+<anim id="_Ap-3PStandingIdle" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta!Sta|Ho|Ace3PStandingHolding" text="^holdNandN">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
 			<option halo="hgentle" icon="oknlbdn_f" go="OpS|LyB!Kne!Kne|Ho|3PLyingIdle" text="^lieDown">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>

@@ -68,7 +68,7 @@
 		<page icon="mgensignf"><hue n="hu" cmd="vg" a="0"/>
 			<option halo="h_plus_rbo" icon="omu_stickfigplus" go="$InviteScan" text="^inviteSomeoneToJoinFemale" t0="0">
 			<ihue n="hu" cmd="vn" a="0"/>
-			<cmd dest="OpS|Sta!Sta!Sta|Ho|Ace3PStanding" rolename="^femaleVisitant" sceneName="^joinFFM" npc="npc"/>
+			<cmd dest="OpS|3P!Standing|Ap|3PStandingIdle" rolename="^femaleVisitant" sceneName="^joinFFM" npc="npc"/>
 			</option>
 		</page>
 	</tab>
