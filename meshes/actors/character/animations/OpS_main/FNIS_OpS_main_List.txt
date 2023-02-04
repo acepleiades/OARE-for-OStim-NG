@@ -981,6 +981,28 @@ b -Tn _Ap-3PStandingIdle_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Ap\3PSta
 b -Tn _Em-3PStandingKissF1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Em\3PStandingKissF1\_Em-3PStandingKissF1_0.hkx
 b -Tn _Em-3PStandingKissF1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Em\3PStandingKissF1\_Em-3PStandingKissF1_1.hkx
 b -Tn _Em-3PStandingKissF1_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Em\3PStandingKissF1\_Em-3PStandingKissF1_2.hkx
+b -Tn _Em-3PStandingKissF1HoldF2Hand_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Em\3PStandingKissF1HoldF2Hand\_Em-3PStandingKissF1HoldF2Hand_0.hkx
+b -Tn _Em-3PStandingKissF1HoldF2Hand_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Em\3PStandingKissF1\_Em-3PStandingKissF1_1.hkx
+b -Tn _Em-3PStandingKissF1HoldF2Hand_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Em\3PStandingKissF1HoldF2Hand\_Em-3PStandingKissF1HoldF2Hand_2.hkx
+b -Tn _Em-3PStandingKissF2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Em\3PStandingKissF2\_Em-3PStandingKissF2_0.hkx
+b -Tn _Em-3PStandingKissF2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Em\3PStandingKissF2\_Em-3PStandingKissF2_1.hkx
+b -Tn _Em-3PStandingKissF2_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Em\3PStandingKissF2\_Em-3PStandingKissF2_2.hkx
+b -Tn _Em-3PStandingKissF2HoldF1Hand_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Em\3PStandingKissF2HoldF1Hand\_Em-3PStandingKissF2HoldF1Hand_0.hkx
+b -Tn _Em-3PStandingKissF2HoldF1Hand_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Em\3PStandingKissF2HoldF1Hand\_Em-3PStandingKissF2HoldF1Hand_1.hkx
+b -Tn _Em-3PStandingKissF2HoldF1Hand_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Em\3PStandingKissF2\_Em-3PStandingKissF2_2.hkx
+
+b -Tn _Sx-3PStandingRearSex_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Sx\3PStandingRearSex\_Sx-3PStandingRearSex_S1_0.hkx
+b -Tn _Sx-3PStandingRearSex_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Sx\3PStandingRearSex\_Sx-3PStandingRearSex_S1_1.hkx
+b -Tn _Sx-3PStandingRearSex_S1_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Sx\3PStandingRearSex\_Sx-3PStandingRearSex_S1_2.hkx
+b -Tn _Sx-3PStandingRearSex_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Sx\3PStandingRearSex\_Sx-3PStandingRearSex_S2_0.hkx
+b -Tn _Sx-3PStandingRearSex_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Sx\3PStandingRearSex\_Sx-3PStandingRearSex_S2_1.hkx
+b -Tn _Sx-3PStandingRearSex_S2_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Sx\3PStandingRearSex\_Sx-3PStandingRearSex_S2_2.hkx
+b -Tn _Sx-3PStandingRearSex_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Sx\3PStandingRearSex\_Sx-3PStandingRearSex_S3_0.hkx
+b -Tn _Sx-3PStandingRearSex_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Sx\3PStandingRearSex\_Sx-3PStandingRearSex_S3_1.hkx
+b -Tn _Sx-3PStandingRearSex_S3_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Sx\3PStandingRearSex\_Sx-3PStandingRearSex_S3_2.hkx
+b -Tn _Sx-3PStandingRearSex_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Sx\3PStandingRearSex\_Sx-3PStandingRearSex_S4_0.hkx
+b -Tn _Sx-3PStandingRearSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Sx\3PStandingRearSex\_Sx-3PStandingRearSex_S4_1.hkx
+b -Tn _Sx-3PStandingRearSex_S4_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PStanding\Sx\3PStandingRearSex\_Sx-3PStandingRearSex_S4_2.hkx
 
 b -Tn _Ho-3PLyingIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Ho\3PLyingIdle\_Ho-3PLyingIdle_0.hkx
 b -Tn _Ho-3PLyingIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Ho\3PLyingIdle\_Ho-3PLyingIdle_1.hkx

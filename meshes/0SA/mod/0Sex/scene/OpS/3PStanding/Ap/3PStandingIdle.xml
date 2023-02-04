@@ -12,6 +12,14 @@
 			<option halo="hgentle" icon="opowkiss_mf" go="OpS|3P!Standing|Em|3PStandingKissF1" text="^kissN" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+			<option halo="hgentle" icon="opowkiss_mf" go="OpS|3P!Standing|Em|3PStandingKissF2" text="^kissN" t0="2">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+        <page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|3P!Standing|Sx|3PStandingRearSex" text="^sex4P" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 		</page>
 	</tab>
 	<tab icon="splus" text="^dismiss" empty="2"><hue n="hu" cmd="vg" a="1"/><bnhue cmd="vn" a="1"/>
