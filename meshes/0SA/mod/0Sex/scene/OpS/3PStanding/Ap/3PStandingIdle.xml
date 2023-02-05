@@ -17,7 +17,10 @@
 			</option>
 		</page>
         <page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|3P!Standing|Sx|3PStandingRearSex" text="^sex4P" t0="1">
+			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|3P!Standing|HJ|3PStandingHJAndKiss" text="^haveThemMasturbateYou" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|3P!Standing|Sx|3PStandingRearSex" text="^sexMultiple" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
