@@ -1,0 +1,26 @@
+<scene id="OpS|3P!Standing|Em|3PStandingKissF2HoldF1Hand" actors="3" style="OScene">
+<info name="3P Standing Kiss F2 Hold F1 Hand" animator="Ace"/>
+<anim id="_Em-3PStandingKissF2HoldF1Hand" t="L" l="2"/>
+<nav>
+	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="obigx" go="OpS|3P!Standing|Em|3PStandingKissF2" text="^return" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
+</nav>
+<motif drive="intimate" theme="Affection"/>
+<motif drive="intimate" theme="Affection"/>
+<motif drive="intimate" theme="Affection"/>
+<autonav/>
+<metadata tags="idle"/>
+<actors>
+	<actor position="0" penisAngle="7" feetOnGround="1" tags="standing"/>
+	<actor position="1" feetOnGround="1" tags="standing"/>
+	<actor position="2" feetOnGround="1" tags="standing"/>
+</actors>
+<actions>
+	<action type="kissing" actor="0" target="2"/>
+</actions>
+</scene>

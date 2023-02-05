@@ -4,13 +4,13 @@
 <nav>
 	<tab icon="splus" text="^dismiss" empty="2"><hue n="hu" cmd="vg" a="1"/><bnhue cmd="vn" a="1"/>
         <page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|4P!Standing|Sx|4PStandingRearSex" text="^sex4P" t0="1">
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|4P!Standing|Sx|4PStandingRearSex" text="^sexMultiple" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 		<page icon="mgensignf"><hue n="hu" cmd="vg" a="1"/>
 			<option halo="h_plus_rbo" icon="obigx" go="$RemoveActor" text="^haveNLeave" t0="3">
-			<cmd dest="OpS|Sta!Sta!Sta|Ho|Ace3PStanding" actor="3"/>
+			<cmd dest="OpS|3P!Standing|Ap|3PStandingIdle" actor="3"/>
 			</option>
 		</page>
 	</tab>

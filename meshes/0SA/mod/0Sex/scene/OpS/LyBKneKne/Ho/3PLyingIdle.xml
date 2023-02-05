@@ -11,7 +11,7 @@
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|Kne!LyB!AFo|Ho|StackedGirls" text="^kneelAnd3PStackedGirls">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta!Sta|Ho|Ace3PStanding" text="^return">
+			<option halo="hgentle" icon="obigx" go="OpS|3P!Standing|Ap|3PStandingIdle" text="^return">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
