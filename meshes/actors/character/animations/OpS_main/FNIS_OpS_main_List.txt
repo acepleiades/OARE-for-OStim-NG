@@ -1055,6 +1055,10 @@ b -Tn _BoJ-3PBoobjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BoJ\3PBoob
 b -Tn _BoJ-3PBoobjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BoJ\3PBoobjob\_BoJ-3PBoobjob_S4_1.hkx
 b -Tn _BoJ-3PBoobjob_S4_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BoJ\3PBoobjob\_BoJ-3PBoobjob_S4_2.hkx
 
+b -Tn _Em-3PSpooningSleeping_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PLying\Em\3PSpooningSleeping\_Em-3PSpooningSleeping_0.hkx
+b -Tn _Em-3PSpooningSleeping_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PLying\Em\3PSpooningSleeping\_Em-3PSpooningSleeping_1.hkx
+b -Tn _Em-3PSpooningSleeping_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PLying\Em\3PSpooningSleeping\_Em-3PSpooningSleeping_2.hkx
+
 b -Tn _Ho-3PSpreadLegs_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Ho\3PSpreadLegs\_Ho-3PSpreadLegs_0.hkx
 b -Tn _Ho-3PSpreadLegs_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Ho\3PSpreadLegs\_Ho-3PSpreadLegs_1.hkx
 b -Tn _Ho-3PSpreadLegs_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Ho\3PSpreadLegs\_Ho-3PSpreadLegs_2.hkx
