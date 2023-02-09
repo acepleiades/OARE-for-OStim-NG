@@ -1058,6 +1058,15 @@ b -Tn _BoJ-3PBoobjob_S4_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\BoJ\3PBoob
 b -Tn _Em-3PSpooningSleeping_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PLying\Em\3PSpooningSleeping\_Em-3PSpooningSleeping_0.hkx
 b -Tn _Em-3PSpooningSleeping_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PLying\Em\3PSpooningSleeping\_Em-3PSpooningSleeping_1.hkx
 b -Tn _Em-3PSpooningSleeping_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PLying\Em\3PSpooningSleeping\_Em-3PSpooningSleeping_2.hkx
+b -Tn _Em-3PSpooningSleepingEmbrace_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PLying\Em\3PSpooningSleeping\_Em-3PSpooningSleepingEmbrace_0.hkx
+b -Tn _Em-3PSpooningSleepingEmbrace_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PLying\Em\3PSpooningSleeping\_Em-3PSpooningSleepingEmbrace_1.hkx
+b -Tn _Em-3PSpooningSleepingEmbrace_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PLying\Em\3PSpooningSleeping\_Em-3PSpooningSleepingEmbrace_2.hkx
+b -Tn _Em-3PSpooningSleepingHandsBehindHead_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PLying\Em\3PSpooningSleeping\_Em-3PSpooningSleepingHandsBehindHead_0.hkx
+b -Tn _Em-3PSpooningSleepingHandsBehindHead_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PLying\Em\3PSpooningSleeping\_Em-3PSpooningSleepingHandsBehindHead_1.hkx
+b -Tn _Em-3PSpooningSleepingHandsBehindHead_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PLying\Em\3PSpooningSleeping\_Em-3PSpooningSleepingHandsBehindHead_2.hkx
+b -Tn _Em-3PSpooningSleepingSuggestive_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PLying\Em\3PSpooningSleeping\_Em-3PSpooningSleepingSuggestive_0.hkx
+b -Tn _Em-3PSpooningSleepingSuggestive_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PLying\Em\3PSpooningSleeping\_Em-3PSpooningSleepingSuggestive_1.hkx
+b -Tn _Em-3PSpooningSleepingSuggestive_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\3PLying\Em\3PSpooningSleeping\_Em-3PSpooningSleepingSuggestive_2.hkx
 
 b -Tn _Ho-3PSpreadLegs_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Ho\3PSpreadLegs\_Ho-3PSpreadLegs_0.hkx
 b -Tn _Ho-3PSpreadLegs_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyBLyB\Ho\3PSpreadLegs\_Ho-3PSpreadLegs_1.hkx
