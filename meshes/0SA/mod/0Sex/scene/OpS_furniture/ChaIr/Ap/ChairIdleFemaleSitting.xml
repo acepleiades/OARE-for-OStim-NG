@@ -1,6 +1,6 @@
 <scene id="OpS_furniture|Cha!Ir|Ap|ChairIdleFemaleSitting" actors="2" style="OScene">
 <info name="Chair Idle Female Sitting" animator="Ace"/>
-<anim id="_Ap-ChairIdleFemaleSitting" t="L" l="2"/>
+<anim id="_Ap-BenchIdleFemaleSitting" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>

@@ -12,6 +12,14 @@ b -Tn _Ho-BenchSitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ho\Be
 b -Tn _Ho-BenchSitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ho\BenchSitting\_Ho-BenchSitting_1.hkx
 b -Tn _Ho-BenchKneelingFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ho\BenchKneelingFemale\_Ho-BenchKneelingFemale_0.hkx
 b -Tn _Ho-BenchKneelingFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ho\BenchKneelingFemale\_Ho-BenchKneelingFemale_1.hkx
+b -Tn _Cr-BenchGropingBreast_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Cr\BenchGropingBreast\_Cr-BenchGropingBreast_S1_0.hkx
+b -Tn _Cr-BenchGropingBreast_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Cr\BenchGropingBreast\_Cr-BenchGropingBreast_S1_1.hkx
+b -Tn _Cr-BenchGropingBreast_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Cr\BenchGropingBreast\_Cr-BenchGropingBreast_S2_0.hkx
+b -Tn _Cr-BenchGropingBreast_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Cr\BenchGropingBreast\_Cr-BenchGropingBreast_S1_1.hkx
+b -Tn _Cr-BenchGropingBreast_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Cr\BenchGropingBreast\_Cr-BenchGropingBreast_S3_0.hkx
+b -Tn _Cr-BenchGropingBreast_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Cr\BenchGropingBreast\_Cr-BenchGropingBreast_S1_1.hkx
+b -Tn _Cr-BenchGropingBreast_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Cr\BenchGropingBreast\_Cr-BenchGropingBreast_S4_0.hkx
+b -Tn _Cr-BenchGropingBreast_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Cr\BenchGropingBreast\_Cr-BenchGropingBreast_S1_1.hkx
 b -Tn _BJ-BenchSittingBlowjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\BJ\BenchSittingBlowjob\_BJ-BenchSittingBlowjob_S1_0.hkx
 b -Tn _BJ-BenchSittingBlowjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\BJ\BenchSittingBlowjob\_BJ-BenchSittingBlowjob_S1_1.hkx
 b -Tn _BJ-BenchSittingBlowjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\BJ\BenchSittingBlowjob\_BJ-BenchSittingBlowjob_S2_0.hkx
@@ -28,21 +36,6 @@ b -Tn _Sx-BenchSittingSex_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh
 b -Tn _Sx-BenchSittingSex_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Sx\BenchSittingSex\_Sx-BenchSittingSex_S3_1.hkx
 b -Tn _Sx-BenchSittingSex_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Sx\BenchSittingSex\_Sx-BenchSittingSex_S4_0.hkx
 b -Tn _Sx-BenchSittingSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Sx\BenchSittingSex\_Sx-BenchSittingSex_S4_1.hkx
-
-b -Tn _Ap-ChairIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdle\_Ap-BenchIdle_0.hkx
-b -Tn _Ap-ChairIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdle\_Ap-BenchIdle_1.hkx
-b -Tn _Ap-ChairIdleFemaleSitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdleFemaleSitting\_Ap-BenchIdleFemaleSitting_0.hkx
-b -Tn _Ap-ChairIdleFemaleSitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdleFemaleSitting\_Ap-BenchIdleFemaleSitting_1.hkx
-b -Tn _Ho-ChairKneelingFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ho\BenchKneelingFemale\_Ho-BenchKneelingFemale_0.hkx
-b -Tn _Ho-ChairKneelingFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ho\BenchKneelingFemale\_Ho-BenchKneelingFemale_1.hkx
-b -Tn _BJ-ChairSittingBlowjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\BJ\BenchSittingBlowjob\_BJ-BenchSittingBlowjob_S1_0.hkx
-b -Tn _BJ-ChairSittingBlowjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\BJ\BenchSittingBlowjob\_BJ-BenchSittingBlowjob_S1_1.hkx
-b -Tn _BJ-ChairSittingBlowjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\BJ\BenchSittingBlowjob\_BJ-BenchSittingBlowjob_S2_0.hkx
-b -Tn _BJ-ChairSittingBlowjob_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\BJ\BenchSittingBlowjob\_BJ-BenchSittingBlowjob_S2_1.hkx
-b -Tn _BJ-ChairSittingBlowjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\BJ\BenchSittingBlowjob\_BJ-BenchSittingBlowjob_S3_0.hkx
-b -Tn _BJ-ChairSittingBlowjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\BJ\BenchSittingBlowjob\_BJ-BenchSittingBlowjob_S3_1.hkx
-b -Tn _BJ-ChairSittingBlowjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\BJ\BenchSittingBlowjob\_BJ-BenchSittingBlowjob_S4_0.hkx
-b -Tn _BJ-ChairSittingBlowjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\BJ\BenchSittingBlowjob\_BJ-BenchSittingBlowjob_S4_1.hkx
 
 b -Tn _Ap-CookingPotIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Ap\CookingPotIdle\_Ap-CookingPotIdle_0.hkx
 b -o _Ap-CookingPotIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Ap\CookingPotIdle\_Ap-CookingPotIdle_1.hkx AnimObjectSpoon

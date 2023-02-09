@@ -8,6 +8,11 @@
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
+        <page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="omu_hand" go="OpS_furniture|Ben!Ch|Cr|BenchGropingBreast" text="^touchNsBreasts" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
 	</tab>
 	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
@@ -26,9 +31,6 @@
 		</page>
 	</tab>
 </nav>
-<motif drive="intimate" theme="Affection"/>
-<motif drive="intimate" theme="Affection"/>
-<autonav/>
 <metadata tags="idle" furniture="bench"/>
 <actors>
     <actor position="0" penisAngle="6" feetOnGround="1" tags="sitting" lookUp="50"/>
