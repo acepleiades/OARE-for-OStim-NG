@@ -9,7 +9,7 @@
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
-        <page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
+        <page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS_furniture|Cha!Ir|Sx|ChairRearSex" text="^sexRear" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
@@ -19,6 +19,6 @@
 <metadata tags="idle" furniture="bench"/>
 <actors>
     <actor position="0" penisAngle="6" feetOnGround="1" tags="sitting" lookUp="50"/>
-	<actor position="1" feetOnGround="1" tags="standing,facingaway" lookUp="-50" lookLeft="100"/>
+	<actor position="1" feetOnGround="1" tags="standing,facingaway" lookUp="-100" lookLeft="100"/>
 </actors>
 </scene>
