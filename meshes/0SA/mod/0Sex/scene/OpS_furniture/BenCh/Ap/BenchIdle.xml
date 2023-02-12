@@ -16,13 +16,16 @@
 	</tab>
 	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
+            <option halo="hgentle" icon="obustt180_f" go="OpS_furniture|Ben!Ch|Ap|BenchIdleFemaleFacingAway" text="^turnAround">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 			<option halo="hgentle" icon="osqtlbbdn_f" go="OpS_furniture|Ben!Ch|Ap|BenchIdleBothSitting" text="^sitBesideN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
             <option halo="hgentle" icon="obustt180_f" go="OpS_furniture|Ben!Ch|Ap|BenchIdleFemaleSitting" text="^switchPlacesWithN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="okalbdn_f" go="OpS_furniture|Ben!Ch|Ho|BenchKneelingFemale" text="^kneel" t0="0">
+            <option halo="hgentle" icon="okalbdn_f" go="OpS_furniture|Ben!Ch|Ho|BenchKneelingFemale" text="^kneel">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="opowemb_mf" go="OpS_furniture|Ben!Ch|Ho|BenchSitting" text="^sitOnTopOfN" t0="0">
