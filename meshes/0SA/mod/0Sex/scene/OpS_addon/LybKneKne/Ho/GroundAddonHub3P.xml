@@ -1,0 +1,23 @@
+<scene id="OpS_addon|LyB!Kne!Kne|Ho|GroundAddonHub3P" actors="2" style="OScene">
+<info name="Ground Addon Hub" animator="Ace"/>
+<region om="A" maj="C" min="E" stage="" step="" story=""/>
+<anim id="_Ho-GroundAddonHub3P" t="L" l="2"/>
+<nav>
+    <tab icon="sdom" empty="1"><hue n="hu" cmd="rg" a="0"/>
+	</tab>
+	<tab actor="1" icon="ssub" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="obigx" go="OpS|LyB!Kne!Kne|Ho|3PLyingIdle" text="^return" t0="0">
+				<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
+</nav>
+<autonav/>
+<metadata tags="idle" noRandomSelection="1"/>
+<actors>
+	<actor position="0" penisAngle="1" feetOnGround="0" tags="lyingback"/>
+	<actor position="1" feetOnGround="0" tags="kneeling"/>
+	<actor position="2" feetOnGround="0" tags="kneeling"/>
+</actors>
+</scene>

@@ -7,6 +7,9 @@
 			<option halo="hgentle" icon="obustt180_f" go="OpS_furniture|Cha!Ir|Ap|ChairIdleFemaleSitting" text="^switchPlacesWithN" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+			<option halo="hgentle" icon="omu_plugins" go="OpS_addon|Cha!Ir|Ap|ChairAddonHub" text="Addon Hub" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 		</page>
         <page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
 			<option halo="hgentle" icon="omu_hand" go="OpS_furniture|Cha!Ir|Cr|ChairGropingBreast" text="^touchNsBreasts" t0="1">
@@ -23,6 +26,9 @@
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
             <option halo="hgentle" icon="osqtlbbdn_f" go="OpS_furniture|Cha!Ir|Ho|ChairKneelingFemale" text="^kneel" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="omu_plugins" go="OpS_addon|Cha!Ir|Ap|ChairAddonHub" text="Addon Hub" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>

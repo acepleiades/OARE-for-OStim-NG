@@ -1,0 +1,15 @@
+b -Tn _Ap-AddonHub_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_0.hkx
+b -Tn _Ap-AddonHub_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_1.hkx
+
+b -Tn _Ho-GroundAddonHub3P_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Ho\3PLyingIdle\_Ho-3PLyingIdle_0.hkx
+b -Tn _Ho-GroundAddonHub3P_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Ho\3PLyingIdle\_Ho-3PLyingIdle_1.hkx
+b -Tn _Ho-GroundAddonHub3P_2 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKneKne\Ho\3PLyingIdle\_Ho-3PLyingIdle_2.hkx
+
+b -Tn _Ap-BenchAddonHub_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdleBothSitting\_Ap-BenchIdleBothSitting_0.hkx
+b -Tn _Ap-BenchAddonHub_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdleBothSitting\_Ap-BenchIdleBothSitting_1.hkx
+
+b -Tn _Ap-ChairAddonHub_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdle\_Ap-BenchIdle_0.hkx
+b -Tn _Ap-ChairAddonHub_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Ap\BenchIdle\_Ap-BenchIdle_1.hkx
+
+b -Tn _Ap-TableAddonHub_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Ap\TableIdleFacingEachOther\_Ap-TableIdleFacingEachOther_0.hkx
+b -Tn _Ap-TableAddonHub_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Ap\TableIdleFacingEachOther\_Ap-TableIdleFacingEachOther_1.hkx

@@ -10,6 +10,9 @@
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|Sta!Sta|Ho|StandingGoToSitting" text="^sitDownWithN" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+			<option halo="hgentle" icon="omu_plugins" go="OpS_addon|Sta!Sta|Ap|AddonHub" text="Addon Hub" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 		</page>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
 			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Em|GoToStandingHandHolding" text="^holdNsHand" t0="1">
@@ -41,6 +44,9 @@
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|Sta!Sta|Ho|StandingGoToSitting" text="^sitDownWithN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+			<option halo="hgentle" icon="omu_plugins" go="OpS_addon|Sta!Sta|Ap|AddonHub" text="Addon Hub" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 		</page>
         <page icon="mcuirass"><hue n="hu" cmd="rg" a="0"/>
             <option halo="hgentle" icon="aesg_classic_boots" go="OpS|Sta!Sta|Ap|StandingUndressingFemaleShoes" text="^takeOffYourShoes" t0="0">
@@ -49,7 +55,13 @@
 			<option halo="hgentle" icon="aesg_classic_pants" go="OpS|Sta!Sta|Ap|StandingUndressingFemaleBottom" text="^undressYourBottom" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+            <option halo="hgentle" icon="aesg_classic_gloves" go="OpS|Sta!Sta|Ap|StandingUndressingFemaleGloves" text="^undressGloves" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 			<option halo="hgentle" icon="aesg_classic_cuirass" go="OpS|Sta!Sta|Ap|StandingUndressingFemaleTop" text="^undressYourTop" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="aesg_classic_helmet" go="OpS|Sta!Sta|Ap|StandingUndressingFemaleHeadItem" text="^undressHeadItem" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>

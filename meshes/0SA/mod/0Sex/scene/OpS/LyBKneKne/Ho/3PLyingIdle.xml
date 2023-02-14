@@ -14,6 +14,10 @@
 			<option halo="hgentle" icon="obigx" go="OpS|3P!Standing|Ap|3PStandingIdle" text="^return">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+			<option halo="hgentle" icon="omu_plugins" go="OpS_addon|LyB!Kne!Kne|Ho|GroundAddonHub3P" text="Addon Hub" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+
 		</page>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
 			<option halo="hgentle" icon="opowemb_mf" go="OpS|3P!Lying|Em|3PSpooningSleeping" text="^sleepTogether" t0="1">
