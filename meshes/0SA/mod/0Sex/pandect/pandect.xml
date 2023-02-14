@@ -81,7 +81,7 @@
 <enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 <dynamicIcon />
 </l0>
-<l0 text="femaleLyingToTheSide" subtext="kneLyS" icon="osx_layside_f" fn="anav" warp="OpS|Kne!LyS|Ho|FemaleLyingToTheSide" travel="OpS|Kne!LyS|Ho|FemaleLyingToTheSide">
+<l0 text="femaleLyingToTheSide" subtext="kneLyS" icon="osx_layside_f" fn="anav" warp="OpS|Kne!LyS|Ap|FemaleLyingOnSide" travel="OpS|Kne!LyS|Ap|FemaleLyingOnSide">
 <titlePlus text="kneLyS" fontsize="13"><prop id="_yscale" am="15"/><prop id="_y" am="-18"/></titlePlus>
 <titlePlus text="femaleLyingToTheSideSum" dtar0="0" dtar1="1" fontsize="9" fonttype="m"><prop id="_y" am="30"/><prop id="_alpha" am="-50"/></titlePlus>
 <ex text="femaleLyingToTheSideEx" dtar0="0" dtar1="1" fontsize="9" fonttype="m"></ex>

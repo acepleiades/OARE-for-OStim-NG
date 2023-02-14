@@ -798,8 +798,8 @@ b -Tn _Sx-MissionaryKissingFeet_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx
 b -Tn _Sx-MissionaryKissingFeet_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionaryKissingFeet\_Sx-MissionaryKissingFeet_S4_0.hkx
 b -Tn _Sx-MissionaryKissingFeet_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionaryKissingFeet\_Sx-MissionaryKissingFeet_S4_1.hkx
 
-b -Tn _Ho-FemaleLyingToTheSide_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Ho\FemaleLyingToTheSide\_Ho-FemaleLyingToTheSide_0.hkx
-b -Tn _Ho-FemaleLyingToTheSide_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Ho\FemaleLyingToTheSide\_Ho-FemaleLyingToTheSide_1.hkx
+b -Tn _Ap-FemaleLyingOnSide_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Ap\FemaleLyingOnSide\_Ap-FemaleLyingOnSide_0.hkx
+b -Tn _Ap-FemaleLyingOnSide_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Ap\FemaleLyingOnSide\_Ap-FemaleLyingOnSide_1.hkx
 b -Tn _Sx-FemaleLyingOnSideSex_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\FemaleLyingOnSideSex\_Sx-FemaleLyingOnSideSex_S1_0.hkx
 b -Tn _Sx-FemaleLyingOnSideSex_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\FemaleLyingOnSideSex\_Sx-FemaleLyingOnSideSex_S1_1.hkx
 b -Tn _Sx-FemaleLyingOnSideSex_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\FemaleLyingOnSideSex\_Sx-FemaleLyingOnSideSex_S2_0.hkx
