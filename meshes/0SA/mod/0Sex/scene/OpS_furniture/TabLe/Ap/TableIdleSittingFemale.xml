@@ -27,10 +27,7 @@
 		</page>
 	</tab>
 </nav>
-<motif drive="intimate" theme="Affection"/>
-<motif drive="intimate" theme="Affection"/>
-<autonav/>
-<metadata tags="idle,intro" furniture="table"/>
+<metadata tags="idle" furniture="table"/>
 <actors>
     <actor position="0" penisAngle="6" feetOnGround="1" tags="standing"/>
 	<actor position="1" feetOnGround="0" tags="sitting"/>

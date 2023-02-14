@@ -33,9 +33,16 @@
 		</page>
 	</tab>
 	<tab icon="splus" text="^dismiss" empty="2"><hue n="hu" cmd="vg" a="1"/><bnhue cmd="vn" a="1"/>
-		<page icon="mgensignm"><hue n="hu" cmd="vg" a="1"/>
+		<page icon="mgensignf"><hue n="hu" cmd="vg" a="1"/>
 			<option halo="h_plus_rbo" icon="obigx" go="$RemoveActor" text="^HaveNLeave" t0="2">
 			<cmd dest="OpS|Sit!Sit|Ap|Sitting" actor="2"/>
+			</option>
+		</page>
+	</tab>
+    <tab icon="sobs" text="^addonHub"><hue n="hu" cmd="vg" a="0"/><bnhue cmd="vn" a="0"/>
+		<page icon="mtri"><hue n="hu" cmd="vg" a="0"/>
+			<option halo="h_plus_rbo" icon="omu_plugins" go="OpS_addon|LyB!Kne!Kne|Ho|GroundAddonHub3P" text="^accessTheAddonHub" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
