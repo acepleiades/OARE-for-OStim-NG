@@ -11,16 +11,10 @@
 			<option halo="hgentle" icon="obigx" go="OpS_furniture|Tab!Le|Ap|TableIdle" text="^return" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="omu_plugins" go="OpS_addon|Tab!Le|Ap|TableAddonHub" text="Addon Hub" t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
 		</page>
 	</tab>
 </nav>
-<motif drive="intimate" theme="Affection"/>
-<motif drive="intimate" theme="Affection"/>
-<autonav/>
-<metadata tags="idle,intro" furniture="table"/>
+<metadata tags="idle" furniture="table"/>
 <actors>
     <actor position="0" penisAngle="6" feetOnGround="1" tags="standing"/>
 	<actor position="1" feetOnGround="1" tags="standing"/>

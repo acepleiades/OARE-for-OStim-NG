@@ -44,12 +44,6 @@ b -Tn _HJ-SimpleStandingHandjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ
 b -Tn _HJ-SimpleStandingHandjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\SimpleStandingHandjob\_HJ-SimpleStandingHandjob_S3_1.hkx
 b -Tn _HJ-SimpleStandingHandjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\SimpleStandingHandjob\_HJ-SimpleStandingHandjob_S4_0.hkx
 b -Tn _HJ-SimpleStandingHandjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\SimpleStandingHandjob\_HJ-SimpleStandingHandjob_S4_1.hkx
-b -a,Tn _Ap-StandingUndressingFemaleTop_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleTop\_Ap-StandingUndressingFemaleTop_0.hkx
-b -a,Tn _Ap-StandingUndressingFemaleTop_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleTop\_Ap-StandingUndressingFemaleTop_1.hkx
-b -a,Tn _Ap-StandingUndressingFemaleBottom_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleBottom\_Ap-StandingUndressingFemaleBottom_0.hkx
-b -a,Tn _Ap-StandingUndressingFemaleBottom_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleBottom\_Ap-StandingUndressingFemaleBottom_1.hkx
-b -a,Tn _Ap-StandingUndressingFemaleShoes_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleShoes\_Ap-StandingUndressingFemaleShoes_0.hkx
-b -a,Tn _Ap-StandingUndressingFemaleShoes_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleShoes\_Ap-StandingUndressingFemaleShoes_1.hkx
 b -Tn _Ho-StandingDevourVampireMale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_0.hkx
 b -Tn _Ho-StandingDevourVampireMale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_1.hkx
 b -Tn _Ho-StandingDevourVampireFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-Standing_0.hkx
@@ -798,8 +792,8 @@ b -Tn _Sx-MissionaryKissingFeet_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx
 b -Tn _Sx-MissionaryKissingFeet_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionaryKissingFeet\_Sx-MissionaryKissingFeet_S4_0.hkx
 b -Tn _Sx-MissionaryKissingFeet_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyB\Sx\MissionaryKissingFeet\_Sx-MissionaryKissingFeet_S4_1.hkx
 
-b -Tn _Ap-FemaleLyingOnSide_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Ap\FemaleLyingOnSide\_Ap-FemaleLyingOnSide_0.hkx
-b -Tn _Ap-FemaleLyingOnSide_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Ap\FemaleLyingOnSide\_Ap-FemaleLyingOnSide_1.hkx
+b -Tn _Ho-FemaleLyingToTheSide_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Ho\FemaleLyingToTheSide\_Ho-FemaleLyingToTheSide_0.hkx
+b -Tn _Ho-FemaleLyingToTheSide_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Ho\FemaleLyingToTheSide\_Ho-FemaleLyingToTheSide_1.hkx
 b -Tn _Sx-FemaleLyingOnSideSex_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\FemaleLyingOnSideSex\_Sx-FemaleLyingOnSideSex_S1_0.hkx
 b -Tn _Sx-FemaleLyingOnSideSex_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\FemaleLyingOnSideSex\_Sx-FemaleLyingOnSideSex_S1_1.hkx
 b -Tn _Sx-FemaleLyingOnSideSex_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\FemaleLyingOnSideSex\_Sx-FemaleLyingOnSideSex_S2_0.hkx

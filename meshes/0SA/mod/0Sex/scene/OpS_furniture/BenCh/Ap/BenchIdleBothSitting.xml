@@ -10,9 +10,6 @@
             <option halo="hgentle" icon="obigx" go="OpS_furniture|Ben!Ch|Ap|BenchIdleFemaleSitting" text="^standUp" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="omu_plugins" go="OpS_addon|Ben!Ch|Ap|BenchAddonHub" text="Addon Hub" t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
 		</page>
 	</tab>
 	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
@@ -23,7 +20,11 @@
             <option halo="hgentle" icon="obigx" go="OpS_furniture|Ben!Ch|Ap|BenchIdle" text="^standUp" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="omu_plugins" go="OpS_addon|Ben!Ch|Ap|BenchAddonHub" text="Addon Hub" t0="0">
+		</page>
+	</tab>
+    <tab icon="sobs" text="^addonHub"><hue n="hu" cmd="vg" a="0"/><bnhue cmd="vn" a="0"/>
+		<page icon="mtri"><hue n="hu" cmd="vg" a="0"/>
+			<option halo="h_plus_rbo" icon="omu_plugins" go="OpS_addon|Ben!Ch|Ap|BenchAddonHub" text="^accessTheAddonHub" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
