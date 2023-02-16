@@ -802,6 +802,14 @@ b -Tn _Sx-LyingOnSideSex_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\LyingO
 b -Tn _Sx-LyingOnSideSex_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\LyingOnSideSex\_Sx-LyingOnSideSex_S3_1.hkx
 b -Tn _Sx-LyingOnSideSex_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\LyingOnSideSex\_Sx-LyingOnSideSex_S4_0.hkx
 b -Tn _Sx-LyingOnSideSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\LyingOnSideSex\_Sx-LyingOnSideSex_S4_1.hkx
+b -Tn _Sx-LyingOnSideSexGrabArm_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\LyingOnSideSexGrabArm\_Sx-LyingOnSideSexGrabArm_S1_0.hkx
+b -Tn _Sx-LyingOnSideSexGrabArm_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\LyingOnSideSexGrabArm\_Sx-LyingOnSideSexGrabArm_S1_1.hkx
+b -Tn _Sx-LyingOnSideSexGrabArm_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\LyingOnSideSexGrabArm\_Sx-LyingOnSideSexGrabArm_S2_0.hkx
+b -Tn _Sx-LyingOnSideSexGrabArm_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\LyingOnSideSexGrabArm\_Sx-LyingOnSideSexGrabArm_S2_1.hkx
+b -Tn _Sx-LyingOnSideSexGrabArm_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\LyingOnSideSexGrabArm\_Sx-LyingOnSideSexGrabArm_S3_0.hkx
+b -Tn _Sx-LyingOnSideSexGrabArm_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\LyingOnSideSexGrabArm\_Sx-LyingOnSideSexGrabArm_S3_1.hkx
+b -Tn _Sx-LyingOnSideSexGrabArm_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\LyingOnSideSexGrabArm\_Sx-LyingOnSideSexGrabArm_S4_0.hkx
+b -Tn _Sx-LyingOnSideSexGrabArm_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneLyS\Sx\LyingOnSideSexGrabArm\_Sx-LyingOnSideSexGrabArm_S4_1.hkx
 
 b -Tn _Ap-FemaleAllFours_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ap\FemaleAllFours\_Ap-FemaleAllFours_0.hkx
 b -Tn _Ap-FemaleAllFours_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneAFo\Ap\FemaleAllFours\_Ap-FemaleAllFours_1.hkx
