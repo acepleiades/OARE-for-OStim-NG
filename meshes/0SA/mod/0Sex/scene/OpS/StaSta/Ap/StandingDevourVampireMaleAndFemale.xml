@@ -3,11 +3,6 @@
 <anim id="_Ho-StandingDevourVampireMaleAndFemale" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Em|GoToDevourVampireBiteMaleStanding" text="^vampireFeed" t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-		</page>
         <page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
             <option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Ho|GoToStandingHolding" text="^holdN" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
@@ -29,13 +24,13 @@
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
-	</tab>
-	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
-		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Em|GoToDevourVampireBiteFemaleStanding" text="^vampireFeed" t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+		<page icon="mhandex"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Em|GoToDevourVampireBiteMaleStanding" text="^vampireFeed" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
+	</tab>
+	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
         <page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
             <option halo="hgentle" icon="osx_kn_f" go="OpS|Sta!Kne|Ap|MaleStandingFemaleKneeling" text="^kneel">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
@@ -66,6 +61,11 @@
 		</page>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sta!Sta|HJ|SimpleStandingHandjob" text="^masturbateN" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+		<page icon="mhandex"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Em|GoToDevourVampireBiteFemaleStanding" text="^vampireFeed" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>

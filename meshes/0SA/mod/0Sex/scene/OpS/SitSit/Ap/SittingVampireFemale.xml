@@ -27,11 +27,6 @@
 	</tab>
 	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
         <page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sit!Sit|Em|GoToDevourVampireBiteFemaleSitting" text="^vampireFeed" t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-		</page>
-        <page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="osx_layside_f" go="OpS|LyS!LyS|Ho|SpooningIdle" text="^lieDownWithNSpooning" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
@@ -45,6 +40,11 @@
 			</option>
 			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|Sit!Sit|FJ|AceSittingFootjobFromBehind" text="^masturbateNWithYourFeetSittingFromBehind" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+        <page icon="mhandex"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sit!Sit|Em|GoToDevourVampireBiteFemaleSitting" text="^vampireFeed" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
