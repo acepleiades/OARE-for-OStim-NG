@@ -21,6 +21,9 @@
 			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!LyS|Sx|LyingOnSideSexRaisedLeg" text="^raiseNsLeg" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Kne!LyS|Sx|LyingOnSideSexFromBehind" text="^sexLyingOnSideSexFromBehind" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 			<option halo="hgentle" icon="obigx" go="OpS|Kne!LyS|Ap|FemaleLyingOnSide" text="^return" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
