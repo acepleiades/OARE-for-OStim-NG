@@ -21,7 +21,7 @@
 <motif drive="intimate" theme="Tender"/>
 <motif drive="intimate" theme="Imminence"/>
 <autonav/>
-<metadata tags="idle"/>
+<metadata tags="cuddling,idle"/>
 <actors>
 	<actor position="0" penisAngle="2" feetOnGround="1" tags="standing" lookUp="-30"/>
 	<actor position="1" feetOnGround="1" tags="standing" lookUp="-30"/>
