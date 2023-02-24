@@ -93,6 +93,14 @@ b -Tn _Em-PrincessCarryKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\Prince
 b -Tn _Em-PrincessCarryKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\PrincessCarryKiss\_Em-PrincessCarryKiss_1.hkx
 b -Tn _Em-PrincessCarryNeckKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\PrincessCarryNeckKiss\_Em-PrincessCarryNeckKiss_0.hkx
 b -Tn _Em-PrincessCarryNeckKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\PrincessCarryNeckKiss\_Em-PrincessCarryNeckKiss_1.hkx
+b -Tn _Ho-HoldingGropingButt_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\HoldingGropingButt\_Ho-HoldingGropingButt_S1_0.hkx
+b -Tn _Ho-HoldingGropingButt_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\HoldingGropingButt\_Ho-HoldingGropingButt_S1_1.hkx
+b -Tn _Ho-HoldingGropingButt_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\HoldingGropingButt\_Ho-HoldingGropingButt_S2_0.hkx
+b -Tn _Ho-HoldingGropingButt_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\HoldingGropingButt\_Ho-HoldingGropingButt_S2_1.hkx
+b -Tn _Ho-HoldingGropingButt_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\HoldingGropingButt\_Ho-HoldingGropingButt_S3_0.hkx
+b -Tn _Ho-HoldingGropingButt_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\HoldingGropingButt\_Ho-HoldingGropingButt_S3_1.hkx
+b -Tn _Ho-HoldingGropingButt_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\HoldingGropingButt\_Ho-HoldingGropingButt_S4_0.hkx
+b -Tn _Ho-HoldingGropingButt_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\HoldingGropingButt\_Ho-HoldingGropingButt_S4_1.hkx
 b -Tn _Cr-StandingKissFingering_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingKissFingering\_Cr-StandingKissFingering_S1_0.hkx
 b -Tn _Cr-StandingKissFingering_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingKissFingering\_Cr-StandingKissFingering_S1_1.hkx
 b -Tn _Cr-StandingKissFingering_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingKissFingering\_Cr-StandingKissFingering_S2_0.hkx
