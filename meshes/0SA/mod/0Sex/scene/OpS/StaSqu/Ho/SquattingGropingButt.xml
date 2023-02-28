@@ -1,6 +1,6 @@
 <scene id="OpS|Sta!Squ|Ho|SquattingGropingButt" actors="2" style="OScene">
 <info name="Squatting Groping Butt" animator="Ace"/>
-<anim id="_Cr-CookingPotButtGrab_S1" t="L" l="2"/>
+<anim id="_Ho-SquattingGropingButt_S1" t="L" l="2"/>
 <speed a="1" min="0" max="3" name="thrusts">	
 	<sp mtx="^thrustsPerSec" qnt=".5">
 		<anim id="_Ho-SquattingGropingButt_S1" t="L" l="2" i0="0" i1="0"/></sp>
@@ -15,6 +15,9 @@
 	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="omu_hand" go="OpS|Sta!Squ|Ho|SquattingGropingButtBothHands" text="^useBothHands" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHoldingFromBehind" text="^return" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
@@ -22,11 +25,11 @@
 	</tab>
    	<tab icon="sfemale" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
 </nav>
-<motif drive="intimate" theme="G_Handjob"/>
+<motif drive="intimate" theme="Domineer"/>
 <motif drive="intimate" theme="R_Handjob"/>
 <actors>
-    <actor position="0" penisAngle="6" feetOnGround="1" tags="standing"/>
-    <actor position="1" feetOnGround="1" tags="standing" lookUp="-77" lookLeft="33"/>
+    <actor position="0" penisAngle="6" feetOnGround="1" tags="squatting"/>
+    <actor position="1" feetOnGround="1" tags="standing" lookUp="-100"/>
 </actors>
 <actions>
 	<action type="gropingbutt" actor="0" target="1"/>

@@ -184,6 +184,14 @@ b -Tn _Ho-SquattingGropingButt_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\Ho\
 b -Tn _Ho-SquattingGropingButt_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\Ho\SquattingGropingButt\_Ho-SquattingGropingButt_S3_1.hkx
 b -Tn _Ho-SquattingGropingButt_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\Ho\SquattingGropingButt\_Ho-SquattingGropingButt_S4_0.hkx
 b -Tn _Ho-SquattingGropingButt_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\Ho\SquattingGropingButt\_Ho-SquattingGropingButt_S4_1.hkx
+b -Tn _Ho-SquattingGropingButtBothHands_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\Ho\SquattingGropingButtBothHands\_Ho-SquattingGropingButtBothHands_S1_0.hkx
+b -Tn _Ho-SquattingGropingButtBothHands_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\Ho\SquattingGropingButtBothHands\_Ho-SquattingGropingButtBothHands_S1_1.hkx
+b -Tn _Ho-SquattingGropingButtBothHands_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\Ho\SquattingGropingButtBothHands\_Ho-SquattingGropingButtBothHands_S2_0.hkx
+b -Tn _Ho-SquattingGropingButtBothHands_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\Ho\SquattingGropingButtBothHands\_Ho-SquattingGropingButtBothHands_S2_1.hkx
+b -Tn _Ho-SquattingGropingButtBothHands_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\Ho\SquattingGropingButtBothHands\_Ho-SquattingGropingButtBothHands_S3_0.hkx
+b -Tn _Ho-SquattingGropingButtBothHands_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\Ho\SquattingGropingButtBothHands\_Ho-SquattingGropingButtBothHands_S3_1.hkx
+b -Tn _Ho-SquattingGropingButtBothHands_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\Ho\SquattingGropingButtBothHands\_Ho-SquattingGropingButtBothHands_S4_0.hkx
+b -Tn _Ho-SquattingGropingButtBothHands_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\Ho\SquattingGropingButtBothHands\_Ho-SquattingGropingButtBothHands_S4_1.hkx
 b -Tn _Ho-RubbingAssAgainstCrotch_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\RubbingAssAgainstCrotch\_Ho-RubbingAssAgainstCrotch_S1_0.hkx
 b -Tn _Ho-RubbingAssAgainstCrotch_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\RubbingAssAgainstCrotch\_Ho-RubbingAssAgainstCrotch_S1_1.hkx
 b -Tn _Ho-RubbingAssAgainstCrotch_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\RubbingAssAgainstCrotch\_Ho-RubbingAssAgainstCrotch_S2_0.hkx
