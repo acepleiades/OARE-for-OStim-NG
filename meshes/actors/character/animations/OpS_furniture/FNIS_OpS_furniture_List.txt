@@ -89,6 +89,14 @@ b -Tn _Sx-CookingPotSexNoHands_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\
 b -o _Sx-CookingPotSexNoHands_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexNoHands\_Sx-CookingPotSexNoHands_S3_1.hkx AnimObjectSpoon
 b -Tn _Sx-CookingPotSexNoHands_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexNoHands\_Sx-CookingPotSexNoHands_S4_0.hkx
 b -o _Sx-CookingPotSexNoHands_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexNoHands\_Sx-CookingPotSexNoHands_S4_1.hkx AnimObjectSpoon
+b -Tn _Sx-CookingPotSexRaisedLeg_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexRaisedLeg\_Sx-CookingPotSexRaisedLeg_S1_0.hkx
+b -o _Sx-CookingPotSexRaisedLeg_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexRaisedLeg\_Sx-CookingPotSexRaisedLeg_S1_1.hkx AnimObjectSpoon
+b -Tn _Sx-CookingPotSexRaisedLeg_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexRaisedLeg\_Sx-CookingPotSexRaisedLeg_S2_0.hkx
+b -o _Sx-CookingPotSexRaisedLeg_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexRaisedLeg\_Sx-CookingPotSexRaisedLeg_S2_1.hkx AnimObjectSpoon
+b -Tn _Sx-CookingPotSexRaisedLeg_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexRaisedLeg\_Sx-CookingPotSexRaisedLeg_S3_0.hkx
+b -o _Sx-CookingPotSexRaisedLeg_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexRaisedLeg\_Sx-CookingPotSexRaisedLeg_S3_1.hkx AnimObjectSpoon
+b -Tn _Sx-CookingPotSexRaisedLeg_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexRaisedLeg\_Sx-CookingPotSexRaisedLeg_S4_0.hkx
+b -o _Sx-CookingPotSexRaisedLeg_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\CooPot\Sx\CookingPotSexRaisedLeg\_Sx-CookingPotSexRaisedLeg_S4_1.hkx AnimObjectSpoon
 
 b -Tn _Ap-ShelfIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Ap\ShelfIdle\_Ap-ShelfIdle_0.hkx
 b -Tn _Ap-ShelfIdle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\SheLf\Ap\ShelfIdle\_Ap-ShelfIdle_1.hkx
