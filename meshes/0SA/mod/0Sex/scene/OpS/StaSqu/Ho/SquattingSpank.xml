@@ -1,0 +1,20 @@
+<scene id="OpS|Sta!Squ|Ho|SquattingSpank" actors="2" style="OScene">
+<info name="Squatting Spank" animator="Ace"/>
+<anim id="_Ho-SquattingSpank" t="T" l="3" dest="OpS|Sta!Squ|Ho|SquattingGropingButt">
+<mfx a= "1">
+<fx0 ti="1.5" cmd="EVNT">
+	<evnt cmd="actor" type="spank" subtype="Spank" drive="intimate" whodid="0" side="L" force="2" sound="slap" soundpow="2" crit="25">
+	</evnt>
+</fx0>
+<fx1 ti="1.5" cmd="EVNT">
+	<evnt cmd="actor" type="spank" subtype="Spank" drive="intimate" whodid="0" side="L" force="2" sound="slap" soundpow="2" crit="25">
+	</evnt>
+</fx1>
+</mfx>
+<out cmd="leadIntoAnim" id="OpS|Sta!Squ|Ho|SquattingGropingButt"/>
+</anim>
+<actors>
+    <actor position="0" penisAngle="6" feetOnGround="1" tags="squatting"/>
+    <actor position="1" feetOnGround="1" tags="standing" lookUp="-100"/>
+</actors>
+</scene>

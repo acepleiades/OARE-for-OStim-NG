@@ -15,6 +15,10 @@
 	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hsharp" icon="obbspankr_6_f" go="OpS|Sta!Squ|Ho|SquattingSpank" text="^spankN" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			<out cmd="actionsave"/>
+			</option>
 			<option halo="hgentle" icon="omu_hand" go="OpS|Sta!Squ|Ho|SquattingGropingButtBothHands" text="^useBothHands" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
