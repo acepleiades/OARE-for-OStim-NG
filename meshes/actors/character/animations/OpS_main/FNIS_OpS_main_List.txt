@@ -224,6 +224,10 @@ b -Tn _Cr-GropingFromBehind_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\Gro
 b -Tn _Cr-GropingFromBehind_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\GropingFromBehind\_Cr-GropingFromBehind_S3_1.hkx
 b -Tn _Cr-GropingFromBehind_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\GropingFromBehind\_Cr-GropingFromBehind_S4_0.hkx
 b -Tn _Cr-GropingFromBehind_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\GropingFromBehind\_Cr-GropingFromBehind_S4_1.hkx
+
+b -Tn _VJ-CunnilingusRear_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneSta\VJ\CunnilingusRear\_VJ-CunnilingusRear_S1_0.hkx
+b -Tn _VJ-CunnilingusRear_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneSta\VJ\CunnilingusRear\_VJ-CunnilingusRear_S1_1.hkx
+
 b -Tn _HJ-ThighfuckFromBehind_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\ThighfuckFromBehind\_HJ-ThighfuckFromBehind_S1_0.hkx
 b -Tn _HJ-ThighfuckFromBehind_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\ThighfuckFromBehind\_HJ-ThighfuckFromBehind_S1_1.hkx
 b -Tn _HJ-ThighfuckFromBehind_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\ThighfuckFromBehind\_HJ-ThighfuckFromBehind_S2_0.hkx
