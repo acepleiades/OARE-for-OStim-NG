@@ -13,7 +13,7 @@
 		<anim id="_VJ-KneelingCL_S4" t="L" l="2" i0="3" i1="3"/></sp>
 </speed>
 <nav>
-	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHolding" text="^return" t0="0">
@@ -31,6 +31,6 @@
 	<actor position="1" feetOnGround="1" tags="standing" lookUp="-75"/>
 </actors>
 <actions>
-	<action type="lickingvagina" actor="0" target="1"/>
+	<action type="cunnilingus" actor="0" target="1"/>
 </actions>
 </scene>
