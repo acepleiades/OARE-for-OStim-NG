@@ -12,7 +12,7 @@
 		<anim id="_VJ-CunnilingusRear_S4" t="L" l="2" i0="3" i1="3"/></sp>
 </speed>
 <nav>
-	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHoldingFromBehind" text="^return" t0="0">
@@ -20,7 +20,13 @@
 			</option>
 		</page>
 	</tab>
-    <tab icon="sfemale" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
+    <tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="omu_lipspucker" go="OpS|Kne!Sta|VJ|CunnilingusRearHeadHeld" text="^grabNsHair" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
 </nav>
 <motif drive="intimate" theme="R_Handjob"/>
 <motif drive="intimate" theme="G_Handjob"/>

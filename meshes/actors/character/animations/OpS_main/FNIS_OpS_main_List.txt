@@ -232,6 +232,14 @@ b -Tn _VJ-CunnilingusRear_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneSta\VJ\Cunni
 b -Tn _VJ-CunnilingusRear_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneSta\VJ\CunnilingusRear\_VJ-CunnilingusRear_S3_1.hkx
 b -Tn _VJ-CunnilingusRear_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneSta\VJ\CunnilingusRear\_VJ-CunnilingusRear_S4_0.hkx
 b -Tn _VJ-CunnilingusRear_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneSta\VJ\CunnilingusRear\_VJ-CunnilingusRear_S4_1.hkx
+b -Tn _VJ-CunnilingusRearHeadHeld_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneSta\VJ\CunnilingusRearHeadHeld\_VJ-CunnilingusRearHeadHeld_S1_0.hkx
+b -Tn _VJ-CunnilingusRearHeadHeld_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneSta\VJ\CunnilingusRearHeadHeld\_VJ-CunnilingusRearHeadHeld_S1_1.hkx
+b -Tn _VJ-CunnilingusRearHeadHeld_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneSta\VJ\CunnilingusRearHeadHeld\_VJ-CunnilingusRearHeadHeld_S2_0.hkx
+b -Tn _VJ-CunnilingusRearHeadHeld_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneSta\VJ\CunnilingusRearHeadHeld\_VJ-CunnilingusRearHeadHeld_S2_1.hkx
+b -Tn _VJ-CunnilingusRearHeadHeld_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneSta\VJ\CunnilingusRearHeadHeld\_VJ-CunnilingusRearHeadHeld_S3_0.hkx
+b -Tn _VJ-CunnilingusRearHeadHeld_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneSta\VJ\CunnilingusRearHeadHeld\_VJ-CunnilingusRearHeadHeld_S3_1.hkx
+b -Tn _VJ-CunnilingusRearHeadHeld_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneSta\VJ\CunnilingusRearHeadHeld\_VJ-CunnilingusRearHeadHeld_S4_0.hkx
+b -Tn _VJ-CunnilingusRearHeadHeld_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\KneSta\VJ\CunnilingusRearHeadHeld\_VJ-CunnilingusRearHeadHeld_S4_1.hkx
 b -Tn _HJ-ThighfuckFromBehind_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\ThighfuckFromBehind\_HJ-ThighfuckFromBehind_S1_0.hkx
 b -Tn _HJ-ThighfuckFromBehind_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\ThighfuckFromBehind\_HJ-ThighfuckFromBehind_S1_1.hkx
 b -Tn _HJ-ThighfuckFromBehind_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\HJ\ThighfuckFromBehind\_HJ-ThighfuckFromBehind_S2_0.hkx
