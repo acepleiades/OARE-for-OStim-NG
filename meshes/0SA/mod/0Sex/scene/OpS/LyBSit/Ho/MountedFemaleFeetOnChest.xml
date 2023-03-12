@@ -2,7 +2,13 @@
 <info name="Mounted Female Feet On Chest" animator="Ace"/>
 <anim id="_Ho-MountedFemaleFeetOnChest" t="L" l="2"/>
 <nav>
-    <tab icon="smale" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+    <tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="omu_hand" go="OpS|LyB!Sit|Ho|MountedFemaleTickle" text="^tickleN" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
 	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
             <option halo="hgentle" icon="obigx" go="OpS|LyB!Kne|Ho|MountedFemale" text="^return" t0="0">
@@ -16,9 +22,6 @@
 		</page>
 	</tab>
 </nav>
-<motif drive="intimate" theme="Affection"/>
-<motif drive="intimate" theme="Affection"/>
-<autonav/>
 <metadata tags="idle"/>
 <actors>
 	<actor position="0" penisAngle="9" feetOnGround="0" tags="lyingback" lookUp="-100"/>

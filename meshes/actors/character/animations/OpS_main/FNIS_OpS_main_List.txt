@@ -653,6 +653,8 @@ b -Tn _Sx-AceCowgirlLegsCrossed_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx
 
 b -Tn _Ho-MountedFemaleFeetOnChest_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Ho\MountedFemaleFeetOnChest\_Ho-MountedFemaleFeetOnChest_0.hkx
 b -Tn _Ho-MountedFemaleFeetOnChest_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Ho\MountedFemaleFeetOnChest\_Ho-MountedFemaleFeetOnChest_1.hkx
+b -Tn _Ho-MountedFemaleTickle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Ho\MountedFemaleTickle\_Ho-MountedFemaleTickle_0.hkx
+b -Tn _Ho-MountedFemaleTickle_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Ho\MountedFemaleTickle\_Ho-MountedFemaleTickle_1.hkx
 b -Tn _HJ-MountedHJFeet_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\HJ\MountedHJFeet\_HJ-MountedHJFeet_S1_0.hkx
 b -Tn _HJ-MountedHJFeet_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\HJ\MountedHJFeet\_HJ-MountedHJFeet_S1_1.hkx
 b -Tn _HJ-MountedHJFeet_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\HJ\MountedHJFeet\_HJ-MountedHJFeet_S2_0.hkx
