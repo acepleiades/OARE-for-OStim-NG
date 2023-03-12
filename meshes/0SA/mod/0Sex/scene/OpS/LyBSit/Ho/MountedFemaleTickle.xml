@@ -19,6 +19,6 @@
 	<actor position="1" feetOnGround="0" tags="kneeling" lookUp="-75"/>
 </actors>
 <actions>
-	<action type="ticklefeet" actor="0" target="1"/>
+	<action type="ticklingfeet" actor="0" target="1"/>
 </actions>
 </scene>
