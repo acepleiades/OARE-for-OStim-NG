@@ -8,15 +8,15 @@
 			<option halo="hgentle" icon="osqtlbbdn_f" go="OpS|LyB!Kne|Ho|GoToReverseMountedFemale" text="^turnAround" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+            <option halo="hgentle" icon="otiptoedn_f" go="OpS|LyB!Sit|Ho|MountedFemaleFeetOnChest" text="^placeYourFeetAboveNsChest" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
             <option halo="hgentle" icon="obigx" go="OpS|Sit!Kne|Ho|SittingFemaleApproach" text="^return" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!Kne|HJ|AceLyingHandjob" text="^masturbateN" t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-            <option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!Sit|HJ|MountedHJFeet" text="^masturbateNWhilePressingFeet" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
             <option halo="hgentle" icon="okalbdn_f" go="OpS|LyB!Kne|Cr|MountedGrind" text="^rubAgainstN" t0="0">
@@ -28,9 +28,6 @@
 		</page>
 	</tab>
 </nav>
-<motif drive="intimate" theme="Affection"/>
-<motif drive="intimate" theme="Affection"/>
-<autonav/>
 <metadata tags="idle"/>
 <actors>
 	<actor position="0" penisAngle="9" feetOnGround="0" tags="lyingback" lookUp="25"/>
