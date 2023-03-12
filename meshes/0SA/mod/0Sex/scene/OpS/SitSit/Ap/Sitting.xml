@@ -55,6 +55,8 @@
 <metadata tags="idle,intro"/>
 <actors>
 	<actor position="0" penisAngle="9" feetOnGround="0" tags="sitting"/>
-	<actor position="1" feetOnGround="0" tags="sitting"/>
+	<actor position="1" feetOnGround="0" tags="sitting">
+		<autotransition type="devour0" destination="OpS|Sit!Sit|Ap|SittingVampireFemale"/>
+	</actor>
 </actors>
 </scene>
