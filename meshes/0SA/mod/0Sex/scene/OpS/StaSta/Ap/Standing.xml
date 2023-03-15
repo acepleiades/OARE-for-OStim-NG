@@ -78,7 +78,11 @@
 </nav>
 <metadata tags="idle,intro"/>
 <actors>
-	<actor position="0" penisAngle="6" feetOnGround="1" tags="standing"/>
-	<actor position="1" feetOnGround="1" tags="standing"/>
+	<actor position="0" penisAngle="6" feetOnGround="1" tags="standing">
+		<autotransition type="devour1" destination="OpS|Sta!Sta|Ap|StandingDevourVampireMale"/>
+	</actor>
+	<actor position="1" feetOnGround="1" tags="standing">
+		<autotransition type="devour0" destination="OpS|Sta!Sta|Ap|StandingDevourVampireFemale"/>
+	</actor>
 </actors>
 </scene>
