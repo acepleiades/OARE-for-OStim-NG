@@ -16,6 +16,9 @@
 	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
+            <option halo="hgentle" icon="okalbup_f" go="OpS|Sta!Kne|BJ|KneelingFellatioEyeContact" text="^lookUp">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 			<option halo="hgentle" icon="omu_lipspucker" go="OpS|Sta!Kne|BJ|HandOnHeadBlowjob" text="^varyFellatioHandOnHead">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
@@ -34,7 +37,6 @@
 		</page>
 	</tab>
 </nav>
-<autonav/>		
 <actors>
 	<actor position="0" penisAngle="2" feetOnGround="1" scaleHeight="67" tags="standing" lookUp="-75"/>
 	<actor position="1" feetOnGround="0" tags="kneeling" lookUp="100"/>
