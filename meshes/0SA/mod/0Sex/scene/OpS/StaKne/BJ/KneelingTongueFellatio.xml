@@ -1,0 +1,32 @@
+<scene id="OpS|Sta!Kne|BJ|KneelingTongueFellatio" actors="2" style="OScene">
+<info name="Kneeling Tongue Fellatio" animator="Ace"/>
+<anim id="_BJ-KneelingTongueFellatio_S1" t="L" l="2"/>
+<speed a="1" min="0" max="3" name="thrusts">	
+	<sp mtx="^sucksPerSec" qnt=".5">
+		<anim id="_BJ-KneelingTongueFellatio_S1" t="L" l="2" i0="0" i1="0"/></sp>
+	<sp mtx="^sucksPerSec" qnt="1">
+		<anim id="_BJ-KneelingTongueFellatio_S2" t="L" l="2" i0="1" i1="1"/></sp>
+	<sp mtx="^sucksPerSec" qnt="1.5">
+		<anim id="_BJ-KneelingTongueFellatio_S3" t="L" l="2" i0="2" i1="2"/></sp>
+	<sp mtx="^sucksPerSec" qnt="2">
+		<anim id="_BJ-KneelingTongueFellatio_S4" t="L" l="2" i0="3" i1="3"/></sp>
+</speed>
+<nav>
+    <tab icon="smale" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
+		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="obigx" go="OpS|Sta!Kne|BJ|KneelingFellatioEyeContact" text="^return" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
+</nav>
+<actors>
+	<actor position="0" penisAngle="-4" feetOnGround="1" scaleHeight="67" tags="standing" lookUp="-75"/>
+	<actor position="1" feetOnGround="1" scaleHeight="67" tags="squatting" lookUp="100"/>
+</actors>
+<actions>
+	<action type="lickingpenis" actor="1" target="0"/>
+</actions>
+</scene>
