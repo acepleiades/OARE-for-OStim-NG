@@ -405,6 +405,14 @@ b -Tn _BJ-KneelingFellatioEyeContactHoldLegs_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\
 b -Tn _BJ-KneelingFellatioEyeContactHoldLegs_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingFellatioEyeContactHoldLegs\_BJ-KneelingFellatioEyeContactHoldLegs_S3_1.hkx
 b -Tn _BJ-KneelingFellatioEyeContactHoldLegs_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingFellatioEyeContactHoldLegs\_BJ-KneelingFellatioEyeContactHoldLegs_S4_0.hkx
 b -Tn _BJ-KneelingFellatioEyeContactHoldLegs_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingFellatioEyeContactHoldLegs\_BJ-KneelingFellatioEyeContactHoldLegs_S4_1.hkx
+b -Tn _BJ-KneelingTongueFellatio_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingTongueFellatio\_BJ-KneelingTongueFellatio_S1_0.hkx
+b -Tn _BJ-KneelingTongueFellatio_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingTongueFellatio\_BJ-KneelingTongueFellatio_S1_1.hkx
+b -Tn _BJ-KneelingTongueFellatio_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingTongueFellatio\_BJ-KneelingTongueFellatio_S2_0.hkx
+b -Tn _BJ-KneelingTongueFellatio_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingTongueFellatio\_BJ-KneelingTongueFellatio_S2_1.hkx
+b -Tn _BJ-KneelingTongueFellatio_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingTongueFellatio\_BJ-KneelingTongueFellatio_S3_0.hkx
+b -Tn _BJ-KneelingTongueFellatio_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingTongueFellatio\_BJ-KneelingTongueFellatio_S3_1.hkx
+b -Tn _BJ-KneelingTongueFellatio_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingTongueFellatio\_BJ-KneelingTongueFellatio_S4_0.hkx
+b -Tn _BJ-KneelingTongueFellatio_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\KneelingTongueFellatio\_BJ-KneelingTongueFellatio_S4_1.hkx
 b -Tn _BJ-SittingFacefuck_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\SittingFacefuck\_BJ-SittingFacefuck_S1_0.hkx
 b -Tn _BJ-SittingFacefuck_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\SittingFacefuck\_BJ-SittingFacefuck_S1_1.hkx
 b -Tn _BJ-SittingFacefuck_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BJ\SittingFacefuck\_BJ-SittingFacefuck_S2_0.hkx
