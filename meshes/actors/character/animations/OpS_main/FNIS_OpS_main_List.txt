@@ -305,6 +305,17 @@ b -Tn _Sx-AceReverseCarryingSex_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx
 b -Tn _Sx-AceReverseCarryingSex_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceReverseCarryingSex\_Sx-AceReverseCarryingSex_S4_0.hkx
 b -Tn _Sx-AceReverseCarryingSex_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Sx\AceReverseCarryingSex\_Sx-AceReverseCarryingSex_S4_1.hkx
 
+b -Tn _Ap-MaleStandingFemaleSquatting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\Ap\MaleStandingFemaleSquatting\_Ap-MaleStandingFemaleSquatting_0.hkx
+b -Tn _Ap-MaleStandingFemaleSquatting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\Ap\MaleStandingFemaleSquatting\_Ap-MaleStandingFemaleSquatting_1.hkx
+b -Tn _HJ-SquattingHandjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\HJ\SquattingHandjob\_HJ-SquattingHandjob_S1_0.hkx
+b -Tn _HJ-SquattingHandjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\HJ\SquattingHandjob\_HJ-SquattingHandjob_S1_1.hkx
+b -Tn _HJ-SquattingHandjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\HJ\SquattingHandjob\_HJ-SquattingHandjob_S2_0.hkx
+b -Tn _HJ-SquattingHandjob_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\HJ\SquattingHandjob\_HJ-SquattingHandjob_S2_1.hkx
+b -Tn _HJ-SquattingHandjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\HJ\SquattingHandjob\_HJ-SquattingHandjob_S3_0.hkx
+b -Tn _HJ-SquattingHandjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\HJ\SquattingHandjob\_HJ-SquattingHandjob_S3_1.hkx
+b -Tn _HJ-SquattingHandjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\HJ\SquattingHandjob\_HJ-SquattingHandjob_S4_0.hkx
+b -Tn _HJ-SquattingHandjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\HJ\SquattingHandjob\_HJ-SquattingHandjob_S4_1.hkx
+
 b -Tn _Ap-MaleStandingFemaleKneeling_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\_Ap-MaleStandingFemaleKneeling_0.hkx
 b -Tn _Ap-MaleStandingFemaleKneeling_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\_Ap-MaleStandingFemaleKneeling_1.hkx
 b -Tn _Po-AceKneelingJO_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Po\AceKneelingJO\_Po-AceKneelingJO_S1_0.hkx
