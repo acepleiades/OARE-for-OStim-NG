@@ -315,6 +315,14 @@ b -Tn _HJ-SquattingHandjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\HJ\Squa
 b -Tn _HJ-SquattingHandjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\HJ\SquattingHandjob\_HJ-SquattingHandjob_S3_1.hkx
 b -Tn _HJ-SquattingHandjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\HJ\SquattingHandjob\_HJ-SquattingHandjob_S4_0.hkx
 b -Tn _HJ-SquattingHandjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\HJ\SquattingHandjob\_HJ-SquattingHandjob_S4_1.hkx
+b -Tn _BJ-SquattingFellatio_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingFellatio\_BJ-SquattingFellatio_S1_0.hkx
+b -Tn _BJ-SquattingFellatio_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingFellatio\_BJ-SquattingFellatio_S1_1.hkx
+b -Tn _BJ-SquattingFellatio_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingFellatio\_BJ-SquattingFellatio_S2_0.hkx
+b -Tn _BJ-SquattingFellatio_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingFellatio\_BJ-SquattingFellatio_S2_1.hkx
+b -Tn _BJ-SquattingFellatio_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingFellatio\_BJ-SquattingFellatio_S3_0.hkx
+b -Tn _BJ-SquattingFellatio_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingFellatio\_BJ-SquattingFellatio_S3_1.hkx
+b -Tn _BJ-SquattingFellatio_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingFellatio\_BJ-SquattingFellatio_S4_0.hkx
+b -Tn _BJ-SquattingFellatio_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingFellatio\_BJ-SquattingFellatio_S4_1.hkx
 
 b -Tn _Ap-MaleStandingFemaleKneeling_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\_Ap-MaleStandingFemaleKneeling_0.hkx
 b -Tn _Ap-MaleStandingFemaleKneeling_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\_Ap-MaleStandingFemaleKneeling_1.hkx
