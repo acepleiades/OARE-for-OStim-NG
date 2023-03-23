@@ -22,7 +22,7 @@
             <option halo="hgentle" icon="omu_lipspucker" go="OpS|Sta!Kne|BJ|KneelingTongueFellatio" text="^performTongueFellatioOnN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obigx" go="OpS|Sta!Kne|BJ|KneelingBlowjob" text="^return">
+			<option halo="hgentle" icon="obigx" go="OpS|Sta!Kne|Ap|MaleStandingFemaleKneeling" text="^return">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
