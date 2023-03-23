@@ -1,0 +1,11 @@
+<scene id="OpS_solo|S!tanding|Ap|SoloStandingIdleMale" actors="1" style="OScene">
+<info name="Solo Standing Idle Male" animator="Ace"/>
+<anim id="_Ap-SoloStandingIdleMale" t="L" l="2"/>
+<nav>
+    <tab icon="smale" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+</nav>
+<metadata tags="idle,intro"/>
+<actors>
+	<actor position="0" penisAngle="6" feetOnGround="1" tags="standing"/>
+</actors>
+</scene>
