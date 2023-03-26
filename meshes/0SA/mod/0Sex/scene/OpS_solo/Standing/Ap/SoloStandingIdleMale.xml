@@ -5,19 +5,22 @@
 <nav>
 	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-            <option halo="hgentle" icon="omu_qm" go="OpS_solo|S!tanding|Ap|SoloStandingThinking" text="^think" t0="1">
+            <option halo="hgentle" icon="omu_sticksidekneel" go="OpS_solo|S!quatting|Ap|SoloSquattingIdleMale" text="^squat" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
-        <page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
+        <page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
             <option halo="hgentle" icon="omu_qm" go="OpS_solo|S!tanding|Ap|SoloStandingThinking" text="^think" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+            <option halo="hgentle" icon="ome_a_unworn_ds" go="OpS_solo|S!tanding|Ap|HubBathingMale" text="^bathe" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
-	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+	<tab actor="1" icon="sfemale" text=""><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
-            <option halo="hgentle" icon="omu_dancegesture01" go="OpS_solo|S!tanding|Ap|SoloStandingIdleFemale" text="^accessFeminineIdles">
+            <option halo="hgentle" icon="omu_dancegesture01" go="OpS_solo|S!tanding|Ap|SoloStandingIdleFemale" text="^accessFemininePoses">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
