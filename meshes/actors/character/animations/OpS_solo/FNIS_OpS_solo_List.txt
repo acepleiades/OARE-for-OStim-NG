@@ -1,4 +1,7 @@
 b -Tn _Ap-SoloStandingIdleMale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_solo\Standing\Ap\SoloStandingIdleMale\_Ap-SoloStandingIdleMale_0.hkx
 b -Tn _Ap-SoloStandingThinking_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_solo\Standing\Ap\SoloStandingThinking\_Ap-SoloStandingThinking_0.hkx
+b -Tn _Ap-BatheInKneeDeepWater_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_solo\Standing\Ap\BatheInKneeDeepWater\_Ap-BatheInKneeDeepWater_0.hkx
+
+b -Tn _Ap-SoloSquattingIdleMale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_solo\Squatting\Ap\SoloSquattingIdleMale\_Ap-SoloSquattingIdleMale_0.hkx
 
 b -Tn _Ap-SoloStandingIdleFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_solo\Standing\Ap\SoloStandingIdleFemale\_Ap-SoloStandingIdleFemale_0.hkx
