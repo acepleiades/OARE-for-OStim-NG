@@ -1,0 +1,10 @@
+<scene id="OpS|Sta!Sta|Ap|ActionFemaleFlirt" actors="2" style="OScene">
+<info name="Action Female Flirt" animator="Ace"/>
+<anim id="_Ap-ActionFemaleFlirt" t="T" l="6" dest="OpS|Sta!Sta|Ap|Standing">
+</anim>
+<metadata tags="transition"/>
+<actors>
+	<actor position="0" penisAngle="6" feetOnGround="1" tags="standing"/>
+	<actor position="1" feetOnGround="1" tags="standing"/>
+</actors>
+</scene>

@@ -1,0 +1,13 @@
+<scene id="OpS|Sta!Sta|Ap|ActionFemaleKiss" actors="2" style="OScene">
+<info name="Action Female Kiss" animator="Ace"/>
+<anim id="_Ap-ActionFemaleKiss" t="T" l="5" dest="OpS|Sta!Sta|Ap|Standing">
+</anim>
+<metadata tags="transition"/>
+<actors>
+	<actor position="0" penisAngle="6" feetOnGround="1" tags="standing"/>
+	<actor position="1" feetOnGround="1" tags="standing"/>
+</actors>
+<actions>
+	<action type="kissing" actor="1" target="0"/>
+</actions>
+</scene>
