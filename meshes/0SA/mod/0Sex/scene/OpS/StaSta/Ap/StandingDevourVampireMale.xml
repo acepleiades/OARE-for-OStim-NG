@@ -1,6 +1,6 @@
 <scene id="OpS|Sta!Sta|Ap|StandingDevourVampireMale" actors="2" style="OScene">
 <info name="Standing" animator="Ace"/>
-<anim id="_Ho-StandingDevourVampireMale" t="L" l="2"/>
+<anim id="_Ho-Standing" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
         <page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
@@ -12,10 +12,19 @@
 			</option>
 		</page>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Em|GoToStandingHandHolding" text="^holdNsHand" t0="1">
+			<option halo="hgentle" icon="omu_hand" go="OpS|Sta!Sta|Em|GoToStandingHandHolding" text="^holdNsHand" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Ho|HeadCaress" text="^strokeNsHead" t0="1">
+			<option halo="hgentle" icon="omu_heart" go="OpS|Sta!Sta|Ho|HeadCaress" text="^strokeNsHead" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="omu_heart" go="OpS|Sta!Sta|Ap|ActionMaleCaressCheekStroke" text="^caressNsCheek" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Ap|ActionMaleCaressHug" text="^hugN" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="opowkiss_mf" go="OpS|Sta!Sta|Ap|ActionMaleKiss" text="^kissN" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
@@ -43,6 +52,23 @@
 			</option>
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|Sta!Sta|Ho|StandingGoToSitting" text="^sitDownWithN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+		<page icon="mheart"><hue n="hu" cmd="rg" a="0"/>
+            <option halo="hgentle" icon="omu_fire" go="OpS|Sta!Sta|Ap|ActionFemaleFlirt" text="^flirtWithN" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="omu_hand" go="OpS|Sta!Sta|Ap|ActionFemaleCaressHoldHands" text="^holdNsHand" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="omu_heart" go="OpS|Sta!Sta|Ap|ActionFemaleCaressCheekStroke" text="^caressNsCheek" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Ap|ActionFemaleCaressHug" text="^hugN" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="opowkiss_mf" go="OpS|Sta!Sta|Ap|ActionFemaleKiss" text="^kissN" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
         <page icon="mcuirass"><hue n="hu" cmd="rg" a="0"/>
