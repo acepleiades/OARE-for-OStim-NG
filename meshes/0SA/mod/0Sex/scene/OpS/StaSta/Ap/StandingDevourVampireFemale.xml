@@ -53,9 +53,6 @@
             <option halo="hgentle" icon="omu_fire" go="OpS|Sta!Sta|Ap|ActionFemaleFlirt" text="^flirtWithN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="omu_hand" go="OpS|Sta!Sta|Ap|ActionFemaleCaressHoldHands" text="^holdNsHand" t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
 			<option halo="hgentle" icon="omu_heart" go="OpS|Sta!Sta|Ap|ActionFemaleCaressCheekStroke" text="^caressNsCheek" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
