@@ -9,6 +9,12 @@ b -a,Tn _Ap-StandingUndressingFemaleBottom_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\S
 b -a,Tn _Ap-StandingUndressingFemaleShoes_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleShoes\_Ap-StandingUndressingFemaleShoes_0.hkx
 b -a,Tn _Ap-StandingUndressingFemaleShoes_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleShoes\_Ap-StandingUndressingFemaleShoes_1.hkx
 
+b -a,Tn _Ap-FemaleKneelingUndressMaleBottom_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\FemaleKneelingUndressMaleBottom\_Ap-FemaleKneelingUndressMaleBottom_0.hkx
+b -a,Tn _Ap-FemaleKneelingUndressMaleBottom_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\FemaleKneelingUndressMaleBottom\_Ap-FemaleKneelingUndressMaleBottom_1.hkx
+
+b -a,Tn _Ap-FemaleSquattingUndressMaleBottom_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\Ap\FemaleSquattingUndressMaleBottom\_Ap-FemaleSquattingUndressMaleBottom_0.hkx
+b -a,Tn _Ap-FemaleSquattingUndressMaleBottom_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\Ap\FemaleSquattingUndressMaleBottom\_Ap-FemaleSquattingUndressMaleBottom_1.hkx
+
 b -a,Tn _BoJ-AceStandingBoobjob_MaleClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BoJ\AceStandingBoobjob\_BoJ-AceStandingBoobjob_MaleClimax_0.hkx
 b -a,Tn _BoJ-AceStandingBoobjob_MaleClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BoJ\AceStandingBoobjob\_BoJ-AceStandingBoobjob_MaleClimax_1.hkx
 
