@@ -1229,6 +1229,10 @@
 				<hkcstring>_Ap-StandingUndressingFemaleBottom_1</hkcstring>
 				<hkcstring>_Ap-StandingUndressingFemaleShoes_0</hkcstring>
 				<hkcstring>_Ap-StandingUndressingFemaleShoes_1</hkcstring>
+				<hkcstring>_Ap-FemaleKneelingUndressMaleBottom_0</hkcstring>
+				<hkcstring>_Ap-FemaleKneelingUndressMaleBottom_1</hkcstring>
+				<hkcstring>_Ap-FemaleSquattingUndressMaleBottom_0</hkcstring>
+				<hkcstring>_Ap-FemaleSquattingUndressMaleBottom_1</hkcstring>
 				<hkcstring>_BoJ-AceStandingBoobjob_MaleClimax_0</hkcstring>
 				<hkcstring>_BoJ-AceStandingBoobjob_MaleClimax_1</hkcstring>
 				<hkcstring>_BJ-AceHandjobPlusLicking_MaleClimax_0</hkcstring>

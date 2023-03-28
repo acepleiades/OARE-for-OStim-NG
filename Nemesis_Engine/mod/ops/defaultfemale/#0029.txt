@@ -1,7 +1,7 @@
 		<hkobject name="#0029" class="hkbCharacterStringData" signature="0x655b42bc">
 			<hkparam name="deformableSkinNames" numelements="0"></hkparam>
 			<hkparam name="rigidSkinNames" numelements="0"></hkparam>
-			<hkparam name="animationNames" numelements="1676">
+			<hkparam name="animationNames" numelements="1680">
 				<hkcstring>Animations\1HM_1stP_Run.hkx</hkcstring>
 				<hkcstring>Animations\1hm_1stP_Walk.hkx</hkcstring>
 				<hkcstring>Animations\1HM_AttackForwardSprint.hkx</hkcstring>
@@ -1669,6 +1669,10 @@
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleBottom\_Ap-StandingUndressingFemaleBottom_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleShoes\_Ap-StandingUndressingFemaleShoes_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\StandingUndressingFemaleShoes\_Ap-StandingUndressingFemaleShoes_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\FemaleKneelingUndressMaleBottom\_Ap-FemaleKneelingUndressMaleBottom_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\FemaleKneelingUndressMaleBottom\_Ap-FemaleKneelingUndressMaleBottom_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\Ap\FemaleSquattingUndressMaleBottom\_Ap-FemaleSquattingUndressMaleBottom_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\Ap\FemaleSquattingUndressMaleBottom\_Ap-FemaleSquattingUndressMaleBottom_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BoJ\AceStandingBoobjob\_BoJ-AceStandingBoobjob_MaleClimax_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\BoJ\AceStandingBoobjob\_BoJ-AceStandingBoobjob_MaleClimax_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\BJ\AceHandjobPlusLicking\_BJ-AceHandjobPlusLicking_MaleClimax_0.hkx</hkcstring>
