@@ -3,7 +3,7 @@
 <anim id="_Ap-FemaleSquattingUndressMaleBottom" t="T" l="7" dest="OpS|Sta!Squ|Ap|MaleStandingFemaleSquatting"/>
 <metadata tags="transition,undressing"/>
 <actors>
-	<actor position="0" penisAngle="6" feetOnGround="1" tags="standing" lookUp="-50"/>
+	<actor position="0" penisAngle="8" feetOnGround="1" tags="standing" lookUp="-50"/>
 	<actor position="1" feetOnGround="1" tags="standing"/>
 </actors>
 </scene>

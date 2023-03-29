@@ -50,8 +50,8 @@
 			<option halo="hgentle" icon="opowkiss_mf" go="OpS|LyS!LyS|Ho|SpooningKissing" text="^kissN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="osx_layside_f" go="OpS|LyB!LyS|Em|LyingCuddling" text="^cuddleWithN" t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="osx_layside_f" go="OpS|LyB!LyS|Em|LyingCuddling" text="^cuddleWithN" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
             <option halo="hgentle" icon="opowkiss_mf" go="OpS|LyS!LyS|Em|LyingCuddleKiss" text="^kissWhileCuddlingWithN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
