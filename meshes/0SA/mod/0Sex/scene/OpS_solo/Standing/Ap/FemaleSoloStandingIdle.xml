@@ -3,6 +3,11 @@
 <anim id="_Ap-SoloStandingIdleFemale" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
+            <option halo="hgentle" icon="osx_layside_f" go="OpS_solo|L!ying|Ap|FemaleSoloLyingIdle" text="^lieDown" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
         <page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
             <option halo="hgentle" icon="omu_lib" go="OpS_solo|S!tanding|Ap|FemaleHubSelfPleasure" text="^accessSelfPleasureHub" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
@@ -10,7 +15,7 @@
 		</page>
 	</tab>
 	<tab actor="1" icon="smale" text=""><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
+		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
             <option halo="hgentle" icon="omu_lib" go="OpS_solo|S!tanding|Ap|MaleSoloStandingIdle" text="^accessMasculinePoses">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>

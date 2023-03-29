@@ -5,7 +5,10 @@
 <nav>
 	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-            <option halo="hgentle" icon="omu_sticksidekneel" go="OpS_solo|S!quatting|Ap|MaleSoloSquattingIdle" text="^squat" t0="1">
+            <option halo="hgentle" icon="osx_kf_f" go="OpS_solo|S!quatting|Ap|MaleSoloSquattingIdle" text="^squat" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+            <option halo="hgentle" icon="osx_layside_f" go="OpS_solo|L!ying|Ap|MaleSoloLyingIdle" text="^lieDown" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>

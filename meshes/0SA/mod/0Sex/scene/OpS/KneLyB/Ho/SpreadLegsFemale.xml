@@ -8,7 +8,7 @@
 			<option halo="hgentle" icon="osx_layside_f" go="OpS|Kne!LyS|Ap|FemaleLyingOnSide" text="^turnNToTheSide" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obododn_f" go="OpS|Kne!AFo|Ap|FemaleAllFours" text="^turnNAroundAndBentOver" t0="1">
+			<option halo="hgentle" icon="osx_bodo_f" go="OpS|Kne!AFo|Ap|FemaleAllFours" text="^turnNAroundAndBentOver" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="obigx" go="OpS|Sit!Sit|Ap|SittingMaleApproach" text="^return" t0="1">
@@ -26,7 +26,7 @@
 			<option halo="hgentle" icon="osx_layside_f" go="OpS|Kne!LyS|Ap|FemaleLyingOnSide" text="^turnToTheSide" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obododn_f" go="OpS|Kne!AFo|Ap|FemaleAllFours" text="^turnAroundAndBendOver" t0="0">
+			<option halo="hgentle" icon="osx_bodo_f" go="OpS|Kne!AFo|Ap|FemaleAllFours" text="^turnAroundAndBendOver" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="obigx" go="OpS|Sit!Sit|Ap|SittingMaleApproach" text="^return" t0="0">
