@@ -3,6 +3,7 @@ b -Tn _Ap-SoloStandingThinking_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_solo\Standing
 b -Tn _Ap-BatheInKneeDeepWater_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_solo\Standing\Ap\BatheInKneeDeepWater\_Ap-BatheInKneeDeepWater_0.hkx
 
 b -Tn _Ap-SoloSquattingIdleMale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_solo\Squatting\Ap\SoloSquattingIdleMale\_Ap-SoloSquattingIdleMale_0.hkx
+b -Tn _Ap-PatchesSquat_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_solo\Squatting\Ap\PatchesSquat\_Ap-PatchesSquat_0.hkx
 
 b -Tn _Ap-MaleSoloLyingIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_solo\Lying\Ap\MaleSoloLyingIdle\_Ap-MaleSoloLyingIdle_0.hkx
 
