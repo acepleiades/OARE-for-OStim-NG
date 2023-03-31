@@ -1,0 +1,9 @@
+<scene id="OpS|Sta!Sta|Ap|GoToMaleStandingFemaleSquatting" actors="2" style="OScene">
+<info name="Transition into Standing Holding" animator="Ace"/>
+<anim id="_Ap-GoToMaleStandingFemaleSquatting" t="T" l="2" dest="OpS|Sta!Squ|Ap|MaleStandingFemaleSquatting"/>
+<metadata tags="transition"/>
+<actors>
+	<actor position="0" penisAngle="7" feetOnGround="1" tags="standing" lookUp="-25"/>
+	<actor position="1" feetOnGround="1" tags="squatting" lookUp="25"/>
+</actors>
+</scene>
