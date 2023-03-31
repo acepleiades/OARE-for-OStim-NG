@@ -6,5 +6,9 @@ b -Tn _Ap-SoloSquattingIdleMale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_solo\Squatti
 b -Tn _Ap-PatchesSquat_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_solo\Squatting\Ap\PatchesSquat\_Ap-PatchesSquat_0.hkx
 
 b -Tn _Ap-MaleSoloLyingIdle_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_solo\Lying\Ap\MaleSoloLyingIdle\_Ap-MaleSoloLyingIdle_0.hkx
+b -Tn _Ap-MaleSleepingBack_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_solo\Lying\Ap\MaleSleeping\_Ap-MaleSleepingBack_0.hkx
+b -Tn _Ap-MaleSleepingSide_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_solo\Lying\Ap\MaleSleeping\_Ap-MaleSleepingSide_0.hkx
+b -Tn _Ap-MaleSleepingFront_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_solo\Lying\Ap\MaleSleeping\_Ap-MaleSleepingFront_0.hkx
+
 
 b -Tn _Ap-SoloStandingIdleFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_solo\Standing\Ap\SoloStandingIdleFemale\_Ap-SoloStandingIdleFemale_0.hkx

@@ -9,7 +9,7 @@
 			</option>
 		</page>
         <page icon="mtriex"><hue n="hu" cmd="rg" a="1"/>
-            <option halo="hgentle" icon="osx_kf_f" go="OpS_solo|S!quatting|Ap|PatchesSquat" text="^spreadYourLegsApart">
+            <option halo="hgentle" icon="omu_sticksidekneel" go="OpS_solo|S!quatting|Ap|PatchesSquat" text="^widenYourStance">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>

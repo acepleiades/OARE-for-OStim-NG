@@ -36,7 +36,7 @@
 	</tab>
 	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
-            <option halo="hgentle" icon="osqtlbbdn_f" go="OpS|Sta!Squ|Ap|MaleStandingFemaleSquatting" text="^squat">
+            <option halo="hgentle" icon="osqtlbbdn_f" go="OpS|Sta!Sta|Ap|GoToMaleStandingFemaleSquatting" text="^squat">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
             <option halo="hgentle" icon="okalbdn_f" go="OpS|Sta!Kne|Ap|MaleStandingFemaleKneeling" text="^kneel">
