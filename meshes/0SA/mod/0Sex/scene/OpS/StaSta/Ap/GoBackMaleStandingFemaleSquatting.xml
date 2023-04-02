@@ -1,0 +1,9 @@
+<scene id="OpS|Sta!Sta|Ap|GoBackMaleStandingFemaleSquatting" actors="2" style="OScene">
+<info name="Transition back from Standing Holding" animator="Ace"/>
+<anim id="_Ap-GoBackMaleStandingFemaleSquatting" t="T" l="2" dest="OpS|Sta!Sta|Ap|Standing"/>
+<metadata tags="transition"/>
+<actors>
+	<actor position="0" penisAngle="7" feetOnGround="1" tags="standing" lookUp="-25"/>
+	<actor position="1" feetOnGround="1" tags="squatting" lookUp="25"/>
+</actors>
+</scene>
