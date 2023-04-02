@@ -6,10 +6,10 @@ b -a,Tn _Ho-GoBackStandingHolding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\
 b -a,Tn _Ho-GoBackStandingHolding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-GoBackStandingHolding_1.hkx
 b -a,Tn _Ho-StandingGoToSitting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-StandingGoToSitting_0.hkx
 b -a,Tn _Ho-StandingGoToSitting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\Standing\_Ho-StandingGoToSitting_1.hkx
-
 b -a,Tn _Ap-GoToMaleStandingFemaleSquatting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\Standing\_Ap-GoToMaleStandingFemaleSquatting_0.hkx
 b -a,Tn _Ap-GoToMaleStandingFemaleSquatting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\Standing\_Ap-GoToMaleStandingFemaleSquatting_1.hkx
-
+b -a,Tn _Ap-GoBackMaleStandingFemaleSquatting_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\Standing\_Ap-GoBackMaleStandingFemaleSquatting_0.hkx
+b -a,Tn _Ap-GoBackMaleStandingFemaleSquatting_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ap\Standing\_Ap-GoBackMaleStandingFemaleSquatting_1.hkx
 b -Tn _Cr-StandingGropingBreasts_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingGropingBreasts\_Cr-StandingGropingBreasts_S1_0.hkx
 b -Tn _Cr-StandingGropingBreasts_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingGropingBreasts\_Cr-StandingGropingBreasts_S1_1.hkx
 b -Tn _Cr-StandingGropingBreasts_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Cr\StandingGropingBreasts\_Cr-StandingGropingBreasts_S2_0.hkx
