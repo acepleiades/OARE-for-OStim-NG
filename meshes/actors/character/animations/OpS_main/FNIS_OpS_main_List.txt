@@ -83,6 +83,8 @@ b -a,Tn _Ho-GoBackStandingHoldingFromBehind_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\
 b -a,Tn _Ho-GoBackStandingHoldingFromBehind_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Ho\StandingHolding\_Ho-GoBackStandingHoldingFromBehind_1.hkx
 b -Tn _Em-StandingHug_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\StandingHug\_Em-StandingHug_0.hkx
 b -Tn _Em-StandingHug_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\StandingHug\_Em-StandingHug_1.hkx
+b -Tn _Em-StandingEmbraceCute_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\StandingEmbraceCute\_Em-StandingEmbraceCute_0.hkx
+b -Tn _Em-StandingEmbraceCute_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\StandingEmbraceCute\_Em-StandingEmbraceCute_1.hkx
 b -Tn _Em-GentleEmbrace_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\GentleEmbrace\_Em-GentleEmbrace_0.hkx
 b -Tn _Em-GentleEmbrace_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\GentleEmbrace\_Em-GentleEmbrace_1.hkx
 b -Tn _Em-HoldingChin_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSta\Em\HoldingChin\_Em-HoldingChin_0.hkx
