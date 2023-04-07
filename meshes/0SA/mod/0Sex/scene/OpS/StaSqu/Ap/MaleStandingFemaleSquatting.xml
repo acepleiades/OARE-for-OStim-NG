@@ -2,7 +2,13 @@
 <info name="Male Standing, Female Squatting" animator="Ace"/>
 <anim id="_Ap-MaleStandingFemaleSquatting" t="L" l="2"/>
 <nav>
-    <tab icon="smale" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+    <tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
+		<page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="omu_lipspucker" go="OpS|Sta!Squ|BJ|SquattingMouthFuck" text="^fuckNsMouth" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
 	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
             <option halo="hgentle" icon="okalbdn_f" go="OpS|Sta!Kne|Ap|MaleStandingFemaleKneeling" text="^kneel">

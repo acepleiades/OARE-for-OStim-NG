@@ -349,6 +349,14 @@ b -Tn _BJ-SquattingFellatioHoldingHead_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\St
 b -Tn _BJ-SquattingFellatioHoldingHead_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingFellatioHoldingHead\_BJ-SquattingFellatioHoldingHead_S3_1.hkx
 b -Tn _BJ-SquattingFellatioHoldingHead_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingFellatioHoldingHead\_BJ-SquattingFellatioHoldingHead_S4_0.hkx
 b -Tn _BJ-SquattingFellatioHoldingHead_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingFellatioHoldingHead\_BJ-SquattingFellatioHoldingHead_S4_1.hkx
+b -Tn _BJ-SquattingMouthFuck_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingMouthFuck\_BJ-SquattingMouthFuck_S1_0.hkx
+b -Tn _BJ-SquattingMouthFuck_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingMouthFuck\_BJ-SquattingMouthFuck_S1_1.hkx
+b -Tn _BJ-SquattingMouthFuck_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingMouthFuck\_BJ-SquattingMouthFuck_S2_0.hkx
+b -Tn _BJ-SquattingMouthFuck_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingMouthFuck\_BJ-SquattingMouthFuck_S2_1.hkx
+b -Tn _BJ-SquattingMouthFuck_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingMouthFuck\_BJ-SquattingMouthFuck_S3_0.hkx
+b -Tn _BJ-SquattingMouthFuck_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingMouthFuck\_BJ-SquattingMouthFuck_S3_1.hkx
+b -Tn _BJ-SquattingMouthFuck_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingMouthFuck\_BJ-SquattingMouthFuck_S4_0.hkx
+b -Tn _BJ-SquattingMouthFuck_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaSqu\BJ\SquattingMouthFuck\_BJ-SquattingMouthFuck_S4_1.hkx
 
 b -Tn _Ap-MaleStandingFemaleKneeling_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\_Ap-MaleStandingFemaleKneeling_0.hkx
 b -Tn _Ap-MaleStandingFemaleKneeling_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\StaKne\Ap\MaleStandingFemaleKneeling\_Ap-MaleStandingFemaleKneeling_1.hkx
