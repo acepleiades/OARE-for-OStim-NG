@@ -1,5 +1,5 @@
 
-# OpenSex   [![Badge License]][License]   [![Badge Discord]][Discord]
+# Open Animations - Romance & Erotica   [![Badge License]][License]   [![Badge Discord]][Discord]
 
 <br>
 
