@@ -125,6 +125,8 @@ b -Tn _Ap-TableIdleFacingEachOther_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture
 b -Tn _Ap-TableIdleFacingEachOther_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Ap\TableIdleFacingEachOther\_Ap-TableIdleFacingEachOther_1.hkx
 b -Tn _Ap-TableIdleSittingFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Ap\TableIdleSittingFemale\_Ap-TableIdleSittingFemale_0.hkx
 b -Tn _Ap-TableIdleSittingFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Ap\TableIdleSittingFemale\_Ap-TableIdleSittingFemale_1.hkx
+b -Tn _Em-TableKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Em\TableKiss\_Em-TableKiss_0.hkx
+b -Tn _Em-TableKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Em\TableKiss\_Em-TableKiss_1.hkx
 b -Tn _BJ-TableLieBackOral_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\BJ\TableLieBackOral\_BJ-TableLieBackOral_S1_0.hkx
 b -Tn _BJ-TableLieBackOral_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\BJ\TableLieBackOral\_BJ-TableLieBackOral_S1_1.hkx
 b -Tn _BJ-TableLieBackOral_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\BJ\TableLieBackOral\_BJ-TableLieBackOral_S2_0.hkx
