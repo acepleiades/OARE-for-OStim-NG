@@ -14,7 +14,7 @@
 
 <br>
 
-[*» Follow the **OStim** installation guide.*][OStim]
+[*» Follow the **OStim NG** installation guide.*][OStim NG]
 
 <br>
 
@@ -43,4 +43,4 @@
 
 <!----------------------------------------------------------------------------->
 
-[Ostim]: https://www.nexusmods.com/skyrimspecialedition/articles/4550
+[OStim NG]: https://www.nexusmods.com/skyrimspecialedition/articles/4550
