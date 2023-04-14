@@ -37,7 +37,7 @@
 		</page>
 	</tab>
 </nav>
-<metadata tags="idle,intro" furniture="table"/>
+<metadata tags="idle" furniture="table"/>
 <actors>
     <actor position="0" penisAngle="6" feetOnGround="1" tags="standing"/>
 	<actor position="1" feetOnGround="1" tags="standing"/>
