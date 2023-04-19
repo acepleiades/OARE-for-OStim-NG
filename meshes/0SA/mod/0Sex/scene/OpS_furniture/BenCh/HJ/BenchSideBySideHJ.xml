@@ -1,0 +1,33 @@
+<scene id="OpS_furniture|Ben!Ch|HJ|BenchSideBySideHJ" actors="2" style="OScene">
+<info name="Bench Side By Side HJ" animator="Ace"/>
+<anim id="_HJ-BenchSideBySideHJ_S1" t="L" l="2"/>
+<speed a="1" min="0" max="3" name="thrusts">
+	<sp mtx="^strokesPerSec" qnt=".5">
+		<anim id="_HJ-BenchSideBySideHJ_S1" t="L" l="2" i0="0" i1="0"/></sp>
+	<sp mtx="^strokesPerSec" qnt="1">
+		<anim id="_HJ-BenchSideBySideHJ_S2" t="L" l="2" i0="1" i1="1"/></sp>
+	<sp mtx="^strokesPerSec" qnt="2">
+		<anim id="_HJ-BenchSideBySideHJ_S3" t="L" l="2" i0="2" i1="2"/></sp>
+	<sp mtx="^strokesPerSec" qnt="3">
+		<anim id="_HJ-BenchSideBySideHJ_S4" t="L" l="2" i0="3" i1="3"/></sp>
+</speed>
+<nav>
+	<tab icon="smale" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
+		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="obigx" go="OpS_furniture|Ben!Ch|Ap|BenchBothSittingFaceEachother" text="^return" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
+</nav>
+<actors>
+	<actor position="0" penisAngle="6" feetOnGround="1" tags="sitting" lookUp="-100"/>
+	<actor position="1" feetOnGround="1" tags="sitting" lookUp="-75" lookLeft="60" expressionAction="1"/>
+</actors>
+<actions>
+	<action type="handjob" actor="1" target="0"/>
+	<action type="teasing" actor="1" target="0"/>
+</actions>
+</scene>

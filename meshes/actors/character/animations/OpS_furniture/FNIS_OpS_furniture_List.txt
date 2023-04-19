@@ -22,6 +22,14 @@ b -Tn _Cr-BenchGropingBreast_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\Be
 b -Tn _Cr-BenchGropingBreast_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Cr\BenchGropingBreast\_Cr-BenchGropingBreast_S1_1.hkx
 b -Tn _Cr-BenchGropingBreast_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Cr\BenchGropingBreast\_Cr-BenchGropingBreast_S4_0.hkx
 b -Tn _Cr-BenchGropingBreast_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\Cr\BenchGropingBreast\_Cr-BenchGropingBreast_S1_1.hkx
+b -Tn _HJ-BenchSideBySideHJ_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\HJ\BenchSideBySideHJ\_HJ-BenchSideBySideHJ_S1_0.hkx
+b -Tn _HJ-BenchSideBySideHJ_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\HJ\BenchSideBySideHJ\_HJ-BenchSideBySideHJ_S1_1.hkx
+b -Tn _HJ-BenchSideBySideHJ_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\HJ\BenchSideBySideHJ\_HJ-BenchSideBySideHJ_S2_0.hkx
+b -Tn _HJ-BenchSideBySideHJ_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\HJ\BenchSideBySideHJ\_HJ-BenchSideBySideHJ_S2_1.hkx
+b -Tn _HJ-BenchSideBySideHJ_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\HJ\BenchSideBySideHJ\_HJ-BenchSideBySideHJ_S3_0.hkx
+b -Tn _HJ-BenchSideBySideHJ_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\HJ\BenchSideBySideHJ\_HJ-BenchSideBySideHJ_S3_1.hkx
+b -Tn _HJ-BenchSideBySideHJ_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\HJ\BenchSideBySideHJ\_HJ-BenchSideBySideHJ_S4_0.hkx
+b -Tn _HJ-BenchSideBySideHJ_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\HJ\BenchSideBySideHJ\_HJ-BenchSideBySideHJ_S4_1.hkx
 b -Tn _BJ-BenchSittingBlowjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\BJ\BenchSittingBlowjob\_BJ-BenchSittingBlowjob_S1_0.hkx
 b -Tn _BJ-BenchSittingBlowjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\BJ\BenchSittingBlowjob\_BJ-BenchSittingBlowjob_S1_1.hkx
 b -Tn _BJ-BenchSittingBlowjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\BenCh\BJ\BenchSittingBlowjob\_BJ-BenchSittingBlowjob_S2_0.hkx
