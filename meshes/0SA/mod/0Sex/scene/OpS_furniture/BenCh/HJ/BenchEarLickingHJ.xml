@@ -1,0 +1,33 @@
+<scene id="OpS_furniture|Ben!Ch|HJ|BenchEarLickingHJ" actors="2" style="OScene">
+<info name="Bench Ear Licking HJ" animator="Ace"/>
+<anim id="_HJ-BenchEarLickingHJ_S1" t="L" l="2"/>
+<speed a="1" min="0" max="3" name="thrusts">
+	<sp mtx="^strokesPerSec" qnt=".5">
+		<anim id="_HJ-BenchEarLickingHJ_S1" t="L" l="2" i0="0" i1="0"/></sp>
+	<sp mtx="^strokesPerSec" qnt="1">
+		<anim id="_HJ-BenchEarLickingHJ_S2" t="L" l="2" i0="1" i1="1"/></sp>
+	<sp mtx="^strokesPerSec" qnt="2">
+		<anim id="_HJ-BenchEarLickingHJ_S3" t="L" l="2" i0="2" i1="2"/></sp>
+	<sp mtx="^strokesPerSec" qnt="3">
+		<anim id="_HJ-BenchEarLickingHJ_S4" t="L" l="2" i0="3" i1="3"/></sp>
+</speed>
+<nav>
+	<tab icon="smale" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
+		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="obigx" go="OpS_furniture|Ben!Ch|HJ|BenchSideBySideHJ" text="^return" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
+</nav>
+<actors>
+	<actor position="0" penisAngle="6" feetOnGround="1" tags="sitting" lookUp="-100" lookLeft="10" expressionAction="1"/>
+	<actor position="1" feetOnGround="1" tags="sitting" lookUp="-100" expressionAction="1"/>
+</actors>
+<actions>
+	<action type="handjob" actor="1" target="0"/>
+	<action type="lickingear" actor="1" target="0"/>
+</actions>
+</scene>
