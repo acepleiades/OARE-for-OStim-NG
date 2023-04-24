@@ -147,6 +147,14 @@ b -Tn _Ho-TableIdleSittingFemaleHolding_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furn
 b -Tn _Ho-TableIdleSittingFemaleHolding_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Ho\TableIdleSittingFemaleHolding\_Ho-TableIdleSittingFemaleHolding_1.hkx
 b -Tn _Em-TableKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Em\TableKiss\_Em-TableKiss_0.hkx
 b -Tn _Em-TableKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Em\TableKiss\_Em-TableKiss_1.hkx
+b -Tn _Pf2-TableSittingFingering_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Pf2\TableSittingFingering\_Pf2-TableSittingFingering_S1_0.hkx
+b -Tn _Pf2-TableSittingFingering_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Pf2\TableSittingFingering\_Pf2-TableSittingFingering_S1_1.hkx
+b -Tn _Pf2-TableSittingFingering_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Pf2\TableSittingFingering\_Pf2-TableSittingFingering_S2_0.hkx
+b -Tn _Pf2-TableSittingFingering_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Pf2\TableSittingFingering\_Pf2-TableSittingFingering_S2_1.hkx
+b -Tn _Pf2-TableSittingFingering_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Pf2\TableSittingFingering\_Pf2-TableSittingFingering_S3_0.hkx
+b -Tn _Pf2-TableSittingFingering_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Pf2\TableSittingFingering\_Pf2-TableSittingFingering_S3_1.hkx
+b -Tn _Pf2-TableSittingFingering_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Pf2\TableSittingFingering\_Pf2-TableSittingFingering_S4_0.hkx
+b -Tn _Pf2-TableSittingFingering_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\Pf2\TableSittingFingering\_Pf2-TableSittingFingering_S4_1.hkx
 b -Tn _BJ-TableLieBackOral_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\BJ\TableLieBackOral\_BJ-TableLieBackOral_S1_0.hkx
 b -Tn _BJ-TableLieBackOral_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\BJ\TableLieBackOral\_BJ-TableLieBackOral_S1_1.hkx
 b -Tn _BJ-TableLieBackOral_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS_furniture\TabLe\BJ\TableLieBackOral\_BJ-TableLieBackOral_S2_0.hkx
