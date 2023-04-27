@@ -91,18 +91,18 @@
 			</option>
 		</page>
 	</tab>
+    <tab icon="sobs" text="^addonHub"><hue n="hu" cmd="vg" a="0"/><bnhue cmd="vn" a="0"/>
+		<page icon="mtri"><hue n="hu" cmd="vg" a="0"/>
+			<option halo="h_plus_rbo" icon="omu_plugins" go="OpS_addon|Sta!Sta|Ap|AddonHub" text="^accessTheAddonHub" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
 	<tab icon="splus" text="^invite" empty="2"><hue n="hu" cmd="vg" a="0"/><bnhue cmd="vn" a="0"/>
 		<page icon="mgensignf"><hue n="hu" cmd="vg" a="0"/>
 			<option halo="h_plus_rbo" icon="omu_stickfigplus" go="$InviteScan" text="^inviteSomeoneToJoinFemale" t0="0">
 			<ihue n="hu" cmd="vn" a="0"/>
 			<cmd dest="OpS|3P!Standing|Ap|3PStandingIdle" rolename="^femaleVisitant" sceneName="^joinFFM" npc="npc"/>
-			</option>
-		</page>
-	</tab>
-    <tab icon="sobs" text="^addonHub"><hue n="hu" cmd="vg" a="0"/><bnhue cmd="vn" a="0"/>
-		<page icon="mtri"><hue n="hu" cmd="vg" a="0"/>
-			<option halo="h_plus_rbo" icon="omu_plugins" go="OpS_addon|Sta!Sta|Ap|AddonHub" text="^accessTheAddonHub" t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
