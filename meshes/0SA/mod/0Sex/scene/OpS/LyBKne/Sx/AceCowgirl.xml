@@ -16,6 +16,9 @@
 	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
+            <option halo="hgentle" icon="otiptoedn_f" go="OpS|LyB!Sit|Sx|Cowgirl" text="^pressAgainstN" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
             <option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|LyB!Kne|Sx|SquattingCowgirl" text="^varySexSquattingCowgirl">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
