@@ -19,7 +19,7 @@
 			<option halo="hgentle" icon="omu_hand" go="OpS|LyB!Sit|Sx|CowgirlHandholding" text="^holdNsHand" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="obigx" go="OpS|LyB!Kne|Sx|AceCowgirl" text="^return">
+			<option halo="hgentle" icon="obigx" go="OpS|LyB!Kne|Sx|CowgirlKneesOnGround" text="^return">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>

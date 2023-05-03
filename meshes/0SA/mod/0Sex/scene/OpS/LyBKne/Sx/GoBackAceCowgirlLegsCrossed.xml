@@ -1,6 +1,6 @@
 <scene id="OpS|LyB!Kne|Sx|GoBackAceCowgirlLegsCrossed" actors="2" style="OScene">
 <info name="Transition into Cowgirl Legs Crossed" animator="Ace"/>
-<anim id="_Sx-GoBackAceCowgirlLegsCrossed" t="T" l="2" dest="OpS|LyB!Kne|Sx|AceCowgirl"/>
+<anim id="_Sx-GoBackAceCowgirlLegsCrossed" t="T" l="2" dest="OpS|LyB!Kne|Sx|CowgirlKneesOnGround"/>
 <metadata tags="cowgirl,transition"/>
 <actors>
 	<actor position="0" penisAngle="0" feetOnGround="0" tags="lyingback" lookUp="25"/>

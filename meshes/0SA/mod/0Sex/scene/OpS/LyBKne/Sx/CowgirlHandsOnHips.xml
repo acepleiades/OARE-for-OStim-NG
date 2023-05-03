@@ -24,7 +24,7 @@
 			<option halo="hgentle" icon="opowemb_mf" go="OpS|LyB!Kne|Sx|CowgirlHandOnBreast" text="^grabNsBreast" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="obigx" go="OpS|LyB!Kne|Sx|AceCowgirl" text="^return" t0="1">
+            <option halo="hgentle" icon="obigx" go="OpS|LyB!Kne|Sx|CowgirlKneesOnGround" text="^return" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>

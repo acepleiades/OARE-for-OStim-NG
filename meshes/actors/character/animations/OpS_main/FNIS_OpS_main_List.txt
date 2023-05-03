@@ -587,6 +587,14 @@ b -Tn _HJ-AceLyingHandjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\AceLy
 b -Tn _HJ-AceLyingHandjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_S4_1.hkx
 b -Tn _Ho-AceLyingHandjob_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceLyingHandjob_AfterClimax\_Ho-AceLyingHandjob_AfterClimax_0.hkx
 b -Tn _Ho-AceLyingHandjob_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Ho\AceLyingHandjob_AfterClimax\_Ho-AceLyingHandjob_AfterClimax_1.hkx
+b -Tn _Sx-CowgirlKneesOnGround_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\Cowgirl\_Sx-Cowgirl_S1_0.hkx
+b -Tn _Sx-CowgirlKneesOnGround_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlKneesOnGround\_Sx-CowgirlKneesOnGround_S1_1.hkx
+b -Tn _Sx-CowgirlKneesOnGround_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\Cowgirl\_Sx-Cowgirl_S2_0.hkx
+b -Tn _Sx-CowgirlKneesOnGround_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlKneesOnGround\_Sx-CowgirlKneesOnGround_S2_1.hkx
+b -Tn _Sx-CowgirlKneesOnGround_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\Cowgirl\_Sx-Cowgirl_S3_0.hkx
+b -Tn _Sx-CowgirlKneesOnGround_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlKneesOnGround\_Sx-CowgirlKneesOnGround_S3_1.hkx
+b -Tn _Sx-CowgirlKneesOnGround_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\Cowgirl\_Sx-Cowgirl_S4_0.hkx
+b -Tn _Sx-CowgirlKneesOnGround_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlKneesOnGround\_Sx-CowgirlKneesOnGround_S4_1.hkx
 b -Tn _Sx-Cowgirl_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\Cowgirl\_Sx-Cowgirl_S1_0.hkx
 b -Tn _Sx-Cowgirl_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\Cowgirl\_Sx-Cowgirl_S1_1.hkx
 b -Tn _Sx-Cowgirl_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\Cowgirl\_Sx-Cowgirl_S2_0.hkx
