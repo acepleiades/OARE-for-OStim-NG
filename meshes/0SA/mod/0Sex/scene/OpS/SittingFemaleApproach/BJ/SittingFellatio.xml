@@ -22,6 +22,9 @@
     <tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
         <page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="osx_layside_f" go="OpS|Sitting!FemaleApproach|BJ|SittingFellatioLyingFemale" text="^lieDown">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 			<option halo="hgentle" icon="obigx" go="OpS|Sit!Kne|Ho|SittingFemaleApproach" text="^return">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
@@ -30,7 +33,7 @@
 </nav>
 <autonav/>
 <actors>
-	<actor position="0" penisAngle="-3" feetOnGround="0" tags="sitting" lookUp="-75"/>
+	<actor position="0" penisAngle="-3" feetOnGround="0" tags="sitting" lookUp="-100"/>
 	<actor position="1" feetOnGround="0" tags="kneeling" lookUp="-100"/>
 </actors>
 <actions>

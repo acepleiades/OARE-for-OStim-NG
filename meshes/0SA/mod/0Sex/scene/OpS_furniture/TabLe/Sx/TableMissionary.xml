@@ -22,6 +22,8 @@
 	</tab>
 	<tab icon="sfemale" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
 </nav>
+<motif drive="intimate" theme="G_SexPhysRear"/>
+<motif drive="intimate" theme="R_SexPhysRear"/>
 <metadata tags="missionary" furniture="table"/>
 <actors>
 	<actor position="0" penisAngle="-1" feetOnGround="1" tags="standing"/>
