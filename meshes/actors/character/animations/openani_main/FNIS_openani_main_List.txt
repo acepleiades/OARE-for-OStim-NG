@@ -486,6 +486,38 @@ b -Tn _Ho-SittingFemaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\Si
 b -Tn _Ho-SittingFemaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproach\_Ho-SittingFemaleApproach_1.hkx
 b -Tn _Ho-SittingFemaleApproachKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproachKiss\_Ho-SittingFemaleApproachKiss_0.hkx
 b -Tn _Ho-SittingFemaleApproachKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitKne\Ho\SittingFemaleApproachKiss\_Ho-SittingFemaleApproachKiss_1.hkx
+b -Tn _BJ-SittingFellatio_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatio\_BJ-SittingFellatio_S1_0.hkx
+b -Tn _BJ-SittingFellatio_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatio\_BJ-SittingFellatio_S1_1.hkx
+b -Tn _BJ-SittingFellatio_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatio\_BJ-SittingFellatio_S2_0.hkx
+b -Tn _BJ-SittingFellatio_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatio\_BJ-SittingFellatio_S2_1.hkx
+b -Tn _BJ-SittingFellatio_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatio\_BJ-SittingFellatio_S3_0.hkx
+b -Tn _BJ-SittingFellatio_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatio\_BJ-SittingFellatio_S3_1.hkx
+b -Tn _BJ-SittingFellatio_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatio\_BJ-SittingFellatio_S4_0.hkx
+b -Tn _BJ-SittingFellatio_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatio\_BJ-SittingFellatio_S4_1.hkx
+b -Tn _BJ-SittingFellatioHandOnHead_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioHandOnHead\_BJ-SittingFellatioHandOnHead_S1_0.hkx
+b -Tn _BJ-SittingFellatioHandOnHead_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatio\_BJ-SittingFellatio_S1_1.hkx
+b -Tn _BJ-SittingFellatioHandOnHead_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioHandOnHead\_BJ-SittingFellatioHandOnHead_S2_0.hkx
+b -Tn _BJ-SittingFellatioHandOnHead_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatio\_BJ-SittingFellatio_S2_1.hkx
+b -Tn _BJ-SittingFellatioHandOnHead_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioHandOnHead\_BJ-SittingFellatioHandOnHead_S3_0.hkx
+b -Tn _BJ-SittingFellatioHandOnHead_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatio\_BJ-SittingFellatio_S3_1.hkx
+b -Tn _BJ-SittingFellatioHandOnHead_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioHandOnHead\_BJ-SittingFellatioHandOnHead_S4_0.hkx
+b -Tn _BJ-SittingFellatioHandOnHead_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatio\_BJ-SittingFellatio_S4_1.hkx
+b -Tn _BJ-SittingFellatioLyingFemale_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioLyingFemale\_BJ-SittingFellatioLyingFemale_S1_0.hkx
+b -Tn _BJ-SittingFellatioLyingFemale_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioLyingFemale\_BJ-SittingFellatioLyingFemale_S1_1.hkx
+b -Tn _BJ-SittingFellatioLyingFemale_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioLyingFemale\_BJ-SittingFellatioLyingFemale_S2_0.hkx
+b -Tn _BJ-SittingFellatioLyingFemale_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioLyingFemale\_BJ-SittingFellatioLyingFemale_S2_1.hkx
+b -Tn _BJ-SittingFellatioLyingFemale_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioLyingFemale\_BJ-SittingFellatioLyingFemale_S3_0.hkx
+b -Tn _BJ-SittingFellatioLyingFemale_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioLyingFemale\_BJ-SittingFellatioLyingFemale_S3_1.hkx
+b -Tn _BJ-SittingFellatioLyingFemale_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioLyingFemale\_BJ-SittingFellatioLyingFemale_S4_0.hkx
+b -Tn _BJ-SittingFellatioLyingFemale_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioLyingFemale\_BJ-SittingFellatioLyingFemale_S4_1.hkx
+b -Tn _BJ-SittingFellatioForwardBend_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioForwardBend\_BJ-SittingFellatioForwardBend_S1_0.hkx
+b -Tn _BJ-SittingFellatioForwardBend_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioForwardBend\_BJ-SittingFellatioForwardBend_S1_1.hkx
+b -Tn _BJ-SittingFellatioForwardBend_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioForwardBend\_BJ-SittingFellatioForwardBend_S2_0.hkx
+b -Tn _BJ-SittingFellatioForwardBend_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioForwardBend\_BJ-SittingFellatioForwardBend_S2_1.hkx
+b -Tn _BJ-SittingFellatioForwardBend_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioForwardBend\_BJ-SittingFellatioForwardBend_S3_0.hkx
+b -Tn _BJ-SittingFellatioForwardBend_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioForwardBend\_BJ-SittingFellatioForwardBend_S3_1.hkx
+b -Tn _BJ-SittingFellatioForwardBend_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioForwardBend\_BJ-SittingFellatioForwardBend_S4_0.hkx
+b -Tn _BJ-SittingFellatioForwardBend_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioForwardBend\_BJ-SittingFellatioForwardBend_S4_1.hkx
 b -Tn _BJ-AceHandjobPlusLicking_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\BJ\AceHandjobPlusLicking\_BJ-AceHandjobPlusLicking_S1_0.hkx
 b -Tn _BJ-AceHandjobPlusLicking_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\BJ\AceHandjobPlusLicking\_BJ-AceHandjobPlusLicking_S1_1.hkx
 b -Tn _BJ-AceHandjobPlusLicking_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\BJ\AceHandjobPlusLicking\_BJ-AceHandjobPlusLicking_S2_0.hkx
@@ -628,8 +660,6 @@ b -Tn _Sx-AceCowgirlPressingDown_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\S
 b -Tn _Sx-AceCowgirlPressingDown_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirlPressingDown\_Sx-AceCowgirlPressingDown_S3_1.hkx
 b -Tn _Sx-AceCowgirlPressingDown_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirlPressingDown\_Sx-AceCowgirlPressingDown_S4_0.hkx
 b -Tn _Sx-AceCowgirlPressingDown_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\AceCowgirlPressingDown\_Sx-AceCowgirlPressingDown_S4_1.hkx
-
-
 b -Tn _Sx-CowgirlSquatting_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Sx\CowgirlSquatting\_Sx-CowgirlSquatting_S1_0.hkx
 b -Tn _Sx-CowgirlSquatting_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Sx\CowgirlSquatting\_Sx-CowgirlSquatting_S1_1.hkx
 b -Tn _Sx-CowgirlSquatting_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Sx\CowgirlSquatting\_Sx-CowgirlSquatting_S2_0.hkx
@@ -670,7 +700,6 @@ b -Tn _Sx-CowgirlSquattingHandsOnHead_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\Mou
 b -Tn _Sx-CowgirlSquattingHandsOnHead_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Sx\CowgirlSquattingHandsOnHead\_Sx-CowgirlSquattingHandsOnHead_S3_1.hkx
 b -Tn _Sx-CowgirlSquattingHandsOnHead_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Sx\CowgirlSquattingHandsOnHead\_Sx-CowgirlSquattingHandsOnHead_S4_0.hkx
 b -Tn _Sx-CowgirlSquattingHandsOnHead_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Sx\CowgirlSquattingHandsOnHead\_Sx-CowgirlSquattingHandsOnHead_S4_1.hkx
-
 b -Tn _Sx-CowgirlLeanBack_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlLeanBack\_Sx-CowgirlLeanBack_S1_0.hkx
 b -Tn _Sx-CowgirlLeanBack_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlLeanBack\_Sx-CowgirlLeanBack_S1_1.hkx
 b -Tn _Sx-CowgirlLeanBack_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKne\Sx\CowgirlLeanBack\_Sx-CowgirlLeanBack_S2_0.hkx
@@ -695,8 +724,6 @@ b -Tn _Sx-CowgirlCircularGrind_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\
 b -Tn _Sx-CowgirlCircularGrind_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\CowgirlCircularGrind\_Sx-CowgirlCircularGrind_S3_1.hkx
 b -Tn _Sx-CowgirlCircularGrind_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\CowgirlCircularGrind\_Sx-CowgirlCircularGrind_S4_0.hkx
 b -Tn _Sx-CowgirlCircularGrind_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\CowgirlCircularGrind\_Sx-CowgirlCircularGrind_S4_1.hkx
-
-
 b -Tn _Sx-AceCowgirlLegsCrossed_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\AceCowgirlLegsCrossed\_Sx-AceCowgirlLegsCrossed_S1_0.hkx
 b -Tn _Sx-AceCowgirlLegsCrossed_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\AceCowgirlLegsCrossed\_Sx-AceCowgirlLegsCrossed_S1_1.hkx
 b -Tn _Sx-AceCowgirlLegsCrossed_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBSit\Sx\AceCowgirlLegsCrossed\_Sx-AceCowgirlLegsCrossed_S2_0.hkx

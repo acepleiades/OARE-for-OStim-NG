@@ -12,11 +12,6 @@
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
-		<page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!Sit|BoJ|AceLyingTitfuck" text="^fuckNsBreasts" t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-		</page>
 	</tab>
 	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="0"/>
 		<page icon="mtri"><hue n="hu" cmd="rg" a="0"/>
@@ -36,10 +31,7 @@
 			</option>
 		</page>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="omu_lipspucker" go="OpS|LyB!Kne|BJ|AceLyingBlowjob" text="^fellatioMaleLying" t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-			<option halo="hgentle" icon="omu_lipspucker" go="OpS|Kne!AFo|BJ|AceAllFoursBlowjob" text="^fellatioMaleKneeling" t0="0">
+			<option halo="hgentle" icon="omu_lipspucker" go="OpS|Sitting!FemaleApproach|BJ|SittingFellatio" text="^performFellatioOnN" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!Sit|BoJ|AceLyingBoobjob" text="^performABoobjob" t0="0">
@@ -54,9 +46,6 @@
 		</page>
 	</tab>
 </nav>
-<motif drive="intimate" theme="Affection"/>
-<motif drive="intimate" theme="Affection"/>
-<autonav/>
 <metadata tags="idle"/>
 <actors>
 	<actor position="0" penisAngle="2" tags="sitting"/>
