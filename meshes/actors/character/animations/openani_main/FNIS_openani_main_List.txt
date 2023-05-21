@@ -510,6 +510,14 @@ b -Tn _BJ-SittingFellatioLyingFemale_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\Sitt
 b -Tn _BJ-SittingFellatioLyingFemale_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioLyingFemale\_BJ-SittingFellatioLyingFemale_S3_1.hkx
 b -Tn _BJ-SittingFellatioLyingFemale_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioLyingFemale\_BJ-SittingFellatioLyingFemale_S4_0.hkx
 b -Tn _BJ-SittingFellatioLyingFemale_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioLyingFemale\_BJ-SittingFellatioLyingFemale_S4_1.hkx
+b -Tn _BJ-SittingFellatioForwardBend_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioForwardBend\_BJ-SittingFellatioForwardBend_S1_0.hkx
+b -Tn _BJ-SittingFellatioForwardBend_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioForwardBend\_BJ-SittingFellatioForwardBend_S1_1.hkx
+b -Tn _BJ-SittingFellatioForwardBend_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioForwardBend\_BJ-SittingFellatioForwardBend_S2_0.hkx
+b -Tn _BJ-SittingFellatioForwardBend_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioForwardBend\_BJ-SittingFellatioForwardBend_S2_1.hkx
+b -Tn _BJ-SittingFellatioForwardBend_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioForwardBend\_BJ-SittingFellatioForwardBend_S3_0.hkx
+b -Tn _BJ-SittingFellatioForwardBend_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioForwardBend\_BJ-SittingFellatioForwardBend_S3_1.hkx
+b -Tn _BJ-SittingFellatioForwardBend_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioForwardBend\_BJ-SittingFellatioForwardBend_S4_0.hkx
+b -Tn _BJ-SittingFellatioForwardBend_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingFemaleApproach\BJ\SittingFellatioForwardBend\_BJ-SittingFellatioForwardBend_S4_1.hkx
 b -Tn _BJ-AceHandjobPlusLicking_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\BJ\AceHandjobPlusLicking\_BJ-AceHandjobPlusLicking_S1_0.hkx
 b -Tn _BJ-AceHandjobPlusLicking_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\BJ\AceHandjobPlusLicking\_BJ-AceHandjobPlusLicking_S1_1.hkx
 b -Tn _BJ-AceHandjobPlusLicking_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBLyF\BJ\AceHandjobPlusLicking\_BJ-AceHandjobPlusLicking_S2_0.hkx

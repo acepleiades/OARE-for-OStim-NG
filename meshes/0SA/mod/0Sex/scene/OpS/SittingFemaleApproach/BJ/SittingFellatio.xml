@@ -25,6 +25,9 @@
 			<option halo="hgentle" icon="osx_layside_f" go="OpS|Sitting!FemaleApproach|BJ|SittingFellatioLyingFemale" text="^lieDown">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
+			<option halo="hgentle" icon="osx_bom_f" go="OpS|Sitting!FemaleApproach|BJ|SittingFellatioForwardBend" text="^bendForward">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 			<option halo="hgentle" icon="obigx" go="OpS|Sit!Kne|Ho|SittingFemaleApproach" text="^return">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
