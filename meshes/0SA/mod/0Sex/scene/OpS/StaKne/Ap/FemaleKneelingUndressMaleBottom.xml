@@ -4,6 +4,6 @@
 <metadata tags="transition,undressing"/>
 <actors>
 	<actor position="0" penisAngle="8" feetOnGround="1" tags="standing" lookUp="-50"/>
-	<actor position="1" feetOnGround="1" tags="standing"/>
+	<actor position="1" feetOnGround="0" tags="kneeling"/>
 </actors>
 </scene>

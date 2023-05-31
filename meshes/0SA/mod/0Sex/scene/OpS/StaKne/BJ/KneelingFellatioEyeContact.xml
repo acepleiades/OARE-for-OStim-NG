@@ -30,7 +30,7 @@
 </nav>
 <actors>
 	<actor position="0" penisAngle="-5" feetOnGround="1" scaleHeight="67" tags="standing" lookUp="-75"/>
-	<actor position="1" feetOnGround="1" scaleHeight="67" tags="squatting" lookUp="100"/>
+	<actor position="1" feetOnGround="0" tags="kneeling" lookUp="100"/>
 </actors>
 <actions>
 	<action type="blowjob" actor="1" target="0"/>
