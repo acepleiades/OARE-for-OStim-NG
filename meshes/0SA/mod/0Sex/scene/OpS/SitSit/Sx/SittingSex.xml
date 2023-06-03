@@ -1,6 +1,5 @@
 <scene id="OpS|Sit!Sit|Sx|SittingSex" actors="2" style="OScene">
 <info name="Sitting Sex" animator="Ace"/>
-<region om="A" maj="C" min="C" stage="" step="" story=""/>
 <anim id="_Sx-SittingSex_S1" t="L" l="2"/>
 <speed a="1" min="0" max="3" name="thrusts">
 	<sp mtx="^thrustsPerSec" qnt="0.5">
@@ -17,6 +16,15 @@
     <tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
         <page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sit!Sit|Sx|SittingSexEmbrace" text="^hugN" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="opowkiss_mf" go="OpS|Sit!Sit|Sx|SittingSexKissing" text="^kissN" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+			<option halo="hgentle" icon="oslnbobkd_f" go="OpS|Sit!Sit|Sx|SittingSexLeanBack" text="^leanBack" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
 			<option halo="hgentle" icon="obigx" go="OpS|Sit!Kne|Ho|SittingFemaleApproach" text="^return">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
@@ -25,7 +33,6 @@
 </nav>
 <motif drive="intimate" theme="G_SexPhysRear"/>
 <motif drive="intimate" theme="R_SexPhysRear"/>
-<autonav/>
 <actors>
 	<actor position="0" penisAngle="2" feetOnGround="0" tags="sitting"/>
 	<actor position="1" feetOnGround="0" tags="sitting"/>
