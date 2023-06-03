@@ -1,15 +1,15 @@
-<scene id="OpS|Sit!Sit|Sx|SittingSexEmbrace" actors="2" style="OScene">
-<info name="Sitting Sex Embrace" animator="Ace"/>
-<anim id="_Sx-SittingSexEmbrace_S1" t="L" l="2"/>
+<scene id="OpS|Sit!Sit|Sx|SittingSexLeanBack" actors="2" style="OScene">
+<info name="Sitting Sex Lean Back" animator="Ace"/>
+<anim id="_Sx-SittingSexLeanBack_S1" t="L" l="2"/>
 <speed a="1" min="0" max="3" name="thrusts">
 	<sp mtx="^thrustsPerSec" qnt="0.5">
-		<anim id="_Sx-SittingSexEmbrace_S1" t="L" l="2" i0="0" i1="0"/></sp>
+		<anim id="_Sx-SittingSexLeanBack_S1" t="L" l="2" i0="0" i1="0"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="1">
-		<anim id="_Sx-SittingSexEmbrace_S2" t="L" l="2" i0="1" i1="1"/></sp>
+		<anim id="_Sx-SittingSexLeanBack_S2" t="L" l="2" i0="1" i1="1"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="1.5">
-		<anim id="_Sx-SittingSexEmbrace_S3" t="L" l="2" i0="2" i1="2"/></sp>
+		<anim id="_Sx-SittingSexLeanBack_S3" t="L" l="2" i0="2" i1="2"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="2">
-		<anim id="_Sx-SittingSexEmbrace_S4" t="L" l="2" i0="3" i1="3"/></sp>
+		<anim id="_Sx-SittingSexLeanBack_S4" t="L" l="2" i0="3" i1="3"/></sp>
 </speed>
 <nav>
 	<tab icon="smale" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
@@ -25,8 +25,8 @@
 <motif drive="intimate" theme="G_SexPhysRear"/>
 <motif drive="intimate" theme="R_SexPhysRear"/>
 <actors>
-	<actor position="0" penisAngle="3" feetOnGround="0" tags="sitting" lookUp="-75" lookLeft="50"/>
-	<actor position="1" feetOnGround="0" tags="sitting" lookUp="-100"/>
+	<actor position="0" penisAngle="-1" feetOnGround="0" tags="sitting"/>
+	<actor position="1" feetOnGround="0" tags="sitting"/>
 </actors>
 <actions>
 	<action type="vaginalsex" actor="0" target="1"/>
