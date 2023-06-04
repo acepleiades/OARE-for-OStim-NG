@@ -15,10 +15,10 @@
 	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="osx_kn_m" go="OpS|Kne!LyB|BoJ|MountedTitfuckBreastGrab" text="^grabNsBreasts" t0="0">
+			<option halo="hgentle" icon="osx_kn_m" go="OpS|Kne!LyB|BoJ|MountedTitfuckBreastGrab" text="^grabNsBreasts" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="osx_kn_m" go="OpS|Kne!LyB|Po|OnTopMasturbation" text="^masturbateOnTopOfN" t0="0">
+            <option halo="hgentle" icon="osx_kn_m" go="OpS|Kne!LyB|Po|OnTopMasturbation" text="^masturbateOnTopOfN" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 			<option halo="hgentle" icon="obigx" go="OpS|Sit!Sit|Ap|SittingMaleApproach" text="^return" t0="1">
@@ -29,7 +29,7 @@
     <tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
 			<option halo="hgentle" icon="osx_kn_m" go="OpS|Kne!LyB|BoJ|MountedTitfuckCupping" text="^cupYourBreasts" t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
