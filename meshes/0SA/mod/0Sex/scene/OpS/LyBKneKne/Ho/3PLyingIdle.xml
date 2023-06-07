@@ -1,53 +1,7 @@
 <scene id="OpS|LyB!Kne!Kne|Ho|3PLyingIdle" actors="3" style="OScene">
 <info name="3P Lying Idle" animator="Ace"/>
-<region om="A" maj="D" min="D" stage="" step="" story=""/>
-<anim id="_Ho-3PLyingIdle" t="L" l="2"/>
-<nav>
-	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<page icon="mtri"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="oknlbdn_f" go="OpS|Kne!LyB!LyB|Ho|3PSpreadLegs" text="^kneelAnd3PSpreadLegs">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-			<option halo="hgentle" icon="osx_kn_m" go="OpS|Kne!LyB!AFo|Ho|StackedGirls" text="^kneelAnd3PStackedGirls">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-			<option halo="hgentle" icon="obigx" go="OpS|3P!Standing|Ap|3PStandingIdle" text="^return">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-		</page>
-		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="opowemb_mf" go="OpS|3P!Lying|Em|3PSpooningSleeping" text="^sleepTogether" t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-		</page>
-		<page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="ohjugs2_9_f" go="OpS|LyB!Kne!Kne|HJ|3PHandjob" text="^haveThemMasturbateYou">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-			<option halo="hgentle" icon="omu_lipspucker" go="OpS|LyB!Kne!Kne|BJ|3PLyingFellatio" text="^haveThemFellateYou">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-            <option halo="hgentle" icon="osx_kn_m" go="OpS|LyB!Kne!Kne|BoJ|3PBoobjob" text="^haveThemPerformABoobjob">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-		</page>
-	</tab>
-    <tab icon="sobs" text="^addonHub"><hue n="hu" cmd="vg" a="0"/><bnhue cmd="vn" a="0"/>
-		<page icon="mtri"><hue n="hu" cmd="vg" a="0"/>
-			<option halo="h_plus_rbo" icon="omu_plugins" go="OpS_addon|LyB!Kne!Kne|Ho|GroundAddonHub3P" text="^accessTheAddonHub" t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-		</page>
-	</tab>
-	<tab icon="splus" text="^dismiss" empty="2"><hue n="hu" cmd="vg" a="1"/><bnhue cmd="vn" a="1"/>
-		<page icon="mgensignf"><hue n="hu" cmd="vg" a="1"/>
-			<option halo="h_plus_rbo" icon="obigx" go="$RemoveActor" text="^HaveNLeave" t0="2">
-			<cmd dest="OpS|Sit!Sit|Ap|Sitting" actor="2"/>
-			</option>
-		</page>
-	</tab>
-</nav>
-<metadata tags="idle,intro"/>
+<anim id="_Ho-3PLyingIdle" t="T" l="1" dest="openani_3pp|LyB!Kne!Kne|Ho|3PLyingIdle"/>
+<metadata tags="transition"/>
 <actors>
 	<actor position="0" penisAngle="1" feetOnGround="0" tags="lyingback"/>
 	<actor position="1" feetOnGround="0" tags="kneeling"/>
