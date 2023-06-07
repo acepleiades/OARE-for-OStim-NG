@@ -16,7 +16,7 @@
 		</page>
         <page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
 			<option halo="hgentle" icon="opowemb_mf" go="OpS|LyS!Sit|Em|LapPillow" text="^layYourHeadOnNsLap" t0="1">
-			<enhance a="0"/><enhance a="1"/><hhue n="hu0" cmd="rg" a="0"/><hhue n="hu1" cmd="rg" a="1"/><ihue cmd="body"><bo a="0"/><bo a="1"/></ihue>
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
@@ -44,10 +44,9 @@
 		</page>
 	</tab>
 	<tab icon="splus" text="^invite" empty="2"><hue n="hu" cmd="vg" a="0"/><bnhue cmd="vn" a="0"/>
-		<page icon="mgensignf"><hue n="hu" cmd="vg" a="0"/>
-			<option halo="h_plus_rbo" icon="omu_stickfigplus" go="$InviteScan" text="^inviteSomeoneToJoinFemale" t0="0">
-			<ihue n="hu" cmd="vn" a="0"/>
-			<cmd dest="OpS|LyB!Kne!Kne|Ho|3PLyingIdle" rolename="^femaleVisitant" sceneName="^joinFFM" npc="npc"/>
+		<page icon="mtri"><hue n="hu" cmd="vg" a="0"/>
+			<option halo="h_plus_rbo" icon="omu_plugins" go="OpS_addon|Sit!Sit|Ap|Sitting3ppHub" text="^accessThe3PPHub" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
