@@ -1,6 +1,6 @@
 <scene id="OpS|LyB!Kne!Kne|Ho|3PLyingIdle" actors="3" style="OScene">
 <info name="3P Lying Idle" animator="Ace"/>
-<anim id="_Ho-3PLyingIdle" t="T" l="1" dest="openani_3pp|LyB!Kne!Kne|Ho|3PLyingIdle"/>
+<anim id="_Ho-3PLyingIdle" t="T" l="1" dest="openani_3pp|3P!Sitting|Ap|3PSittingIdle"/>
 <metadata tags="transition"/>
 <actors>
 	<actor position="0" penisAngle="1" feetOnGround="0" tags="lyingback"/>
