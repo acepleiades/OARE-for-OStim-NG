@@ -13,8 +13,8 @@
 </nav>
 <metadata tags="idle"/>
 <actors>
-	<actor position="0" penisAngle="9" feetOnGround="0" tags="lyingback" />
-	<actor position="1" feetOnGround="0" tags="lyingside" />
+	<actor position="0" penisAngle="9" feetOnGround="0" tags="lyingback"/>
+	<actor position="1" feetOnGround="0" tags="lyingside"/>
 </actors>
 <actions>
 	<action type="kissing" actor="1" target="0"/>
