@@ -607,6 +607,8 @@ b -a,Tn _Ho-GoToReverseMountedFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\Mounted
 b -a,Tn _Ho-GoToReverseMountedFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Ho\MountedFemale\_Ho-GoToReverseMountedFemale_1.hkx
 b -a,Tn _Ho-GoBackReverseMountedFemale_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Ho\MountedFemale\_Ho-GoBackReverseMountedFemale_0.hkx
 b -a,Tn _Ho-GoBackReverseMountedFemale_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Ho\MountedFemale\_Ho-GoBackReverseMountedFemale_1.hkx
+b -Tn _Em-MaleLyingKiss_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Em\MaleLyingKiss\_Em-MaleLyingKiss_0.hkx
+b -Tn _Em-MaleLyingKiss_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Em\MaleLyingKiss\_Em-MaleLyingKiss_1.hkx
 b -Tn _Cr-MountedGrind_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Cr\MountedGrind\_Cr-MountedGrind_S1_0.hkx
 b -Tn _Cr-MountedGrind_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Cr\MountedGrind\_Cr-MountedGrind_S1_1.hkx
 b -Tn _Cr-MountedGrind_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Cr\MountedGrind\_Cr-MountedGrind_S2_0.hkx
@@ -623,14 +625,14 @@ b -Tn _Cr-MountedGrindBreastGrab_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedF
 b -Tn _Cr-MountedGrindBreastGrab_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Cr\MountedGrindBreastGrab\_Cr-MountedGrindBreastGrab_S3_1.hkx
 b -Tn _Cr-MountedGrindBreastGrab_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Cr\MountedGrind\_Cr-MountedGrind_S4_0.hkx
 b -Tn _Cr-MountedGrindBreastGrab_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Cr\MountedGrindBreastGrab\_Cr-MountedGrindBreastGrab_S4_1.hkx
-b -Tn _HJ-AceLyingHandjob_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_S1_0.hkx
-b -Tn _HJ-AceLyingHandjob_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_S1_1.hkx
-b -Tn _HJ-AceLyingHandjob_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_S2_0.hkx
-b -Tn _HJ-AceLyingHandjob_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_S2_1.hkx
-b -Tn _HJ-AceLyingHandjob_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_S3_0.hkx
-b -Tn _HJ-AceLyingHandjob_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_S3_1.hkx
-b -Tn _HJ-AceLyingHandjob_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_S4_0.hkx
-b -Tn _HJ-AceLyingHandjob_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\HJ\AceLyingHandjob\_HJ-AceLyingHandjob_S4_1.hkx
+b -Tn _HJ-MaleLyingHJ_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\HJ\MaleLyingHJ\_HJ-MaleLyingHJ_S1_0.hkx
+b -Tn _HJ-MaleLyingHJ_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\HJ\MaleLyingHJ\_HJ-MaleLyingHJ_S1_1.hkx
+b -Tn _HJ-MaleLyingHJ_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\HJ\MaleLyingHJ\_HJ-MaleLyingHJ_S2_0.hkx
+b -Tn _HJ-MaleLyingHJ_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\HJ\MaleLyingHJ\_HJ-MaleLyingHJ_S2_1.hkx
+b -Tn _HJ-MaleLyingHJ_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\HJ\MaleLyingHJ\_HJ-MaleLyingHJ_S3_0.hkx
+b -Tn _HJ-MaleLyingHJ_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\HJ\MaleLyingHJ\_HJ-MaleLyingHJ_S3_1.hkx
+b -Tn _HJ-MaleLyingHJ_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\HJ\MaleLyingHJ\_HJ-MaleLyingHJ_S4_0.hkx
+b -Tn _HJ-MaleLyingHJ_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\HJ\MaleLyingHJ\_HJ-MaleLyingHJ_S4_1.hkx
 b -Tn _Ho-AceLyingHandjob_AfterClimax_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Ho\AceLyingHandjob_AfterClimax\_Ho-AceLyingHandjob_AfterClimax_0.hkx
 b -Tn _Ho-AceLyingHandjob_AfterClimax_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Ho\AceLyingHandjob_AfterClimax\_Ho-AceLyingHandjob_AfterClimax_1.hkx
 b -Tn _Sx-CowgirlKneesOnGround_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Sx\CowgirlSquatting\_Sx-CowgirlSquatting_S1_0.hkx
@@ -641,7 +643,6 @@ b -Tn _Sx-CowgirlKneesOnGround_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFem
 b -Tn _Sx-CowgirlKneesOnGround_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Sx\CowgirlKneesOnGround\_Sx-CowgirlKneesOnGround_S3_1.hkx
 b -Tn _Sx-CowgirlKneesOnGround_S4_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Sx\CowgirlSquatting\_Sx-CowgirlSquatting_S4_0.hkx
 b -Tn _Sx-CowgirlKneesOnGround_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Sx\CowgirlKneesOnGround\_Sx-CowgirlKneesOnGround_S4_1.hkx
-
 b -Tn _Sx-CowgirlKneesLetGo_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Sx\CowgirlKneesLetGo\_Sx-CowgirlKneesLetGo_S1_0.hkx
 b -Tn _Sx-CowgirlKneesLetGo_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Sx\CowgirlKneesLetGo\_Sx-CowgirlKneesLetGo_S1_1.hkx
 b -Tn _Sx-CowgirlKneesLetGo_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\MountedFemale\Sx\CowgirlKneesLetGo\_Sx-CowgirlKneesLetGo_S2_0.hkx
@@ -793,6 +794,12 @@ b -Tn _Sx-ReverseCowgirlLeaningBack_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKn
 
 b -Tn _Ap-SittingMaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\SittingMaleApproach\_Ap-SittingMaleApproach_0.hkx
 b -Tn _Ap-SittingMaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\SittingMaleApproach\_Ap-SittingMaleApproach_1.hkx
+b -Tn _BoF-SittingBreastSucking_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingMaleApproach\BoF\SittingBreastSucking\_BoF-SittingBreastSucking_S1_0.hkx
+b -Tn _BoF-SittingBreastSucking_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingMaleApproach\BoF\SittingBreastSucking\_BoF-SittingBreastSucking_S1_1.hkx
+b -Tn _BoF-SittingBreastSucking_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingMaleApproach\BoF\SittingBreastSucking\_BoF-SittingBreastSucking_S2_0.hkx
+b -Tn _BoF-SittingBreastSucking_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingMaleApproach\BoF\SittingBreastSucking\_BoF-SittingBreastSucking_S2_1.hkx
+b -Tn _BoF-SittingBreastSucking_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingMaleApproach\BoF\SittingBreastSucking\_BoF-SittingBreastSucking_S3_0.hkx
+b -Tn _BoF-SittingBreastSucking_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingMaleApproach\BoF\SittingBreastSucking\_BoF-SittingBreastSucking_S3_1.hkx
 b -Tn _VJ-SittingCunnilingus_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingus\_VJ-SittingCunnilingus_S1_0.hkx
 b -Tn _VJ-SittingCunnilingus_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingus\_VJ-SittingCunnilingus_S1_1.hkx
 b -Tn _VJ-SittingCunnilingus_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingus\_VJ-SittingCunnilingus_S2_0.hkx
