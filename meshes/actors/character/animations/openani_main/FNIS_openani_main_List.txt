@@ -794,6 +794,12 @@ b -Tn _Sx-ReverseCowgirlLeaningBack_S4_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyBKn
 
 b -Tn _Ap-SittingMaleApproach_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\SittingMaleApproach\_Ap-SittingMaleApproach_0.hkx
 b -Tn _Ap-SittingMaleApproach_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SitSit\Ap\SittingMaleApproach\_Ap-SittingMaleApproach_1.hkx
+b -Tn _BoF-SittingBreastSucking_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingMaleApproach\BoF\SittingBreastSucking\_BoF-SittingBreastSucking_S1_0.hkx
+b -Tn _BoF-SittingBreastSucking_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingMaleApproach\BoF\SittingBreastSucking\_BoF-SittingBreastSucking_S1_1.hkx
+b -Tn _BoF-SittingBreastSucking_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingMaleApproach\BoF\SittingBreastSucking\_BoF-SittingBreastSucking_S2_0.hkx
+b -Tn _BoF-SittingBreastSucking_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingMaleApproach\BoF\SittingBreastSucking\_BoF-SittingBreastSucking_S2_1.hkx
+b -Tn _BoF-SittingBreastSucking_S3_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingMaleApproach\BoF\SittingBreastSucking\_BoF-SittingBreastSucking_S3_0.hkx
+b -Tn _BoF-SittingBreastSucking_S3_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\SittingMaleApproach\BoF\SittingBreastSucking\_BoF-SittingBreastSucking_S3_1.hkx
 b -Tn _VJ-SittingCunnilingus_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingus\_VJ-SittingCunnilingus_S1_0.hkx
 b -Tn _VJ-SittingCunnilingus_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingus\_VJ-SittingCunnilingus_S1_1.hkx
 b -Tn _VJ-SittingCunnilingus_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\OpS\LyFSit\VJ\SittingCunnilingus\_VJ-SittingCunnilingus_S2_0.hkx
