@@ -17,6 +17,6 @@
     <actor position="1" feetOnGround="0"/>
 </actors>
 <actions>
-	<action type="kissing" actor="1" target="0"/>
+	<action type="kissingneck" actor="1" target="0"/>
 </actions>
 </scene>
