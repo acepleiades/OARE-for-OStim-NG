@@ -32,5 +32,6 @@
 </actors>
 <actions>
 	<action type="buttjob" actor="1" target="0" performer="0"/>
+	<action type="heavybreathing" actor="1" target="1"/>
 </actions>
 </scene>

@@ -32,5 +32,6 @@
 <actions>
 	<action type="handjob" actor="1" target="0"/>
 	<action type="teasing" actor="1" target="0"/>
+	<action type="heavybreathing" actor="1" target="1"/>
 </actions>
 </scene>

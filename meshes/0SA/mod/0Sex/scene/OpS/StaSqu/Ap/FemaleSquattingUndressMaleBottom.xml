@@ -6,4 +6,7 @@
 	<actor position="0" penisAngle="8" feetOnGround="1" tags="standing" lookUp="-50"/>
 	<actor position="1" feetOnGround="1" tags="standing"/>
 </actors>
+<actions>
+	<action type="heavybreathing" actor="1" target="1"/>
+</actions>
 </scene>

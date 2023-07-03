@@ -1,6 +1,5 @@
 <scene id="OpS|Sta!Sta|Cr|GropingBreastsFromBehind" actors="2" style="OScene">
 <info name="Standing Groping Breasts" animator="Ace"/>
-<region om="A" maj="K" min="K" stage="" step="" story=""/>
 <anim id="_Cr-GropingBreastsFromBehind_S1" t="L" l="2"/>
 <speed a="1" min="0" max="3" name="thrusts">	
 	<sp mtx="^thrustsPerSec" qnt=".5">
@@ -25,12 +24,12 @@
 </nav>
 <motif drive="intimate" theme="Domineer"/>
 <motif drive="intimate" theme="G_Handjob"/>
-<autonav/>
 <actors>
     <actor position="0" penisAngle="-7" feetOnGround="1" tags="standing" lookUp="-75" lookLeft="50"/>
     <actor position="1" feetOnGround="1" tags="facingaway,standing" lookLeft="-75"/>
 </actors>
 <actions>
 	<action type="gropingbreast" actor="0" target="1"/>
+	<action type="heavybreathing" actor="1" target="1"/>
 </actions>
 </scene>
