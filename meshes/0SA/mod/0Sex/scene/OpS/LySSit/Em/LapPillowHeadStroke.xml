@@ -30,5 +30,6 @@
 </actors>
 <actions>
 	<action type="strokinghead" actor="1" target="0"/>
+	<action type="heavybreathing" actor="1" target="1"/>
 </actions>
 </scene>
