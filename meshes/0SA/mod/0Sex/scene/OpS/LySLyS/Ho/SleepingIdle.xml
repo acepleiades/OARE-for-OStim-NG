@@ -29,5 +29,6 @@
 <actions>
 	<action type="sleeping" actor="0"/>
     <action type="sleeping" actor="1"/>
+    <action type="sleepingsound" actor="1" target="1"/>
 </actions>
 </scene>
