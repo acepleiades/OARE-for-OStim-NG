@@ -24,9 +24,6 @@
             <option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Em|HoldingChin" text="^holdNsChin" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="opowemb_mf" go="OpS|Sta!Sta|Em|GentleEmbrace" text="^embraceNGently" t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
 		</page>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
 			<option halo="hgentle" icon="omu_hand" go="OpS|Sta!Sta|Ho|HoldingGropingButt" text="^touchNsButt" t0="1">

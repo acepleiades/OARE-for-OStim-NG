@@ -19,7 +19,7 @@
 </nav>
 <metadata tags="idle"/>
 <actors>
-    <actor position="0" penisAngle="-5" feetOnGround="1" tags="standing" lookUp="-20" lookLeft="20"/>
+    <actor position="0" penisAngle="4" feetOnGround="1" tags="standing" lookUp="-20" lookLeft="20"/>
     <actor position="1" feetOnGround="0" lookUp="-10" lookLeft="-10"/>
 </actors>
 </scene>

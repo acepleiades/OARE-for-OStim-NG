@@ -13,7 +13,7 @@
 </nav>
 <metadata tags="idle"/>
 <actors>
-    <actor position="0" penisAngle="-5" feetOnGround="1" tags="standing"/>
+    <actor position="0" penisAngle="4" feetOnGround="1" tags="standing"/>
     <actor position="1" feetOnGround="0"/>
 </actors>
 <actions>
