@@ -1,6 +1,5 @@
 <scene id="OpS|Sta!Sta|HJ|AceStandingHandjobKissing" actors="2" style="OScene">
 <info name="Standing Handjob Kissing" animator="Ace"/>
-<region om="A" maj="K" min="K" stage="" step="" story=""/>
 <anim id="_HJ-AceStandingHandjobKissing_S1" t="L" l="2"/>
 <speed a="1" min="0" max="3" name="thrusts">
 	<sp mtx="^strokesPerSec" qnt=".5">
@@ -17,10 +16,7 @@
 	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="opowkiss_mf" go="OpS|Sta!Sta|HJ|AceStandingHandjob" text="^stopKissingN" t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHolding" text="^return" t0="0">
+			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|HJ|AceStandingHandjob" text="^return" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
@@ -28,10 +24,9 @@
 </nav>
 <motif drive="intimate" theme="R_Handjob"/>
 <motif drive="intimate" theme="G_Handjob"/>
-<autonav/>
 <actors>
-	<actor position="0" penisAngle="2" feetOnGround="1" tags="standing" />
-	<actor position="1" feetOnGround="1" scaleHeight="80" tags="standing" />
+	<actor position="0" penisAngle="4" feetOnGround="1" tags="standing" lookUp="-75"/>
+	<actor position="1" feetOnGround="1" scaleHeight="80" tags="standing" lookUp="-100" lookLeft="50"/>
 </actors>
 <actions>
 	<action type="kissing" actor="0" target="1"/>

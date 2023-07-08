@@ -1,0 +1,22 @@
+<scene id="OpS|Standing!Holding|Em|StandingEmbraceKiss" actors="2" style="OScene">
+<info name="StandingEmbraceKiss" animator="Ace"/>
+<anim id="_Em-StandingEmbraceKiss" t="L" l="2"/>
+<nav>
+	<tab icon="smale" empty="1"><hue n="hu" cmd="rg" a="0"/></tab>
+	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
+		<page icon="mheart"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Ho|StandingKiss" text="^return" t0="0">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
+		</page>
+	</tab>
+</nav>
+<metadata tags="idle"/>
+<actors>
+	<actor position="0" penisAngle="-5" feetOnGround="1" tags="standing"/>
+	<actor position="1" feetOnGround="1" tags="standing"/>
+</actors>
+<actions>
+	<action type="kissing" actor="0" target="1"/>
+</actions>
+</scene>
