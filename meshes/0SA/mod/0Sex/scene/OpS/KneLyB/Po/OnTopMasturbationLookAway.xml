@@ -32,5 +32,7 @@
 <actions>
 	<action type="malemasturbation" actor="0"/>
 	<action type="heavybreathing" actor="1" target="1"/>
+	<action type="facial" actor="0" target="1"/>
+	<action type="cumonchest" actor="0" target="1"/>
 </actions>
 </scene>
