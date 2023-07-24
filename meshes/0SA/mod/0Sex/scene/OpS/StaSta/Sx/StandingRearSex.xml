@@ -15,19 +15,19 @@
 	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<xmenu id="speed" plus="cplus" minus="cminus" plustext="^faster" minustext="^slower" t0="0"/>
 		<page icon="mhand"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|StandingRearSexNoHands" text="^letGoOfN" t0="1">
+			<option halo="hgentle" icon="ohandsoffbody_mf" go="OpS|Sta!Sta|Sx|StandingRearSexNoHands" text="^letGoOfN" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|StandingRearSexHoldingArms" text="^grabNsArms" t0="1">
+            <option halo="hgentle" icon="ostbkstra_6_f" go="OpS|Sta!Sta|Sx|StandingRearSexHoldingArms" text="^pullNsBodyCloser" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-            <option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceStandingSexForwardBend" text="^varySexStandingBendingForward" t0="1">
+			<option halo="hgentle" icon="obododn_f" go="OpS|Sta!Sta|Sx|HoldingArmsStandingBack" text="^grabNsArms" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceStandingWheelbarrow" text="^varySexStandingWheelbarrow" t0="1">
+            <option halo="hgentle" icon="osx_bom_f" go="OpS|Sta!Sta|Sx|StandingSexForwardBend" text="^varySexStandingBendingForward" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
-			<option halo="hgentle" icon="ohgpenfrs2_f" go="OpS|Sta!Sta|Sx|AceReverseCarryingSex" text="^varySexStandingCarryingFromBehind" t0="1">
+			<option halo="hgentle" icon="osx_st_m" go="OpS|Sta!Sta|Sx|AceReverseCarryingSex" text="^varySexStandingCarryingFromBehind" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
             <option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHoldingFromBehind" text="^return" t0="1">
@@ -39,7 +39,6 @@
 </nav>
 <motif drive="intimate" theme="G_SexPhysRear"/>
 <motif drive="intimate" theme="R_SexPhysRear"/>
-<autonav/>
 <actors>
     <actor position="0" penisAngle="2" feetOnGround="1" tags="standing" lookUp="-50" />
 	<actor position="1" feetOnGround="1" tags="bendover,facingaway,standing"/>
