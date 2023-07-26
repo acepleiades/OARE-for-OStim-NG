@@ -20,4 +20,7 @@
 	<actor position="0" penisAngle="-5" feetOnGround="1" tags="standing" lookUp="-30"/>
 	<actor position="1" feetOnGround="1" tags="standing" lookUp="-30"/>
 </actors>
+<actions>
+	<action type="hug" actor="0" target="1"/>
+</actions>
 </scene>

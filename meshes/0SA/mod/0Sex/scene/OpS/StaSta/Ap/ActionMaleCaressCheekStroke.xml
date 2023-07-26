@@ -1,7 +1,7 @@
 <scene id="OpS|Sta!Sta|Ap|ActionMaleCaressCheekStroke" actors="2" style="OScene">
 <info name="Action Male Caress Cheek Stroke" animator="Ace"/>
 <anim id="_Ap-MalePC_CaressCheekStroke" t="T" l="5" dest="OpS|Sta!Sta|Ap|Standing"/>
-<metadata tags="transition"/>
+<metadata tags="action"/>
 <actors>
 	<actor position="0" penisAngle="6" feetOnGround="1" tags="standing"/>
 	<actor position="1" feetOnGround="1" tags="standing"/>
