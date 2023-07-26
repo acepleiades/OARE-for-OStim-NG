@@ -15,4 +15,7 @@
 	<actor position="0" penisAngle="6" feetOnGround="1" tags="standing"/>
 	<actor position="1" feetOnGround="1" tags="standing"/>
 </actors>
+<actions>
+	<action type="holdinghand" actor="0" target="1"/>
+</actions>
 </scene>
