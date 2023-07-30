@@ -1,6 +1,5 @@
 <scene id="OpS|Sta!Sta|Em|HoldingChinHug" actors="2" style="OScene">
 <info name="Gentle Embrace" animator="Frolique"/>
-<region om="A" maj="K" min="Ksi" stage="" step="" story=""/>
 <anim id="_Em-HoldingChinHug" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
@@ -18,10 +17,7 @@
 		</page>
 	</tab>
 </nav>
-<motif drive="intimate" theme="Affection"/>
-<motif drive="intimate" theme="Affection"/>
-<autonav/>
-<metadata tags="cuddling,idle"/>
+<metadata tags="idle"/>
 <actors>
 	<actor position="0" penisAngle="6" feetOnGround="1" tags="standing" lookUp="-20" lookLeft="40" />
 	<actor position="1" feetOnGround="1" tags="standing" lookUp="20" lookLeft="-40" />

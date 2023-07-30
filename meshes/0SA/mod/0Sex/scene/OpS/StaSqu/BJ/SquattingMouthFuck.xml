@@ -28,6 +28,6 @@
 	<actor position="1" feetOnGround="0" tags="sitting" lookUp="-100"/>
 </actors>
 <actions>
-	<action type="blowjob" actor="1" target="0" performer="0"/>
+	<action type="mouthfuck" actor="1" target="0" performer="0"/>
 </actions>
 </scene>

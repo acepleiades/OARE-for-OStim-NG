@@ -1,6 +1,5 @@
 <scene id="OpS|Sta!Sta|Em|HugFromBehind" actors="2" style="OScene">
 <info name="Hug From Behind" animator="Ace"/>
-<region om="A" maj="K" min="Ksi" stage="" step="" story=""/>
 <anim id="_Em-HugFromBehind" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
@@ -14,8 +13,7 @@
 </nav>
 <motif drive="intimate" theme="Imminence"/>
 <motif drive="intimate" theme="Tender"/>
-<autonav/>
-<metadata tags="idle"/>
+<metadata tags="cuddling,idle"/>
 <actors>
     <actor position="0" penisAngle="-7" feetOnGround="1" tags="standing" lookUp="-35" lookLeft="-25"/>
     <actor position="1" feetOnGround="1" tags="facingaway,standing" lookUp="35" lookLeft="50"/>
