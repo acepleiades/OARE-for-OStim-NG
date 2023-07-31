@@ -1,13 +1,10 @@
-<scene id="OpS|Sta!Sta|Em|StandingHug" actors="2" style="OScene">
-<info name="Standing Hug" animator="Ace"/>
-<anim id="_Em-StandingHug" t="L" l="2"/>
+<scene id="OpS|Standing!Holding|Em|StandingHandOnHeadCuddle" actors="2" style="OScene">
+<info name="Standing Hand On Head Cuddle" animator="Ace"/>
+<anim id="_Em-StandingHandOnHeadCuddle" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="opowemb_mf" go="OpS|Standing!Holding|Em|StandingHandOnHeadCuddle" text="^placeYourHandOnNsHead" t0="1">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHolding" text="^return" t0="1">
+			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Em|StandingHug" text="^return" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
@@ -19,7 +16,5 @@
 	<actor position="0" penisAngle="-5" feetOnGround="1" tags="standing" lookUp="-30"/>
 	<actor position="1" feetOnGround="1" tags="standing" lookUp="-30"/>
 </actors>
-<actions>
 	<action type="hug" actor="0" target="1"/>
-</actions>
 </scene>

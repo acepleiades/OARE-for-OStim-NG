@@ -1,20 +1,17 @@
-<scene id="OpS|Sta!Sta|Ho|StandingKiss" actors="2" style="OScene">
-<info name="Standing Kiss" animator="Ace"/>
-<anim id="_Ho-StandingKiss" t="L" l="2"/>
+<scene id="OpS|Standing!Holding|Em|OutstretchedArmsKiss" actors="2" style="OScene">
+<info name="OutstretchedArmsKiss" animator="Ace"/>
+<anim id="_Em-OutstretchedArmsKiss" t="L" l="2"/>
 <nav>
 	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
-		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
-			<option halo="hgentle" icon="opowkiss_mf" go="OpS|Standing!Holding|Em|HoldingWaistKiss" text="^holdNsWaist" t0="0">
-			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
-			</option>
-			<option halo="hgentle" icon="obigx" go="OpS|Sta!Sta|Ho|StandingHolding" text="^return" t0="1">
+		<page icon="mhand"><hue n="hu" cmd="rg" a="0"/>
+			<option halo="hgentle" icon="omu_hand" go="OpS|Standing!Holding|Em|GropingButtKissOA" text="^touchNsButt" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>
 	</tab>
 	<tab actor="1" icon="sfemale" text="$name"><hue n="hu" cmd="rg" a="1"/><bnhue cmd="rn" a="1"/>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="0"/>
-			<option halo="hgentle" icon="opowkiss_mf" go="OpS|Standing!Holding|Em|StandingEmbraceKiss" text="^hugN" t0="0">
+			<option halo="hgentle" icon="obigx" go="OpS|Standing!Holding|Em|StandingEmbraceKiss" text="^return" t0="0">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="1"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
 		</page>

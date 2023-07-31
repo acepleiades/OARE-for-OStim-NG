@@ -10,6 +10,9 @@
 			</option>
 		</page>
 		<page icon="mheart"><hue n="hu" cmd="rg" a="1"/>
+			<option halo="hgentle" icon="omu_hand" go="OpS|Sta!Sta|Em|HoldHandFromBehind" text="^holdNsHand" t0="1">
+			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
+			</option>
             <option halo="hgentle" icon="opowkiss_mf" go="OpS|Sta!Sta|Em|CuddleFromBehind" text="^cuddleWithN" t0="1">
 			<enhance a="1"/><hhue n="hu" cmd="rg" a="0"/><ihue cmd="body" a="1"/><ihue n="gx" cmd="rg" a="1"/>
 			</option>
@@ -49,9 +52,6 @@
 		</page>
 	</tab>
 </nav>
-<motif drive="intimate" theme="Tender"/>
-<motif drive="intimate" theme="Affection"/>
-<autonav/>
 <metadata tags="cuddling,idle"/>
 <actors>
     <actor position="0" penisAngle="-7" feetOnGround="1" tags="standing" lookUp="-35" lookLeft="-25"/>
