@@ -1,0 +1,10 @@
+<scene id="OpS|StandingHolding!FromBehind|Ho|SHFBMaleUndressFemaleTorso1" actors="2" style="OScene">
+<info name="SHFBMaleUndressFemaleTorso1" animator="Ace"/>
+<anim id="_Ho-SHFBMaleUndressFemaleTorso1" t="T" l="1" dest="OpS|StandingHolding!FromBehind|Ho|SHFBMaleUndressFemaleTorso2">
+</anim>
+<metadata tags="transition"/>
+<actors>
+	<actor position="0" penisAngle="-7" feetOnGround="1"/>
+	<actor position="1" feetOnGround="1"/>
+</actors>
+</scene>
