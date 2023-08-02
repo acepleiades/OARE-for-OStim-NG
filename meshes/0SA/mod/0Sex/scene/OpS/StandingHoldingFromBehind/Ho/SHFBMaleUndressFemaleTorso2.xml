@@ -1,0 +1,13 @@
+<scene id="OpS|StandingHolding!FromBehind|Ho|SHFBMaleUndressFemaleTorso2" actors="2" style="OScene">
+<info name="SHFBMaleUndressFemaleTorso2" animator="Ace"/>
+<anim id="_Ho-SHFBMaleUndressFemaleTorso2" t="T" l="2" dest="OpS|Sta!Sta|Ho|StandingHoldingFromBehind">
+</anim>
+<metadata tags="transition"/>
+<actors>
+	<actor position="0" penisAngle="-7" feetOnGround="1"/>
+	<actor position="1" feetOnGround="1"/>
+</actors>
+<actions>
+	<action type="undress_full_target" actor="0" target="1"/>
+</actions>
+</scene>
