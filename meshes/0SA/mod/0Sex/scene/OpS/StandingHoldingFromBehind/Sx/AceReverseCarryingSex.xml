@@ -1,20 +1,17 @@
-<scene id="OpS|Sta!Sta|Sx|AceReverseCarryingSex" actors="2" style="OScene">
-<info name="Reverse Carrying Sex" animator="Ace"/>
-<region om="A" maj="C" min="C" stage="" step="" story=""/>
-<anim id="_Sx-AceReverseCarryingSex_S1" t="L" l="2"/>
+<scene id="OpS|StandingHolding!FromBehind|Sx|RearCarryingSex" actors="2" style="OScene">
+<info name="Rear Carrying Sex" animator="Ace"/>
+<anim id="_Sx-RearCarryingSex_S1" t="L" l="2"/>
 <speed a="0" min="0" max="3" name="thrusts">
 	<sp mtx="^thrustsPerSec" qnt="1">
-		<anim id="_Sx-AceReverseCarryingSex_S1" t="L" l="2" i0="0" i1="0"/>
-		</sp>
+		<anim id="_Sx-RearCarryingSex_S1" t="L" l="2" i0="0" i1="0"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="1.5">
-		<anim id="_Sx-AceReverseCarryingSex_S2" t="L" l="2" i0="1" i1="1"/>
-		</sp>
+		<anim id="_Sx-RearCarryingSex_S2" t="L" l="2" i0="1" i1="1"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="2">
-		<anim id="_Sx-AceReverseCarryingSex_S3" t="L" l="2" i0="2" i1="2"/>
-		</sp>
+		<anim id="_Sx-RearCarryingSex_S3" t="L" l="2" i0="2" i1="2"/></sp>
 	<sp mtx="^thrustsPerSec" qnt="2.5">
-		<anim id="_Sx-AceReverseCarryingSex_S4" t="L" l="2" i0="3" i1="3"/>
-		</sp>
+		<anim id="_Sx-RearCarryingSex_S4" t="L" l="2" i0="3" i1="3"/></sp>
+	<sp mtx="^thrustsPerSec" qnt="3">
+		<anim id="_Sx-RearCarryingSex_S5" t="L" l="2" i0="3" i1="3"/></sp>
 </speed>
 <nav>
 	<tab actor="0" icon="smale" text="$name"><hue n="hu" cmd="rg" a="0"/><bnhue cmd="rn" a="0"/>
@@ -27,12 +24,9 @@
 	</tab>
 	<tab icon="sfemale" empty="1"><hue n="hu" cmd="rg" a="1"/></tab>
 </nav>
-<motif drive="intimate" theme="G_SexPhysRear"/>
-<motif drive="intimate" theme="R_SexPhysRear"/>
-<autonav/>
 <actors>
-	<actor position="0" penisAngle="1" feetOnGround="1" tags="standing" lookUp="-75"/>
-	<actor position="1" feetOnGround="0" tags="facingaway,suspended" lookUp="-50" lookLeft="50"/>
+	<actor position="0" penisAngle="9" feetOnGround="1" tags="standing" lookUp="-80"/>
+	<actor position="1" feetOnGround="0" tags="facingaway,suspended" lookUp="-80" lookLeft="-25"/>
 </actors>
 <actions>
 	<action type="vaginalsex" actor="0" target="1"/>
